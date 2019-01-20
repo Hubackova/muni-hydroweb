@@ -27,7 +27,7 @@ export default ({ children }) => {
   return (
     <ThemeProvider theme={blueTheme}>
       <Container className="container">
-        {/* <Navigation isIndex={isIndex} /> */}
+        <Navigation isIndex={isIndex} />
         {isIndex && <HeaderComponent />}
         <Main>{children}</Main>
         <footer>
