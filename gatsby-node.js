@@ -3,7 +3,9 @@ const staffData = require('./content/staffData');
 const phdStudentsData = require('./content/phdStudentsData');
 const studentsData = require('./content/studentsData');
 
-exports.createPages = async ({ actions: { createPage } }) => {
+const path = require("path")
+
+exports.createPages = async ({ actions: { createPage }, graphql }) => {
 
   // Create a page that lists all projects.
   createPage({
@@ -53,4 +55,5 @@ exports.createPages = async ({ actions: { createPage } }) => {
       context: { person }
     });
   });
+
 };

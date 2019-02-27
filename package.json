@@ -14,6 +14,7 @@
     "font-awesome": "^4.7.0",
     "gatsby": "^2.0.45",
     "gatsby-image": "^2.0.25",
+    "gatsby-plugin-netlify": "^2.0.11",
     "gatsby-plugin-netlify-cms": "^3.0.12",
     "gatsby-plugin-sharp": "^2.0.17",
     "gatsby-plugin-styled-components": "^3.0.1",

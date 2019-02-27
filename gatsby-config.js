@@ -6,13 +6,19 @@ module.exports = {
   },
   plugins: [
     `gatsby-plugin-styled-components`,
-    `gatsby-plugin-netlify-cms`,
     {
       resolve: `gatsby-source-filesystem`,
       options: {
         path: `${__dirname}/content`,
         name: "content"
       }
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        path: `${__dirname}/blog`,
+        name: "markdown-pages",
+      },
     },
     {
       resolve: `gatsby-source-filesystem`,
@@ -29,8 +35,10 @@ module.exports = {
       }
     },
     `gatsby-transformer-sharp`,
-    `gatsby-plugin-sharp`
-    //`gatsby-transformer-remark`,
+    `gatsby-plugin-sharp`,
+    `gatsby-transformer-remark`,
+    `gatsby-plugin-netlify-cms`,
+    'gatsby-plugin-netlify'
   ],
   pathPrefix: "/muni-hydroweb"
 };
