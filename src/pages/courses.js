@@ -23,7 +23,9 @@ export default Courses;
 
 export const coursesQuery = graphql`
   query coursesQuery {
-    allMarkdownRemark {
+    allMarkdownRemark(
+      filter: { frontmatter: { title: { regex: "/courses/" } } }
+    ) {
       edges {
         node {
           html
@@ -47,8 +49,4 @@ const Container = styled.div`
   div {
     max-width: 40%;
   }
-`;
-
-const A = styled.a`
-  color: #333;
 `;

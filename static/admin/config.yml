@@ -6,12 +6,35 @@ media_folder: static/assets
 public_folder: assets
 
 collections:
-  - name: pages
-    label: Pages
-    folder: pages
+  - name: "people"
+    label: "People"
+    folder: "src/pages/people"
     create: true
     fields:
-      - { name: path, label: Path }
-      - { name: date, label: Date, widget: date }
-      - { name: title, label: Title }
-      - { name: body, label: Body, widget: markdown }
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Name", name: "name", widget: "string"}
+      - {label: "Thesis", name: "thesis", widget: "string"}
+      - {label: "Supervisor", name: "supervisor", widget: "string"}
+      - {label: "Email", name: "email", widget: "email"}
+      - {label: "Phone", name: "phone", widget: "number"}
+      - {label: "Room", name: "room", widget: "string"}
+      - {label: "IS", name: "is", widget: "string"}
+      - {label: "RG", name: "rg", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
+
+  - name: pages
+    label: Pages
+    files:
+      - file: "src/pages/courses-2.md"
+        label: "Courses 2"
+        name: "courses-2"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: "Body", name: "body", widget: "markdown"}
+
+      - file: "src/pages/courses.md"
+        label: "Courses"
+        name: "courses"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: "Body", name: "body", widget: "markdown"}
