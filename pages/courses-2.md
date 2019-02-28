@@ -1,7 +1,7 @@
 ---
 path: courses2
 date: 2019-02-28T06:02:28.123Z
-title: Courses 2
+title: courses 2
 ---
 Fylogeneze a diverzita bezobratlých - cvičení Bi1030c
 
