@@ -3,7 +3,6 @@ path: courses
 date: 2019-02-27T18:04:29.544Z
 title: courses
 ---
-Seznam předmětů na hydroweb (_2 sloupce, nebo oddělené čarou – 1. jsou čistě hydrobio, ostatní obecnější_)
 
 Bioindikace a hodnocení ekologického stavu povrchových vod Bi7007
 
