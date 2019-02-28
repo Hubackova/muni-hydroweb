@@ -18,10 +18,7 @@ exports.onCreateNode = ({ node, getNode, actions }) => {
   }
 };
 
-
 exports.createPages = async ({ actions: { createPage }, graphql }) => {
-
-
   // Create a page that lists all projects.
   createPage({
     path: `/projects`,
@@ -71,28 +68,29 @@ exports.createPages = async ({ actions: { createPage }, graphql }) => {
   });
 
   return graphql(`
-  {
-    allMarkdownRemark {
-      edges {
-        node {
-          fields {
-            slug
+    {
+      allMarkdownRemark(filter: { fields: { slug: { regex: "/people/" } } }) {
+        edges {
+          node {
+            html
+            fields {
+              slug
+            }
           }
         }
       }
     }
-  }
-`).then(result => {
-  result.data.allMarkdownRemark.edges.forEach(({ node }) => {
-    createPage({
-      path: node.fields.slug,
-      component: path.resolve(`./src/templates/test.js`),
-      context: {
-        // Data passed to context is available
-        // in page queries as GraphQL variables.
-        slug: node.fields.slug
-      }
+  `).then(result => {
+    result.data.allMarkdownRemark.edges.forEach(({ node }) => {
+      createPage({
+        path: node.fields.slug,
+        component: path.resolve(`./src/templates/peopleDetail.js`),
+        context: {
+          // Data passed to context is available
+          // in page queries as GraphQL variables.
+          slug: node.fields.slug
+        }
+      });
     });
   });
-});
 };
