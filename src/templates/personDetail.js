@@ -1,13 +1,15 @@
-import React from "react";
-import Layout from "../components/layout";
-import { graphql } from "gatsby";
+import React from 'react'
+import Layout from '../components/layout'
+import {graphql} from 'gatsby'
+import Img from "gatsby-image"
 
-const Test = ({ data }) => {
-  if (!data && !data.markdownRemark) return <div>...loading</div>;
-  const { markdownRemark } = data;
+const PersonDetail = ({data}) => {
+  if (!data && !data.markdownRemark) return <div>...loading</div>
+  const {markdownRemark} = data
 
   return (
     <Layout>
+      <Img fluid={data.file.childImageSharp.fluid}/>
       <h1>{markdownRemark.frontmatter.name}</h1>
       <div>Práce: {markdownRemark.frontmatter.thesis}</div>
       <div>Školitel: {markdownRemark.frontmatter.supervisor}</div>
@@ -16,16 +18,23 @@ const Test = ({ data }) => {
       <div>místnost: {markdownRemark.frontmatter.room}</div>
       <div>IS: {markdownRemark.frontmatter.is}</div>
       <div>ResearchGate: {markdownRemark.frontmatter.rg}</div>
-      <div dangerouslySetInnerHTML={{ __html: markdownRemark.html }} />
+      <div dangerouslySetInnerHTML={{__html: markdownRemark.html}} />
     </Layout>
-  );
-};
+  )
+}
 
-export default Test;
+export default PersonDetail
 
 export const query = graphql`
-  query($slug: String!) {
-    markdownRemark(fields: { slug: { eq: $slug } }) {
+  query($slug: String, !$imgname: String!) {
+    file(relativePath: { regex: $imgname }) {
+      childImageSharp {
+        fluid {
+          ...GatsbyImageSharpFluid
+        }
+      }
+    }
+    markdownRemark(fields: {slug: {eq: $slug}}) {
       html
       frontmatter {
         title
@@ -40,4 +49,4 @@ export const query = graphql`
       }
     }
   }
-`;
+`

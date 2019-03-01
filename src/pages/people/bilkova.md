@@ -1,5 +1,5 @@
 ---
-title: Bilkova
+title: bilkova
 name: Mgr. Martina Bílková
 thesis: >-
   Kroužkovci pramenných mokřadů: autekologie, lokální distribuce a populační

@@ -1,5 +1,5 @@
 ---
-title: Dostalova
+title: dostalova
 name: Mgr. Alena Dostálová
 thesis: >-
   Vliv změn přírodních a antropogenních faktorů prostředí na přežívání vodních
@@ -13,5 +13,6 @@ rg: 'https://www.researchgate.net/profile/Alena_Dostalova3'
 ---
 **Výzkumná témata:**
 
-*  Role suchého říčního dna, zbytkových tůní a malých vodních nádrží jako refugií pro organismy tekoucích vod v průběhu vysychání toků
+*  Role suchého říčního dna, zbytkových tůní a malých vodních nádrží jako refugií pro organismy
+ tekoucích vod v průběhu vysychání toků
 * Vliv vysychání na populační strukturu a fekunditu blešivce potočního (Gammarus fossarum)
