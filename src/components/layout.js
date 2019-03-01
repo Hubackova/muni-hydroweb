@@ -26,10 +26,14 @@ export default ({ children }) => {
       : false;
   return (
     <ThemeProvider theme={blueTheme}>
-      <Container className="container">
-        <Navigation isIndex={isIndex} />
-        {isIndex && <HeaderComponent />}
+      <Container>
+        <HeaderPanel>
+          <Navigation isIndex={isIndex} />
+          {<HeaderComponent />}
+        </HeaderPanel>
+
         <Main>{children}</Main>
+
         <footer>
           <FooterContent />
         </footer>
@@ -39,13 +43,24 @@ export default ({ children }) => {
 };
 
 const Container = styled.div`
-  min-height: 100%;
   display: flex;
   flex-direction: column;
-  min-height: 100vh;
+  align-items: center;
+ min-height: 100vh;
+`;
+
+const HeaderPanel = styled.header`
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  background-color: ${props => props.theme.main};
 `;
 
 const Main = styled.main`
-  flex-grow: 1;
-  flex-shrink: 0;
+  max-width: 1366px;
+  width: 100%;
+  flex: 1;
 `;
+
+

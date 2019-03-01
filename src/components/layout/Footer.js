@@ -45,8 +45,9 @@ export default FooterContent;
 
 const Container = styled.div`
     display: flex;
+    width: 100vw;
     flex-wrap: wrap;
-    margin: 1em auto 0;
+    margin: 0;
 `;
 
 const FooterSection = styled.div`

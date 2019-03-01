@@ -86,8 +86,6 @@ exports.createPages = async ({ actions: { createPage }, graphql }) => {
         path: node.fields.slug,
         component: path.resolve(`./src/templates/peopleDetail.js`),
         context: {
-          // Data passed to context is available
-          // in page queries as GraphQL variables.
           slug: node.fields.slug
         }
       });

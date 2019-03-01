@@ -21,14 +21,12 @@ class Navigation extends PureComponent {
   };
 
   componentDidMount() {
-    console.log("mount")
     this.prev = window.scrollY;
     windowGlobal.addEventListener("resize", this.handleWindowSizeChange);
     windowGlobal.addEventListener("scroll", this.handleScroll);
   }
 
   componentWillUnmount() {
-    console.log("unmount")
     window.removeEventListener("resize", this.handleWindowSizeChange);
     window.removeEventListener("scroll", this.handleScroll);
     this.prev = false;
@@ -74,7 +72,7 @@ class Navigation extends PureComponent {
         <NavbarToggle onClick={this.toggleMenu} className={menuVisible}>
           <i className="fa fa-bars" />
         </NavbarToggle>
-        {!this.props.isIndex && (scrolling==="upper" || !isMobile) && <Header className="small"/>}
+
         <ListLink
           to="/"
           menuVisible={menuVisible}
@@ -144,14 +142,16 @@ export default Navigation;
 const Container = styled.ul`
   display: flex;
   flex-direction: row;
+  justify-content: center;
   list-style: none;
   margin: 0;
   padding: 0;
   opacity: 0;
   transition: opacity 0.5s linear;
-  background-color: white;
+  background-color: ${props => props.theme.main};
   @media (max-width: 800px) {
     flex-direction: column;
+    width: 100vw;
   }
   &.up {
     position: fixed;
@@ -161,6 +161,7 @@ const Container = styled.ul`
     width: 100%;
     opacity: 1;
   }
+  
   &.upper {
     opacity: 1;
   }
@@ -171,7 +172,6 @@ const NavigationLink = styled(Link)`
   opacity: 0;
   transition: opacity 10s linear;
   height: 60px;
-  flex: auto;
   align-items: center;
   justify-content: center;
   cursor: pointer;
@@ -201,12 +201,13 @@ const NavigationLink = styled(Link)`
 `;
 
 const NavbarToggle = styled.span`
+  margin-right: 10px;
   display: none;
   cursor: pointer;
   align-self: flex-end;
-  margin-right: 10px;
   font-size: 40px;
   transition: font-size 0.5s linear;
+  background-color: ${props => props.theme.main};
   &:hover {
     font-size: 50px;
     color: ${props => props.theme.secondary};

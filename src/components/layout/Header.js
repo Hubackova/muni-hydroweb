@@ -24,27 +24,9 @@ const HeaderComponent = ({ className }) => {
 export default HeaderComponent;
 
 const Header = styled.div`
-  padding: 20px;
+  padding: 10px;
   background-color: ${props => props.theme.main};
   display: flex;
-  justify-content: center;
-  &.small {
-    padding: 0px;
-    max-height: 60px;
-    padding-right: 10px;
-    border-right: 3px solid white;
-    div {
-      font-size: 1em;
-    }
-    img {
-      height: 50px;
-      width: 50px;
-    }
-    @media (max-width: 1200px) {
-      font-size: 0.8em;
-      line-height: 1;
-    }
-  }
 `;
 
 const Muni = styled.div`
@@ -54,7 +36,7 @@ const Muni = styled.div`
 
 const ImgCont = styled.div`
   img {
-    max-width: 200px;
+    max-width: 150px;
   }
   @media (max-width: 600px) {
     img {
