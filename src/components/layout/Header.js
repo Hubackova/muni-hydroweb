@@ -1,6 +1,6 @@
 import React from "react";
 import styled from "styled-components";
-import ecdyonurus from "../../pages/images/ecdyonurus_head.jpg";
+import ecdyonurus from "../../../static/images/ecdyonurus_head.jpg";
 import { Link } from "gatsby";
 const HeaderComponent = ({ className }) => {
   return (
