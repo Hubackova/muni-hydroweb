@@ -2,8 +2,8 @@ import React, {Component} from "react";
 import styled from "styled-components";
 import {Link} from "gatsby"
 import StyledLink from "./atoms/StyledLink"
-import researchgate from "../../static/images/social-researchgate.png";
-import is from "../../static/images/social-is.png";
+import researchgate from "../pages/images/social-researchgate.png";
+import is from "../pages/images/social-is.png";
 
 
 class StaffBox extends Component {
