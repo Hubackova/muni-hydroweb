@@ -11,7 +11,7 @@ room: A32/313
 is: 'https://www.muni.cz/en/people/423307-alena-dostalova'
 rg: 'https://www.researchgate.net/profile/Alena_Dostalova3'
 image: >-
-  https://raw.githubusercontent.com/Hubackova/muni-hydroweb/master/static/images/phd_dostalova.jpg
+  /images/phd_dostalova.jpg
 ---
 **Výzkumná témata:**
 

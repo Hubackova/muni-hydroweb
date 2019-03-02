@@ -11,7 +11,7 @@ room: A32/313
 is: 'https://www.muni.cz/en/people/263064-barbora-loskotova'
 rg: 'https://www.researchgate.net/profile/Barbora_Loskotova'
 image: >-
-  https://raw.githubusercontent.com/Hubackova/muni-hydroweb/master/static/images/phd_loskotova.jpg
+  /images/phd_loskotova.jpg
 ---
 **Výzkumná témata:**
 

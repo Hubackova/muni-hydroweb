@@ -11,7 +11,7 @@ room: A32/323
 is: 'https://www.muni.cz/en/people/323984-dana-klimova-hrivova'
 rg: 'https://www.researchgate.net/profile/Dana_Klimova_Hrivova'
 image: >-
-  https://raw.githubusercontent.com/Hubackova/muni-hydroweb/master/static/images/phd_hrivova.jpg
+  /images/phd_hrivova.jpg
 ---
 **Výzkumná témata:**
 
