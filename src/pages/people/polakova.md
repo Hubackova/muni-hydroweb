@@ -11,10 +11,11 @@ room: A32/313
 is: 'https://www.muni.cz/en/people/394075-martina-polakova'
 rg: 'https://www.researchgate.net/profile/Martina_Polakova2'
 image: >-
-  https://raw.githubusercontent.com/Hubackova/muni-hydroweb/master/static/images/phd_polakova.jpg
+  /images/phd_polakova.jpg
 ---
 **Výzkumná témata:**
 
 * Makrozoobentos post-industriálních stanovišť
-* Koexistence vodních bezobratlých na malé prostorové škále: vliv prostorové a abiotické heterogenity
+* Koexistence vodních bezobratlých na malé prostorové škále: vliv prostorové a abiotické
+ heterogenity
 * Taxonomická specializace: pakomárovití (Chironomidae)

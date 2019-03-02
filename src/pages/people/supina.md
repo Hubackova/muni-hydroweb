@@ -11,7 +11,7 @@ room: A32/313
 is: 'https://www.muni.cz/en/people/356563-jan-supina'
 rg: 'https://www.researchgate.net/profile/Jan_Supina'
 image: >-
-  https://raw.githubusercontent.com/Hubackova/muni-hydroweb/master/static/images/phd_supina.jpg
+  /images/phd_supina.jpg
 ---
 **Výzkumná témata:**
 

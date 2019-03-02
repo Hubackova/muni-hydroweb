@@ -50,7 +50,10 @@ export default ({data}) => {
 
 export const query = graphql`
   query {
-    allMarkdownRemark(filter: {fields: {slug: {regex: "/people/"}}}) {
+    allMarkdownRemark(filter: {fields: {slug: {regex: "/people/"}}}, sort: {
+      fields: [frontmatter___title]
+      order: ASC
+    }) {
       totalCount
       edges {
         node {

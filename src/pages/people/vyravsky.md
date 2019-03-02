@@ -11,7 +11,7 @@ room: A32/313
 is: 'https://www.muni.cz/en/people/376313-david-vyravsky'
 rg: 'https://www.researchgate.net/profile/David_Vyravsky'
 image: >-
-  https://raw.githubusercontent.com/Hubackova/muni-hydroweb/master/static/images/phd_vyravsky.jpg
+  /images/phd_vyravsky.jpg
 ---
 **Výzkumná témata:**
 
