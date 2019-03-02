@@ -33,7 +33,7 @@ export default () => (
       const imgs = data.images.edges.map(i => i.node.childImageSharp.fluid);
       return (
         <>
-          
+
           <Layout><ImgSlider imgs={imgs} />
             <Container>
               <h1>

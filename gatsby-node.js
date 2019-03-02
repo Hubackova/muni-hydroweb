@@ -35,21 +35,7 @@ exports.createPages = async ({ actions: { createPage }, graphql }) => {
     });
   });
 
-  // Create a page that lists all staff.
-  createPage({
-    path: `/staff`,
-    component: require.resolve("./src/templates/staff.js"),
-    context: { staffData }
-  });
-
-  // Create a page that lists all students.
-  createPage({
-    path: `/students`,
-    component: require.resolve("./src/templates/students.js"),
-  });
-
-
-  graphql(`
+   graphql(`
     {
       allMarkdownRemark(filter: { fields: { slug: { regex: "/people/" } } }) {
         edges {

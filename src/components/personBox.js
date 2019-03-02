@@ -14,7 +14,6 @@ class PersonBox extends Component {
             <div>
                 <Link to={linkTo}>
                     {fixed && <Img fixed={fixed} />}
-                    {personInfo.image && <StyledImg src={personInfo.image} />}
                 </Link>
             </div>
             <div>

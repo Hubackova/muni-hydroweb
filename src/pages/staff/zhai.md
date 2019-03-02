@@ -8,7 +8,7 @@ phone: 549498567
 room: A32/323
 is: 'https://www.muni.cz/lide/11978-marie-zhai'
 rg: 'https://www.researchgate.net/profile/Marie_Zhai'
-image: /images/zhai.jpg
+image: /images/staff_zhai.jpg
 ---
 Jsem absolventkou magisterského i postgraduálního studia oboru hydrobiologie na Ústavu botaniky a
  zoologie Masarykovy univerzity. Během svého studia jsem se věnovala nejprve planktonním korýšům,

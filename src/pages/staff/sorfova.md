@@ -8,7 +8,7 @@ phone: 549498575
 room: A32/327
 is: 'https://www.muni.cz/lide/222709-vanda-sorfova'
 rg: 'https://www.researchgate.net/profile/Vanda_Sorfova '
-image: /images/sorfova.jpg
+image: /images/staff_sorfova.jpg
 ---
 Je absolventkou postgraduálního studia oboru hydrobiologie na Masarykově univerzitě, v současnosti
  zaměstnaná jako odborná pracovnice na Ústavu botaniky a zoologie MU. Specializuje se na

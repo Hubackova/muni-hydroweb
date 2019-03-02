@@ -8,7 +8,7 @@ phone: 549498563
 room: A32/321
 is: 'https://www.muni.cz/lide/22364-michal-straka'
 rg: 'https://www.researchgate.net/profile/Michal_Straka2 '
-image: /images/straka.jpg
+image: /images/staff_straka.jpg
 ---
 Magisterské a posléze i doktorské studium hydrobiologie absolvoval na Přírodovědecké Fakultě
  Masarykovy univerzity v Brně.

@@ -8,7 +8,7 @@ phone: 549498563
 room: A32/322
 is: 'https://www.muni.cz/lide/43336-vit-syrovatka'
 rg: 'https://www.researchgate.net/profile/Vit_Syrovatka'
-image: /images/syrovatka.jpg
+image: /images/staff_syrovatka.jpg
 ---
 Absolvent oboru hydrobiologie. Věnuje se ekologii zejména pakomárů a analýze biologických dat.
 

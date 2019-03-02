@@ -1,71 +1,74 @@
-import React, { PureComponent } from "react";
-import styled from "styled-components";
-import { Link } from "gatsby";
-import Header from "./Header";
-const ListLink = props => (
-  <NavigationLink
-    to={props.to}
-    className={`${props.menuVisible} ${props.className}`}
-  >
-    {props.children}
-  </NavigationLink>
-);
+import React, {PureComponent} from 'react'
+import styled from 'styled-components'
+import {Link} from 'gatsby'
+import Header from './Header'
+const ListLink = props => {
+  const externalLink = "external" ? true : false
+  if (externalLink) {
+    return (
+      <NavigationLinkA href={props.to} className={`${props.menuVisible} ${props.className}`}>
+        {props.children}
+      </NavigationLinkA>
+    )
+  } else {
+    return (
+      <NavigationLink to={props.to} className={`${props.menuVisible} ${props.className}`}>
+        {props.children}
+      </NavigationLink>
+    )
+  }
+}
 
-const windowGlobal = typeof window !== "undefined" && window;
+const windowGlobal = typeof window !== 'undefined' && window
 
 class Navigation extends PureComponent {
   state = {
     menuVisible: false,
     width: windowGlobal.innerWidth,
-    scrolling: "upper"
-  };
+    scrolling: 'upper'
+  }
 
   componentDidMount() {
-    this.prev = window.scrollY;
-    windowGlobal.addEventListener("resize", this.handleWindowSizeChange);
-    windowGlobal.addEventListener("scroll", this.handleScroll);
+    this.prev = window.scrollY
+    windowGlobal.addEventListener('resize', this.handleWindowSizeChange)
+    windowGlobal.addEventListener('scroll', this.handleScroll)
   }
 
   componentWillUnmount() {
-    window.removeEventListener("resize", this.handleWindowSizeChange);
-    window.removeEventListener("scroll", this.handleScroll);
-    this.prev = false;
+    window.removeEventListener('resize', this.handleWindowSizeChange)
+    window.removeEventListener('scroll', this.handleScroll)
+    this.prev = false
   }
 
   handleWindowSizeChange = () => {
-    this.setState({ width: windowGlobal.innerWidth });
-  };
+    this.setState({width: windowGlobal.innerWidth})
+  }
 
   handleScroll = event => {
-    const windowGlobal = event.currentTarget;
+    const windowGlobal = event.currentTarget
     if (this.prev > windowGlobal.scrollY) {
-      this.setState({ scrolling: "up", menuVisible: false });
-      if (windowGlobal.scrollY === 0) this.setState({ scrolling: "upper" });
+      this.setState({scrolling: 'up', menuVisible: false})
+      if (windowGlobal.scrollY === 0) this.setState({scrolling: 'upper'})
     } else if (this.prev < windowGlobal.scrollY) {
-      this.setState({ scrolling: "down" });
+      this.setState({scrolling: 'down'})
     }
-    this.prev = windowGlobal.scrollY;
-  };
+    this.prev = windowGlobal.scrollY
+  }
 
   toggleMenu = () => {
-    this.setState({ menuVisible: !this.state.menuVisible });
-  };
+    this.setState({menuVisible: !this.state.menuVisible})
+  }
 
   getClass = urlIncludes => {
-    if (
-      windowGlobal &&
-      windowGlobal.location &&
-      windowGlobal.location.href.includes(urlIncludes)
-    ) {
-      return "active";
-    } else return "";
-  };
+    if (windowGlobal && windowGlobal.location && windowGlobal.location.href.includes(urlIncludes)) {
+      return 'active'
+    } else return ''
+  }
 
   render() {
-    const { scrolling, width } = this.state;
-    const isMobile = width <= 800;
-    const menuVisible =
-      this.state.menuVisible || !isMobile ? "menuVisible" : "";
+    const {scrolling, width} = this.state
+    const isMobile = width <= 800
+    const menuVisible = this.state.menuVisible || !isMobile ? 'menuVisible' : ''
 
     return (
       <Container scrolling={scrolling} className={scrolling}>
@@ -73,71 +76,44 @@ class Navigation extends PureComponent {
           <i className="fa fa-bars" />
         </NavbarToggle>
 
-        <ListLink
-          to="/"
-          menuVisible={menuVisible}
-          className={this.props.isIndex ? "active" : ""}
-        >
+        <ListLink to="/" menuVisible={menuVisible} className={this.props.isIndex ? 'active' : ''}>
           HomePage
         </ListLink>
-        <ListLink
-          to="/history/"
-          menuVisible={menuVisible}
-          className={this.getClass("history")}
-        >
+        <ListLink to="/history/" menuVisible={menuVisible} className={this.getClass('history')}>
           Historie
         </ListLink>
-        <ListLink
-          to="/staff/"
-          menuVisible={menuVisible}
-          className={this.getClass("staff")}
-        >
+        <ListLink to="/staff/" menuVisible={menuVisible} className={this.getClass('staff')}>
           Zaměstnatnci
         </ListLink>
-        <ListLink
-          to="/students/"
-          menuVisible={menuVisible}
-          className={this.getClass("students")}
-        >
+        <ListLink to="/students/" menuVisible={menuVisible} className={this.getClass('students')}>
           Studenti
         </ListLink>
-        <ListLink
-          to="/projects/"
-          menuVisible={menuVisible}
-          className={this.getClass("projects")}
-        >
+        <ListLink to="/projects/" menuVisible={menuVisible} className={this.getClass('projects')}>
           Projekty
         </ListLink>
         <ListLink
-          to="/publications/"
+          to="http://botzool.sci.muni.cz/publikace/h/"
           menuVisible={menuVisible}
-          className={this.getClass("publications")}
+          externalLink="external"
+          className={this.getClass('publications')}
         >
           Publikace
         </ListLink>
-        <ListLink
-          to="/courses/"
-          menuVisible={menuVisible}
-          className={this.getClass("courses")}
-        >
+        <ListLink to="/courses/" menuVisible={menuVisible} className={this.getClass('courses')}>
           Předměty
         </ListLink>
         {/* <Li menuVisible={menuVisible} className={this.getClass("gallery")}>
           Galerie
         </Li> */}
-        <ListLink
-          to="/links/"
-          menuVisible={menuVisible}
-          className={this.getClass("links")}
-        >
+        <ListLink to="/links/" menuVisible={menuVisible} className={this.getClass('links')}>
           Odkazy
         </ListLink>
       </Container>
-    );
+    )
   }
 }
 
-export default Navigation;
+export default Navigation
 
 const Container = styled.ul`
   display: flex;
@@ -161,11 +137,11 @@ const Container = styled.ul`
     width: 100%;
     opacity: 1;
   }
-  
+
   &.upper {
     opacity: 1;
   }
-`;
+`
 
 const NavigationLink = styled(Link)`
   display: none;
@@ -198,7 +174,40 @@ const NavigationLink = styled(Link)`
   @media (max-width: 800px) {
     border: 0px;
   }
-`;
+`
+
+const NavigationLinkA = styled.a`
+  display: none;
+  opacity: 0;
+  transition: opacity 10s linear;
+  height: 60px;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  text-decoration: none;
+  padding: 0px 10px;
+  background-color: ${props => props.theme.main};
+  color: ${props => props.theme.white};
+
+  &.menuVisible {
+    display: flex;
+    opacity: 1;
+  }
+  &:last-child {
+    border-right: 0px;
+  }
+  &:hover {
+    font-weight: bold;
+  }
+
+  &.active {
+    font-weight: bold;
+    color: black;
+  }
+  @media (max-width: 800px) {
+    border: 0px;
+  }
+`
 
 const NavbarToggle = styled.span`
   margin-right: 10px;
@@ -223,4 +232,4 @@ const NavbarToggle = styled.span`
     display: flex;
     flex: 1;
   }
-`;
+`

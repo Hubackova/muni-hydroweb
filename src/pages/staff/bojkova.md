@@ -8,7 +8,7 @@ phone: 549498577
 room: A32/327
 is: 'https://www.muni.cz/lide/55140-jindriska-bojkova'
 rg: 'https://www.researchgate.net/profile/Jindriska_Bojkova'
-image: /images/bojkova.jpg
+image: /images/staff_bojkova.jpg
 ---
 Je absolventkou magisterského studia oboru Systematická biologie a ekologie (2005) a
  postgraduálního studia oboru hydrobiologie (2009) na Masarykově univerzitě. Pracovala jako

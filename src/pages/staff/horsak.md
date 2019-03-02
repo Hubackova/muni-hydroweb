@@ -8,7 +8,7 @@ phone: 549494448
 room: A32/314
 is: 'https://www.muni.cz/lide/8803-michal-horsak'
 rg: 'https://www.researchgate.net/profile/Michal_Horsak'
-image: /images/horsak.jpg
+image: /images/staff_horsak.jpg
 ---
 Od roku 2004 pracuje na Ústavu botaniky a zoologie Masarykovy univerzity, kde přednáší fylogenezi
  a diverzitu bezobratlých, malakozoologii a s J. Rolečkem vývoj přírody ve čtvrtohorách. Jako stálý člen

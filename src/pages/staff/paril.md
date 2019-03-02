@@ -8,7 +8,7 @@ phone: 549498563
 room: A32/321
 is: 'https://www.muni.cz/lide/70751-petr-paril'
 rg: 'https://www.researchgate.net/profile/Petr_Paril '
-image: /images/paril.jpg
+image: /images/staff_paril.jpg
 ---
 Po studiu na Masarykově univerzitě (MU) jsem pracoval jako hydrobiolog na Agentuře ochrany
  přírody a krajiny ČR (1992–1996) a České inspekci životního prostředí (1996–2002). Na MU jsem se
