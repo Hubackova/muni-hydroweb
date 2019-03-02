@@ -2,22 +2,12 @@ import React, {PureComponent} from 'react'
 import styled from 'styled-components'
 import {Link} from 'gatsby'
 import Header from './Header'
-const ListLink = props => {
-  const externalLink = "external" ? true : false
-  if (externalLink) {
-    return (
-      <NavigationLinkA href={props.to} className={`${props.menuVisible} ${props.className}`}>
-        {props.children}
-      </NavigationLinkA>
-    )
-  } else {
-    return (
+const ListLink = props => (
       <NavigationLink to={props.to} className={`${props.menuVisible} ${props.className}`}>
         {props.children}
       </NavigationLink>
     )
-  }
-}
+
 
 const windowGlobal = typeof window !== 'undefined' && window
 
@@ -91,14 +81,10 @@ class Navigation extends PureComponent {
         <ListLink to="/projects/" menuVisible={menuVisible} className={this.getClass('projects')}>
           Projekty
         </ListLink>
-        <ListLink
-          to="http://botzool.sci.muni.cz/publikace/h/"
-          menuVisible={menuVisible}
-          externalLink="external"
-          className={this.getClass('publications')}
-        >
-          Publikace
-        </ListLink>
+        <NavigationLinkA href="http://botzool.sci.muni.cz/publikace/h/" target="_blanc" className={`${menuVisible} `}>
+        Publikace
+      </NavigationLinkA>
+
         <ListLink to="/courses/" menuVisible={menuVisible} className={this.getClass('courses')}>
           Předměty
         </ListLink>
