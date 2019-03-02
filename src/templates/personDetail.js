@@ -9,13 +9,13 @@ import PersonBox from "../components/personBox";
 const PersonDetail = ({data}) => {
   if (!data && !data.markdownRemark) return <div>...loading</div>
   const {markdownRemark} = data
-
+  const isStudent = !markdownRemark.frontmatter.position ? true : false
   return (
     <Layout>
       <NarrowContainer>
-        <PersonBox personInfo={markdownRemark.frontmatter} isStudent={!markdownRemark.frontmatter.position ? true : false} fixed={data.file.childImageSharp.fixed}/>
-        <div dangerouslySetInnerHTML={{__html: markdownRemark.html}} />
-        <StyledLink to="/students/">
+        <PersonBox personInfo={markdownRemark.frontmatter} isStudent={isStudent} fixed={data.file.childImageSharp.fixed}/>
+        <Content dangerouslySetInnerHTML={{__html: markdownRemark.html}} />
+        <StyledLink to={isStudent ? "/students/" : "/staff/"}>
           <i className="fa fa-arrow-left" />
         </StyledLink>
       </NarrowContainer>
@@ -27,6 +27,11 @@ export default PersonDetail
 
 const NarrowContainer = styled.div`
   margin: 10px auto;
+`
+const Content = styled.div`
+  @media (max-width: 1386px) {
+    margin: 0 20px ;
+  }
 `
 
 //todo: similar with staff

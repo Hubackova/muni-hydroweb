@@ -1,5 +1,6 @@
 ---
 title: paril
+order: 8
 name: 'RNDr. Petr Pařil, Ph.D.'
 position: ODBORNÝ PRACOVNÍK
 email: paril@sci.muni.cz

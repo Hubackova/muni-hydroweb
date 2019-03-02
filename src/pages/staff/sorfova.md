@@ -1,5 +1,6 @@
 ---
 title: sorfova
+order: 11
 name: 'Mgr. Vanda Šorfová, Ph.D.'
 position: ODBORNÝ PRACOVNÍK
 email: sorfova.vanda@gmail.com
@@ -9,7 +10,10 @@ is: 'https://www.muni.cz/lide/222709-vanda-sorfova'
 rg: 'https://www.researchgate.net/profile/Vanda_Sorfova '
 image: /images/sorfova.jpg
 ---
-Je absolventkou postgraduálního studia oboru hydrobiologie na Masarykově univerzitě, v současnosti zaměstnaná jako odborná pracovnice na Ústavu botaniky a zoologie MU. Specializuje se na determinaci larev taxonomicky náročné skupiny pakomárovitých (Chironomidae), jedné z nejpočetnějších čeledí dvoukřídlého hmyzu. Zabývá se také statistickou analýzou biologických dat.
+Je absolventkou postgraduálního studia oboru hydrobiologie na Masarykově univerzitě, v současnosti
+ zaměstnaná jako odborná pracovnice na Ústavu botaniky a zoologie MU. Specializuje se na
+ determinaci larev taxonomicky náročné skupiny pakomárovitých (Chironomidae), jedné
+ z nejpočetnějších čeledí dvoukřídlého hmyzu. Zabývá se také statistickou analýzou biologických dat.
 
 **Výzkumná témata:**
 

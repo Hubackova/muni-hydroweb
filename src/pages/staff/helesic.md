@@ -27,3 +27,5 @@ několik mezinárodních konferencí RIVER BOTTOM (1990, 1993, 1996).
 * Kroužkovci pramenných mokřadů a přilehlých luk a pastvin
 * Monitoring pijavky lékařské Trocheta cylindrica: naše největší pijavice
 * Vliv technického zasněžování na drobné kroužkovce v Krkonoších
+
+[Download it now](helesic.pdf)

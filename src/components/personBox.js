@@ -58,6 +58,9 @@ const Box = styled.div`
   grid-template-columns: auto 2fr;
   grid-gap: 5px 30px;
   margin-top: 20px;
+  @media (max-width: 1386px) {
+    margin: 0 20px ;
+  }
 `
 
 const Name = styled.h3`

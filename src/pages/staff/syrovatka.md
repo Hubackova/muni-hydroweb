@@ -1,5 +1,6 @@
 ---
 title: syrovatka
+order: 6
 name: 'Mgr. Vít Syrovátka, Ph.D.'
 position: AKADEMICKÝ PRACOVNÍK
 email: syrovat@sci.muni.cz

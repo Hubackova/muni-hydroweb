@@ -1,5 +1,6 @@
 ---
 title: polasek
+order: 12
 name: 'Mgr. Marek Polášek, Ph.D.'
 position: ODBORNÝ PRACOVNÍK
 email: m.polasek@mail.muni.cz
@@ -7,9 +8,11 @@ phone: 549498174
 room: A32/316
 is: 'https://www.muni.cz/lide/136750-marek-polasek'
 rg: 'https://www.researchgate.net/profile/Marek_Polasek2 '
-image: /images/polaskova.jpg
+image: /images/nophoto.png
 ---
-Jsem absolventem magisterského studia (učitelská kombinace biologie + chemie) i následného postgraduálního studia (obor hydrobiologie) na Masarykově univerzitě. V současné době jsem zaměstnán jako odborný pracovník Ústavu botaniky a zoologie MU a také (na zkrácený úvazek) jako výzkumný pracovník na Výzkumném ústavu vodohospodářském T.G.M., v.v.i.
+Jsem absolventem magisterského studia (učitelská kombinace biologie + chemie) i následného
+ postgraduálního studia (obor hydrobiologie) na Masarykově univerzitě. V současné době jsem
+ zaměstnán jako odborný pracovník Ústavu botaniky a zoologie MU a také (na zkrácený úvazek) jako výzkumný pracovník na Výzkumném ústavu vodohospodářském T.G.M., v.v.i.
 
 **Výzkumná témata:**
 
