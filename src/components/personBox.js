@@ -9,7 +9,6 @@ import Img from 'gatsby-image'
 class PersonBox extends Component {
     render() {
       const {personInfo, linkTo = "#", isStudent, fluid} = this.props
-      debugger
         return (
         <Box>
             <ImgBox>

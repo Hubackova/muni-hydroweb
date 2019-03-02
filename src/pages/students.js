@@ -4,7 +4,8 @@ import Layout from '../components/layout'
 import PersonBox from '../components/personBox'
 
 export default ({data}) => {
-  console.log(data)
+  const students = data.markdownRemark.html;
+console.log(data)
   return (
     <Layout>
       <div>
@@ -14,12 +15,19 @@ export default ({data}) => {
           <PersonBox personInfo={node.frontmatter} key={node.id} isStudent={true} linkTo={node.fields.slug} fluid={img.node.fluid}/>
         )})}
       </div>
+      <hr />
+      <div dangerouslySetInnerHTML={{ __html: students }} />
     </Layout>
   )
 }
 
 export const query = graphql`
   query {
+    markdownRemark(frontmatter: { title: { eq: "students" } }) {
+    id
+    html
+  }
+
     allImageSharp(filter: {fluid: {src: {regex: "/phd_/"}}}) {
       edges {
         node {
