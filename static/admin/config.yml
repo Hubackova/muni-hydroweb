@@ -23,17 +23,33 @@ collections:
       - {label: 'Image', name: 'image', widget: 'image' }
       - {label: "Body", name: "body", widget: "markdown"}
 
+  - name: "staff"
+    label: "Staff"
+    folder: "src/pages/staff"
+    create: true
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Name", name: "name", widget: "string"}
+      - {label: "Position", name: "position", widget: "string"}
+      - {label: "Email", name: "email", widget: "string"}
+      - {label: "Phone", name: "phone", widget: "number"}
+      - {label: "Room", name: "room", widget: "string"}
+      - {label: "IS", name: "is", widget: "string"}
+      - {label: "RG", name: "rg", widget: "string"}
+      - {label: 'Image', name: 'image', widget: 'image' }
+      - {label: "Body", name: "body", widget: "markdown"}
+
   - name: pages
     label: Pages
     files:
-      - file: "src/pages/courses/courses-2.md"
+      - file: "src/pages/courses-2.md"
         label: "Courses 2"
         name: "courses-2"
         fields:
           - {label: Title, name: title, widget: string}
           - {label: "Body", name: "body", widget: "markdown"}
 
-      - file: "src/pages/courses/courses.md"
+      - file: "src/pages/courses.md"
         label: "Courses"
         name: "courses"
         fields:
