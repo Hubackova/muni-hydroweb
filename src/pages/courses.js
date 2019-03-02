@@ -1,52 +1,19 @@
-import React from "react";
-import { graphql } from "gatsby";
-import styled from "styled-components";
-import Layout from "../components/layout";
+import React from 'react'
+import {graphql} from 'gatsby'
+import Layout from '../components/layout'
 
-const Courses = ({ data }) => {
-  if (!data && !data.allMarkdownRemark) return <div>...loading</div>;
-  const { allMarkdownRemark } = data;
-  const courses1 = allMarkdownRemark.edges[0].node;
-  const courses2 = allMarkdownRemark.edges[1].node;
-
-  return (
+const Courses = ({data}) =>  (
     <Layout>
-      <Container>
-        <div dangerouslySetInnerHTML={{ __html: courses1.html }} />
-        <div dangerouslySetInnerHTML={{ __html: courses2.html }} />
-      </Container>
+      <div dangerouslySetInnerHTML={{__html: data.markdownRemark.html}} />
     </Layout>
-  );
-};
+  )
 
-export default Courses;
+export default Courses
 
 export const coursesQuery = graphql`
   query coursesQuery {
-    allMarkdownRemark(
-      filter: { frontmatter: { title: { regex: "/courses/" } } }
-    ) {
-      edges {
-        node {
-          html
-        }
-      }
+    markdownRemark(frontmatter: {title: {eq: "courses"}}) {
+      html
     }
   }
-`;
-
-const Container = styled.div`
-  width: 90%;
-  margin: 0 auto;
-  display: flex;
-  justify-content: space-between;
-  @media (max-width: 800px) {
-    width: 100%;
-  }
-  @media (max-width: 1024px) {
-    flex-direction: column;
-  }
-  div {
-    max-width: 40%;
-  }
-`;
+`

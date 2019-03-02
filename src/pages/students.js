@@ -5,7 +5,6 @@ import PersonBox from '../components/personBox'
 
 export default ({data}) => {
   const students = data.markdownRemark.html;
-console.log(data)
   return (
     <Layout>
       <div>
