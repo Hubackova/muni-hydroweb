@@ -37,7 +37,6 @@ import Layout from '../components/layout'
 import PersonBox from '../components/personBox'
 
 export default ({data}) => {
-  console.log(data)
   return (
     <Layout>
       <div>
@@ -66,6 +65,7 @@ export const query = graphql`
             room
             is
             rg
+            image
           }
           fields {
             slug

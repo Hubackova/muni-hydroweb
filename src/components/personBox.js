@@ -57,7 +57,8 @@ const Box = styled.div`
   display: grid;
   grid-template-columns: auto 2fr;
   grid-gap: 5px 30px;
-`;
+  margin-top: 20px;
+`
 
 const Name = styled.h3`
     color: ${props => props.theme.main};
