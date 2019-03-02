@@ -1,6 +1,5 @@
 ---
 title: helesic
-order: 1
 name: 'Doc. RNDr. Jan Helešic, Ph.D.'
 position: VEDOUCÍ PRACOVNÍ SKUPINY
 email: helesic@sci.muni.cz
@@ -28,4 +27,4 @@ několik mezinárodních konferencí RIVER BOTTOM (1990, 1993, 1996).
 * Monitoring pijavky lékařské Trocheta cylindrica: naše největší pijavice
 * Vliv technického zasněžování na drobné kroužkovce v Krkonoších
 
-[Download it now](helesic.pdf)
+**Seznam vědeckých a odborných prací** [zde](helesic.pdf)
