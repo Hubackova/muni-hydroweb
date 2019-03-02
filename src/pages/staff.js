@@ -24,9 +24,9 @@ export default ({data}) => {
     <Layout>
       <div>
       {data.allMarkdownRemark.edges.map(({node}) => {
-          const img = data.allImageSharp.edges.find(img => img.node.fixed.src.includes(node.frontmatter.title))
+          const img = data.allImageSharp.edges.find(img => img.node.fluid.src.includes(node.frontmatter.title))
           return (
-          <PersonBox personInfo={node.frontmatter} key={node.id} isStudent={true} linkTo={node.fields.slug} fixed={img.node.fixed}/>
+          <PersonBox personInfo={node.frontmatter} key={node.id} isStudent={true} linkTo={node.fields.slug} fluid={img.node.fluid}/>
         )})}
       </div>
     </Layout>
@@ -35,13 +35,13 @@ export default ({data}) => {
 
 export const query = graphql`
   query {
-    allImageSharp(filter: {fixed: {src: {regex: "/staff_/"}}}) {
+    allImageSharp(filter: {fluid: {src: {regex: "/staff_/"}}}) {
       edges {
         node {
           id
-          fixed {
-            ...GatsbyImageSharpFixed
-          }
+          fluid(maxWidth: 700) {
+      ...GatsbyImageSharpFluid_noBase64
+    }
         }
       }
     }

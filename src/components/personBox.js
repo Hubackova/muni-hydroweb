@@ -8,14 +8,15 @@ import Img from 'gatsby-image'
 
 class PersonBox extends Component {
     render() {
-      const {personInfo, linkTo = "#", isStudent, fixed} = this.props
+      const {personInfo, linkTo = "#", isStudent, fluid} = this.props
+      debugger
         return (
         <Box>
-            <div>
+            <ImgBox>
                 <Link to={linkTo}>
-                    {fixed && <Img fixed={fixed} />}
+                    {fluid && <Img fluid={fluid}/>}
                 </Link>
-            </div>
+            </ImgBox>
             <div>
                 <StyledLink to={linkTo}>
                     <Name>{personInfo.name}
@@ -53,13 +54,18 @@ class PersonBox extends Component {
 export default PersonBox;
 
 const Box = styled.div`
-  display: grid;
-  grid-template-columns: auto 2fr;
-  grid-gap: 5px 30px;
+  display: flex;
   margin-top: 20px;
   @media (max-width: 1386px) {
     margin: 0 20px ;
   }
+  @media (max-width: 800px) {
+    flex-wrap: wrap;
+  }
+`
+const ImgBox = styled.div`
+  min-width: 300px;
+  margin-right: 15px;
 `
 
 const Name = styled.h3`

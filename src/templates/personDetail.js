@@ -13,7 +13,7 @@ const PersonDetail = ({data}) => {
   return (
     <Layout>
       <NarrowContainer>
-        <PersonBox personInfo={markdownRemark.frontmatter} isStudent={isStudent} fixed={data.file.childImageSharp.fixed}/>
+        <PersonBox personInfo={markdownRemark.frontmatter} isStudent={isStudent} fluid={data.file.childImageSharp.fluid}/>
         <Content dangerouslySetInnerHTML={{__html: markdownRemark.html}} />
         <StyledLink to={isStudent ? "/students/" : "/staff/"}>
           <i className="fa fa-arrow-left" />
@@ -50,9 +50,9 @@ export const query = graphql`
   query($slug: String!, $imgname: String!) {
     file(relativePath: {regex: $imgname}) {
       childImageSharp {
-        fixed(width: 400) {
-          ...GatsbyImageSharpFixed
-        }
+        fluid(maxWidth: 700) {
+      ...GatsbyImageSharpFluid_noBase64
+    }
       }
     }
     markdownRemark(fields: {slug: {eq: $slug}}) {
