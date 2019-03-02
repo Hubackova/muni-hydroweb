@@ -1,7 +1,10 @@
 import React from 'react'
 import Layout from '../components/layout'
 import {graphql} from 'gatsby'
-import Img from "gatsby-image"
+
+import styled from 'styled-components'
+import { Link } from "gatsby";
+import PersonBox from "../components/personBox";
 
 const PersonDetail = ({data}) => {
   if (!data && !data.markdownRemark) return <div>...loading</div>
@@ -9,28 +12,50 @@ const PersonDetail = ({data}) => {
 
   return (
     <Layout>
-      <Img fluid={data.file.childImageSharp.fluid}/>
-      <h1>{markdownRemark.frontmatter.name}</h1>
-      <div>Práce: {markdownRemark.frontmatter.thesis}</div>
-      <div>Školitel: {markdownRemark.frontmatter.supervisor}</div>
-      <div>email: {markdownRemark.frontmatter.email}</div>
-      <div>telefon: {markdownRemark.frontmatter.phone}</div>
-      <div>místnost: {markdownRemark.frontmatter.room}</div>
-      <div>IS: {markdownRemark.frontmatter.is}</div>
-      <div>ResearchGate: {markdownRemark.frontmatter.rg}</div>
-      <div dangerouslySetInnerHTML={{__html: markdownRemark.html}} />
+      <NarrowContainer>
+
+
+        <PersonBox personInfo={markdownRemark.frontmatter} isStudent={true} fixed={data.file.childImageSharp.fixed}/>
+        <Content dangerouslySetInnerHTML={{__html: markdownRemark.html}} />
+        <StyledLink to="/students/">
+          <i className="fa fa-arrow-left" />
+        </StyledLink>
+      </NarrowContainer>
     </Layout>
   )
 }
 
 export default PersonDetail
 
+const NarrowContainer = styled.div`
+  display: grid;
+  grid-template-columns: auto 2fr;
+  grid-gap: 5px 30px;
+  margin: 10px auto;
+`
+
+const Content = styled.div`
+  grid-column: 1 / 3;
+  grid-row: 2 / 3;
+`
+//todo: similar with staff
+const StyledLink = styled(Link)`
+  color: ${props => props.theme.grey};
+  text-decoration: none;
+  &:hover {
+    text-decoration: underline;
+  }
+  &:focus {
+    color: ${props => props.theme.secondary};
+  }
+`;
+
 export const query = graphql`
-  query($slug: String, !$imgname: String!) {
-    file(relativePath: { regex: $imgname }) {
+  query($slug: String!, $imgname: String!) {
+    file(relativePath: {regex: $imgname}) {
       childImageSharp {
-        fluid {
-          ...GatsbyImageSharpFluid
+        fixed(width: 400) {
+          ...GatsbyImageSharpFixed
         }
       }
     }
