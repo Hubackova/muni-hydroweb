@@ -67,7 +67,7 @@ exports.createPages = async ({ actions: { createPage }, graphql }) => {
     });
   });
 
-  return graphql(`
+  graphql(`
     {
       allMarkdownRemark(filter: { fields: { slug: { regex: "/people/" } } }) {
         edges {
@@ -93,4 +93,32 @@ exports.createPages = async ({ actions: { createPage }, graphql }) => {
       });
     });
   });
+
+  graphql(`
+  {
+    allMarkdownRemark(filter: { fields: { slug: { regex: "/staff/" } } }) {
+      edges {
+        node {
+          html
+          fields {
+            slug
+          }
+        }
+      }
+    }
+  }
+`).then(result => {
+  result.data.allMarkdownRemark.edges.forEach(({ node }) => {
+    const imgName = node.fields.slug.slice(7).slice(0, -1)
+    console.log("aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa", imgName)
+    createPage({
+      path: node.fields.slug,
+      component: path.resolve(`./src/templates/personDetail.js`),
+      context: {
+        slug: node.fields.slug,
+        imgname: `/${imgName}.jpg/`,
+      }
+    });
+  });
+});
 };

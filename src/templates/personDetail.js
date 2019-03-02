@@ -13,7 +13,7 @@ const PersonDetail = ({data}) => {
   return (
     <Layout>
       <NarrowContainer>
-        <PersonBox personInfo={markdownRemark.frontmatter} isStudent={true} fixed={data.file.childImageSharp.fixed}/>
+        <PersonBox personInfo={markdownRemark.frontmatter} isStudent={!markdownRemark.frontmatter.position ? true : false} fixed={data.file.childImageSharp.fixed}/>
         <Content dangerouslySetInnerHTML={{__html: markdownRemark.html}} />
         <StyledLink to="/students/">
           <i className="fa fa-arrow-left" />
@@ -62,6 +62,7 @@ export const query = graphql`
       frontmatter {
         title
         name
+        position
         thesis
         supervisor
         email
