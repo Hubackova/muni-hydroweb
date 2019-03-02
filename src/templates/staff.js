@@ -34,7 +34,7 @@ export default ({data}) => {
 export const query = graphql`
   query {
     allMarkdownRemark(filter: {fields: {slug: {regex: "/staff/"}}}, sort: {
-      fields: [frontmatter___title]
+      fields: [frontmatter___order]
       order: ASC
     }) {
       totalCount
@@ -51,6 +51,7 @@ export const query = graphql`
             is
             rg
             image
+            order
           }
           fields {
             slug

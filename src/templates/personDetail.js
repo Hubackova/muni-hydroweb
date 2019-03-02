@@ -14,7 +14,7 @@ const PersonDetail = ({data}) => {
     <Layout>
       <NarrowContainer>
         <PersonBox personInfo={markdownRemark.frontmatter} isStudent={!markdownRemark.frontmatter.position ? true : false} fixed={data.file.childImageSharp.fixed}/>
-        <Content dangerouslySetInnerHTML={{__html: markdownRemark.html}} />
+        <div dangerouslySetInnerHTML={{__html: markdownRemark.html}} />
         <StyledLink to="/students/">
           <i className="fa fa-arrow-left" />
         </StyledLink>
@@ -26,16 +26,9 @@ const PersonDetail = ({data}) => {
 export default PersonDetail
 
 const NarrowContainer = styled.div`
-  display: grid;
-  grid-template-columns: auto 2fr;
-  grid-gap: 5px 30px;
   margin: 10px auto;
 `
 
-const Content = styled.div`
-  grid-column: 1 / 3;
-  grid-row: 2 / 3;
-`
 //todo: similar with staff
 const StyledLink = styled(Link)`
   color: ${props => props.theme.grey};

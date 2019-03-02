@@ -1,5 +1,6 @@
 ---
 title: bojkova
+order: 4
 name: 'Mgr. Jindřiška Bojková, Ph.D.'
 position: AKADEMICKÝ PRACOVNÍK
 email: bosikado@mail.muni.cz
@@ -7,9 +8,15 @@ phone: 549498577
 room: A32/327
 is: 'https://www.muni.cz/lide/55140-jindriska-bojkova'
 rg: 'https://www.researchgate.net/profile/Jindriska_Bojkova'
-image: /images/bojková.png
+image: /images/bojkova.jpg
 ---
-Je absolventkou magisterského studia oboru Systematická biologie a ekologie (2005) a postgraduálního studia oboru hydrobiologie (2009) na Masarykově univerzitě. Pracovala jako odborná pracovnice na Ústavu botaniky a zoologie MU (2007–2013), Entomologickém ústavu Biologického centra AV ČR v Českých Budějovicích (2009–2010) a Katedře biologie ekosystémů Jihočeské univerzity v Českých Budějovicích (2012–2016). Od roku 2010 je odbornou asistentkou naÚstavu botaniky a zoologie MU. Zabývá se ekologií společenstev makrozoobentosu a biologií vodního hmyzu, především řádů Ephemeroptera, Plecoptera a Trichoptera.
+Je absolventkou magisterského studia oboru Systematická biologie a ekologie (2005) a
+ postgraduálního studia oboru hydrobiologie (2009) na Masarykově univerzitě. Pracovala jako
+ odborná pracovnice na Ústavu botaniky a zoologie MU (2007–2013), Entomologickém ústavu
+ Biologického centra AV ČR v Českých Budějovicích (2009–2010) a Katedře biologie ekosystémů
+ Jihočeské univerzity v Českých Budějovicích (2012–2016). Od roku 2010 je odbornou asistentkou na
+Ústavu botaniky a zoologie MU. Zabývá se ekologií společenstev makrozoobentosu a biologií vodního
+ hmyzu, především řádů Ephemeroptera, Plecoptera a Trichoptera.
 
 **Výzkumná témata:**
 

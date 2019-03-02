@@ -110,7 +110,6 @@ exports.createPages = async ({ actions: { createPage }, graphql }) => {
 `).then(result => {
   result.data.allMarkdownRemark.edges.forEach(({ node }) => {
     const imgName = node.fields.slug.slice(7).slice(0, -1)
-    console.log("aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa", imgName)
     createPage({
       path: node.fields.slug,
       component: path.resolve(`./src/templates/personDetail.js`),

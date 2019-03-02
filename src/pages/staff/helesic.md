@@ -1,5 +1,6 @@
 ---
 title: helesic
+order: 1
 name: 'Doc. RNDr. Jan Helešic, Ph.D.'
 position: VEDOUCÍ PRACOVNÍ SKUPINY
 email: helesic@sci.muni.cz
@@ -7,7 +8,7 @@ phone: 549494194
 room: A32/319
 is: 'https://www.muni.cz/lide/580-jan-helesic'
 rg: 'https://www.researchgate.net/profile/Jan_Helesic2'
-image: /images/helešic.jpg
+image: /images/helesic.jpg
 ---
 Absolvoval studium odborné biologie se zaměřením na ekologii a zoologii v roce 1977 na
 Přírodovědecké fakultě univerzity Jana Evangelisty Purkyně Brno (dřívější název MU). V době studia
