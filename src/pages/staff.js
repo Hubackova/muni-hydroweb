@@ -26,7 +26,7 @@ export default ({data}) => {
       {data.allMarkdownRemark.edges.map(({node}) => {
           const img = data.allImageSharp.edges.find(img => img.node.fluid.src.includes(node.frontmatter.title))
           return (
-          <PersonBox personInfo={node.frontmatter} key={node.id} isStudent={true} linkTo={node.fields.slug} fluid={img.node.fluid}/>
+          <PersonBox personInfo={node.frontmatter} key={node.id} isStudent={true} linkTo={node.fields.slug} fluid={img && img.node.fluid}/>
         )})}
       </div>
     </Layout>

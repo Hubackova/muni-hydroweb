@@ -19,7 +19,6 @@ exports.onCreateNode = ({ node, getNode, actions }) => {
 };
 
 exports.createPages = async ({ actions: { createPage }, graphql }) => {
-
    graphql(`
     {
       allMarkdownRemark(filter: { fields: { slug: { regex: "/people/" } } }) {

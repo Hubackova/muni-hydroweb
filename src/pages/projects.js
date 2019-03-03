@@ -30,31 +30,33 @@ export default ({data}) => {
   return (
     <Layout>
       <Container>
-        {data.allMarkdownRemark.edges.map(i => <ProjectBox project={i.node} key={i.id}/>)}
+        {data.allMarkdownRemark.edges.map(({node}) => {
+          const img = data.allImageSharp.edges.find(img => img.node.fluid.src.includes(node.frontmatter.title))
+          return <ProjectBox project={node} key={node.id} linkTo={node.frontmatter.title} fluid={img && img.node.fluid} />
+        })}
       </Container>
     </Layout>
   )
 }
 
- const Container = styled.div`
- display: grid;
- grid-template-columns: repeat(auto-fill, minmax(600px, 1fr));
- justify-content: center;
+const Container = styled.div`
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(600px, 1fr));
+  justify-content: center;
 `
 
 export const query = graphql`
   query {
-
-    # allImageSharp(filter: {fluid: {src: {regex: "/phd_/"}}}) {
-    #   edges {
-    #     node {
-    #       id
-    #       fluid(maxWidth: 700) {
-    #   ...GatsbyImageSharpFluid_noBase64
-    # }
-    #     }
-    #   }
-    # }
+    allImageSharp(filter: {fluid: {src: {regex: "/project_/"}}}) {
+      edges {
+        node {
+          id
+          fluid(maxWidth: 700) {
+            ...GatsbyImageSharpFluid_noBase64
+          }
+        }
+      }
+    }
 
     allMarkdownRemark(filter: {fields: {slug: {regex: "/project/"}}}) {
       edges {

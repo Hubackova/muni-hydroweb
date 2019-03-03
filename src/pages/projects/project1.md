@@ -2,7 +2,7 @@
 title: project1
 name: Vodní bezobratlí prameništních slatinišť Západních Karpat
 image: >-
-  https://raw.githubusercontent.com/Hubackova/muni-hydroweb/master/static/images/project1.jpg
+  /images/project_project1.jpg
 ---
 Prameništní slatiniště jsou cenné mokřadní biotopy, které hostí specifickou faunu i flóru. Není jich
  mnoho a ty nynější jsou navíc ohrožena lidskou činností a změnami klimatu. Slatiniště Západních
@@ -83,5 +83,5 @@ Vanda Šorfová, Dana Hřívová, David Výravský, Martina Bílková
   Západních Karpat. Diplomová práce.
 * Rádková V. 2011. Makrozoobentos pramenných stružek slatinišť moravsko-slovenského pomezí.
   Diplomová práce.
-* Nováček O. 2010. Struktura a složení taxocenóz lasturnatek (Ostracoda) podél gradientu minerální bohatosti prameništních slatinišť. Diplomová práce. 
+* Nováček O. 2010. Struktura a složení taxocenóz lasturnatek (Ostracoda) podél gradientu minerální bohatosti prameništních slatinišť. Diplomová práce.
 * Křoupalová V. 2008. Prostorová variabilita makrozoobentosu: srovnání dvou minerálně odlišných pramenišť. Diplomová práce.
