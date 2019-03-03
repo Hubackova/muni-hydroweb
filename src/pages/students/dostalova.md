@@ -8,7 +8,7 @@ supervisor: 'RNDr. Petr Pařil, Ph.D.'
 email: 423307@mail.muni.cz
 phone: 549498559
 room: A32/313
-is: 'https://www.muni.cz/en/people/423307-alena-dostalova'
+is: 'https://www.muni.cz/en/students/423307-alena-dostalova'
 rg: 'https://www.researchgate.net/profile/Alena_Dostalova3'
 image: >-
   /images/phd_dostalova.jpg

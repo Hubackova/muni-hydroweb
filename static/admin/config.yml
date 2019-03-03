@@ -6,9 +6,9 @@ media_folder: static/images
 public_folder: images
 
 collections:
-  - name: "people"
-    label: "People"
-    folder: "src/pages/people"
+  - name: "students"
+    label: "Students"
+    folder: "src/pages/students"
     create: true
     fields:
       - {label: "Title", name: "title", widget: "string"}

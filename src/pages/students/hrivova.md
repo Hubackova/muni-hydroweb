@@ -8,7 +8,7 @@ supervisor: 'Mgr. Marie Zhai, Ph.D.'
 email: danaklimova9@gmail.com
 phone: 549498567
 room: A32/323
-is: 'https://www.muni.cz/en/people/323984-dana-klimova-hrivova'
+is: 'https://www.muni.cz/en/students/323984-dana-klimova-hrivova'
 rg: 'https://www.researchgate.net/profile/Dana_Klimova_Hrivova'
 image: >-
   /images/phd_hrivova.jpg

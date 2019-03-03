@@ -8,7 +8,7 @@ supervisor: 'doc. RNDr. Jana Schenková, Ph.D.'
 email: 356804@mail.muni.cz
 phone: 549498559
 room: A32/313
-is: 'https://www.muni.cz/en/people/356804-martina-bilkova'
+is: 'https://www.muni.cz/en/students/356804-martina-bilkova'
 rg: '-'
 image: >-
   /images/phd_bilkova.jpg

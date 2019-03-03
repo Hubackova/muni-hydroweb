@@ -8,7 +8,7 @@ supervisor: 'Mgr. Jindřiška Bojková, Ph.D.'
 email: supina@mail.muni.cz
 phone: 549498556
 room: A32/313
-is: 'https://www.muni.cz/en/people/356563-jan-supina'
+is: 'https://www.muni.cz/en/students/356563-jan-supina'
 rg: 'https://www.researchgate.net/profile/Jan_Supina'
 image: >-
   /images/phd_supina.jpg

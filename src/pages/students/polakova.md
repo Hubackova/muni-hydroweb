@@ -8,7 +8,7 @@ supervisor: 'doc. RNDr. Jana Schenková, Ph.D.'
 email: polakova.23@email.cz
 phone: 549498559
 room: A32/313
-is: 'https://www.muni.cz/en/people/394075-martina-polakova'
+is: 'https://www.muni.cz/en/students/394075-martina-polakova'
 rg: 'https://www.researchgate.net/profile/Martina_Polakova2'
 image: >-
   /images/phd_polakova.jpg

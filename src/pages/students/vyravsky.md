@@ -8,7 +8,7 @@ supervisor: 'Mgr. Marie Zhai, Ph.D.'
 email: vyrius@gmail.com
 phone: 549498559
 room: A32/313
-is: 'https://www.muni.cz/en/people/376313-david-vyravsky'
+is: 'https://www.muni.cz/en/students/376313-david-vyravsky'
 rg: 'https://www.researchgate.net/profile/David_Vyravsky'
 image: >-
   /images/phd_vyravsky.jpg

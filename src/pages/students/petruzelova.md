@@ -8,7 +8,7 @@ supervisor: 'Mgr. Jindřiška Bojková, Ph.D.'
 email: jana.petruzelova@mail.muni.cz
 phone: 549498577
 room: A32/327
-is: 'https://www.muni.cz/en/people/393851-jana-petruzelova'
+is: 'https://www.muni.cz/en/students/393851-jana-petruzelova'
 rg: 'https://www.researchgate.net/profile/Jana_Petruzelova'
 image: /images/jana-petruželová.jpg
 ---
