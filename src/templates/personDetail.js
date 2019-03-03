@@ -13,7 +13,7 @@ const PersonDetail = ({data}) => {
   return (
     <Layout>
       <NarrowContainer>
-        <PersonBox personInfo={markdownRemark.frontmatter} isStudent={isStudent} fluid={data.file.childImageSharp.fluid}/>
+        <PersonBox personInfo={markdownRemark.frontmatter} isStudent={isStudent} fluid={data.file && data.file.childImageSharp.fluid}/>
         <Content dangerouslySetInnerHTML={{__html: markdownRemark.html}} />
         <StyledLink to={isStudent ? "/students/" : "/staff/"}>
           <i className="fa fa-arrow-left" />
