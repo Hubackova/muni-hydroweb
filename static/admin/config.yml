@@ -29,7 +29,7 @@ collections:
     create: true
     fields:
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Order", name: "order", widget: "image"}
+      - {label: "Order", name: "order", widget: "number"}
       - {label: "Name", name: "name", widget: "string"}
       - {label: "Position", name: "position", widget: "string"}
       - {label: "Email", name: "email", widget: "string"}
@@ -39,6 +39,14 @@ collections:
       - {label: "RG", name: "rg", widget: "string"}
       - {label: 'Image', name: 'image', widget: 'image' }
       - {label: "Body", name: "body", widget: "markdown"}
+
+  - name: "staff"
+    label: "Staff"
+    folder: "src/pages/projects"
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Name", name: "name", widget: "string"}
+      - {label: 'Image', name: 'image', widget: 'image' }
 
   - name: pages
     label: Pages

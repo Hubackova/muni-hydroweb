@@ -5,13 +5,13 @@ class Project extends Component {
     render() {
       const {project} = this.props
         return (
-          <StyledLink to={`/${project.id}/`}>
+          // <StyledLink to={`/${project.id}/`}>
           <Box>
-            <Img src={project.img} alt={project.name}/>
-            <Name>{project.name}</Name>
-            <div style={{fontSize: '0.8em', color: '#778899'}}>{project.mainSolver}</div>
+            {/* <Img src={project.img} alt={project.name}/> */}
+            <Name>{project.frontmatter.name}</Name>
+            {/* <div style={{fontSize: '0.8em', color: '#778899'}}>{project.mainSolver}</div> */}
         </Box>
-        </StyledLink>
+        // </StyledLink>
 );
 }}
 export default Project;

@@ -19,21 +19,6 @@ exports.onCreateNode = ({ node, getNode, actions }) => {
 };
 
 exports.createPages = async ({ actions: { createPage }, graphql }) => {
-  // Create a page that lists all projects.
-  createPage({
-    path: `/projects`,
-    component: require.resolve("./src/templates/projects.js"),
-    context: { projectsData }
-  });
-
-  // Create a page for each project.
-  projectsData.forEach(project => {
-    createPage({
-      path: `${project.id}/`,
-      component: require.resolve("./src/templates/projectDetail.js"),
-      context: { project }
-    });
-  });
 
    graphql(`
     {
