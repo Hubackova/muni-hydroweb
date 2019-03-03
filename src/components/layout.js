@@ -24,6 +24,12 @@ export default ({ children }) => {
     windowGlobal.location.pathname === "/"
       ? true
       : false;
+    const isWide=
+    windowGlobal &&
+    windowGlobal.location &&
+    windowGlobal.location.pathname.includes("project1")
+      ? true
+      : false;
   return (
     <ThemeProvider theme={blueTheme}>
       <Container>
@@ -32,7 +38,7 @@ export default ({ children }) => {
           {<HeaderComponent />}
         </HeaderPanel>
 
-        <Main>{children}</Main>
+        <Main isWide={isWide}>{children}</Main>
 
         <footer>
           <FooterContent />
@@ -58,7 +64,7 @@ const HeaderPanel = styled.header`
 `;
 
 const Main = styled.main`
-  max-width: 1366px;
+  max-width: ${props => props.isWide ? "100%" : "1366px"};
   width: 100%;
   flex: 1;
 `;
