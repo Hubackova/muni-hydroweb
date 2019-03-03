@@ -21,7 +21,7 @@ exports.onCreateNode = ({ node, getNode, actions }) => {
 exports.createPages = async ({ actions: { createPage }, graphql }) => {
    graphql(`
     {
-      allMarkdownRemark(filter: { fields: { slug: { regex: "/people/" } } }) {
+      allMarkdownRemark(filter: { fields: { slug: { regex: "/students/" } } }) {
         edges {
           node {
             html

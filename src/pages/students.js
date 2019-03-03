@@ -38,7 +38,7 @@ export const query = graphql`
       }
     }
 
-    allMarkdownRemark(filter: {fields: {slug: {regex: "/people/"}}}, sort: {
+    allMarkdownRemark(filter: {fields: {slug: {regex: "/students/"}}}, sort: {
       fields: [frontmatter___title]
       order: ASC
     }) {
