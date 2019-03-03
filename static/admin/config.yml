@@ -40,8 +40,8 @@ collections:
       - {label: 'Image', name: 'image', widget: 'image' }
       - {label: "Body", name: "body", widget: "markdown"}
 
-  - name: "staff"
-    label: "Staff"
+  - name: "projects"
+    label: "Projects"
     folder: "src/pages/projects"
     fields:
       - {label: "Title", name: "title", widget: "string"}
