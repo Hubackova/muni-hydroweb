@@ -20,6 +20,8 @@ dlouhodobých změn ve struktuře makrozoobentosu na člověkem minimálně ovli
 vyhodnocení dlouhodobých změn vodního prostředí, včetně vlivu klimatických změn, a hlavních
 skupin bioty na referenčních lokalitách.
 
+
+
 **Grantové projekty**
 
 
@@ -43,6 +45,7 @@ Bioindikace globálních a regionálních změn prostředí na základě popula�
 (Ephemeroptera, Plecoptera), Grantová agentura České republiky, 204/94/1474, 1994–1996.
 
 
+
 **Lidé zapojení do projektů**
 
 
@@ -50,24 +53,36 @@ Světlana Zahrádková, Jan Helešic, Jindřiška Bojková, Vanda Šorfová, Mar
 Polášková, Petr Pařil
 
 
+
 **Vybrané publikace**
 
-* Soldán T., Zahrádková S., Helešic J., Dušek L. &amp; Landa V. 1998: Distributional and quantitative
+Soldán T., Zahrádková S., Helešic J., Dušek L. &amp; Landa V. 1998: Distributional and quantitative
 patterns of Ephemeroptera and Plecoptera in the Czech Republic: A possibility of detection of
 long-term changes of aquatic biotopes. Folia Facultatis Scientiarium Naturalium Universitatis
 Masarykianae Brunensis, 98, 1–305.
-* Bojková J., Komprdová K., Soldán T. &amp; Zahrádková S. 2012: Species loss of stoneflies (Plecoptera)
+
+
+ Bojková J., Komprdová K., Soldán T. &amp; Zahrádková S. 2012: Species loss of stoneflies (Plecoptera)
 in the Czech Republic during the 20 th century. Freshwater Biology, 57: 2550–2567.
-* Bojková J., Rádková V., Soldán T. &amp; Zahrádková S. 2014: Trends in species diversity of lotic
+
+
+Bojková J., Rádková V., Soldán T. &amp; Zahrádková S. 2014: Trends in species diversity of lotic
 stoneflies (Plecoptera) in the Czech Republic over five decades. Insect Conservation and
 Diversity, 7: 252–262.
-* Bojková J. &amp; Soldán T. 2013: Stoneflies (Plecoptera) of the Czech Republic: species checklist,
+
+Bojková J. &amp; Soldán T. 2013: Stoneflies (Plecoptera) of the Czech Republic: species checklist,
 distribution and protection status. Acta Entomologica Musei Nationalis Pragae, 53: 443–484.
-* Soldán T., Bojková J., Zahrádková S., Helešic J. &amp; Sroka P. 2014: Dlouhodobý výzkum vodního
+
+
+Soldán T., Bojková J., Zahrádková S., Helešic J. &amp; Sroka P. 2014: Dlouhodobý výzkum vodního
 hmyzu – rodinné stříbro české entomologie. Živa, 5: 215–218.
-* Zahrádková S., Soldán T., Bojková J., Helešic J., Janovská H. &amp; Sroka P., 2009: Distribution and
+
+
+Zahrádková S., Soldán T., Bojková J., Helešic J., Janovská H. &amp; Sroka P., 2009: Distribution and
 biology of mayflies (Ephemeroptera) of the Czech Republic: present status and perspectives. Aquatic Insects, 31(suppl. 1): 629–652.
-* Zedková B., Rádková V., Bojková J., Soldán T. &amp; Zahrádková S. 2015: Mayflies Ephemeroptera) as
+
+
+Zedková B., Rádková V., Bojková J., Soldán T. &amp; Zahrádková S. 2015: Mayflies Ephemeroptera) as
 indicators of environmental changes in the past five decades: a case study from the Morava and
 Odra River Basins (Czech Republic). Aquatic Conservation: Marine and Freshwater Ecosystems,
 25: 622–638.

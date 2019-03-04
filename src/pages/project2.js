@@ -29,12 +29,13 @@ export default ({data}) => {
 const ImgContainer = styled.div`
   display: block;
   margin: 0 auto;
-  width: 100%
-
+  width: 100%;
 `
+
 const NarrowContainer = styled.div`
   display: flex;
 `
+
 const Content = styled.div`
   margin: 20px ;
   @media (max-width: 1386px) {
