@@ -10,7 +10,7 @@ html, body, #___gatsby, #___gatsby>div {
 }
 
 body {
-    font-family: Elena, sans-serif;
+    font-family: "Source Sans Pro", sans-serif;
     font-size: calc(17px + .25vw);
     letter-spacing: -.25px;
     line-height: calc(1.5em + .2vw);
@@ -43,4 +43,8 @@ h2 + ul > li {
 
 a {
   color: green;
+}
+
+h4 {
+  color: #0868ac;
 }

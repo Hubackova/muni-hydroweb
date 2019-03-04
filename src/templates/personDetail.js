@@ -10,6 +10,7 @@ const PersonDetail = ({data}) => {
   if (!data && !data.markdownRemark) return <div>...loading</div>
   const {markdownRemark} = data
   const isStudent = markdownRemark.frontmatter && !markdownRemark.frontmatter.position ? true : false
+  debugger
   return (
     <Layout>
       <NarrowContainer>

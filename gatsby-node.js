@@ -34,7 +34,7 @@ exports.createPages = async ({ actions: { createPage }, graphql }) => {
     }
   `).then(result => {
     result.data.allMarkdownRemark.edges.forEach(({ node }) => {
-      const imgName = node.fields.slug.slice(8).slice(0, -1)
+      const imgName = node.fields.slug.includes("staff") ? node.fields.slug.slice(8).slice(0, -1) : node.fields.slug.slice(10).slice(0, -1)
       createPage({
         path: node.fields.slug,
         component: path.resolve(`./src/templates/personDetail.js`),
