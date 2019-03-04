@@ -2,7 +2,6 @@ import React from "react";
 import styled from "styled-components";
 import { ThemeProvider } from "styled-components";
 
-import { IntProvider, Consumer } from "./Context";
 import Navigation from "./layout/Navigation";
 import HeaderComponent from "./layout/Header";
 import FooterContent from "./layout/Footer";
