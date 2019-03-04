@@ -6,7 +6,6 @@ import ProjectBox from '../components/projectBox'
 import Layout from '../components/layout'
 
 export default ({data}) => {
-  console.log(data)
   return (
     <Layout>
       <Container>
@@ -38,7 +37,10 @@ export const query = graphql`
       }
     }
 
-    allMarkdownRemark(filter: {fields: {slug: {regex: "/project/"}}}) {
+    allMarkdownRemark(filter: {fields: {slug: {regex: "/project/"}}}, sort: {
+      fields: [frontmatter___title]
+      order: ASC
+    }) {
       edges {
         node {
           frontmatter {

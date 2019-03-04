@@ -52,6 +52,7 @@ International Journal of Limnology, 53: 189–201.
 
 **Témata, kterými se na území NP Šumava a NP Bavorský les zabýváme:**
 
+----
 ####1. Dlouhodobý monitoring zotavování šumavských jezer z acidifikace####
 
 Ve spolupráci s [Biologickým centrem Akademie věd](https://www.hbu.cas.cz/) a [Jihočeskou univerzitou v Českých Budějovicích](https://www.jcu.cz/) se zabýváme sledováním vývoje prostředí a bentických a planktonních společenstev
@@ -77,7 +78,7 @@ recovery of the Bohemian Forest lakes from acid stress.
 Freshwater Biology, 61: 376–395.
 
 
-
+----
 ####2. Monitoring vývoje revitalizovaných potoků ve Vltavském luhu####
 
 Ve spolupráci se [Správou NP Šumava](http://www.npsumava.cz/cz/1005/sekce/o-organizaci/) a [Přírodovědeckou fakultou Jihočeské univerzity v Českých
@@ -111,12 +112,16 @@ J. 2017. Jak se žije v revitalizovaných potocích na
 
 de Donnová S. 2018. Krátkodobá kolonizace revitalizovaných potoků makrozoobentosem: případová
 studie z Vltavského luhu (NP Šumava). Bakalářská práce. PDF
+
+
 Paterová S. 2018. Vývoj společenstev makrozoobentosu v revitalizovaném úseku říčky Hučiny (NP
 Šumava). Diplomová práce. PDF
+
+
 Paterová S. 2016. Revitalizace malých vodních toků v České republice. Bakalářská práce. PDF
 
 
-
+----
 ####3. Monitoring diversity bezobratlých rašelinišť a horských povodí####
 
 Základní monitoring vodního hmyzu a zooplanktonu ve vztahu k podmínkám prostředí se zaměřuje na

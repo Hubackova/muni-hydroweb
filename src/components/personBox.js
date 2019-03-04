@@ -68,7 +68,7 @@ const ImgBox = styled.div`
 `
 
 const Name = styled.h3`
-    color: ${props => props.theme.main};
+    color: ${props => props.theme.lightblue};
     text-transform: uppercase;
     margin: 0;
     margin-bottom: 20px;

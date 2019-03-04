@@ -57,7 +57,7 @@ class Navigation extends PureComponent {
 
   render() {
     const {scrolling, width} = this.state
-    const isMobile = width <= 800
+    const isMobile = width < 800
     const menuVisible = this.state.menuVisible || !isMobile ? 'menuVisible' : ''
 
     return (
@@ -111,7 +111,7 @@ const Container = styled.ul`
   opacity: 0;
   transition: opacity 0.5s linear;
   background-color: ${props => props.theme.main};
-  @media (max-width: 800px) {
+  @media (max-width: 799px) {
     flex-direction: column;
     width: 100vw;
   }
@@ -150,14 +150,14 @@ const NavigationLink = styled(Link)`
     border-right: 0px;
   }
   &:hover {
-    font-weight: bold;
+    border-bottom: 2px solid white;
   }
 
   &.active {
     font-weight: bold;
     color: black;
   }
-  @media (max-width: 800px) {
+  @media (max-width: 799px) {
     border: 0px;
   }
 `
@@ -183,14 +183,14 @@ const NavigationLinkA = styled.a`
     border-right: 0px;
   }
   &:hover {
-    font-weight: bold;
+    border-bottom: 2px solid white;
   }
 
   &.active {
     font-weight: bold;
     color: black;
   }
-  @media (max-width: 800px) {
+  @media (max-width: 799px) {
     border: 0px;
   }
 `
@@ -214,7 +214,7 @@ const NavbarToggle = styled.span`
       color: grey;
     }
   }
-  @media (max-width: 800px) {
+  @media (max-width: 799px) {
     display: flex;
     flex: 1;
   }

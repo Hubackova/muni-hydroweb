@@ -8,7 +8,7 @@ phone: 549498174
 room: A32/316
 is: 'https://www.muni.cz/lide/136750-marek-polasek'
 rg: 'https://www.researchgate.net/profile/Marek_Polasek2 '
-image: /images/staff_polasek.png
+image: /images/staff_polasek.jpg
 ---
 Jsem absolventem magisterského studia (učitelská kombinace biologie + chemie) i následného
  postgraduálního studia (obor hydrobiologie) na Masarykově univerzitě. V současné době jsem

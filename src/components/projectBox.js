@@ -21,14 +21,14 @@ export default ProjectBox
 const Box = styled.div`
   display: flex;
   flex-direction: column;
-  max-width: 400px;
+  border: 1px solid black;
   margin: 1em;
   padding: 1em;
   line-height: 1.6em;
 `
 
-const Name = styled.h3`
-  color: #46acc2;
+const Name = styled.h5`
+  color: ${props => props.theme.lightblue}
   text-transform: uppercase;
   margin-top: 1em;
   border-bottom: 0.08em solid rgb(229, 229, 229);
