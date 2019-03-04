@@ -50,9 +50,25 @@ collections:
           - {label: Title, name: title, widget: string}
           - {label: "Body", name: "body", widget: "markdown"}
 
+       - file: "src/pages/mgrBc.md"
+        label: "Mgr+Bc students"
+        name: "project2"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}
+
       - file: "src/pages/projects/project1.md"
         label: "Project 1"
         name: "project1"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Name", name: "name", widget: "string"}
+          - {label: 'Image', name: 'image', widget: 'image' }
+          - {label: "Body", name: "body", widget: "markdown"}
+
+       - file: "src/pages/projects/project2.md"
+        label: "Project 2"
+        name: "project2"
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Name", name: "name", widget: "string"}

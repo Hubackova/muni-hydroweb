@@ -9,7 +9,7 @@ import Img from 'gatsby-image'
 export default ({data}) => {
   const {markdownRemark, allImageSharp} = data
   const imgs = allImageSharp.edges.map(i => <Img fluid={i.node.fluid} />)
-  var imgs2 = imgs.splice(0, Math.ceil(imgs.length / 2));
+  const imgs2 = imgs.splice(0, Math.ceil(imgs.length / 2));
   return (
     <Layout>
       <NarrowContainer>
@@ -69,14 +69,7 @@ export const query = graphql`
       frontmatter {
         title
         name
-        position
-        thesis
-        supervisor
-        email
-        phone
-        room
-        is
-        rg
+        image
       }
     }
   }

@@ -11,7 +11,7 @@ export default ({data}) => {
     <Layout>
       <Container>
         {data.allMarkdownRemark.edges.map(({node}) => {
-          const img = data.allImageSharp.edges.find(img => img.node.fluid.src.includes(node.frontmatter.title))
+          const img = data.allImageSharp.edges.find(img => img.node.fluid.src.includes(`project_${node.frontmatter.title}.jpg`))
           return <ProjectBox project={node} key={node.id} linkTo={node.frontmatter.title} fluid={img && img.node.fluid} />
         })}
       </Container>
