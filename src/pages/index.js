@@ -20,7 +20,7 @@ export default () => (
           edges {
             node {
               childImageSharp {
-                fluid(maxWidth: 1200) {
+                fluid(maxWidth: 3200) {
                   ...GatsbyImageSharpFluid
                 }
               }
