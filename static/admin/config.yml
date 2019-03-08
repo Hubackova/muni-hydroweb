@@ -50,7 +50,7 @@ collections:
           - {label: Title, name: title, widget: string}
           - {label: "Body", name: "body", widget: "markdown"}
 
-       - file: "src/pages/mgrBc.md"
+      - file: "src/pages/mgrBc.md"
         label: "Mgr+Bc students"
         name: "project2"
         fields:
