@@ -52,7 +52,7 @@ collections:
 
       - file: "src/pages/mgrBc.md"
         label: "Mgr+Bc students"
-        name: "project2"
+        name: "mgrbcstudents"
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
