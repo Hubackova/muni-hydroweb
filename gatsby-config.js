@@ -2,10 +2,27 @@ const path = require(`path`)
 
 module.exports = {
   siteMetadata: {
-    title: `Hydrobiologie - MUNI`
+    title: `Hydrobiologie - MUNI`,
+    description:
+      "Skupina hydrobiologie na Ústavu botaniky a zoologie Masarykovy univerzity",
+    url: "https://botzool-hydra.netlify.com", // No trailing slash allowed!
+    image: "/images/ecdyonurus_head.jpg", // Path to your image you placed in the 'static' folder
   },
-  plugins: [
+  plugins: [{
+    resolve: `gatsby-plugin-manifest`,
+    options: {
+      name: "GatsbyJS",
+      short_name: "GatsbyJS",
+      start_url: "/",
+      background_color: "#6b37bf",
+      theme_color: "#6b37bf",
+      display: "standalone",
+      icon: "static/images/ecdyonurus_head.jpg",
+      crossOrigin: `use-credentials`,
+    },
+  },
     `gatsby-plugin-styled-components`,
+    `gatsby-plugin-react-helmet`,
     {
       resolve: `gatsby-source-filesystem`,
       options: {
