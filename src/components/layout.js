@@ -34,9 +34,10 @@ export default ({ children }) => {
   return (
     <ThemeProvider theme={blueTheme}>
       <Container>
+
         <HeaderPanel>
           <Navigation isIndex={isIndex} />
-          {<HeaderComponent />}
+          <HeaderComponent />
         </HeaderPanel>
 
         <Main isWide={isWide} isIndex={isIndex}> {children}</Main>
@@ -44,6 +45,7 @@ export default ({ children }) => {
         <footer>
           <FooterContent />
         </footer>
+
       </Container>
     </ThemeProvider>
   );
@@ -52,20 +54,19 @@ export default ({ children }) => {
 const Container = styled.div`
   display: flex;
   flex-direction: column;
-  align-items: center;
   min-height: 100vh;
 `;
 
 const HeaderPanel = styled.header`
   display: flex;
   flex-direction: column;
-  align-items: center;
   width: 100%;
   background-color: ${props => props.theme.main};
 `;
 
 const Main = styled.main`
   max-width: ${props => props.isWide ? "100%" : "1366px"};
+  margin: 0 auto;
   width: 100%;
   flex: 1;
   margin-top: ${props => props.isIndex ? "0px" : "20px"};

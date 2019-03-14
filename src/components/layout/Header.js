@@ -1,37 +1,95 @@
 import React from "react";
 import styled from "styled-components";
+import { StaticQuery, graphql, Link } from "gatsby";
+
 import ecdyonurus from "../../pages/images/ecdyonurus_head.jpg";
-import { Link } from "gatsby";
-const HeaderComponent = ({ className }) => {
-  return (
-    <Header className={className}>
-      <ImgCont>
-        <img src={ecdyonurus} alt="logo"/>
-      </ImgCont>
-      <Muni>
-        <Link to="/" style={{textDecoration: "none"}}><Main>Pracovní skupina hydrobiologie</Main></Link>
-        {!className && (
-          <SubMain>
-            Ústav botaniky a zoologie | Masarykova univerzita | Přírodovědecká
-            fakulta
-          </SubMain>
-        )}
-      </Muni>
-    </Header>
-  );
-};
+import ImgSlider from "./ImgSlider";
+
+const HeaderComponent = ({ className }) => (
+  <StaticQuery
+    query={graphql`
+      query {
+        images: allFile(
+          filter: { extension: { regex: "/(jpg)|(png)/" }, relativeDirectory: { eq: "homepage" } }
+        ) {
+          edges {
+            node {
+              childImageSharp {
+                fluid(maxWidth: 3200) {
+                  ...GatsbyImageSharpFluid
+                }
+              }
+            }
+          }
+        }
+      }
+    `}
+    render={data => {
+      const imgs = data.images.edges.map(i => i.node.childImageSharp.fluid);
+
+      return (
+        <Header className={className}>
+          <LeftSide>
+            <TitleWrapper>
+              <ImgCont>
+                <img src={ecdyonurus} alt="logo" />
+              </ImgCont>
+              <Muni>
+                <Link to="/" style={{ textDecoration: "none" }}>
+                  <Main>Pracovní skupina hydrobiologie</Main>
+                </Link>
+                {!className && (
+                  <SubMain>
+                    Ústav botaniky a zoologie | Masarykova univerzita | Přírodovědecká fakulta
+                  </SubMain>
+                )}
+              </Muni>
+            </TitleWrapper>
+          </LeftSide>
+          <RightSide>
+            <ImgSlider imgs={imgs} />
+          </RightSide>
+        </Header>
+      );
+    }}
+  />
+);
 
 export default HeaderComponent;
 
 const Header = styled.div`
-  padding: 10px;
-  background-color: ${props => props.theme.main};
   display: flex;
+  flex-wrap: wrap;
+  @media (max-width: 1200px) {
+    flex-direction: column;
+  }
+`;
+
+const LeftSide = styled.div`
+  flex: 2;
+  flex-flow: column;
+  display: flex;
+  @media (max-width: 600px) {
+    flex-wrap: wrap;
+  }
+`;
+
+const TitleWrapper = styled.div`
+  display: flex;
+  flex: 1;
+  justify-content: center;
+  align-items: center;
+`;
+
+const RightSide = styled.div`
+  flex: 1;
+  @media (max-width: 1400px) {
+    width: 100%;
+  }
 `;
 
 const Muni = styled.div`
   padding: 0.3em;
-  align-self: center;
 `;
 
 const ImgCont = styled.div`
@@ -62,7 +120,6 @@ const Main = styled.div`
 const SubMain = styled.div`
   font-size: 1em;
   color: ${props => props.theme.white};
-
   padding-bottom: 0.5em;
   @media (max-width: 600px) {
     display: none;

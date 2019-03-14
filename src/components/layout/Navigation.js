@@ -1,7 +1,7 @@
 import React, {PureComponent} from 'react'
 import styled from 'styled-components'
 import {Link} from 'gatsby'
-import Header from './Header'
+
 const ListLink = props => (
       <NavigationLink to={props.to} className={`${props.menuVisible} ${props.className}`}>
         {props.children}
@@ -104,13 +104,13 @@ export default Navigation
 const Container = styled.ul`
   display: flex;
   flex-direction: row;
-  justify-content: center;
+  justify-content: flex-end;
   list-style: none;
   margin: 0;
-  padding: 0;
+  padding: 0 15px;
   opacity: 0;
   transition: opacity 0.5s linear;
-  background-color: ${props => props.theme.main};
+  background-color: ${props => props.theme.white};
   @media (max-width: 799px) {
     flex-direction: column;
     width: 100vw;
@@ -139,8 +139,8 @@ const NavigationLink = styled(Link)`
   cursor: pointer;
   text-decoration: none;
   padding: 0px 10px;
-  background-color: ${props => props.theme.main};
-  color: ${props => props.theme.white};
+  background-color: ${props => props.theme.white};
+  color: ${props => props.theme.grey};
 
   &.menuVisible {
     display: flex;
@@ -172,8 +172,7 @@ const NavigationLinkA = styled.a`
   cursor: pointer;
   text-decoration: none;
   padding: 0px 10px;
-  background-color: ${props => props.theme.main};
-  color: ${props => props.theme.white};
+  color: ${props => props.theme.grey};
 
   &.menuVisible {
     display: flex;
@@ -201,16 +200,11 @@ const NavbarToggle = styled.span`
   cursor: pointer;
   align-self: flex-end;
   font-size: 40px;
-  transition: font-size 0.5s linear;
-  background-color: ${props => props.theme.main};
   &:hover {
-    font-size: 50px;
     color: ${props => props.theme.secondary};
   }
   &.menuVisible {
-    font-size: 50px;
     &:hover {
-      font-size: 50px;
       color: grey;
     }
   }
