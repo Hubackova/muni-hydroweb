@@ -1,6 +1,6 @@
 ---
 title: hrivova
-name: Mgr. Dana Klímová Hřívová
+name: Mgr. Dana Klímová Hřívová *
 thesis: >-
   Taxocenózy plazivek (Copepoda: Harpacticoida) na prameništních slatiništích
   Západních Karpat

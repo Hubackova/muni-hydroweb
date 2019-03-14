@@ -109,7 +109,6 @@ const Container = styled.ul`
   margin: 0;
   padding: 0 15px;
   opacity: 0;
-  transition: opacity 0.5s linear;
   background-color: ${props => props.theme.white};
   @media (max-width: 799px) {
     flex-direction: column;

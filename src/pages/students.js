@@ -2,6 +2,7 @@ import React from 'react'
 import {Link, graphql} from 'gatsby'
 import Layout from '../components/layout'
 import PersonBox from '../components/personBox'
+import Note from '../components/atoms/Note'
 
 export default ({data}) => {
   const students = data.markdownRemark.html;
@@ -14,6 +15,7 @@ export default ({data}) => {
           <PersonBox personInfo={node.frontmatter} key={node.id} isStudent={true} linkTo={node.fields.slug} fluid={img.node.fluid}/>
         )})}
       </div>
+      <Note>* Mateřská dovolená</Note>
       <hr />
       <div dangerouslySetInnerHTML={{ __html: students }} />
     </Layout>

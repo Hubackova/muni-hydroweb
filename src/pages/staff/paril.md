@@ -35,6 +35,4 @@ Po studiu na Masarykově univerzitě (MU) jsem pracoval jako hydrobiolog na Agen
   geniculata).
 
 
-
-**Širší životopis a curriculum vitae zde:**
-<https://www.muni.cz/lide/70751-petr-paril/zivotopis>
+**Širší životopis a curriculum vitae**[zde](https://www.muni.cz/lide/70751-petr-paril/zivotopis)

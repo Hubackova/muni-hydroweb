@@ -1,7 +1,7 @@
 ---
 title: sorfova
 order: 11
-name: 'Mgr. Vanda Šorfová, Ph.D.'
+name: 'Mgr. Vanda Šorfová, Ph.D. *'
 position: ODBORNÝ PRACOVNÍK
 email: sorfova.vanda@gmail.com
 phone: 549498575

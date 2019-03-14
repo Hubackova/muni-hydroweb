@@ -11,7 +11,7 @@ const footer = {
     postalAddressHeading: 'Poštovní adresa: ',
     physicalAddressHeading: 'Adresa pracoviště: ',
     postalAddress: 'Kotlářská 267/2, 611 37, Brno, Czech Republic',
-    physicalAddress: 'Campus Bohunice, budova A31, Kamenice 5, Brno',
+    physicalAddress: 'Univerzitní kampus Bohunice, budova A32, Kamenice 753/5, 625 00, Brno, Česká republika',
     links: 'Odkazy'
 }
 const FooterContent = () => {

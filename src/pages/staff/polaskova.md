@@ -1,7 +1,7 @@
 ---
 title: polaskova
 order: 9
-name: 'Mgr. Vendula Polášková, Ph.D.'
+name: 'Mgr. Vendula Polášková, Ph.D. *'
 position: ODBORNÝ PRACOVNÍK
 email: vendula.polaskova@email.cz
 phone: 549498577
