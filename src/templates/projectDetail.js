@@ -1,34 +1,42 @@
 import React from "react";
-import styled from "styled-components";
-import { Link } from "gatsby";
+import Img from 'gatsby-image'
+import styled from 'styled-components'
+import {Link} from 'gatsby'
+import Layout from '../components/layout'
 
-import Layout from "../components/layout";
-import H2 from "../components/atoms/H2";
-
-
-
-export default ({ data }) => {
-  const {markdownRemark} = data
+const ProjectDetail = ({data: { markdownRemark, allImageSharp }}) => {
+  const imgs = allImageSharp && allImageSharp.edges.map(i => <Img fluid={i.node.fluid} />)
+  const imgs2 = imgs && imgs.splice(0, Math.ceil(imgs.length / 2));
   return (
-  <Layout>
-  <NarrowContainer>
-    <h1>{markdownRemark.frontmatter.name}</h1>
-    <Content dangerouslySetInnerHTML={{__html: markdownRemark.html}} />
-    <StyledLink to="/projects/">
-      <i className="fa fa-arrow-left" />
-    </StyledLink>
-  </NarrowContainer>
-</Layout>
-)};
+    <Layout>
+      <NarrowContainer>
+        <ImgColumn>{imgs2}</ImgColumn>
+        <Content>
+          <h1>{markdownRemark.frontmatter.name}</h1>
+          <div dangerouslySetInnerHTML={{ __html: markdownRemark.html }} />
+          <StyledLink to="/projects/">
+            <i className="fa fa-arrow-left" />
+          </StyledLink>
+        </Content>
+        <ImgColumn>{imgs}</ImgColumn>
+      </NarrowContainer>
+    </Layout>
+  );
+};
 
 const NarrowContainer = styled.div`
-  margin: 10px auto;
-`
+  display: flex;
+`;
+const ImgColumn = styled.div`
+  min-width: 25%;
+`;
+
 const Content = styled.div`
+  margin: 20px;
   @media (max-width: 1386px) {
-    margin: 0 20px ;
+    margin: 0 20px;
   }
-`
+`;
 //todo: similar with staff
 const StyledLink = styled(Link)`
   color: ${props => props.theme.grey};
@@ -41,29 +49,28 @@ const StyledLink = styled(Link)`
   }
 `;
 
+export default ProjectDetail;
+
 export const query = graphql`
-  query($slug: String!, $imgname: String!) {
-    file(relativePath: {regex: $imgname}) {
-      childImageSharp {
-        fluid(maxWidth: 700) {
-      ...GatsbyImageSharpFluid_noBase64
-    }
+  query($imgsRegex: String!, $title: String!) {
+    allImageSharp(filter: { fluid: {src: { regex: $imgsRegex } } }) {
+      edges {
+        node {
+          id
+          fluid(maxWidth: 700) {
+            ...GatsbyImageSharpFluid_noBase64
+          }
+        }
       }
     }
-    markdownRemark(fields: {slug: {eq: $slug}}) {
+    
+    markdownRemark(frontmatter: { title: { eq: $title } }) {
       html
       frontmatter {
         title
         name
-        position
-        thesis
-        supervisor
-        email
-        phone
-        room
-        is
-        rg
+        image
       }
     }
   }
-`
+`;
