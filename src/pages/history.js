@@ -1,7 +1,6 @@
 import React from 'react'
-import styled from 'styled-components'
 import Layout from '../components/layout'
-import HistoryBox from '../components/historyBox'
+import HistoryBox from '../components/HistoryBox'
 
 import B_Zelinka from '../../static/images/history/B_Zelinka.jpg'
 import F_Kubicek from '../../static/images/history/F_Kubicek.jpg'
