@@ -74,3 +74,39 @@ collections:
           - {label: "Name", name: "name", widget: "string"}
           - {label: 'Image', name: 'image', widget: 'image' }
           - {label: "Body", name: "body", widget: "markdown"}
+
+      - file: "src/pages/projects/project3.md"
+        label: "Project 3"
+        name: "project3"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Name", name: "name", widget: "string"}
+          - {label: 'Image', name: 'image', widget: 'image' }
+          - {label: "Body", name: "body", widget: "markdown"}
+
+      - file: "src/pages/projects/project4.md"
+        label: "Project 4"
+        name: "project4"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Name", name: "name", widget: "string"}
+          - {label: 'Image', name: 'image', widget: 'image' }
+          - {label: "Body", name: "body", widget: "markdown"}
+
+      - file: "src/pages/projects/project5.md"
+        label: "Project 5"
+        name: "project5"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Name", name: "name", widget: "string"}
+          - {label: 'Image', name: 'image', widget: 'image' }
+          - {label: "Body", name: "body", widget: "markdown"}
+
+      - file: "src/pages/projects/project6.md"
+        label: "Project 6"
+        name: "project6"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Name", name: "name", widget: "string"}
+          - {label: 'Image', name: 'image', widget: 'image' }
+          - {label: "Body", name: "body", widget: "markdown"}

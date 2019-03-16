@@ -28,7 +28,7 @@ export default ({ children }) => {
     const isWide=
     windowGlobal &&
     windowGlobal.location &&
-    windowGlobal.location.pathname.includes("project1")
+    windowGlobal.location.pathname.includes("project")
       ? true
       : false;
   return (

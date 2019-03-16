@@ -1,7 +1,7 @@
 import React from 'react'
 import styled from 'styled-components'
 import Layout from '../components/layout'
-import HistoryBox from '../components/HistoryBox'
+import HistoryBox from '../components/historyBox'
 
 import B_Zelinka from '../../static/images/history/B_Zelinka.jpg'
 import F_Kubicek from '../../static/images/history/F_Kubicek.jpg'
@@ -39,13 +39,13 @@ const history = {
 const History = () => {
   return (
     <Layout>
-      <Container>
+      <>
         <HistoryBox history={history.hrabe} img={S_Hrabe} />
         <HistoryBox history={history.zelinka} img={B_Zelinka} reverse />
         <HistoryBox history={history.losos} img={M_Losos} />
         <HistoryBox history={history.kubicek} img={F_Kubicek} reverse />
         <HistoryBox history={history.opravilova} reverse />
-      </Container>
+      </>
     </Layout>
   )
 }
@@ -54,6 +54,3 @@ History.propTypes = {}
 
 export default History
 
-const Container = styled.div`
-
-`

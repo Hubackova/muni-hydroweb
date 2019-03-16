@@ -5,7 +5,7 @@ export default ({ data }) => <ProjectDetail data={data} />;
 
 export const query = graphql`
   query {
-    allImageSharp(filter: {fluid: {src: {regex: "/project3_/"}}}) {
+    allImageSharp(filter: {fluid: {src: {regex: "/project6_/"}}}) {
       edges {
         node {
           id
@@ -15,7 +15,7 @@ export const query = graphql`
         }
       }
     }
-    markdownRemark(frontmatter: {title: {eq: "project3"}}) {
+    markdownRemark(frontmatter: {title: {eq: "project6"}}) {
       html
       frontmatter {
         title
