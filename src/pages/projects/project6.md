@@ -34,6 +34,8 @@ comming soon...
 
 Jan Sychra, Alžbeta Devánová
 
+<div class="project-publication">
+
 **Vybrané publikace**
 
 Reiter A., Merta L. &amp; Sychra J. (2014): Nové nálezy velkých lupenonožců (Crustacea: Anostraca,
@@ -50,8 +52,14 @@ Němec R. &amp; Sychra J. (2017): Polní mokřady. Pp. 281–291. In Čížková
 (eds.): Mokřady. Ekologie, ochrana a udržitelné využívání. Episteme. Natura. Jihočeská univerzita
 v Českých Budějovicích. 630 pp.
 
+</div>
+
+<div class="project-theses">
+
 **Obhájené bakalářské a diplomové práce**
 
 Alžběta Devánová 2017: Biologie a ekologie velkých lupenonožců v polních rozlivech. BP
 
 Dorota Gvozdjáková 2017: Planktonní společenstva korýšů v periodických vodách. BP
+
+</div>

@@ -27,6 +27,8 @@ vodního režimu. Program přeshraniční spolupráce ČR a Svobodný stát Bavo
 
 Jindřiška Bojková, Vanda Šorfová, Jan Sychra, Vít Syrovátka, Jana Petruželová a Eva Hanáková
 
+<div class="project-publication">
+
 **Vybrané publikace**
 
 Růžičková S., Schenková J., Weissová V. &amp; Helešic J. 2014. Environmental impact of heated mining waters on
@@ -40,15 +42,18 @@ Engineering, 109: 119–132.
 community of a stream affected by mineralized heated mining water inflow. Annales de Limnologie -
 International Journal of Limnology, 53: 189–201.
 
-**Témata, kterými se na území NP Šumava a NP Bavorský les zabýváme:**
+</div>
+
+###Témata, kterými se na území NP Šumava a NP Bavorský les zabýváme:###
 
 ---
 
 ####1. Dlouhodobý monitoring zotavování šumavských jezer z acidifikace####
-
 Ve spolupráci s [Biologickým centrem Akademie věd](https://www.hbu.cas.cz/) a [Jihočeskou univerzitou v Českých Budějovicích](https://www.jcu.cz/) se zabýváme sledováním vývoje prostředí a bentických a planktonních společenstev
 osmi jezer, která jsou v různém stupni zotavení z acidifikace. Dosud byla vyhodnocena data z období
 1999–2010 a studie dále pokračuje.
+
+<div class="project-publication">
 
 **Publikace**
 
@@ -63,11 +68,11 @@ M., Nedbalová L., Papáček M., Rádková V., Sacherová V.,
 Soldán T. &amp; Šorf M. 2016. Constraints on the biological
 recovery of the Bohemian Forest lakes from acid stress.
 Freshwater Biology, 61: 376–395.
+</div>
 
 ---
 
 ####2. Monitoring vývoje revitalizovaných potoků ve Vltavském luhu####
-
 Ve spolupráci se [Správou NP Šumava](http://www.npsumava.cz/cz/1005/sekce/o-organizaci/) a [Přírodovědeckou fakultou Jihočeské univerzity v Českých
 Budějovicích](https://kbe.prf.jcu.cz/) sledujeme kolonizaci a vývoj bentických společenstev ve třech potocích (Hučina,
 Jedlový a Žlebský potok), jejichž regulovaná koryta byla revitalizována (částečným) zasypáním a
@@ -75,6 +80,8 @@ vybudováním nových koryt v původní trase. Zajímá nás nejen sukcese spole
 dynamika vývoje mesohabitatů v nových korytech a kontrast společenstev vůči regulovaným, ale do
 značné míry renaturalizovaným, korytům a okolním biotopům tekoucích vod. Monitoring probíhá od
 roku 2014 až do roku 2018.
+
+<div class="project-publication">
 
 **Publikace**
 
@@ -91,6 +98,10 @@ Bojková J., Bufková I., Rádková V., Soldán T. &amp; Vrba
 J. 2017. Jak se žije v revitalizovaných potocích na
 Šumavě. Živa, 2: 75–76. PFD
 
+</div>
+
+<div class="project-theses">
+
 **Obhájené bakalářské a diplomové práce**
 
 de Donnová S. 2018. Krátkodobá kolonizace revitalizovaných potoků makrozoobentosem: případová
@@ -101,10 +112,11 @@ Paterová S. 2018. Vývoj společenstev makrozoobentosu v revitalizovaném úsek
 
 Paterová S. 2016. Revitalizace malých vodních toků v České republice. Bakalářská práce. PDF
 
+</div>
+
 ---
 
 ####3. Monitoring diversity bezobratlých rašelinišť a horských povodí####
-
 Základní monitoring vodního hmyzu a zooplanktonu ve vztahu k podmínkám prostředí se zaměřuje na
 porovnání přirozených, narušených a revitalizovaných rašelinišť na Šumavě a výzkum biodiversity
 vrchovištní jezírek a aluviálních tůní s důrazem na vzácné, ohrožené a specializované druhy, které
@@ -114,6 +126,8 @@ Große Ohe a Vydry, se věnuje problematice vlivu acidifikace a vlastností povo
 vztahu ke struktuře lesních porostů) na biodiversitu
 makrozoobentosu.
 
+<div class="project-publication">
+
 **Publikace**
 
 Bojková J., Seifert L., Petruželová J., Šorfová V.,
@@ -122,3 +136,4 @@ richness and composition of macroinvertebrate
 assemblages in the Bavarian Forest National Park:
 Preliminary results of the stream monitoring. Silva
 Gabreta, 24: 171–211. PDF
+</div>

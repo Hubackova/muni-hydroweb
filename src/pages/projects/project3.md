@@ -55,7 +55,7 @@ ochranného pásma - TITSMZP707).
 Petr Pařil, Marek Polášek, Barbora Loskotová, Alena Dostálová, Vendula Polášková, Michal Straka,
 Eva Hanáková, Jan Šupina, Jiří Jakubínský, Světlana Zahrádková, Jan Helešic
 
-
+<div class="project-publication">
 
 **Publikace**
 
@@ -120,7 +120,9 @@ certifikovaná Ministerstvem životního prostředí dne 21.12. 2015 pod čísle
 Úřad průmyslového vlastnictví, Praha; Vlastník: Výzkumný ústav vodohospodářský
 T.G.M. v.v.i.
 
+</div>
 
+<div class="project-theses">
 
 **Obhájené diplomové a bakalářské práce s tematikou vysychavých toků**
 
@@ -157,3 +159,5 @@ bezobratlých osidlující vyschlé toky zjištěné odchytem do zemních pastí
 · _Veronika Guziurová,_ 2007. [Makrozoobentos intermitentního toku-průběh rekolonizace po vyschnutí](https://is.muni.cz/th/o656l/). [BP]
 
 · _Jitka Krajčová_, 2007 [Driftová aktivita makrozoobentosu intermitentního toku.](https://is.muni.cz/th/mc94v/?lang=cs) [BP]
+
+</div>

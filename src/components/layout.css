@@ -47,4 +47,19 @@ a {
 
 h4 {
   color: #0868ac;
+  margin-top: 30px;
+}
+
+/* PROJECTS STYLING */
+.project-publication {
+  border: 1px solid #0868ac;
+  padding: 0 20px;
+  background-color: #D2E3EF;
+}
+
+.project-theses {
+  border: 1px solid #A8DDB5;
+  padding: 0 20px;
+  background-color: #D7EFDD;
+  margin-top: 5px;
 }

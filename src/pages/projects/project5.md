@@ -45,6 +45,7 @@ Diamo – Geam s.p. Dolní Rožínka 1990–2018
 Jana Schenková, Jan Helešic, Martina Poláková, Vendula Polášková, Michal Horsák, Sylvie Žáková, Veronika
 Weissová
 
+<div class="project-publication">
 
 **Vybrané publikace**
 
@@ -60,3 +61,5 @@ Engineering, 109: 119–132.
 Žáková, S., Weissová V., Uher B. &amp; Helešic J. 2017. Macroinvertebrate herbivores and epilithon algae
 community of a stream affected by mineralized heated mining water inflow. Annales de Limnologie -
 International Journal of Limnology, 53: 189–201.
+
+</div>
