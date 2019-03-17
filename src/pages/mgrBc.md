@@ -13,3 +13,5 @@ title: mgrBc
 [Barbora Kropáčová](https://is.muni.cz/auth/osoba/451626)
 [Tereza Marečková](https://is.muni.cz/auth/osoba/436430)
 [Simona Pěničková](https://is.muni.cz/auth/osoba/451194)
+
+**Absolventi**
