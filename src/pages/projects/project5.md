@@ -1,8 +1,7 @@
 ---
 title: project5
 name: Společenstva důlních vod a výsypek
-image: >-
-  /images/project_project5.jpg
+captions: 
 ---
 Rozvoj těžby nerostných surovin probíhal v České republice po staletí a i dnes má tato činnost značný dopad na
 přirozené ekosystémy tekoucích vod. Na Ústavu botaniky a zoologie byl vliv těžební činnosti na společenstva

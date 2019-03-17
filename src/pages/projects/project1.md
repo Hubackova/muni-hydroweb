@@ -1,19 +1,20 @@
 ---
 title: project1
 name: Vodní bezobratlí prameništních slatinišť Západních Karpat
-image: /images/project_project1.jpg
+captions: 2005 - na Hrubém Mechnáči/2005 - Markéta v terénu/2006 - na Obidové s doc. Opravilovou/2007 - Cestou z Kalábové/2007 - Marki a Veny/2010 - bahnologie na Korni/2010 - romantický Štiavnik/2011 - nové lokality budou boží!/2011 - Liptovská Teplička/2011 - parta na Liptovské Tepličce/2011 - Pastierské 2/Veny na Kochlearii/2011 - Víťa staví výletovku na Hutích/2012 - průzkum nových lokalit aneb zase budou boží/2012 - Omšenská Baba 1/2012 - Omšenská Baba 4/2012 - Vricko/2012 - spanilá jízda za brouky/2012 Podhoranské rašelinisko/2012 - Hnilecká Jelšina/2013 - Víťa se raduje na Liptovské tepličce/2014 - mikrodistribuce na Liptovské Tepličce/2016 - hledání pokladů na Hutích
 ---
+
 Prameništní slatiniště jsou cenné mokřadní biotopy, které hostí specifickou faunu i flóru. Není jich
- mnoho a ty nynější jsou navíc ohrožena lidskou činností a změnami klimatu. Slatiniště Západních
- Karpat jsou řídce roztroušena na úbočí hor a kopců, kde na nich díky rozmanitosti geologického
- podloží pozorujeme unikátní gradient minerální bohatosti. Již 10 let zde intenzivně zkoumáme vliv
- podmínek prostředí, zejména onoho minerálně-trofického gradientu, na různé skupiny vodních
- bezobratlých. Podstatnou roli při formování společenstev hrají rovněž kolonizační procesy, to díky vzájemné izolovanosti a různému stáří jednotlivých slatiništních lokalit. Testujeme, do jaké míry se na
- utváření společenstev podepisují způsob šíření druhů a jejich specializace na slatiništní stanoviště.
+mnoho a ty nynější jsou navíc ohrožena lidskou činností a změnami klimatu. Slatiniště Západních
+Karpat jsou řídce roztroušena na úbočí hor a kopců, kde na nich díky rozmanitosti geologického
+podloží pozorujeme unikátní gradient minerální bohatosti. Již 10 let zde intenzivně zkoumáme vliv
+podmínek prostředí, zejména onoho minerálně-trofického gradientu, na různé skupiny vodních
+bezobratlých. Podstatnou roli při formování společenstev hrají rovněž kolonizační procesy, to díky vzájemné izolovanosti a různému stáří jednotlivých slatiništních lokalit. Testujeme, do jaké míry se na
+utváření společenstev podepisují způsob šíření druhů a jejich specializace na slatiništní stanoviště.
 
 V poslední době se zaměřujeme i na studium distribuce vodních bezobratlých v malém měřítku, na
- kterém vystupuje do popředí rozmanitost prostředí i vliv biotických vztahů. Slatiniště totiž mnohdy
- vykazují značnou prostorovou heterogenitu, jež umožňuje koexistenci mnoha druhů na jedné lokalitě, které tak mají možnost spolu interagovat. Abychom objasnili mechanizmy koexistence, zkoumáme ekologické niky jednotlivých druhů, jejich prostorovou, případně časovou segregaci a dokumentujeme konkrétní případy kompetice a predace mezi slatiništními druhy.
+kterém vystupuje do popředí rozmanitost prostředí i vliv biotických vztahů. Slatiniště totiž mnohdy
+vykazují značnou prostorovou heterogenitu, jež umožňuje koexistenci mnoha druhů na jedné lokalitě, které tak mají možnost spolu interagovat. Abychom objasnili mechanizmy koexistence, zkoumáme ekologické niky jednotlivých druhů, jejich prostorovou, případně časovou segregaci a dokumentujeme konkrétní případy kompetice a predace mezi slatiništními druhy.
 
 **Grantové projekty**
 
@@ -33,29 +34,29 @@ invertebrate assemblages of isolated spring fens), Grantová agentura České re
 
 Michal Horsák, Marie Zhai, Jana Schenková, Jindřiška Bojková, Vít Syrovátka, Vendula Polášková,
 Vanda Šorfová, Dana Hřívová, David Výravský, Martina Bílková
-<div class="project-publication">
 
+<div class="project-publication">
 
 **Vybrané publikace**
 
 Horsák M., Polášková V., Zhai M., Bojková J., Syrovátka V., Šorfová V., Schenková J., Polášek M.,
-  Peterka T. & Hájek M. 2018. Spring-fen habitat islands in a warming climate: Partitioning the effects of mesoclimate air and water temperature on aquatic and terrestrial biota. Science of the Total Environment, 634 : 355–365.
+Peterka T. & Hájek M. 2018. Spring-fen habitat islands in a warming climate: Partitioning the effects of mesoclimate air and water temperature on aquatic and terrestrial biota. Science of the Total Environment, 634 : 355–365.
 
 Horsák M., Rádková V., Syrovátka V., Bojková J., Křoupalová V., Schenková J. & Zajacová J. 2015.
-  Drivers of aquatic macroinvertebrate richness in spring fens in relation to habitat specialization and dispersal mode. Journal of Biogeography, 42 : 2112–2121.
+Drivers of aquatic macroinvertebrate richness in spring fens in relation to habitat specialization and dispersal mode. Journal of Biogeography, 42 : 2112–2121.
 
 Omelková M., Syrovátka V., Křoupalová V., Rádková V., Bojková J., Horsák M., Zhai M. & Helešic
-  J. 2013. Dipteran assemblages of spring fens closely follow the gradient of groundwater mineral
-  richness. Canadian Journal of Fisheries and Aquatic Sciences, 70: 689–700.
+J. 2013. Dipteran assemblages of spring fens closely follow the gradient of groundwater mineral
+richness. Canadian Journal of Fisheries and Aquatic Sciences, 70: 689–700.
 
 Rádková V., Bojková J., Křoupalová V., Schenková J., Syrovátka V. & Horsák M. 2014. The role of
-  dispersal mode and habitat specialisation in metacommunity structuring of aquatic macroinvertebrates in isolated spring fens. Freshwater Biology, 59 : 2256–2267.
+dispersal mode and habitat specialisation in metacommunity structuring of aquatic macroinvertebrates in isolated spring fens. Freshwater Biology, 59 : 2256–2267.
 
 Rádková V., Polášková V., Bojková J., Syrovátka V. & Horsák M. 2017. Environmental filtering of
-  aquatic insects in spring fens: patterns of species-specific responses related to specialist-generalist categorization. Hydrobiologia, 797: 159–170.
+aquatic insects in spring fens: patterns of species-specific responses related to specialist-generalist categorization. Hydrobiologia, 797: 159–170.
 
 Rádková V., Syrovátka V., Bojková J., Schenková J., Křoupalová V. & Horsák M. 2014. The
-  importance of species replacement and richness differences in small-scale diversity patterns of aquatic macroinvertebrates in spring fens. Limnologica, 47: 52–61.
+importance of species replacement and richness differences in small-scale diversity patterns of aquatic macroinvertebrates in spring fens. Limnologica, 47: 52–61.
 
 Schenková J., Bílková M. & Horsák M. 2016. The response of Clitellata (Annelida) to environmental gradients in spring fens. Limnologica, 57: 73–82.
 
@@ -69,7 +70,6 @@ Zhai M., Nováček O., Výravský D., Bojková J. & Helešic J. 2015. Environmen
 
 <div class="project-theses">
 
-
 **Obhájené disertační a diplomové práce**
 
 Rádková V. 2016. The influence of environmental variables and dispersal abilities on distribution of aquatic macroinvertebrate larvae in isolated spring fens. Disertační práce.
@@ -81,23 +81,23 @@ Omelková M. 2012. Druhová skladba a ekologie dvoukřídlých (Diptera) na pram
 Bojková J. 2009. Variabilita makrozoobentosu podél minerálně trofického gradientu prameništních slatinišť. Disertační práce.
 
 Havlík T. 2017. Vliv disperze na strukturu společenstev vodních brouků (Coleoptera) izolovaných
-  slatinišť. Diplomová práce.
+slatinišť. Diplomová práce.
 
 Výravský D. 2016. Mikrodistribuce lasturnatek (Ostracoda) na heterogenním prameništním slatiništi. Diplomová práce.
 
 Zajacová J. 2016. Druhová variabilita chrostíků (Trichoptera) na slatiništích ve vztahu ke
-  společenstvům okolních potoků. Diplomová práce.
+společenstvům okolních potoků. Diplomová práce.
 
 Bílková M. 2014. Geografická a ekologická variabilita opaskovců (Clitellata) prameništních slatinišť v Západních Karpatech. Diplomová práce.
 
 Doležalová S. 2014. Taxocenózy plazivek (Copepoda: Harpacticoida) vybraných potoků Bílých
-  Karpat: vliv mesohabitatu. Diplomová práce.
+Karpat: vliv mesohabitatu. Diplomová práce.
 
 Hřívová D. 2014. Taxocenózy plazivek (Copepoda: Harpacticoida) na prameništních slatiništích
-  Západních Karpat. Diplomová práce.
+Západních Karpat. Diplomová práce.
 
 Rádková V. 2011. Makrozoobentos pramenných stružek slatinišť moravsko-slovenského pomezí.
-  Diplomová práce.
+Diplomová práce.
 
 Nováček O. 2010. Struktura a složení taxocenóz lasturnatek (Ostracoda) podél gradientu minerální bohatosti prameništních slatinišť. Diplomová práce.
 

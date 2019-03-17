@@ -1,8 +1,7 @@
 ---
 title: project3
 name: Výzkum vysychavých toků
-image: >-
-  /images/project_project3.jpg
+captions: 
 ---
 Základ pracovní skupiny se zformoval v letech 2012-2015 během projektu [BIOSUCHO](www.sucho.eu) (Vysychání
 toků v období klimatické změny: predikce rizika a biologická indikace epizod vyschnutí jako nové

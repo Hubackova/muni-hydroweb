@@ -1,8 +1,7 @@
 ---
 title: project4
 name: Silva Gabreta Monitoring – Přeshraniční monitoring biodiversity a vodního režimu
-image: >-
-  /images/project_project4.jpg
+captions: 
 ---
 
 V rámci Programu přeshraniční spolupráce České republiky a Bavorska se podílíme na projektu [Silva

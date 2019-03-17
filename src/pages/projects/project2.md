@@ -1,7 +1,7 @@
 ---
 title: project2
 name: "Dlouhodobé změny toků a jejich bioty v\_České republice"
-image: /images/project_project2.jpg
+captions: 
 ---
 Sladkovodní biotopy byly v průběhu minulého století silně zasaženy různými antropickými vlivy,
 které výrazně ovlivnily současný ekologický stav toků a také výskyt mnoha druhů vodních organismů.
