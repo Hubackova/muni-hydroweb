@@ -16,7 +16,7 @@ export default ({ data }) => {
           return (
             <ProjectBox
               project={node}
-              key={node.id}
+              key={node.frontmatter.title}
               linkTo={`projects/${node.frontmatter.title}`}
               fluid={img && img.node.fluid}
             />

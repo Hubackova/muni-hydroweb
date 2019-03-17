@@ -77,7 +77,3 @@ const Name = styled.h3`
 const Div = styled.div`
     margin: 10px 0px;
  `
-
-const StyledImg = styled.img`
-max-width: 250px ;
-`

@@ -48,20 +48,25 @@ class ProjectDetail extends Component {
     const {
       data: { markdownRemark, allImageSharp }
     } = this.props;
+    const { captions } = markdownRemark.frontmatter;
+    const captionsArray = captions ? captions.split("/") : [];
+
     const imgs =
       allImageSharp &&
       allImageSharp.edges.map((i, index) => (
-        <div onClick={e => this.openLightbox(e, index)}>
-          <Img fluid={i.node.fluid} />
+        <div className="gallery-img" onClick={e => this.openLightbox(e, index)} key={i.node.fluid.src}>
+          <Img fluid={i.node.fluid} alt={captionsArray[index]}/>
         </div>
       ));
     const imgs2 = imgs && imgs.splice(0, Math.ceil(imgs.length / 2));
-    const {captions} = markdownRemark.frontmatter
-    const captionsArray = captions ? captions.split("/") : [];
     const photos =
       allImageSharp &&
       allImageSharp.edges.map((photo, index) =>
-        Object.assign({ srcSet: photo.node.fluid.srcSet, caption: captionsArray[index] })
+        Object.assign({
+          srcSet: photo.node.fluid.srcSet,
+          src: photo.node.fluid.src,
+          caption: captionsArray[index]
+        })
       );
 
     return (

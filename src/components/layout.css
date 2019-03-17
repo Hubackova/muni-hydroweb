@@ -63,3 +63,7 @@ h4 {
   background-color: #D7EFDD;
   margin-top: 5px;
 }
+
+.gallery-img {
+  cursor: pointer;
+}
