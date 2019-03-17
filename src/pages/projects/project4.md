@@ -1,7 +1,7 @@
 ---
 title: project4
 name: Silva Gabreta Monitoring – Přeshraniční monitoring biodiversity a vodního režimu
-captions: 
+captions: /Černé jezero/Jezírko na Blatinské slati/revitalizovaná Hučina/Roklanský potok
 ---
 
 V rámci Programu přeshraniční spolupráce České republiky a Bavorska se podílíme na projektu [Silva

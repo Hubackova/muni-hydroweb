@@ -12,18 +12,18 @@ class ProjectDetail extends Component {
   };
 
   closeLightbox = () => {
-		this.setState({
-			currentImage: 0,
-			lightboxIsOpen: false,
-		});
+    this.setState({
+      currentImage: 0,
+      lightboxIsOpen: false
+    });
   };
 
-	gotoImage (index) {
-		this.setState({
-			currentImage: index,
-		});
+  gotoImage(index) {
+    this.setState({
+      currentImage: index
+    });
   }
-  
+
   openLightbox = (e, index) => {
     e.preventDefault();
     this.setState({
@@ -56,8 +56,13 @@ class ProjectDetail extends Component {
         </div>
       ));
     const imgs2 = imgs && imgs.splice(0, Math.ceil(imgs.length / 2));
-    const captions = markdownRemark.frontmatter.captions.split("/")
-    const photos = allImageSharp && allImageSharp.edges.map((photo, index) => Object.assign({ srcSet: photo.node.fluid.srcSet, caption: captions[index] }))
+    const {captions} = markdownRemark.frontmatter
+    const captionsArray = captions ? captions.split("/") : [];
+    const photos =
+      allImageSharp &&
+      allImageSharp.edges.map((photo, index) =>
+        Object.assign({ srcSet: photo.node.fluid.srcSet, caption: captionsArray[index] })
+      );
 
     return (
       <Layout>
@@ -114,9 +119,10 @@ export default ProjectDetail;
 
 export const query = graphql`
   query($imgsRegex: String!, $title: String!) {
-    allImageSharp(filter: { fluid: { src: { regex: $imgsRegex } } }
-      sort: {fields: [fluid___originalName], order: ASC}
-      ) {
+    allImageSharp(
+      filter: { fluid: { src: { regex: $imgsRegex } } }
+      sort: { fields: [fluid___originalName], order: ASC }
+    ) {
       edges {
         node {
           id

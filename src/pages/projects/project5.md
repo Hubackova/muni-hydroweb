@@ -1,7 +1,7 @@
 ---
 title: project5
 name: Společenstva důlních vod a výsypek
-captions: 
+captions: Modráčkový potok/prameniště Anita/Okružní potok/lom Jiří/Červená Ema
 ---
 Rozvoj těžby nerostných surovin probíhal v České republice po staletí a i dnes má tato činnost značný dopad na
 přirozené ekosystémy tekoucích vod. Na Ústavu botaniky a zoologie byl vliv těžební činnosti na společenstva
