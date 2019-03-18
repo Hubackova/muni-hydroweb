@@ -47,7 +47,7 @@ collections:
     fields:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Name", name: "name", widget: "string"}
-      - {label: 'Image', name: 'image', widget: 'image' }
+      - {label: 'Image labels', name: 'captions', widget: 'string' }
       - {label: "Body", name: "body", widget: "markdown"}
 
   - name: pages
