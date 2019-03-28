@@ -14,8 +14,6 @@ Od roku 1995 pracuji na Ústavu botaniky a zoologie Masarykovy univerzity. Vystu
 
 **Výzkumná témata:**
 
-* Hnědouhelné výsypky: společenstva pramenišť a tekoucích vod výsypek, studium analogie s 
-* pěnovcovými slatiništi Západních Karpat
-* Ekologie společenstev opaskovců na prameništních slatiništích: vliv gradientů prostředí a
-* schopnosti disperze
+* Hnědouhelné výsypky: společenstva pramenišť a tekoucích vod výsypek, studium analogie s pěnovcovými slatiništi Západních Karpat
+* Ekologie společenstev opaskovců na prameništních slatiništích: vliv gradientů prostředí a schopnosti disperze
 * Společenstva opaskovců Moravského Krasu, diverzita, distribuce, gradienty prostředí
