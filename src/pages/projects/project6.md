@@ -56,8 +56,8 @@ v Českých Budějovicích. 630 pp.
 
 **Obhájené bakalářské a diplomové práce**
 
-Alžběta Devánová 2017: Biologie a ekologie velkých lupenonožců v polních rozlivech. BP
+_Alžběta Devánová_ 2017: [Biologie a ekologie velkých lupenonožců v polních rozlivech](https://is.muni.cz/th/izs30?). BP
 
-Dorota Gvozdjáková 2017: Planktonní společenstva korýšů v periodických vodách. BP
+_Dorota Gvozdjáková_ 2017: [Planktonní společenstva korýšů v periodických vodách](https://is.muni.cz/th/aei4t?). BP
 
 </div>
