@@ -23,9 +23,11 @@ několik mezinárodních konferencí RIVER BOTTOM (1990, 1993, 1996).
 
 **Výzkumná témata:**
 
-* Autekologie vodních opaskovců na prameništních slatiništích
-* Kroužkovci pramenných mokřadů a přilehlých luk a pastvin
-* Monitoring pijavky lékařské Trocheta cylindrica: naše největší pijavice
-* Vliv technického zasněžování na drobné kroužkovce v Krkonoších
+* Ekologie tekoucích vod, hyporealu, procesy na a v říčním dně a obecné problémy populací a společenstev vodních bezobratlých
+* Ekotoxikologie a detekce znečištění prostředí perzistentními polutanty
+* Taxonomická specializace: pošvatky (Plecoptera) (Ph.D. v roce 1995)
+* Bioindikace stavu tekoucích vod (habilitace v roce 1999)
+
+
 
 **Seznam vědeckých a odborných prací** [zde](helesic.pdf)
