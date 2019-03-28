@@ -1,9 +1,10 @@
 ---
 title: project4
-name: Silva Gabreta Monitoring – Přeshraniční monitoring biodiversity a vodního režimu
+name: >-
+  Silva Gabreta Monitoring – Přeshraniční monitoring biodiversity a vodního
+  režimu
 captions: /Černé jezero/Jezírko na Blatinské slati/revitalizovaná Hučina/Roklanský potok
 ---
-
 V rámci Programu přeshraniční spolupráce České republiky a Bavorska se podílíme na projektu [Silva
 Gabreta Monitoring](http://www.silvagabreta.eu/index.html.cs) zaměřeném na Národní parky Šumava a Bavorský les, které byly oceněny
 certifikátem ["Transboundary Parks"](https://www.europarc.org/bavarian-forest-sumava-national-parks/?utm_source=ep&utm_medium=search&utm_campaign=linktrack&utm_content=results). Cílem projektu je vytvoření funkční infrastruktury přeshraniční
@@ -43,11 +44,11 @@ International Journal of Limnology, 53: 189–201.
 
 </div>
 
-###Témata, kterými se na území NP Šumava a NP Bavorský les zabýváme:###
+\###Témata, kterými se na území NP Šumava a NP Bavorský les zabýváme:###
 
----
+- - -
 
-####1. Dlouhodobý monitoring zotavování šumavských jezer z acidifikace####
+\####1. Dlouhodobý monitoring zotavování šumavských jezer z acidifikace####
 Ve spolupráci s [Biologickým centrem Akademie věd](https://www.hbu.cas.cz/) a [Jihočeskou univerzitou v Českých Budějovicích](https://www.jcu.cz/) se zabýváme sledováním vývoje prostředí a bentických a planktonních společenstev
 osmi jezer, která jsou v různém stupni zotavení z acidifikace. Dosud byla vyhodnocena data z období
 1999–2010 a studie dále pokračuje.
@@ -67,11 +68,12 @@ M., Nedbalová L., Papáček M., Rádková V., Sacherová V.,
 Soldán T. &amp; Šorf M. 2016. Constraints on the biological
 recovery of the Bohemian Forest lakes from acid stress.
 Freshwater Biology, 61: 376–395.
+
 </div>
 
----
+- - -
 
-####2. Monitoring vývoje revitalizovaných potoků ve Vltavském luhu####
+\####2. Monitoring vývoje revitalizovaných potoků ve Vltavském luhu####
 Ve spolupráci se [Správou NP Šumava](http://www.npsumava.cz/cz/1005/sekce/o-organizaci/) a [Přírodovědeckou fakultou Jihočeské univerzity v Českých
 Budějovicích](https://kbe.prf.jcu.cz/) sledujeme kolonizaci a vývoj bentických společenstev ve třech potocích (Hučina,
 Jedlový a Žlebský potok), jejichž regulovaná koryta byla revitalizována (částečným) zasypáním a
@@ -103,19 +105,19 @@ J. 2017. Jak se žije v revitalizovaných potocích na
 
 **Obhájené bakalářské a diplomové práce**
 
-de Donnová S. 2018. Krátkodobá kolonizace revitalizovaných potoků makrozoobentosem: případová
-studie z Vltavského luhu (NP Šumava). Bakalářská práce. PDF
+_de Donnová S._ 2018. [Krátkodobá kolonizace revitalizovaných potoků makrozoobentosem: případová
+studie z Vltavského luhu (NP Šumava)](https://is.muni.cz/th/gro6o/). Bakalářská práce
 
-Paterová S. 2018. Vývoj společenstev makrozoobentosu v revitalizovaném úseku říčky Hučiny (NP
-Šumava). Diplomová práce. PDF
+_Paterová S._ 2018. [Vývoj společenstev makrozoobentosu v revitalizovaném úseku říčky Hučiny (NP
+Šumava)](https://is.muni.cz/th/ucgqs/). Diplomová práce
 
-Paterová S. 2016. Revitalizace malých vodních toků v České republice. Bakalářská práce. PDF
+_Paterová S._ 2016. [Revitalizace malých vodních toků v České republice](https://is.muni.cz/th/znct7). Bakalářská práce
 
 </div>
 
----
+- - -
 
-####3. Monitoring diversity bezobratlých rašelinišť a horských povodí####
+\####3. Monitoring diversity bezobratlých rašelinišť a horských povodí####
 Základní monitoring vodního hmyzu a zooplanktonu ve vztahu k podmínkám prostředí se zaměřuje na
 porovnání přirozených, narušených a revitalizovaných rašelinišť na Šumavě a výzkum biodiversity
 vrchovištní jezírek a aluviálních tůní s důrazem na vzácné, ohrožené a specializované druhy, které
@@ -135,4 +137,5 @@ richness and composition of macroinvertebrate
 assemblages in the Bavarian Forest National Park:
 Preliminary results of the stream monitoring. Silva
 Gabreta, 24: 171–211. PDF
+
 </div>
