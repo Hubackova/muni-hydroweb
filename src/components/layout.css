@@ -23,7 +23,7 @@ body h1, body h2 {
 }
 
 h1 {
-  font-size: calc(22px + 1.6vw);
+  font-size: calc(20px + 1.4vw);
 }
 
 h2 {
@@ -50,6 +50,13 @@ h4 {
   margin-top: 30px;
 }
 
+h5 {
+  font-size: 1em;
+}
+@media (max-width: 400px) {
+  h5 {font-size: 0.8em;};
+}
+
 /* PROJECTS STYLING */
 .project-publication {
   border: 1px solid #0868ac;
@@ -64,6 +71,11 @@ h4 {
   margin-top: 5px;
 }
 
+.project-body > p {
+  text-align: justify;
+}
+
 .gallery-img {
   cursor: pointer;
+  padding: 0.2rem 0;
 }

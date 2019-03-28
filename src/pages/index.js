@@ -24,11 +24,11 @@ export default () => (
           <p>
             Naše pracovní skupina hydrobiologů se věnuje výzkumu těchto tří mechanizmů ve vodním
             prostředí na různých prostorových i časových škálách. Naše studijní plochy zahrnují
-            přirozené, dosud relativně neovlivněné lokality (např. referenční toky vyšších a
-            středních poloh, prameniště a rašeliniště) i lokality pod silným antropogenním tlakem
-            (rybníky, polní mokřady, velké řeky, důlní vody). Zvláštní pozornost věnujeme otázkám,
+            přirozené, dosud relativně neovlivněné lokality (např. <Blue>referenční toky vyšších a
+            středních poloh, prameniště a rašeliniště</Blue>) i lokality pod silným antropogenním tlakem
+            (<Blue>rybníky, polní mokřady, velké řeky, důlní vody</Blue>). Zvláštní pozornost věnujeme otázkám,
             které souvisí s dopady dlouhodobých synergických změn (především klimatu a znečištění)
-            na biodiverzitu vodního prostředí, jmenovitě problému vysychání lokalit vlivem
+            na biodiverzitu vodního prostředí, jmenovitě problému <Blue>vysychání toků</Blue> vlivem
             extremizace srážek, změn biodiverzity v řekách nižších poloh, ale také strategiím druhů
             pro přežívání silně pozměněných až extrémních podmínek.
           </p>
@@ -51,4 +51,8 @@ export default () => (
 const Container = styled.div`
   width: 90%;
   margin: 0 auto;
+`;
+
+const Blue = styled.span`
+  color: ${props => props.theme.main};
 `;

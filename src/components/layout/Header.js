@@ -40,7 +40,7 @@ const HeaderComponent = ({ className }) => (
                 </Link>
                 {!className && (
                   <SubMain>
-                    Ústav botaniky a zoologie | Masarykova univerzita | Přírodovědecká fakulta
+                    Ústav botaniky a zoologie | Přírodovědecká fakulta | Masarykova univerzita
                   </SubMain>
                 )}
               </Muni>
@@ -121,6 +121,7 @@ const SubMain = styled.div`
   font-size: 1em;
   color: ${props => props.theme.white};
   padding-bottom: 0.5em;
+  margin-top: 0.7em;
   @media (max-width: 600px) {
     display: none;
   }

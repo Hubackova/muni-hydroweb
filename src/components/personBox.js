@@ -56,14 +56,14 @@ const Box = styled.div`
   display: flex;
   margin-top: 20px;
   @media (max-width: 1386px) {
-    margin: 0 20px ;
+    margin: 5px 20px ;
   }
   @media (max-width: 800px) {
     flex-wrap: wrap;
   }
 `
 const ImgBox = styled.div`
-  min-width: 300px;
+  min-width: 240px;
   margin-right: 15px;
 `
 

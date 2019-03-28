@@ -10,7 +10,7 @@ const footer = {
     university: ' Masarykovy Univerzity',
     postalAddressHeading: 'Poštovní adresa: ',
     physicalAddressHeading: 'Adresa pracoviště: ',
-    postalAddress: 'Kotlářská 267/2, 611 37, Brno, Czech Republic',
+    postalAddress: 'Kotlářská 267/2, 611 37, Brno, Česká Rpublika',
     physicalAddress: 'Univerzitní kampus Bohunice, budova A32, Kamenice 753/5, 625 00, Brno, Česká republika',
     links: 'Odkazy'
 }

@@ -83,7 +83,7 @@ class ProjectDetail extends Component {
               onClose={this.closeLightbox}
             />
             <h1>{markdownRemark.frontmatter.name}</h1>
-            <div dangerouslySetInnerHTML={{ __html: markdownRemark.html }} />
+            <div className="project-body" dangerouslySetInnerHTML={{ __html: markdownRemark.html }} />
             <StyledLink to="/projects/">
               <i className="fa fa-arrow-left" />
             </StyledLink>

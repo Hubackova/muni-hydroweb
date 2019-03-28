@@ -29,8 +29,16 @@ export default ({ data }) => {
 
 const Container = styled.div`
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(28vw, 28vw));
+  grid-gap: 5px;
   justify-content: center;
+  margin: 20px;
+  @media (max-width: 1386px) {
+    grid-template-columns: repeat(auto-fill, minmax( 40vw, 40vw));
+  }
+  @media (max-width: 800px) {
+    grid-template-columns: repeat(auto-fill, minmax( 85vw, 85vw));
+  }
 `;
 
 export const query = graphql`
