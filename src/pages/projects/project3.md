@@ -117,8 +117,8 @@ T.G.M. v.v.i.
 
 · _Jan Semerád_ 2018 [Vodní toky jako koridory pro přesuny terestrických obratlovců](https://is.muni.cz/th/sja9w/). \[BP]
 
-· _Terezie Rosová 2018. [Společenstvo
-bezobratlých osidlující vyschlé toky zjištěné odchytem do zemních pastí](https://is.muni.cz/th/nwt6q/). \[BP]_
+· _Terezie Rosová_ 2018. _[Společenstvo
+bezobratlých osidlující vyschlé toky zjištěné odchytem do zemních pastí](https://is.muni.cz/th/nwt6q/)_. \[BP]
 
 _· Barbora Loskotová_ 2017. [Možnosti využití makrozoobentosu z vyschlého dna pro indikaci doby vyschnutí toku](https://is.muni.cz/th/i6in5/). \[DP]
 
