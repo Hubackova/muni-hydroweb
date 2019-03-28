@@ -111,39 +111,39 @@ T.G.M. v.v.i.
 
 **Obhájené diplomové a bakalářské práce s tematikou vysychavých toků**
 
-· _Alena Dostálová_ 2018. [Vliv vysychání toků na populační strukturu a fekunditu blešivce potočního (_Gammarus fossarum_)](https://is.muni.cz/th/lxojn/). \[DP]
+_Alena Dostálová_ 2018. [Vliv vysychání toků na populační strukturu a fekunditu blešivce potočního (_Gammarus fossarum_)](https://is.muni.cz/th/lxojn/). \[DP]
 
-· _Jindřich Havelka_ 2018. [Potenciál dna vysychavých toků pro obnovu populací vodních bezobratlých po obnovení průtoku](https://is.muni.cz/th/aznik/). \[DP]
+_Jindřich Havelka_ 2018. [Potenciál dna vysychavých toků pro obnovu populací vodních bezobratlých po obnovení průtoku](https://is.muni.cz/th/aznik/). \[DP]
 
-· _Jan Semerád_ 2018 [Vodní toky jako koridory pro přesuny terestrických obratlovců](https://is.muni.cz/th/sja9w/). \[BP]
+_Jan Semerád_ 2018 [Vodní toky jako koridory pro přesuny terestrických obratlovců](https://is.muni.cz/th/sja9w/). \[BP]
 
-· _Terezie Rosová_ 2018. _[Společenstvo
+_Terezie Rosová_ 2018. _[Společenstvo
 bezobratlých osidlující vyschlé toky zjištěné odchytem do zemních pastí](https://is.muni.cz/th/nwt6q/)_. \[BP]
 
-_· Barbora Loskotová_ 2017. [Možnosti využití makrozoobentosu z vyschlého dna pro indikaci doby vyschnutí toku](https://is.muni.cz/th/i6in5/). \[DP]
+_Barbora Loskotová_ 2017. [Možnosti využití makrozoobentosu z vyschlého dna pro indikaci doby vyschnutí toku](https://is.muni.cz/th/i6in5/). \[DP]
 
-· _Barbora Loskotová_ 2015. [Odolnost vybraných skupin makrozoobentosu vůči vysychání](https://is.muni.cz/th/umeoo/). \[BP]
+_Jiří Habarta_ 2016. [Potenciální využití pošvatek (Plecoptera) pro bioindikaci vysychavých toků](https://is.muni.cz/th/fp8i9/). \[DP]
 
-· _Jiří Habarta_ 2016. [Potenciální využití pošvatek (Plecoptera) pro bioindikaci vysychavých toků](https://is.muni.cz/th/fp8i9/). \[DP]
+_Alena Dostálová_ 2016. [Změny struktury populace blešivce potočního (_Gammarus fossarum_) po vyschnutí toku](https://is.muni.cz/th/fwgb1/). \[BP]
 
-· _Alena Dostálová_ 2016. [Změny struktury populace blešivce potočního (_Gammarus fossarum_) po vyschnutí toku](https://is.muni.cz/th/fwgb1/). \[BP]
+_Barbora Loskotová_ 2015. [Odolnost vybraných skupin makrozoobentosu vůči vysychání](https://is.muni.cz/th/umeoo/). \[BP]
 
-· _Jiří Habarta_ 2013. [Typy životních cyklů pošvatek (Plecoptera) ve vysychavém toku](https://is.muni.cz/th/foavd/). \[BP]
+_Jiří Habarta_ 2013. [Typy životních cyklů pošvatek (Plecoptera) ve vysychavém toku](https://is.muni.cz/th/foavd/). \[BP]
 
-· _Eva Hanáková_ 2012. [Změny prostorové distribuce makro- a meiobentosu v dnových sedimentech vysychavých toků](https://is.muni.cz/th/nn3dy/) \[DP]
+_Eva Hanáková_ 2012. [Změny prostorové distribuce makro- a meiobentosu v dnových sedimentech vysychavých toků](https://is.muni.cz/th/nn3dy/) \[DP]
 
-· _Eva Hanáková_ 2009. [Vertikální distribuce makrozoobentosu vysychavého toku](https://is.muni.cz/th/v5ev2/). \[BP]
+_Eva Hanáková_ 2009. [Vertikální distribuce makrozoobentosu vysychavého toku](https://is.muni.cz/th/v5ev2/). \[BP]
 
-· _Jitka Krajčová_ 2009. [Migrace makrozoobentosu v intermitentním toku](https://is.muni.cz/th/plqq6/) \[DP]
+_Jitka Krajčová_ 2009. [Migrace makrozoobentosu v intermitentním toku](https://is.muni.cz/th/plqq6/) \[DP]
 
-· _Jana Zavadilová_ 2009 [Životní strategie blešivce potočního (_Gammarus fossarum_) v podmínkách intermitentního toku](https://is.muni.cz/th/w9wdp/). \[DP]
+_Jana Zavadilová_ 2009 [Životní strategie blešivce potočního (_Gammarus fossarum_) v podmínkách intermitentního toku](https://is.muni.cz/th/w9wdp/). \[DP]
 
-· _Veronika Guziurová_ 2009. [Sezónní dynamika makrozoobentosu intermitentního toku](https://is.muni.cz/th/lflfv/). \[DP]
+_Veronika Guziurová_ 2009. [Sezónní dynamika makrozoobentosu intermitentního toku](https://is.muni.cz/th/lflfv/). \[DP]
 
-· _Jana Zavadilová_ 2007. [Změny habitatových preferencí druhu _Gammarus fossarum_ v průběhu vysychání toku](https://is.muni.cz/th/ug0cz/). \[BP]
+_Jana Zavadilová_ 2007. [Změny habitatových preferencí druhu _Gammarus fossarum_ v průběhu vysychání toku](https://is.muni.cz/th/ug0cz/). \[BP]
 
-· _Veronika Guziurová_ 2007. [Makrozoobentos intermitentního toku-průběh rekolonizace po vyschnutí](https://is.muni.cz/th/o656l/). \[BP]
+_Veronika Guziurová_ 2007. [Makrozoobentos intermitentního toku-průběh rekolonizace po vyschnutí](https://is.muni.cz/th/o656l/). \[BP]
 
-· _Jitka Krajčová_ 2007 [Driftová aktivita makrozoobentosu intermitentního toku.](https://is.muni.cz/th/mc94v/?lang=cs) \[BP]
+_Jitka Krajčová_ 2007 [Driftová aktivita makrozoobentosu intermitentního toku.](https://is.muni.cz/th/mc94v/?lang=cs) \[BP]
 
 </div>
