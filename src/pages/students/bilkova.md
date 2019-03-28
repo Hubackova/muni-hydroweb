@@ -10,12 +10,11 @@ phone: 549498559
 room: A32/313
 is: 'https://www.muni.cz/en/students/356804-martina-bilkova'
 rg: '-'
-image: >-
-  /images/phd_bilkova.jpg
+image: /images/phd_bilkova.jpg
 ---
 **Výzkumná témata:**
 
 * Autekologie vodních opaskovců na prameništních slatiništích
 * Kroužkovci pramenných mokřadů a přilehlých luk a pastvin
-* Monitoring pijavky lékařské Trocheta cylindrica: naše největší pijavice
+* Monitoring pijavky lékařské _Trocheta cylindrica_: naše největší pijavice
 * Vliv technického zasněžování na drobné kroužkovce v Krkonoších

@@ -21,7 +21,7 @@ Po studiu na Masarykově univerzitě (MU) jsem pracoval jako hydrobiolog na Agen
 * Dále analyzuji paleozbytky larev pakomárů v jezerních sedimentech používané pro rekonstrukci
   historických změn podmínek v jezeře i jeho okolí, včetně změny klimatu (zejména teploty).
 * Pro studie recentních změn vysychavých toků tak i pro historické fylogeografické analýzy nám
-   jako modelový organizmus slouží různonohý korýš blešivec (rod Gammarus). V souvislosti se
+   jako modelový organizmus slouží různonohý korýš blešivec (rod _Gammarus_). V souvislosti se
    změnou klimatu se také věnuji šíření expandujících vodních bezobratlých (např. pošvatka _Leuctra geniculata_).
 
 **Širší životopis a curriculum vitae** [zde](https://www.muni.cz/lide/70751-petr-paril/zivotopis)

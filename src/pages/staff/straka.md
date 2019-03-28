@@ -15,8 +15,8 @@ Magisterské a posléze i doktorské studium hydrobiologie absolvoval na Příro
 
 **Výzkumná témata:**
 
-* Hydrobiologické průzkumy pro potřeby ochrany přírody,
+* Hydrobiologické průzkumy pro potřeby ochrany přírody
 * Monitoring antropogenních vlivů na oživení vod a výzkum ekosystémů tekoucích vod
 * Taxonomická specializace: nejoblíbenější skupinou vodních bezobratlých jsou vodní brouci
- (Coleoptera), nevyhýbá se však ani vážkám (Odonata), plošticím (Heteroptera), měkkýšům
- (Mollusca) a podobné havěti
+  (Coleoptera), nevyhýbá se však ani vážkám (Odonata), plošticím (Heteroptera), měkkýšům
+  (Mollusca) a podobné havěti
