@@ -1,7 +1,7 @@
 ---
 title: project6
 name: Výzkum vysychavých biotopů polních rozlivů a jejich bioty
-captions: 
+captions: /
 ---
 
 Polní rozlivy jsou specifické biotopy efemérního charakteru, vznikající na zemědělských plochách
