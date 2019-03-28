@@ -51,6 +51,7 @@ export default () => (
 const Container = styled.div`
   width: 90%;
   margin: 0 auto;
+  text-align: justify;
 `;
 
 const Blue = styled.span`
