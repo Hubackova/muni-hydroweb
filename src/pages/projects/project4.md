@@ -27,28 +27,15 @@ vodního režimu. Program přeshraniční spolupráce ČR a Svobodný stát Bavo
 
 Jindřiška Bojková, Vanda Šorfová, Jan Sychra, Vít Syrovátka, Jana Petruželová a Eva Hanáková
 
-<div class="project-publication">
 
-**Vybrané publikace**
 
-Růžičková S., Schenková J., Weissová V. &amp; Helešic J. 2014. Environmental impact of heated mining waters on
-clitellate (Annelida: Clitellata) assemblages. Biologia, 69/9: 1179–1189.
-
-Polášková V., Schenková J., Bartošová M., Rádková V. &amp; Horsák M. 2017. Post-mining calcareous seepages as
-surrogate habitats for aquatic macroinvertebrate biota of vanishing calcareous spring fens. Ecological
-Engineering, 109: 119–132.
-
-Žáková, S., Weissová V., Uher B. &amp; Helešic J. 2017. Macroinvertebrate herbivores and epilithon algae
-community of a stream affected by mineralized heated mining water inflow. Annales de Limnologie -
-International Journal of Limnology, 53: 189–201.
-
-</div>
-
-\###Témata, kterými se na území NP Šumava a NP Bavorský les zabýváme:###
+**Témata, kterými se na území NP Šumava a NP Bavorský les zabýváme**
 
 - - -
 
-\####1. Dlouhodobý monitoring zotavování šumavských jezer z acidifikace####
+**1. Dlouhodobý monitoring zotavování šumavských jezer z acidifikace**
+
+
 Ve spolupráci s [Biologickým centrem Akademie věd](https://www.hbu.cas.cz/) a [Jihočeskou univerzitou v Českých Budějovicích](https://www.jcu.cz/) se zabýváme sledováním vývoje prostředí a bentických a planktonních společenstev
 osmi jezer, která jsou v různém stupni zotavení z acidifikace. Dosud byla vyhodnocena data z období
 1999–2010 a studie dále pokračuje.
@@ -73,7 +60,9 @@ Freshwater Biology, 61: 376–395.
 
 - - -
 
-\####2. Monitoring vývoje revitalizovaných potoků ve Vltavském luhu####
+**2. Monitoring vývoje revitalizovaných potoků ve Vltavském luhu**
+
+
 Ve spolupráci se [Správou NP Šumava](http://www.npsumava.cz/cz/1005/sekce/o-organizaci/) a [Přírodovědeckou fakultou Jihočeské univerzity v Českých
 Budějovicích](https://kbe.prf.jcu.cz/) sledujeme kolonizaci a vývoj bentických společenstev ve třech potocích (Hučina,
 Jedlový a Žlebský potok), jejichž regulovaná koryta byla revitalizována (částečným) zasypáním a
@@ -117,7 +106,9 @@ _Paterová S._ 2016. [Revitalizace malých vodních toků v České republice](h
 
 - - -
 
-\####3. Monitoring diversity bezobratlých rašelinišť a horských povodí####
+**3. Monitoring diversity bezobratlých rašelinišť a horských povodí**
+
+
 Základní monitoring vodního hmyzu a zooplanktonu ve vztahu k podmínkám prostředí se zaměřuje na
 porovnání přirozených, narušených a revitalizovaných rašelinišť na Šumavě a výzkum biodiversity
 vrchovištní jezírek a aluviálních tůní s důrazem na vzácné, ohrožené a specializované druhy, které
