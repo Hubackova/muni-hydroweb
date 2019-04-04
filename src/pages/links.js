@@ -1,38 +1,28 @@
-import React from "react"
+import React from "react";
+import { graphql } from "gatsby";
 import styled from "styled-components";
-import Layout from "../components/layout"
+import Layout from "../components/layout";
 
-const links = [
-   {name: "Česká limnologická společnost", link: "http://www.limnospol.cz"},
-]
-
-const Links = () => {
-    const linksList = links.map(i => {
-        return <li key={i.name}><A href={i.link}>{i.name}</A></li>;
-    })
-    return (<Layout>
-    <Container>
-        <h1> Odkazy </h1>
-    {linksList}
-    </Container></Layout>
-    );
-};
-
-Links.propTypes = {
-
-};
+const Links = ({ data }) => (
+  <Layout>
+    <Content>
+      <div dangerouslySetInnerHTML={{ __html: data.markdownRemark.html }} />
+    </Content>
+  </Layout>
+);
 
 export default Links;
 
-
-const Container = styled.div`
-    width: 90%;
-    margin: 0 auto;
-    @media (max-width: 800px) {
-      width: 100%;
+export const linksQuery = graphql`
+  query linksQuery {
+    markdownRemark(frontmatter: { title: { eq: "links" } }) {
+      html
     }
+  }
 `;
-
-const A = styled.a`
-        color: #333;
+const Content = styled.div`
+  margin: 20px;
+  @media (max-width: 800px) {
+    margin: 0 10px;
+  }
 `;

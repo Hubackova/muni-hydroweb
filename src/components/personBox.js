@@ -63,8 +63,9 @@ const Box = styled.div`
   }
 `
 const ImgBox = styled.div`
-  min-width: 240px;
-  margin-right: 15px;
+  min-width: 190px;
+  margin-right: 20px;
+  margin-top: 8px;
 `
 
 const Name = styled.h3`

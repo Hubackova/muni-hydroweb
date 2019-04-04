@@ -6,12 +6,13 @@ import twitter from "../../pages/images/twitter.png";
 
 const footer = {
     botzool: 'Ústav botaniky a zoologie, ',
-    faculty: 'Přírodovědecké fakulty, ',
+    faculty: 'Přírodovědecké fakulty',
     university: ' Masarykovy Univerzity',
     postalAddressHeading: 'Poštovní adresa: ',
     physicalAddressHeading: 'Adresa pracoviště: ',
     postalAddress: 'Kotlářská 267/2, 611 37, Brno, Česká Rpublika',
-    physicalAddress: 'Univerzitní kampus Bohunice, budova A32, Kamenice 753/5, 625 00, Brno, Česká republika',
+    physicalAddress1: 'Univerzitní kampus Bohunice, budova A32,',
+    physicalAddress2: 'Kamenice 753/5, 625 00, Brno, Česká republika',
     links: 'Odkazy'
 }
 const FooterContent = () => {
@@ -29,7 +30,8 @@ const FooterContent = () => {
             </FooterSection>
            <FooterSection background='rgba(150,150,150, 0.7)'>
                <FooterHeader>{footer.physicalAddressHeading}</FooterHeader>
-               {footer.physicalAddress}
+               {footer.physicalAddress1}<br/>
+               {footer.physicalAddress2}
             </FooterSection>
            <FooterSection background='rgba(150,150,150, 0.6)'>
                <FooterHeader>{footer.links}</FooterHeader>

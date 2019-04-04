@@ -81,7 +81,7 @@ class Navigation extends PureComponent {
         <ListLink to="/projects/" menuVisible={menuVisible} className={this.getClass('projects')}>
           Projekty
         </ListLink>
-        <NavigationLinkA href="http://botzool.sci.muni.cz/publikace/h/" target="_blanc" className={`${menuVisible} `}>
+        <NavigationLinkA href="http://botzool.sci.muni.cz/publikace/h/" target="_blanc" rel="noopener" className={`${menuVisible} `}>
         Publikace
       </NavigationLinkA>
 
@@ -149,7 +149,7 @@ const NavigationLink = styled(Link)`
     border-right: 0px;
   }
   &:hover {
-    border-bottom: 2px solid white;
+    border-bottom: 3px solid white;
   }
 
   &.active {
@@ -181,7 +181,7 @@ const NavigationLinkA = styled.a`
     border-right: 0px;
   }
   &:hover {
-    border-bottom: 2px solid white;
+    border-bottom: 3px solid white;
   }
 
   &.active {
