@@ -1,6 +1,6 @@
 ---
-path: courses
-title: courses
+path: coursesCz
+title: coursesCz
 ---
 [Bioindikace a hodnocení ekologického stavu povrchových vod Bi7007](https://is.muni.cz/predmet/sci/podzim2018/Bi7007)\
 doc. RNDr. Vít Grulich, CSc., **Mgr. Marek Polášek, Ph.D.**

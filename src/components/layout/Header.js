@@ -4,6 +4,9 @@ import { StaticQuery, graphql, Link } from "gatsby";
 
 import ecdyonurus from "../../pages/images/ecdyonurus_head.jpg";
 import ImgSlider from "./ImgSlider";
+import czFlag from "../../pages/images/cz-icon.png";
+import ukFlag from "../../pages/images/uk-icon.png";
+import { IntContextConsumer } from "../Context";
 
 const HeaderComponent = ({ className }) => (
   <StaticQuery
@@ -26,15 +29,16 @@ const HeaderComponent = ({ className }) => (
     `}
     render={data => {
       const imgs = data.images.edges.map(i => i.node.childImageSharp.fluid);
-
       return (
         <Header className={className}>
-          <LeftSide>
+         <LeftSide>
             <TitleWrapper>
               <ImgCont>
                 <img src={ecdyonurus} alt="logo" />
               </ImgCont>
               <Muni>
+              <IntContextConsumer>{({changeToCz}) => <Flag src={czFlag} name="cz" onClick={() => changeToCz()} />}</IntContextConsumer>
+              <IntContextConsumer>{({changeToEn}) => <Flag src={ukFlag} name="en" onClick={() => changeToEn()} />}</IntContextConsumer>
                 <Link to="/" style={{ textDecoration: "none" }}>
                   <Main>Pracovní skupina hydrobiologie</Main>
                 </Link>
@@ -125,4 +129,11 @@ const SubMain = styled.div`
   @media (max-width: 600px) {
     display: none;
   }
+`;
+
+const Flag = styled.img`
+  height: 48px;
+  margin: 2px;
+  align-self: flex-end;
+  cursor: pointer;
 `;
