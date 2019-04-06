@@ -4,7 +4,7 @@ import PropTypes from 'prop-types';
 const IntContext = React.createContext();
 class IntContextProvider extends Component {
   state = {
-    int: typeof window !== 'undefined' && window && window.localStorage.getItem('int') || 'cz',
+    int: (typeof window !== 'undefined' && window && window.localStorage.getItem('int')) || 'cz',
   }
 
   changeToEn = () => {

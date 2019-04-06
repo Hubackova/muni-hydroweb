@@ -10,7 +10,6 @@ const Courses = ({ data }) => (
       <IntContextConsumer>
         {({ int }) => (
           <div dangerouslySetInnerHTML={{ __html: int === "en" ? data.en.html : data.cz.html }} />
-
         )}
       </IntContextConsumer>
     </Content>
