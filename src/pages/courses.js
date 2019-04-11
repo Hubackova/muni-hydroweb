@@ -4,26 +4,23 @@ import styled from "styled-components";
 import { IntContextConsumer } from "../components/Context";
 import Layout from "../components/layout";
 
-const Courses = ({ data }) => (
+export default ({ data }) => (
   <Layout>
     <Content>
       <IntContextConsumer>
         {({ int }) => (
-          <div dangerouslySetInnerHTML={{ __html: int === "en" ? data.en.html : data.cz.html }} />
+          <div className={int}>
+            <div dangerouslySetInnerHTML={{ __html: data.markdownRemark.html }} />
+          </div>
         )}
       </IntContextConsumer>
     </Content>
   </Layout>
 );
 
-export default Courses;
-
 export const query = graphql`
   query {
-    cz: markdownRemark(frontmatter: { title: { eq: "coursesCz" } }) {
-      html
-    }
-    en: markdownRemark(frontmatter: { title: { eq: "coursesEn" } }) {
+    markdownRemark(frontmatter: { title: { eq: "courses" } }) {
       html
     }
   }

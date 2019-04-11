@@ -82,3 +82,11 @@ h5 {
   cursor: pointer;
   padding: 0.2rem 0;
 }
+
+.en .cz{
+  display: none;
+}
+
+.cz .en{
+  display: none;
+}

@@ -5,13 +5,13 @@ import Img from "gatsby-image";
 
 class ProjectBox extends Component {
   render() {
-    const { project, linkTo, fluid } = this.props;
+    const { project, linkTo, fluid, int } = this.props;
     return (
       <StyledLink to={linkTo}>
         <Box>
           <Content>
             {fluid && <Img fluid={fluid} style={{width: "90%"}} />}
-            <Name>{project.frontmatter.name}</Name>
+            <Name>{int==="en" ? project.frontmatter.nameEn : project.frontmatter.name}</Name>
           </Content>
         </Box>
       </StyledLink>

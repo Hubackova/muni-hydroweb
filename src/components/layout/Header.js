@@ -30,30 +30,42 @@ const HeaderComponent = ({ className }) => (
     render={data => {
       const imgs = data.images.edges.map(i => i.node.childImageSharp.fluid);
       return (
-        <Header className={className}>
-         <LeftSide>
-            <TitleWrapper>
-              <ImgCont>
-                <img src={ecdyonurus} alt="logo" />
-              </ImgCont>
-              <Muni>
-              <IntContextConsumer>{({changeToCz}) => <Flag src={czFlag} name="cz" onClick={() => changeToCz()} />}</IntContextConsumer>
-              <IntContextConsumer>{({changeToEn}) => <Flag src={ukFlag} name="en" onClick={() => changeToEn()} />}</IntContextConsumer>
-                <Link to="/" style={{ textDecoration: "none" }}>
-                  <Main>Pracovní skupina hydrobiologie</Main>
-                </Link>
-                {!className && (
-                  <SubMain>
-                    Ústav botaniky a zoologie | Přírodovědecká fakulta | Masarykova univerzita
-                  </SubMain>
-                )}
-              </Muni>
-            </TitleWrapper>
-          </LeftSide>
-          <RightSide>
-            <ImgSlider imgs={imgs} />
-          </RightSide>
-        </Header>
+        <IntContextConsumer>
+          {({ int }) => (
+            <Header className={className}>
+              <LeftSide>
+                <TitleWrapper>
+                  <ImgCont>
+                    <img src={ecdyonurus} alt="logo" />
+                  </ImgCont>
+                  <Muni>
+                    <IntContextConsumer>
+                      {({ changeToCz }) => (
+                        <Flag src={czFlag} name="cz" onClick={() => changeToCz()} />
+                      )}
+                    </IntContextConsumer>
+                    <IntContextConsumer>
+                      {({ changeToEn }) => (
+                        <Flag src={ukFlag} name="en" onClick={() => changeToEn()} />
+                      )}
+                    </IntContextConsumer>
+                    <Link to="/" style={{ textDecoration: "none" }}>
+                      <Main>{int==="en" ? "Hydrobiology working group" : "Pracovní skupina hydrobiologie"}</Main>
+                    </Link>
+                    {!className && (
+                      <SubMain>
+                        {int==="en" ? "Department of Botany and Zoology | Faculty of Science | Masaryk University" : "Ústav botaniky a zoologie | Přírodovědecká fakulta | Masarykova univerzita"}
+                      </SubMain>
+                    )}
+                  </Muni>
+                </TitleWrapper>
+              </LeftSide>
+              <RightSide>
+                <ImgSlider imgs={imgs} />
+              </RightSide>
+            </Header>
+          )}
+        </IntContextConsumer>
       );
     }}
   />

@@ -1,7 +1,7 @@
 import React from "react";
 import { graphql } from "gatsby";
 import styled from "styled-components";
-
+import { IntContextConsumer } from "../components/Context";
 import ProjectBox from "../components/projectBox";
 import Layout from "../components/layout";
 
@@ -9,7 +9,9 @@ export default ({ data }) => {
   return (
     <Layout>
       <Container>
-        {data.allMarkdownRemark.edges.map(({ node }) => {
+      <IntContextConsumer>
+        {({ int }) => (
+        data.allMarkdownRemark.edges.map(({ node }) => {
           const img = data.allImageSharp.edges.find(img =>
             img.node.fluid.src.includes(`${node.frontmatter.title}.jpg`)
           );
@@ -19,9 +21,12 @@ export default ({ data }) => {
               key={node.frontmatter.title}
               linkTo={`projects/${node.frontmatter.title}`}
               fluid={img && img.node.fluid}
+              int={int}
             />
           );
-        })}
+        })
+        )}
+        </IntContextConsumer>
       </Container>
     </Layout>
   );
@@ -34,10 +39,10 @@ const Container = styled.div`
   justify-content: center;
   margin: 20px;
   @media (max-width: 1386px) {
-    grid-template-columns: repeat(auto-fill, minmax( 40vw, 40vw));
+    grid-template-columns: repeat(auto-fill, minmax(40vw, 40vw));
   }
   @media (max-width: 800px) {
-    grid-template-columns: repeat(auto-fill, minmax( 85vw, 85vw));
+    grid-template-columns: repeat(auto-fill, minmax(85vw, 85vw));
   }
 `;
 
@@ -63,6 +68,7 @@ export const query = graphql`
           frontmatter {
             title
             name
+            nameEn
           }
           fields {
             slug

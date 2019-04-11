@@ -8,9 +8,6 @@ import SEO from "../components/SEO";
 import "font-awesome/css/font-awesome.min.css";
 
 const Homepage = ({ data }) => {
-  console.log(data)
-  if (!data.cz || !data.en) return <span>"loading"</span>
-debugger
   return (
   <Layout>
     <SEO />
@@ -18,8 +15,8 @@ debugger
     <IntContextConsumer>
         {({ int }) => (
           <>
-          <h1>{int === "en" ? data.en.frontmatter.name : data.cz.frontmatter.name }</h1>
-          <div dangerouslySetInnerHTML={{ __html: int === "en" ? data.en.html : data.cz.html }} />
+          <h1>{int === "en" ? data.markdownRemark.frontmatter.nameEn : data.markdownRemark.frontmatter.nameCz }</h1>
+          <div className={int}><div dangerouslySetInnerHTML={{ __html: data.markdownRemark.html }} /></div>
           </>
         )}
       </IntContextConsumer>
@@ -30,13 +27,7 @@ export default Homepage;
 
 export const query = graphql`
   query {
-    cz: markdownRemark(frontmatter: { title: { eq: "homepageCz" } }) {
-      html
-      frontmatter {
-        name
-      }
-    }
-    en: markdownRemark(frontmatter: { title: { eq: "homepageEn" } }) {
+    markdownRemark(frontmatter: { title: { eq: "homepage" } }) {
       html
       frontmatter {
         name

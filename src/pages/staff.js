@@ -3,27 +3,39 @@ import { graphql } from "gatsby";
 import Layout from "../components/layout";
 import PersonBox from "../components/personBox";
 import Note from "../components/atoms/Note";
+import { IntContextConsumer } from "../components/Context";
 
 export default ({ data }) => {
   return (
     <Layout>
-      <div>
-        {data.allMarkdownRemark.edges.map(({ node }) => {
-          const img = data.allImageSharp.edges.find(img =>
-            img.node.fluid.src.includes(node.frontmatter.title)
-          );
-          return (
-            <PersonBox
-              personInfo={node.frontmatter}
-              key={node.id}
-              isStudent={false}
-              linkTo={node.fields.slug}
-              fluid={img && img.node.fluid}
-            />
-          );
-        })}
-      </div>
-      <Note>* Mateřská dovolená</Note>
+      <IntContextConsumer>
+        {({ int }) => (
+          <div className={int}>
+            <div>
+              {data.allMarkdownRemark.edges.map(({ node }) => {
+                const img = data.allImageSharp.edges.find(img =>
+                  img.node.fluid.src.includes(node.frontmatter.title)
+                );
+                return (
+                  <IntContextConsumer>
+                    {({ int }) => (
+                      <PersonBox
+                        personInfo={node.frontmatter}
+                        int={int}
+                        key={node.id}
+                        isStudent={false}
+                        linkTo={node.fields.slug}
+                        fluid={img && img.node.fluid}
+                      />
+                    )}
+                  </IntContextConsumer>
+                );
+              })}
+            </div>
+            <Note>* {int==="en" ? "Maternity leave" : "Mateřská dovolená"}</Note>
+          </div>
+        )}
+      </IntContextConsumer>
     </Layout>
   );
 };
@@ -53,6 +65,7 @@ export const query = graphql`
             title
             name
             position
+            positionEn
             email
             phone
             room
