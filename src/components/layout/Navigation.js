@@ -4,7 +4,10 @@ import { Link } from "gatsby";
 import { IntContextConsumer } from "../Context";
 
 const ListLink = props => (
-  <NavigationLink to={props.to} className={`${props.menuVisible} ${props.className}`}>
+  <NavigationLink to={props.to} className={`${props.menuVisible} ${props.className}`} onClick={() => {
+    localStorage.setItem("studentScroll", 0) 
+    localStorage.setItem("staffScroll", 0);
+  }}>
     {props.children}
   </NavigationLink>
 );

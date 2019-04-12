@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useState, useEffect, useLayoutEffect } from "react";
 import { graphql } from "gatsby";
 import { IntContextConsumer } from "../components/Context";
 import Layout from "../components/layout";
@@ -6,9 +6,16 @@ import PersonBox from "../components/personBox";
 import Note from "../components/atoms/Note";
 
 export default ({ data }) => {
+  const [showChild, setShowChild] = useState(false)
+  useEffect(() => { setShowChild(true); }, [])
+  useLayoutEffect(() => {
+    const position =  localStorage.getItem('studentScroll');
+    typeof window !== 'undefined' && window && window.scrollTo(0, position)
+  });
+  
   const students = data.markdownRemark.html;
   return (
-    <Layout>
+    showChild && <Layout>
       <IntContextConsumer>
         {({ int }) => (
           <div className={int}>

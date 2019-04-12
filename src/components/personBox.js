@@ -10,14 +10,19 @@ const text = { thesis: "Práce", supervisor: "Školitel" };
 const textEn = { thesis: "Thesis", supervisor: "Supervisor" };
 
 class PersonBox extends Component {
+  setPosition = () => {
+    const position = typeof window !== "undefined" && window && window.scrollY;
+    this.props.isStudent ? localStorage.setItem("studentScroll", position) : localStorage.setItem("staffScroll", position);
+  };
+
   render() {
     const { personInfo, linkTo = "#", isStudent, fluid, int } = this.props;
     return (
       <Box>
         <ImgBox>
-          <Link to={linkTo}>{fluid && <Img fluid={fluid} />}</Link>
+          <Link to={linkTo} onClick={this.setPosition}>{fluid && <Img fluid={fluid} />}</Link>
         </ImgBox>
-        <div>
+        <div  onClick={() => this.setPosition()}>
           <StyledLink to={linkTo}>
             <Name>
               {personInfo.name}

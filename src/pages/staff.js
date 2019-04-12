@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useState, useEffect, useLayoutEffect } from "react";
 import { graphql } from "gatsby";
 import Layout from "../components/layout";
 import PersonBox from "../components/personBox";
@@ -6,8 +6,15 @@ import Note from "../components/atoms/Note";
 import { IntContextConsumer } from "../components/Context";
 
 export default ({ data }) => {
+  const [showChild, setShowChild] = useState(false)
+  useEffect(() => { setShowChild(true); }, [])
+  useLayoutEffect(() => {
+    const position =  localStorage.getItem('staffScroll');
+    typeof window !== 'undefined' && window && window.scrollTo(0, position)
+  });
+  
   return (
-    <Layout>
+    showChild && <Layout>
       <IntContextConsumer>
         {({ int }) => (
           <div className={int}>
@@ -16,9 +23,11 @@ export default ({ data }) => {
                 const img = data.allImageSharp.edges.find(img =>
                   img.node.fluid.src.includes(node.frontmatter.title)
                 );
+
                 return (
                   <IntContextConsumer>
                     {({ int }) => (
+                      <>
                       <PersonBox
                         personInfo={node.frontmatter}
                         int={int}
@@ -27,12 +36,13 @@ export default ({ data }) => {
                         linkTo={node.fields.slug}
                         fluid={img && img.node.fluid}
                       />
+                      </>
                     )}
                   </IntContextConsumer>
                 );
               })}
             </div>
-            <Note>* {int==="en" ? "Maternity leave" : "Mateřská dovolená"}</Note>
+            <Note>* {int === "en" ? "Maternity leave" : "Mateřská dovolená"}</Note>
           </div>
         )}
       </IntContextConsumer>
