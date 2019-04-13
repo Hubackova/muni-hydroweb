@@ -27,7 +27,7 @@ jedinců v různých podmínkách prostředí.
 
 Ve spolupráci s Výzkumným ústavem vodohospodářským T.G.M. v Brně se věnujeme problematice
 dlouhodobých změn ve struktuře makrozoobentosu na člověkem minimálně ovlivněných lokalitách
-(tzv. referenčních). Podílíme se také na vývoji veřejného webového portálu Riverchange sloužícího k
+(tzv. referenčních). Podílíme se také na vývoji veřejného webového portálu [RIVERCHANGE](http://hydro.chmi.cz/riverchange/) sloužícího k
 vyhodnocení dlouhodobých změn vodního prostředí, včetně vlivu klimatických změn, a hlavních
 skupin bioty na referenčních lokalitách.
 
