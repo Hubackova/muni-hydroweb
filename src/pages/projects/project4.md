@@ -4,17 +4,19 @@ name: >-
   Silva Gabreta Monitoring – Přeshraniční monitoring biodiversity a vodního
   režimu
 captions: >-
-  výzkumný tým v terénu/ jezírko na Blatenské slati/ Michal hází planktonkou/
-  Honza s pastí na brouky/ revitalizace na Hraniční slati/ Černé jezero/ třídění
-  vzorků na Čertově jezeře/ revitalizovaná Hučina/ bagrování nového koryta
-  Žlebského potoka/ na Roklanském potoce u Modravy/ Roklanský potok/ opravdový
-  les/ Tmavý potok v mrtvém lese/ nekonečný les (NP bavorský les a Rachelsee)
+  Kings and Queens of Böhmerwald/ jezírko na Blatenské slati/ Michal hází
+  planktonkou/ Honza s pastí na brouky/ revitalizace na Hraniční slati/ Černé
+  jezero/ třídění vzorků na Čertově jezeře/ revitalizovaná Hučina/ bagrování
+  nového koryta Žlebského potoka/ na Roklanském potoce u Modravy/ Roklanský
+  potok/ opravdový les/ Tmavý potok v mrtvém lese/ nekonečný les (NP bavorský
+  les a Rachelsee)
 captionsEn: >-
-  výzkumný tým v terénu/ jezírko na Blatenské slati/ Michal hází planktonkou/
-  Honza s pastí na brouky/ revitalizace na Hraniční slati/ Černé jezero/ třídění
-  vzorků na Čertově jezeře/ revitalizovaná Hučina/ bagrování nového koryta
-  Žlebského potoka/ na Roklanském potoce u Modravy/ Roklanský potok/ opravdový
-  les/ Tmavý potok v mrtvém lese/ nekonečný les (NP bavorský les a Rachelsee)
+  Kings and Queens of Böhmerwald/ jezírko na Blatenské slati/ Michal hází
+  planktonkou/ Honza s pastí na brouky/ revitalizace na Hraniční slati/ Černé
+  jezero/ třídění vzorků na Čertově jezeře/ revitalizovaná Hučina/ bagrování
+  nového koryta Žlebského potoka/ na Roklanském potoce u Modravy/ Roklanský
+  potok/ opravdový les/ Tmavý potok v mrtvém lese/ nekonečný les (NP bavorský
+  les a Rachelsee)
 ---
 <div class="cz">
 V rámci Programu přeshraniční spolupráce České republiky a Bavorska se podílíme na projektu [Silva Gabreta Monitoring](http://www.silvagabreta.eu/index.html.cs) zaměřeném na Národní parky Šumava a Bavorský les, které byly oceněny
