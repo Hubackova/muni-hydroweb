@@ -91,11 +91,11 @@ National Park. Silva Gabreta, 21: 73–79. [PDF](http://www.npsumava.cz/gallery/
 
 Bojkova J., Rádková V. &amp; Soldan T. 2015.
 Znovuzrození říčky Hučiny. Jeden z probíhajících
-revitalizačních projektů. Šumava, 4/15: 12–13. PFD
+revitalizačních projektů. Šumava, 4/15: 12–13.
 
 Bojková J., Bufková I., Rádková V., Soldán T. &amp; Vrba
 J. 2017. Jak se žije v revitalizovaných potocích na
-Šumavě. Živa, 2: 75–76. [PFD](http://ziva.avcr.cz/files/ziva/pdf/jak-se-zije-v-revitalizovanych-potocich-na-sumave.pdf)
+Šumavě. Živa, 2: 75–76. [PDF](http://ziva.avcr.cz/files/ziva/pdf/jak-se-zije-v-revitalizovanych-potocich-na-sumave.pdf)
 
 </div>
 
@@ -141,9 +141,9 @@ Gabreta, 24: 171–211. [PDF](http://www.npsumava.cz/gallery/38/11665-9_sg_24_bo
 </div>
 
 <div class="en">
-V rámci Programu přeshraniční spolupráce České republiky a Bavorska se podílíme na projektu \\\\\\\[Silva
+V rámci Programu přeshraniční spolupráce České republiky a Bavorska se podílíme na projektu \\\\\\\\[Silva
 Gabreta Monitoring](http://www.silvagabreta.eu/index.html.cs) zaměřeném na Národní parky Šumava a Bavorský les, které byly oceněny
-certifikátem \\\\\\\["Transboundary Parks"](https://www.europarc.org/bavarian-forest-sumava-national-parks/?utm_source=ep&utm_medium=search&utm_campaign=linktrack&utm_content=results). Cílem projektu je vytvoření funkční infrastruktury přeshraniční
+certifikátem \\\\\\\\["Transboundary Parks"](https://www.europarc.org/bavarian-forest-sumava-national-parks/?utm_source=ep&utm_medium=search&utm_campaign=linktrack&utm_content=results). Cílem projektu je vytvoření funkční infrastruktury přeshraniční
 monitorovací sítě a historicky první společné provedení a vyhodnocení monitoringu biodiversity lesů,
 rašelinišť a vod v obou národních parcích za využití společných moderních metod. Získaná data budou
 významným podkladem pro další kroky směřující ke sbližování ochranářského managementu ve
