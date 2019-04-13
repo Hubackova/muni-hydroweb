@@ -39,16 +39,16 @@ vykazují značnou prostorovou heterogenitu, jež umožňuje koexistenci mnoha d
 
 **Grantové projekty**
 
-Koexistence vodních bezobratlých na prameništních slatiništích: úloha abiotické heterogenity a
-biotických interakcí na regionální a lokální škále (The coexistence of aquatic invertebrates in spring
+[Koexistence vodních bezobratlých na prameništních slatiništích: úloha abiotické heterogenity a
+biotických interakcí na regionální a lokální škále](https://www.muni.cz/vyzkum/projekty/33031) (The coexistence of aquatic invertebrates in spring
 fens: the role of abiotic heterogeneity and biotic interactions at regional and local scale), Grantová
 agentura České republiky, 16-03881S, 2016–2018
 
-Kroužkovci izolovaných mikro-mokřadů: od vody až po půdu (Annelids of isolated micro-wetlands:
+[Kroužkovci izolovaných mikro-mokřadů: od vody až po půd](https://www.muni.cz/vyzkum/projekty/30545)u (Annelids of isolated micro-wetlands:
 from water to soil), Grantová agentura České republiky, 15-15548S, 2015–2017
 
-Vliv faktorů prostředí a schopnosti šíření na skladbu taxocenóz vodních bezobratlých v izolovaných
-prameništních slatiništích (The role of species sorting and dispersal in structuring the aquatic
+[Vliv faktorů prostředí a schopnosti šíření na skladbu taxocenóz vodních bezobratlých v izolovaných
+prameništních slatiništích](https://www.muni.cz/vyzkum/projekty/13884) (The role of species sorting and dispersal in structuring the aquatic
 invertebrate assemblages of isolated spring fens), Grantová agentura České republiky, P505/11/0779, 2011–2013
 
 **Lidé zapojení do projektů**
