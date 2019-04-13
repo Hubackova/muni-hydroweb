@@ -58,7 +58,7 @@ Soldán T., Bojková J., Vrba J., Bitušík P., Chvojka P.,
 Papáček M., Peltanová J., Sychra J. &amp; Tátosová J. 2012.
 Aquatic insects of the Bohemian Forest glacial lakes:
 Diversity, long-term changes, and influence of
-acidification. Silva Gabreta, 18: 123–283. PDF
+acidification. Silva Gabreta, 18: 123–283. [PDF](http://www.npsumava.cz/gallery/22/6750-sg_18_3_soldanetal_2.pdf)
 
 Vrba J., Bojková J., Chvojka P., Fott J., Kopáček J., Macek
 M., Nedbalová L., Papáček M., Rádková V., Sacherová V.,
@@ -87,7 +87,7 @@ roku 2014 až do roku 2018.
 Bojková J., Čížková H., Kučerová A., Rádková V.,
 Soldán T., Svidenský T. &amp; Vrba J. 2015. Monitoring of
 the restored streams in the Vltavský Luh, Šumava
-National Park. Silva Gabreta, 21: 73–79. PDF
+National Park. Silva Gabreta, 21: 73–79. [PDF](http://www.npsumava.cz/gallery/31/9348-sg_21_1_bojkovaetal.pdf)
 
 Bojkova J., Rádková V. &amp; Soldan T. 2015.
 Znovuzrození říčky Hučiny. Jeden z probíhajících
@@ -95,7 +95,7 @@ revitalizačních projektů. Šumava, 4/15: 12–13. PFD
 
 Bojková J., Bufková I., Rádková V., Soldán T. &amp; Vrba
 J. 2017. Jak se žije v revitalizovaných potocích na
-Šumavě. Živa, 2: 75–76. PFD
+Šumavě. Živa, 2: 75–76. [PFD](http://ziva.avcr.cz/files/ziva/pdf/jak-se-zije-v-revitalizovanych-potocich-na-sumave.pdf)
 
 </div>
 
@@ -135,15 +135,15 @@ Syrovátka V., Sroka P. &amp; Polášková V. 2018. Species
 richness and composition of macroinvertebrate
 assemblages in the Bavarian Forest National Park:
 Preliminary results of the stream monitoring. Silva
-Gabreta, 24: 171–211. PDF
+Gabreta, 24: 171–211. [PDF](http://www.npsumava.cz/gallery/38/11665-9_sg_24_bojkovaetal.pdf)
 
 </div>
 </div>
 
 <div class="en">
-V rámci Programu přeshraniční spolupráce České republiky a Bavorska se podílíme na projektu \\\\\\[Silva
+V rámci Programu přeshraniční spolupráce České republiky a Bavorska se podílíme na projektu \\\\\\\[Silva
 Gabreta Monitoring](http://www.silvagabreta.eu/index.html.cs) zaměřeném na Národní parky Šumava a Bavorský les, které byly oceněny
-certifikátem \\\\\\["Transboundary Parks"](https://www.europarc.org/bavarian-forest-sumava-national-parks/?utm_source=ep&utm_medium=search&utm_campaign=linktrack&utm_content=results). Cílem projektu je vytvoření funkční infrastruktury přeshraniční
+certifikátem \\\\\\\["Transboundary Parks"](https://www.europarc.org/bavarian-forest-sumava-national-parks/?utm_source=ep&utm_medium=search&utm_campaign=linktrack&utm_content=results). Cílem projektu je vytvoření funkční infrastruktury přeshraniční
 monitorovací sítě a historicky první společné provedení a vyhodnocení monitoringu biodiversity lesů,
 rašelinišť a vod v obou národních parcích za využití společných moderních metod. Získaná data budou
 významným podkladem pro další kroky směřující ke sbližování ochranářského managementu ve
