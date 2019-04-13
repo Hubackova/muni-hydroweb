@@ -91,38 +91,39 @@ Zhai M., Nováček O., Výravský D., Bojková J. & Helešic J. 2015. Environmen
 
 <div class="project-theses">
 
-**Obhájené disertační a diplomové práce**
+**Obhájené disertační práce**
 
-_Rádková V._ 2016. The influence of environmental variables and dispersal abilities on distribution of aquatic macroinvertebrate larvae in isolated spring fens. Disertační práce.
+_Rádková V._ 2016. The influence of environmental variables and dispersal abilities on distribution of aquatic macroinvertebrate larvae in isolated spring fens.
 
-_Křoupalová V._ 2014. Prostorová distribuce vodních bezobratlých krenálních stanovišť: variabilita a ekologické vztahy na malé škále. Disertační práce.
+_Křoupalová V._ 2014. Prostorová distribuce vodních bezobratlých krenálních stanovišť: variabilita a ekologické vztahy na malé škále.
 
-_Omelková M._ 2012. Druhová skladba a ekologie dvoukřídlých (Diptera) na prameništních slatiništích, se zřetelem na vybrané taxonomické problémy čeledi koutulovití (Psychodidae). Disertační práce.
+_Omelková M._ 2012. Druhová skladba a ekologie dvoukřídlých (Diptera) na prameništních slatiništích, se zřetelem na vybrané taxonomické problémy čeledi koutulovití (Psychodidae).
 
-_Bojková J._ 2009. Variabilita makrozoobentosu podél minerálně trofického gradientu prameništních slatinišť. Disertační práce.
+_Bojková J._ 2009. Variabilita makrozoobentosu podél minerálně trofického gradientu prameništních slatinišť.
+
+**Obhájené diplomové práce**
 
 _Havlík T._ 2017. Vliv disperze na strukturu společenstev vodních brouků (Coleoptera) izolovaných
-slatinišť. Diplomová práce.
+slatinišť.
 
-_Výravský D._ 2016. Mikrodistribuce lasturnatek (Ostracoda) na heterogenním prameništním slatiništi. Diplomová práce.
+_Výravský D._ 2016. Mikrodistribuce lasturnatek (Ostracoda) na heterogenním prameništním slatiništi.
 
 _Zajacová J._ 2016. Druhová variabilita chrostíků (Trichoptera) na slatiništích ve vztahu ke
-společenstvům okolních potoků. Diplomová práce.
+společenstvům okolních potoků.
 
-_Bílková M._ 2014. Geografická a ekologická variabilita opaskovců (Clitellata) prameništních slatinišť v Západních Karpatech. Diplomová práce.
+_Bílková M._ 2014. Geografická a ekologická variabilita opaskovců (Clitellata) prameništních slatinišť v Západních Karpatech.
 
 _Doležalová S._ 2014. Taxocenózy plazivek (Copepoda: Harpacticoida) vybraných potoků Bílých
-Karpat: vliv mesohabitatu. Diplomová práce.
+Karpat: vliv mesohabitatu.
 
 _Hřívová D._ 2014. Taxocenózy plazivek (Copepoda: Harpacticoida) na prameništních slatiništích
-Západních Karpat. Diplomová práce.
+Západních Karpat.
 
 _Rádková V._ 2011. Makrozoobentos pramenných stružek slatinišť moravsko-slovenského pomezí.
-Diplomová práce.
 
-_Nováček O._ 2010. Struktura a složení taxocenóz lasturnatek (Ostracoda) podél gradientu minerální bohatosti prameništních slatinišť. Diplomová práce.
+_Nováček O._ 2010. Struktura a složení taxocenóz lasturnatek (Ostracoda) podél gradientu minerální bohatosti prameništních slatinišť.
 
-_Křoupalová V._ 2008. Prostorová variabilita makrozoobentosu: srovnání dvou minerálně odlišných pramenišť. Diplomová práce.
+_Křoupalová V._ 2008. Prostorová variabilita makrozoobentosu: srovnání dvou minerálně odlišných pramenišť.
 
 </div>
 </div>
