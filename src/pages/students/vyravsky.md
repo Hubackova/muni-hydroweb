@@ -13,8 +13,7 @@ phone: 549498559
 room: A32/313
 is: 'https://www.muni.cz/en/students/376313-david-vyravsky'
 rg: 'https://www.researchgate.net/profile/David_Vyravsky'
-image: >-
-  /images/phd_vyravsky.jpg
+image: /images/phd_vyravsky.jpg
 ---
 <div class="cz">
 
@@ -22,7 +21,6 @@ image: >-
 
 * Ekologie lasturnatek prameništních slatinišť Západních Karpat
 * Distribuce lasturnatek pramenných biotopů na různých prostorových škálách
-</div>
 
 <div class="en">
 
@@ -30,4 +28,3 @@ image: >-
 
 * Ekologie lasturnatek prameništních slatinišť Západních Karpat
 * Distribuce lasturnatek pramenných biotopů na různých prostorových škálách
-</div>
