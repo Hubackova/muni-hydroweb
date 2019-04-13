@@ -7,8 +7,7 @@ captions: /Černé jezero/Jezírko na Blatinské slati/revitalizovaná Hučina/R
 captionsEn: /Černé jezero/Jezírko na Blatinské slati/revitalizovaná Hučina/Roklanský potok
 ---
 <div class="cz">
-V rámci Programu přeshraniční spolupráce České republiky a Bavorska se podílíme na projektu [Silva
-Gabreta Monitoring](http://www.silvagabreta.eu/index.html.cs) zaměřeném na Národní parky Šumava a Bavorský les, které byly oceněny
+V rámci Programu přeshraniční spolupráce České republiky a Bavorska se podílíme na projektu [Silva Gabreta Monitoring](http://www.silvagabreta.eu/index.html.cs) zaměřeném na Národní parky Šumava a Bavorský les, které byly oceněny
 certifikátem ["Transboundary Parks"](https://www.europarc.org/bavarian-forest-sumava-national-parks/?utm_source=ep&utm_medium=search&utm_campaign=linktrack&utm_content=results). Cílem projektu je vytvoření funkční infrastruktury přeshraniční
 monitorovací sítě a historicky první společné provedení a vyhodnocení monitoringu biodiversity lesů,
 rašelinišť a vod v obou národních parcích za využití společných moderních metod. Získaná data budou
