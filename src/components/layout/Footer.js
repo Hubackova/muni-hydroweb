@@ -11,18 +11,19 @@ const footerCz = {
   university: " Masarykovy Univerzity",
   postalAddressHeading: "Poštovní adresa: ",
   physicalAddressHeading: "Adresa pracoviště: ",
-  postalAddress: "Kotlářská 267/2, 611 37, Brno, Česká Republika",
+  postalAddress: "Kotlářská 267/2, 611 37, Brno, Česká republika",
   physicalAddress1: "Univerzitní kampus Bohunice, budova A32,",
   physicalAddress2: "Kamenice 753/5, 625 00, Brno, Česká republika",
   links: "Odkazy"
 };
+
 const footerEn = {
   botzool: "Department of Botany and Zoology, ",
   faculty: "Faculty of Science",
   university: " Masaryk University",
   postalAddressHeading: "Postal address: ",
   physicalAddressHeading: "Workplace address: ",
-  postalAddress: "Kotlářská 267/2, 611 37, Brno, Česká Republika",
+  postalAddress: "Kotlářská 267/2, 611 37, Brno, Czech Republic",
   physicalAddress1: "University Campus Bohunice, building A32,",
   physicalAddress2: "Kamenice 753/5, 625 00, Brno, Czech Republic",
   links: "Links"

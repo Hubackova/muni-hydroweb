@@ -76,10 +76,3 @@ collections:
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
-
-      - file: "src/pages/links.md"
-        label: "Links"
-        name: "links"
-        fields:
-          - {label: Title, name: title, widget: string}
-          - {label: "Body", name: "body", widget: "markdown"}

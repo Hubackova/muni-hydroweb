@@ -70,8 +70,8 @@ class Navigation extends PureComponent {
       students: "Studenti",
       projects: "Projekty",
       publications: "Publikace",
-      courses: "Předměty",
-      links: "Odkazy"
+      courses: "Výuka",
+      collection: "Sbírka"
     };
 
     const textEn = {
@@ -81,8 +81,8 @@ class Navigation extends PureComponent {
       students: "Students",
       projects: "Projects",
       publications: "Publications",
-      courses: "Courses",
-      links: "Links"
+      courses: "Teaching",
+      collection: "Collection"
     };
 
     return (
@@ -103,11 +103,11 @@ class Navigation extends PureComponent {
                 {text.homepage}
               </ListLink>
               <ListLink
-                to="/history/"
+                to="/projects/"
                 menuVisible={menuVisible}
-                className={this.getClass("history")}
+                className={this.getClass("projects")}
               >
-                {text.history}
+                {text.projects}
               </ListLink>
               <ListLink to="/staff/" menuVisible={menuVisible} className={this.getClass("staff")}>
                 {text.staff}
@@ -120,11 +120,18 @@ class Navigation extends PureComponent {
                 {text.students}
               </ListLink>
               <ListLink
-                to="/projects/"
+                to="/courses/"
                 menuVisible={menuVisible}
-                className={this.getClass("projects")}
+                className={this.getClass("courses")}
               >
-                {text.projects}
+                {text.courses}
+              </ListLink>
+              <ListLink
+                to="/history/"
+                menuVisible={menuVisible}
+                className={this.getClass("history")}
+              >
+                {text.history}
               </ListLink>
               <NavigationLinkA
                 href="http://botzool.sci.muni.cz/publikace/h/"
@@ -134,20 +141,14 @@ class Navigation extends PureComponent {
               >
                 {text.publications}
               </NavigationLinkA>
-
-              <ListLink
-                to="/courses/"
-                menuVisible={menuVisible}
-                className={this.getClass("courses")}
+              <NavigationLinkA
+                href="http://www.sci.muni.cz/zoolecol/hydrobio/sbirka/"
+                target="_blanc"
+                rel="noopener"
+                className={`${menuVisible} `}
               >
-                {text.courses}
-              </ListLink>
-              {/* <Li menuVisible={menuVisible} className={this.getClass("gallery")}>
-          Galerie
-        </Li> */}
-              <ListLink to="/links/" menuVisible={menuVisible} className={this.getClass("links")}>
-                {text.links}
-              </ListLink>
+                {text.collection}
+              </NavigationLinkA>
             </Container>
           );
         }}
