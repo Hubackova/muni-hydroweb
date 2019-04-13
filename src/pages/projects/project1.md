@@ -93,37 +93,33 @@ Zhai M., Nováček O., Výravský D., Bojková J. & Helešic J. 2015. Environmen
 
 **Obhájené disertační práce**
 
-_Rádková V._ 2016. The influence of environmental variables and dispersal abilities on distribution of aquatic macroinvertebrate larvae in isolated spring fens.
+_Rádková V._ 2016. [The influence of environmental variables and dispersal abilities on distribution of aquatic macroinvertebrate larvae in isolated spring fens.](https://is.muni.cz/th/bxrpa/)
 
-_Křoupalová V._ 2014. Prostorová distribuce vodních bezobratlých krenálních stanovišť: variabilita a ekologické vztahy na malé škále.
+_Křoupalová V._ 2014. [Prostorová distribuce vodních bezobratlých krenálních stanovišť: variabilita a ekologické vztahy na malé škále.](https://is.muni.cz/th/mgebp/)
 
-_Omelková M._ 2012. Druhová skladba a ekologie dvoukřídlých (Diptera) na prameništních slatiništích, se zřetelem na vybrané taxonomické problémy čeledi koutulovití (Psychodidae).
+_Omelková M._ 2012. [Druhová skladba a ekologie dvoukřídlých (Diptera) na prameništních slatiništích, se zřetelem na vybrané taxonomické problémy čeledi koutulovití (Psychodidae)](https://is.muni.cz/th/w4lkc/).
 
-_Bojková J._ 2009. Variabilita makrozoobentosu podél minerálně trofického gradientu prameništních slatinišť.
+_Bojková J._ 2009. [Variabilita makrozoobentosu podél minerálně trofického gradientu prameništních slatinišť.](https://is.muni.cz/th/v033h/)
 
 **Obhájené diplomové práce**
 
-_Havlík T._ 2017. Vliv disperze na strukturu společenstev vodních brouků (Coleoptera) izolovaných
-slatinišť.
+_Havlík T._ 2017. [Vliv disperze na strukturu společenstev vodních brouků (Coleoptera) izolovaných slatinišť.](https://is.muni.cz/th/394417/prif_b/?lang=cs)
 
-_Výravský D._ 2016. Mikrodistribuce lasturnatek (Ostracoda) na heterogenním prameništním slatiništi.
+_Výravský D._ 2016. [Mikrodistribuce lasturnatek (Ostracoda) na heterogenním prameništním slatiništi.](https://is.muni.cz/th/376313/prif_b/)
 
-_Zajacová J._ 2016. Druhová variabilita chrostíků (Trichoptera) na slatiništích ve vztahu ke
-společenstvům okolních potoků.
+_Zajacová J._ 2016. [Druhová variabilita chrostíků (Trichoptera) na slatiništích ve vztahu ke společenstvům okolních potoků.](https://is.muni.cz/th/j19xj/)
 
-_Bílková M._ 2014. Geografická a ekologická variabilita opaskovců (Clitellata) prameništních slatinišť v Západních Karpatech.
+_Bílková M._ 2014. [Geografická a ekologická variabilita opaskovců (Clitellata) prameništních slatinišť v Západních Karpatech.](https://is.muni.cz/th/pvom8?lang=cs)
 
-_Doležalová S._ 2014. Taxocenózy plazivek (Copepoda: Harpacticoida) vybraných potoků Bílých
-Karpat: vliv mesohabitatu.
+_Doležalová S._ 2014. [Taxocenózy plazivek (Copepoda: Harpacticoida) vybraných potoků Bílých Karpat: vliv mesohabitatu.](https://is.muni.cz/th/cd1vd/?id=250558)
 
-_Hřívová D._ 2014. Taxocenózy plazivek (Copepoda: Harpacticoida) na prameništních slatiništích
-Západních Karpat.
+_Hřívová D._ 2014. [Taxocenózy plazivek (Copepoda: Harpacticoida) na prameništních slatiništích Západních Karpat.](https://is.muni.cz/th/w43hj/)
 
-_Rádková V._ 2011. Makrozoobentos pramenných stružek slatinišť moravsko-slovenského pomezí.
+_Rádková V._ 2011. [Makrozoobentos pramenných stružek slatinišť moravsko-slovenského pomezí.](https://is.muni.cz/th/egopp/)
 
-_Nováček O._ 2010. Struktura a složení taxocenóz lasturnatek (Ostracoda) podél gradientu minerální bohatosti prameništních slatinišť.
+_Nováček O._ 2010. [Struktura a složení taxocenóz lasturnatek (Ostracoda) podél gradientu minerální bohatosti prameništních slatinišť.](https://is.muni.cz/th/spdg1/)
 
-_Křoupalová V._ 2008. Prostorová variabilita makrozoobentosu: srovnání dvou minerálně odlišných pramenišť.
+_Křoupalová V._ 2008. [Prostorová variabilita makrozoobentosu: srovnání dvou minerálně odlišných pramenišť.](https://is.muni.cz/th/106044/prif_m/)
 
 </div>
 </div>
