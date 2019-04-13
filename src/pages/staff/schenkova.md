@@ -19,7 +19,6 @@ Od roku 1995 pracuji na Ústavu botaniky a zoologie Masarykovy univerzity. Vystu
 * Hnědouhelné výsypky: společenstva pramenišť a tekoucích vod výsypek, studium analogie s pěnovcovými slatiništi Západních Karpat
 * Ekologie společenstev opaskovců na prameništních slatiništích: vliv gradientů prostředí a schopnosti disperze
 * Společenstva opaskovců Moravského Krasu, diverzita, distribuce, gradienty prostředí
-</div>
 
 <div class="en">
 Od roku 1995 pracuji na Ústavu botaniky a zoologie Masarykovy univerzity. Vystudovala jsem obor Molekulární biologie a genetika (1986), dizertační práci obhájila v oboru hydrobiologie (2003) a dnes pracuji jako docentka oboru ekologie (od r. 2016). Specializuji se na ekologii vodních opaskovců (Clitellata), především jejich druhovou diverzitu, sezónní dynamiku, habitatové preference a odpovědi na gradienty prostředí v různých, často extrémních biotopech.
@@ -29,4 +28,3 @@ Od roku 1995 pracuji na Ústavu botaniky a zoologie Masarykovy univerzity. Vystu
 * Hnědouhelné výsypky: společenstva pramenišť a tekoucích vod výsypek, studium analogie s pěnovcovými slatiništi Západních Karpat
 * Ekologie společenstev opaskovců na prameništních slatiništích: vliv gradientů prostředí a schopnosti disperze
 * Společenstva opaskovců Moravského Krasu, diverzita, distribuce, gradienty prostředí
-</div>
