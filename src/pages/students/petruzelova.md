@@ -1,8 +1,12 @@
 ---
 title: petruzelova
 name: Mgr. Jana Petruželová
-thesis: Antropogenní vlivy na horské vodní ekosystémy Národního parku Šumava a Bavorský les
-thesisEn: Antropogenní vlivy na horské vodní ekosystémy Národního parku Šumava a Bavorský les
+thesis: >-
+  Antropogenní vlivy na horské vodní ekosystémy Národního parku Šumava a
+  Bavorský les
+thesisEn: >-
+  Antropogenní vlivy na horské vodní ekosystémy Národního parku Šumava a
+  Bavorský les
 supervisor: 'Mgr. Jindřiška Bojková, Ph.D.'
 email: jana.petruzelova@mail.muni.cz
 phone: 549498577
@@ -20,7 +24,6 @@ image: /images/jana-petruželová.jpg
 * Zotavení společenstev vodních bezobratlých v šumavských jezerech z acidifikace
 * Sukcese a dynamika společenstev vodních bezobratlých v revitalizovaných tocích
 * Diverzita a ekologie chrostíků (Trichoptera)
-</div>
 
 <div class="en">
 
@@ -31,4 +34,3 @@ image: /images/jana-petruželová.jpg
 * Zotavení společenstev vodních bezobratlých v šumavských jezerech z acidifikace
 * Sukcese a dynamika společenstev vodních bezobratlých v revitalizovaných tocích
 * Diverzita a ekologie chrostíků (Trichoptera)
-</div>
