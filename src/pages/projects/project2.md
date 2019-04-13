@@ -33,14 +33,14 @@ skupin bioty na referenčních lokalitách.
 
 **Grantové projekty**
 
-Monitoring dlouhodobých změn biologické diverzity tekoucích vod v období klimatické změny:
-návrh, realizace a implementace do veřejného informačního systému ARROW (Monitoring of
+[Monitoring dlouhodobých změn biologické diverzity tekoucích vod v období klimatické změny:
+návrh, realizace a implementace do veřejného informačního systému ARROW](http://www.riverchange.cz/) (Monitoring of
 long-term changes in biological diversity of running waters during climate change: design,
 realisation and implementation into the public information system ARROW), Norway Grants,
 2015–2017
 
-Složení a struktura taxocenóz pošvatek (Plecoptera): změny diverzity, nároků a rozšíření jednotlivých
-druhů po 50 letech (Spatio-temporal patterns of Plecoptera taxocoenoses: changes in diversity,
+[Složení a struktura taxocenóz pošvatek (Plecoptera): změny diverzity, nároků a rozšíření jednotlivých
+druhů po 50 letech](https://www.muni.cz/vyzkum/projekty/10114) (Spatio-temporal patterns of Plecoptera taxocoenoses: changes in diversity,
 species requirements and distribution after 50 years), Grantová agentura České republiky,
 P505/10/P302, 2010–2012
 
@@ -69,7 +69,7 @@ Bojková J., Rádková V., Soldán T. &amp; Zahrádková S. 2014: Trends in spec
 
 Bojková J. &amp; Soldán T. 2013: Stoneflies (Plecoptera) of the Czech Republic: species checklist, distribution and protection status. Acta Entomologica Musei Nationalis Pragae, 53: 443–484.
 
-Soldán T., Bojková J., Zahrádková S., Helešic J. &amp; Sroka P. 2014: Dlouhodobý výzkum vodního hmyzu – rodinné stříbro české entomologie. Živa, 5: 215–218.
+Soldán T., Bojková J., Zahrádková S., Helešic J. &amp; Sroka P. 2014: Dlouhodobý výzkum vodního hmyzu – rodinné stříbro české entomologie. Živa, 5: 215–218. [PDF](http://ziva.avcr.cz/files/ziva/pdf/dlouhodoby-vyzkum-vodniho-hmyzu-rodinne-stribro-ce.pdf)
 
 Zahrádková S., Soldán T., Bojková J., Helešic J., Janovská H. &amp; Sroka P., 2009: Distribution and biology of mayflies (Ephemeroptera) of the Czech Republic: present status and perspectives. Aquatic Insects, 31(suppl. 1): 629–652.
 
