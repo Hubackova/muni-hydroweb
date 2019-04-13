@@ -2,10 +2,11 @@
 title: project3
 name: Výzkum vysychavých toků
 captions: /
-nameEn: Výzkum vysychavých toků
 captionsEn: /
 ---
 <div class="cz">
+
+
 Základ pracovní skupiny se zformoval v letech 2012-2015 během projektu [BIOSUCHO](www.sucho.eu) (Vysychání
 toků v období klimatické změny: predikce rizika a biologická indikace epizod vyschnutí jako nové
 metody pro management vodního hospodářství a údržby krajiny - TA02020395). Na něj postupně
@@ -148,15 +149,16 @@ _Jana Zavadilová_ 2007. [Změny habitatových preferencí druhu _Gammarus fossa
 _Veronika Guziurová_ 2007. [Makrozoobentos intermitentního toku-průběh rekolonizace po vyschnutí](https://is.muni.cz/th/o656l/). \[BP]
 
 _Jitka Krajčová_ 2007 [Driftová aktivita makrozoobentosu intermitentního toku.](https://is.muni.cz/th/mc94v/?lang=cs) \[BP]
+
 </div>
 
 </div>
 
 <div class="en">
-Základ pracovní skupiny se zformoval v letech 2012-2015 během projektu [BIOSUCHO](www.sucho.eu) (Vysychání
+Základ pracovní skupiny se zformoval v letech 2012-2015 během projektu \[BIOSUCHO](www.sucho.eu) (Vysychání
 toků v období klimatické změny: predikce rizika a biologická indikace epizod vyschnutí jako nové
 metody pro management vodního hospodářství a údržby krajiny - TA02020395). Na něj postupně
-navázala v letech 2016-2020 mezinárodní spolupráce v celoevropském projektu [SMIRES](www.smires.eu) (Science
+navázala v letech 2016-2020 mezinárodní spolupráce v celoevropském projektu \[SMIRES](www.smires.eu) (Science
 and Management of Intermittent Rivers & Ephemeral Streams - COST Action CA15113).
 Výzkum se zaměřuje na dopady stále narůstajícího vysychání toků na oživení vodotečí nejen vodními
 bezobratlými ale v poslední době i dalšími skupinami (fytobentos, suchozemští bezobratlí/obratlovci),
@@ -295,5 +297,6 @@ _Jana Zavadilová_ 2007. [Změny habitatových preferencí druhu _Gammarus fossa
 _Veronika Guziurová_ 2007. [Makrozoobentos intermitentního toku-průběh rekolonizace po vyschnutí](https://is.muni.cz/th/o656l/). \[BP]
 
 _Jitka Krajčová_ 2007 [Driftová aktivita makrozoobentosu intermitentního toku.](https://is.muni.cz/th/mc94v/?lang=cs) \[BP]
+
 </div>
 </div>
