@@ -6,7 +6,6 @@ captionsEn: /
 ---
 <div class="cz">
 
-
 Základ pracovní skupiny se zformoval v letech 2012-2015 během projektu [BIOSUCHO](www.sucho.eu) (Vysychání
 toků v období klimatické změny: predikce rizika a biologická indikace epizod vyschnutí jako nové
 metody pro management vodního hospodářství a údržby krajiny - TA02020395). Na něj postupně
@@ -60,8 +59,7 @@ Eva Hanáková, Jan Šupina, Jiří Jakubínský, Světlana Zahrádková, Jan He
 **Pařil**, P., Leigh, C., **Polášek**, M., Sarremejane, R., Řezníčková, P., **Dostálová**, A., &
 Stubbington, R. (2018). Short-term streambed drying events alter amphipod
 population structure in a central European stream. Fundamental and Applied
-Limnology/Archiv für Hydrobiologie.
-https://www.ingentaconnect.com/content/schweiz/fal/pre-prints/content-fal_000_0_0000_0000_paril_1164_prepub;jsessionid=2d6qlqj8o0ksi.x-ic-live-03
+Limnology/Archiv für Hydrobiologie. [PDF](http://docserver.ingentaconnect.com/deliver/fasttrack/schweiz/18639135/fal_000_0_0000_0000_paril_1164_prepub_1547215377239.pdf?expires=1555189280&id=id22479149&checksum=030B2F8413E12D89FA0B835BCFC7715A)
 
 **Loskotová** B. **Straka** M., **Pařil** P.
 2019: Sediment characteristics influence benthic macroinvertebrate vertical
@@ -70,32 +68,28 @@ and Applied Limnology.  (accepted)
 
 Datry, T. …. **Pařil**, P., **Polášek** M., …. 2018: A global
 analysis of terrestrial plant litter dynamics in non-perennial waterways. Nature
-Geoscience, 5(11): 497-503.
-[https://www.nature.com/articles/s41561-018-0134-4](https://www.nature.com/articles/s41561-018-0134-4%C2%A8)
+Geoscience, 5(11): 497-503. [PDF](http://irep.ntu.ac.uk/id/eprint/34001/1/11489_Stubbington.pdf)
 
 Datry, T., Singer, G., Sauquet, E., Capdevilla, D.
 J., Von Schiller, D., Subbington, R., ... **Pařil, P**. … & Alves, M. H. 2017:
 Science and management of intermittent rivers and ephemeral streams (SMIRES).
-Research Ideas and Outcomes, 3: 1-23.
-<https://riojournal.com/article/21774/>
+Research Ideas and Outcomes, 3: 1-23. [PDF](https://hal.archives-ouvertes.fr/hal-01871041/document)
 
 Shumilova O., …. **Pařil**, P. …. 2019: Simulating rewetting events in intermittent
 rivers and ephemeral streams: a global analysis of leached nutrients and
-organic matter. Global Change Biology. (first online 9.1.2019)
-<https://onlinelibrary.wiley.com/doi/10.1111/gcb.14537>
+organic matter. Global Change Biology. (first online 9.1.2019) [PDF](https://onlinelibrary.wiley.com/doi/pdf/10.1111/gcb.14537)
+
 
 Stubbington, R., Chadd, R., Cid, N., Csabai, Z.,
 Miliša, M., Morais, M., Munné, A., **Pařil**,
 P. Pešić, V., Tziortzisj, I., Verdonschot, R. C. & T. Datry 2018:
 Biomonitoring of intermittent rivers and ephemeral streams in Europe: Current
 practice and priorities to enhance ecological status assessments. Science of
-the total environment, 618: 1096-1113.
-<https://www.sciencedirect.com/science/article/pii/S0048969717324865>
+the total environment, 618: 1096-1113. [PDF](https://reader.elsevier.com/reader/sd/pii/S0048969717324865?token=ECA1F7E507035C2B093F4D7F1BB83CC67F464FF023BF0439AAFBA3293F6553FB021C5C6FE91EC729EC7EC82736748ED0)
 
 Zahrádková, S., Hájek, O., Treml, P., **Pařil**, P., **Straka**, M., Němejcová, D., **Polášek**,
 M. & Ondráček, P. (2015). Hodnocení rizika vysychání drobných vodních toků
-v České republice. Vodohospodářské technicko-ekonomické informace, 57(6), 4-16.
-<https://www.vtei.cz/2015/12/hodnoceni-rizika-vysychani-drobnych-vodnich-toku-v-ceske-republice/>
+v České republice. Vodohospodářské technicko-ekonomické informace, 57(6), 4-16. [HTML](https://www.vtei.cz/2015/12/hodnoceni-rizika-vysychani-drobnych-vodnich-toku-v-ceske-republice/)
 
 **Pařil**, P., Syrovátka V.,
 Zahrádková S., **Straka** M., **Polášek** M., Němejcová D., Opatřilová
@@ -155,10 +149,10 @@ _Jitka Krajčová_ 2007 [Driftová aktivita makrozoobentosu intermitentního tok
 </div>
 
 <div class="en">
-Základ pracovní skupiny se zformoval v letech 2012-2015 během projektu \[BIOSUCHO](www.sucho.eu) (Vysychání
+Základ pracovní skupiny se zformoval v letech 2012-2015 během projektu \\[BIOSUCHO](www.sucho.eu) (Vysychání
 toků v období klimatické změny: predikce rizika a biologická indikace epizod vyschnutí jako nové
 metody pro management vodního hospodářství a údržby krajiny - TA02020395). Na něj postupně
-navázala v letech 2016-2020 mezinárodní spolupráce v celoevropském projektu \[SMIRES](www.smires.eu) (Science
+navázala v letech 2016-2020 mezinárodní spolupráce v celoevropském projektu \\[SMIRES](www.smires.eu) (Science
 and Management of Intermittent Rivers & Ephemeral Streams - COST Action CA15113).
 Výzkum se zaměřuje na dopady stále narůstajícího vysychání toků na oživení vodotečí nejen vodními
 bezobratlými ale v poslední době i dalšími skupinami (fytobentos, suchozemští bezobratlí/obratlovci),
