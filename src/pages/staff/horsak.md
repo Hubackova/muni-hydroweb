@@ -26,8 +26,7 @@ Od roku 2004 pracuje na Ústavu botaniky a zoologie Masarykovy univerzity, kde p
   glaciálu a raného holocénu
 * Vliv dispersních schopností a podmínek prostředí na utváření biotických společenstev
 * Vlivu historických aspektů na současný výskyt a přežívaní glaciálních reliktů či stanovištních
-  specialistů
-</div>
+    specialistů
 
 <div class="en">
 Od roku 2004 pracuje na Ústavu botaniky a zoologie Masarykovy univerzity, kde přednáší fylogenezi
@@ -44,5 +43,4 @@ Od roku 2004 pracuje na Ústavu botaniky a zoologie Masarykovy univerzity, kde p
   glaciálu a raného holocénu
 * Vliv dispersních schopností a podmínek prostředí na utváření biotických společenstev
 * Vlivu historických aspektů na současný výskyt a přežívaní glaciálních reliktů či stanovištních
-  specialistů
-</div>
+    specialistů
