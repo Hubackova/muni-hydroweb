@@ -2,28 +2,27 @@
 title: project1
 name: Vodní bezobratlí prameništních slatinišť Západních Karpat
 captions: >-
-  2005 - na Hrubém Mechnáči/2005 - Markéta v terénu/2006 - na Obidové s doc.
-  Opravilovou/2007 - Cestou z Kalábové/2007 - Marki a Veny/2010 - bahnologie na
-  Korni/2010 - romantický Štiavnik/2011 - nové lokality budou boží!/2011 -
-  Liptovská Teplička/2011 - parta na Liptovské Tepličce/2011 - Pastierské 2/Veny
-  na Kochlearii/2011 - Víťa staví výletovku na Hutích/2012 - průzkum nových
-  lokalit aneb zase budou boží/2012 - Omšenská Baba 1/2012 - Omšenská Baba
-  4/2012 - Vricko/2012 - spanilá jízda za brouky/2012 Podhoranské
-  rašelinisko/2012 - Hnilecká Jelšina/2013 - Víťa se raduje na Liptovské
-  tepličce/2014 - mikrodistribuce na Liptovské Tepličce/2016 - hledání pokladů
-  na Hutích
-nameEn: Vodní bezobratlí prameništních slatinišť Západních Karpat
+  2006 - na Obidové s doc. Opravilovou/ 2005 - na Hrubém Mechnáči/ 2007 - cestou
+  z Kalábové/ 2005 - Markéta v terénu/ 2007 - Marki a Veny/ 2010 - bahnologie na
+  Korni/ 2010 - romantický Štiavnik/ 2011 - nové lokality budou boží!/ 2011 -
+  Liptovská Teplička/ 2011 - parta na Liptovské Tepličce/ 2011 - Pastierské 2/
+  Veny na Kochlearii/ 2012 - spanilá jízda za brouky/ 2012 - průzkum nových
+  lokalit aneb zase budou boží/ 2011 - Víťa staví výletovku na Hutích/ 2012 -
+  Omšenská Baba 1/ 2012 - Vricko/ 2012 - Omšenská Baba 2/ 2012 - Podhoranské
+  rašelinisko/ 2012 - Hnilecká Jelšina/ 2013 - Víťa se raduje na Liptovské
+  tepličce/ 2014 - mikrodistribuce na Liptovské Tepličce/ 2016 - hledání pokladů
+  na Hutích/ 2018 - bardzo fajny kolektiw sbírá vzorky na metabarcoding
 captionsEn: >-
-  2005 - na Hrubém Mechnáči/2005 - Markéta v terénu/2006 - na Obidové s doc.
-  Opravilovou/2007 - Cestou z Kalábové/2007 - Marki a Veny/2010 - bahnologie na
-  Korni/2010 - romantický Štiavnik/2011 - nové lokality budou boží!/2011 -
-  Liptovská Teplička/2011 - parta na Liptovské Tepličce/2011 - Pastierské 2/Veny
-  na Kochlearii/2011 - Víťa staví výletovku na Hutích/2012 - průzkum nových
-  lokalit aneb zase budou boží/2012 - Omšenská Baba 1/2012 - Omšenská Baba
-  4/2012 - Vricko/2012 - spanilá jízda za brouky/2012 Podhoranské
-  rašelinisko/2012 - Hnilecká Jelšina/2013 - Víťa se raduje na Liptovské
-  tepličce/2014 - mikrodistribuce na Liptovské Tepličce/2016 - hledání pokladů
-  na Hutích
+  2006 - na Obidové s doc. Opravilovou/ 2005 - na Hrubém Mechnáči/ 2007 - cestou
+  z Kalábové/ 2005 - Markéta v terénu/ 2007 - Marki a Veny/ 2010 - bahnologie na
+  Korni/ 2010 - romantický Štiavnik/ 2011 - nové lokality budou boží!/ 2011 -
+  Liptovská Teplička/ 2011 - parta na Liptovské Tepličce/ 2011 - Pastierské 2/
+  Veny na Kochlearii/ 2012 - spanilá jízda za brouky/ 2012 - průzkum nových
+  lokalit aneb zase budou boží/ 2011 - Víťa staví výletovku na Hutích/ 2012 -
+  Omšenská Baba 1/ 2012 - Vricko/ 2012 - Omšenská Baba 2/ 2012 - Podhoranské
+  rašelinisko/ 2012 - Hnilecká Jelšina/ 2013 - Víťa se raduje na Liptovské
+  tepličce/ 2014 - mikrodistribuce na Liptovské Tepličce/ 2016 - hledání pokladů
+  na Hutích/ 2018 - bardzo fajny kolektiw sbírá vzorky na metabarcoding
 ---
 <div class="cz">
 Prameništní slatiniště jsou cenné mokřadní biotopy, které hostí specifickou faunu i flóru. Není jich
