@@ -22,7 +22,6 @@ Jsem absolventkou postgraduálního studia oboru hydrobiologie na Přírodověde
 * Prostorová distribuce vodních bezobratlých na malých škálách
 * Ekologie antropogenních mokřadů
 * Taxonomická specializace: dvoukřídlí (Diptera)
-</div>
 
 <div class="en">
 Jsem absolventkou postgraduálního studia oboru hydrobiologie na Přírodovědecké fakultě
@@ -35,4 +34,3 @@ Jsem absolventkou postgraduálního studia oboru hydrobiologie na Přírodověde
 * Prostorová distribuce vodních bezobratlých na malých škálách
 * Ekologie antropogenních mokřadů
 * Taxonomická specializace: dvoukřídlí (Diptera)
-</div>
