@@ -13,8 +13,7 @@ phone: 549498556
 room: A32/313
 is: 'https://www.muni.cz/en/students/356563-jan-supina'
 rg: 'https://www.researchgate.net/profile/Jan_Supina'
-image: >-
-  /images/phd_supina.jpg
+image: /images/phd_supina.jpg
 ---
 <div class="cz">
 
@@ -23,7 +22,6 @@ image: >-
 * Vliv technického zasněžování na biologické složky přírodního prostředí na
   území Krkonošského národního parku a jeho ochranného pásma
 * Taxonomická specializace: jepice (Ephemeroptera), pakomárovití (Chironomidae)
-</div>
 
 <div class="en">
 
@@ -32,4 +30,3 @@ image: >-
 * Vliv technického zasněžování na biologické složky přírodního prostředí na
   území Krkonošského národního parku a jeho ochranného pásma
 * Taxonomická specializace: jepice (Ephemeroptera), pakomárovití (Chironomidae)
-</div>
