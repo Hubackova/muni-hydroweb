@@ -2,12 +2,17 @@
 title: project2
 name: "Dlouhodobé změny toků a jejich bioty v\_České republice"
 captions: >-
-  Mže Milíkov/Plučnice Žizníkov/Olešenka Peklo/Křinice Černá brána/Javoří potok
-  Modrava/Zdobnice Pěčín
-nameEn: "Dlouhodobé změny toků a jejich bioty v\_České republice"
+  Bečva u Oseku 1955/ Vladimír Landa a Zelinka/ Tomáš Soldán/ Světlana
+  Zahrádková/ Jindřiška Bojková/ Morava u Lhoty 1955/ Svratka u Doubravníku/
+  Osoblaha u Janova 1956/ Mže Milíkov/ Ploučnice Žízníkov/ Olešenka Peklo/
+  Křinice Černá brána/ Kamenice v Zemské bráně/ Javoří potok Modrava/ Zdobnice
+  Pěčín
 captionsEn: >-
-  Mže Milíkov/Plučnice Žizníkov/Olešenka Peklo/Křinice Černá brána/Javoří potok
-  Modrava/Zdobnice Pěčín
+  Bečva u Oseku 1955/ Vladimír Landa a Zelinka/ Tomáš Soldán/ Světlana
+  Zahrádková/ Jindřiška Bojková/ Morava u Lhoty 1955/ Svratka u Doubravníku/
+  Osoblaha u Janova 1956/ Mže Milíkov/ Ploučnice Žízníkov/ Olešenka Peklo/
+  Křinice Černá brána/ Kamenice v Zemské bráně/ Javoří potok Modrava/ Zdobnice
+  Pěčín
 ---
 <div class="cz">
 Sladkovodní biotopy byly v průběhu minulého století silně zasaženy různými antropickými vlivy,
