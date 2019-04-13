@@ -26,7 +26,6 @@ Od roku 2008 jsem lektorem a kurátorem zoologických sbírek na Ústavu botanik
   další významné vodní bezobratlé
 * Management a ochrana mokřadů
 * Ornitologie – vodní ptáci, ptáci ve městech, ochrana ptáků
-</div>
 
 <div class="en">
 Od roku 2008 jsem lektorem a kurátorem zoologických sbírek na Ústavu botaniky a zoologie
@@ -43,4 +42,3 @@ Od roku 2008 jsem lektorem a kurátorem zoologických sbírek na Ústavu botanik
   další významné vodní bezobratlé
 * Management a ochrana mokřadů
 * Ornitologie – vodní ptáci, ptáci ve městech, ochrana ptáků
-</div>
