@@ -55,7 +55,10 @@ class ProjectDetail extends Component {
       <Layout>
         <IntContextConsumer>
           {({ int }) => {
-            const captions = int === "en" ? markdownRemark.frontmatter.captionsEn : markdownRemark.frontmatter.captions;
+            const captions =
+              int === "en"
+                ? markdownRemark.frontmatter.captionsEn
+                : markdownRemark.frontmatter.captions;
             const captionsArray = captions ? captions.split("/") : [];
 
             const imgs =
@@ -103,9 +106,11 @@ class ProjectDetail extends Component {
                   <StyledLink to="/projects/">
                     <i className="fa fa-arrow-left" />
                   </StyledLink>
+                  <ImgMobile>{imgs.concat(imgs2)}</ImgMobile>
                 </Content>
 
                 <ImgColumn>{imgs}</ImgColumn>
+                
               </NarrowContainer>
             );
           }}
@@ -118,8 +123,18 @@ class ProjectDetail extends Component {
 const NarrowContainer = styled.div`
   display: flex;
 `;
+const ImgMobile = styled.div`
+    display: none;
+  @media (max-width: 768px) {
+    display: block;
+  }
+`;
+
 const ImgColumn = styled.div`
   min-width: 25%;
+  @media (max-width: 768px) {
+    display: none;
+  }
 `;
 
 const Content = styled.div`
