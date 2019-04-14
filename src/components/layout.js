@@ -65,6 +65,7 @@ const HeaderPanel = styled.header`
 const Main = styled.main`
   max-width: ${props => (props.isWide ? "100%" : "1366px")};
   margin: 0 auto;
+  padding: 0 1px;
   width: 100%;
   flex: 1;
   margin-top: ${props => (props.isIndex ? "0px" : "20px")};
