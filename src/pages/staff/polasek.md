@@ -22,6 +22,7 @@ Jsem absolventem magisterského studia (učitelská kombinace biologie + chemie)
 * Vliv vysychání na taxonomické a funkční složení společenstev vodních bezobratlých
 * Hodnocení dlouhodobých změn společenstev vodních organismů
 * Bioindikace a hodnocení ekologického stavu tekoucích vod
+</div> 
 
 <div class="en">
 Jsem absolventem magisterského studia (učitelská kombinace biologie + chemie) i následného
@@ -34,3 +35,4 @@ Jsem absolventem magisterského studia (učitelská kombinace biologie + chemie)
 * Vliv vysychání na taxonomické a funkční složení společenstev vodních bezobratlých
 * Hodnocení dlouhodobých změn společenstev vodních organismů
 * Bioindikace a hodnocení ekologického stavu tekoucích vod
+</div> 

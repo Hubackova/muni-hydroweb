@@ -23,6 +23,7 @@ image: /images/phd_bilkova.jpg
 * Kroužkovci pramenných mokřadů a přilehlých luk a pastvin
 * Monitoring pijavky lékařské _Trocheta cylindrica_: naše největší pijavice
 * Vliv technického zasněžování na drobné kroužkovce v Krkonoších
+</div>
 
 <div class="en">
 
@@ -32,3 +33,4 @@ image: /images/phd_bilkova.jpg
 * Kroužkovci pramenných mokřadů a přilehlých luk a pastvin
 * Monitoring pijavky lékařské _Trocheta cylindrica_: naše největší pijavice
 * Vliv technického zasněžování na drobné kroužkovce v Krkonoších
+</div>

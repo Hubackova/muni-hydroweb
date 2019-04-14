@@ -21,6 +21,7 @@ Absolvent oboru hydrobiologie. Věnuje se ekologii zejména pakomárů a analýz
 * Společenstva pakomárů vodních biotopů ve vztahu ke kvalitě prostředí
 * Role prostoru v utváření společenstev
 * Analýza dat
+</div> 
 
 <div class="en">
 Absolvent oboru hydrobiologie. Věnuje se ekologii zejména pakomárů a analýze biologických dat.
@@ -32,3 +33,4 @@ Absolvent oboru hydrobiologie. Věnuje se ekologii zejména pakomárů a analýz
 * Společenstva pakomárů vodních biotopů ve vztahu ke kvalitě prostředí
 * Role prostoru v utváření společenstev
 * Analýza dat
+</div> 

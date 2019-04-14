@@ -26,6 +26,7 @@ Je absolventkou postgraduálního studia oboru hydrobiologie na Masarykově univ
 * Monitoring šumavských jezer; sledování společenstva vodních bezobratlých ve čtyřletém
   intervalu, zotavování po acidifikaci
 * Výzkum unikátních vodních biotopů na Šumavě; diverzita vodních bezobratlých ve vrchovištních tůních a horských povodích Grosse Ohe, Vydry a Modravského potoka
+</div> 
 
 <div class="en">
 Je absolventkou postgraduálního studia oboru hydrobiologie na Masarykově univerzitě, v současnosti
@@ -43,3 +44,4 @@ Je absolventkou postgraduálního studia oboru hydrobiologie na Masarykově univ
   intervalu, zotavování po acidifikaci
 * Výzkum unikátních vodních biotopů na Šumavě; diverzita vodních bezobratlých ve
     vrchovištních tůních a horských povodích Grosse Ohe, Vydry a Modravského potoka
+</div> 

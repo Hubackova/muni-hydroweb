@@ -24,6 +24,7 @@ Je absolventkou magisterského studia oboru Systematická biologie a ekologie (2
 * Přeshraniční monitoring biodiverzity horských biotopů v NP Šumava a Bavorský les
 * Biologie a ekologie středoevropských jepic a taxonomie jepic, především oblastí Kavkazu a
     Iránu
+</div> 
 
 <div class="en">
 Je absolventkou magisterského studia oboru Systematická biologie a ekologie (2005) a postgraduálního studia oboru hydrobiologie (2009) na Masarykově univerzitě. Pracovala jako odborná pracovnice na Ústavu botaniky a zoologie MU (2007–2013), Entomologickém ústavu Biologického centra AV ČR v Českých Budějovicích (2009–2010) a Katedře biologie ekosystémů Jihočeské univerzity v Českých Budějovicích (2012–2016). Od roku 2010 je odbornou asistentkou na
@@ -38,3 +39,4 @@ Je absolventkou magisterského studia oboru Systematická biologie a ekologie (2
 * Přeshraniční monitoring biodiverzity horských biotopů v NP Šumava a Bavorský les
 * Biologie a ekologie středoevropských jepic a taxonomie jepic, především oblastí Kavkazu a
     Iránu
+</div> 

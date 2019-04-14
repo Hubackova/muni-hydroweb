@@ -22,6 +22,7 @@ image: /images/phd_polakova.jpg
 * Makrozoobentos post-industriálních stanovišť
 * Koexistence vodních bezobratlých na malé prostorové škále: vliv prostorové a abiotické heterogenity
 * Taxonomická specializace: pakomárovití (Chironomidae)
+</div>
 
 <div class="en">
 
@@ -30,3 +31,4 @@ image: /images/phd_polakova.jpg
 * Makrozoobentos post-industriálních stanovišť
 * Koexistence vodních bezobratlých na malé prostorové škále: vliv prostorové a abiotické heterogenity
 * Taxonomická specializace: pakomárovití (Chironomidae)
+</div>

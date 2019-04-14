@@ -21,6 +21,7 @@ image: /images/phd_loskotova.jpg
 
 * Ekologie vysychavých toků, možnosti bioindikace vyschnutí
 * Taxonomické a funkční složení makrozoobentosu vysychavých toků
+</div>
 
 <div class="en">
 
@@ -28,3 +29,4 @@ image: /images/phd_loskotova.jpg
 
 * Ekologie vysychavých toků, možnosti bioindikace vyschnutí
 * Taxonomické a funkční složení makrozoobentosu vysychavých toků
+</div>

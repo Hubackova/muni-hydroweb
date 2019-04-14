@@ -24,6 +24,7 @@ image: /images/jana-petruželová.jpg
 * Zotavení společenstev vodních bezobratlých v šumavských jezerech z acidifikace
 * Sukcese a dynamika společenstev vodních bezobratlých v revitalizovaných tocích
 * Diverzita a ekologie chrostíků (Trichoptera)
+</div>
 
 <div class="en">
 
@@ -34,3 +35,4 @@ image: /images/jana-petruželová.jpg
 * Zotavení společenstev vodních bezobratlých v šumavských jezerech z acidifikace
 * Sukcese a dynamika společenstev vodních bezobratlých v revitalizovaných tocích
 * Diverzita a ekologie chrostíků (Trichoptera)
+</div>

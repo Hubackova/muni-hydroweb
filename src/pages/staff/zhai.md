@@ -23,6 +23,7 @@ Jsem absolventkou magisterského i postgraduálního studia oboru hydrobiologie 
 * Ekologie společenstev vodních bezobratlých prameništních slatinišť na různých prostorových
   škálách
 * Vliv biotických interakcí na společenstva vodních bezobratlých
+</div> 
 
 <div class="en">
 Jsem absolventkou magisterského i postgraduálního studia oboru hydrobiologie na Ústavu botaniky a
@@ -36,3 +37,4 @@ Jsem absolventkou magisterského i postgraduálního studia oboru hydrobiologie 
 * Ekologie společenstev vodních bezobratlých prameništních slatinišť na různých prostorových
   škálách
 * Vliv biotických interakcí na společenstva vodních bezobratlých
+</div> 
