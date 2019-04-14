@@ -73,7 +73,7 @@ export default FooterContent;
 
 const Container = styled.div`
   display: flex;
-  width: 100vw;
+  width: "100%";
   flex-wrap: wrap;
   margin: 0;
 `;
