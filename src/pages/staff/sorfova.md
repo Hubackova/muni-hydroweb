@@ -12,6 +12,8 @@ rg: 'https://www.researchgate.net/profile/Vanda_Sorfova '
 image: /images/staff_sorfova.jpg
 ---
 <div class="cz">
+
+
 Je absolventkou postgraduálního studia oboru hydrobiologie na Masarykově univerzitě, v současnosti
  zaměstnaná jako odborná pracovnice na Ústavu botaniky a zoologie MU. Specializuje se na
  determinaci larev taxonomicky náročné skupiny pakomárovitých (Chironomidae), jedné
@@ -26,9 +28,12 @@ Je absolventkou postgraduálního studia oboru hydrobiologie na Masarykově univ
 * Monitoring šumavských jezer; sledování společenstva vodních bezobratlých ve čtyřletém
   intervalu, zotavování po acidifikaci
 * Výzkum unikátních vodních biotopů na Šumavě; diverzita vodních bezobratlých ve vrchovištních tůních a horských povodích Grosse Ohe, Vydry a Modravského potoka
-</div> 
+
+</div>
 
 <div class="en">
+
+
 Je absolventkou postgraduálního studia oboru hydrobiologie na Masarykově univerzitě, v současnosti
  zaměstnaná jako odborná pracovnice na Ústavu botaniky a zoologie MU. Specializuje se na
  determinaci larev taxonomicky náročné skupiny pakomárovitých (Chironomidae), jedné
@@ -43,5 +48,6 @@ Je absolventkou postgraduálního studia oboru hydrobiologie na Masarykově univ
 * Monitoring šumavských jezer; sledování společenstva vodních bezobratlých ve čtyřletém
   intervalu, zotavování po acidifikaci
 * Výzkum unikátních vodních biotopů na Šumavě; diverzita vodních bezobratlých ve
-    vrchovištních tůních a horských povodích Grosse Ohe, Vydry a Modravského potoka
-</div> 
+      vrchovištních tůních a horských povodích Grosse Ohe, Vydry a Modravského potoka
+
+</div>
