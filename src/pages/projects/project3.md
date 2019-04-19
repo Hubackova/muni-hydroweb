@@ -11,7 +11,7 @@ captions: >-
   Odběry vzorků pro experiment – chce to sílu býti hydrobiologem/ Rekognoskace
   terénu je zásadní pro výběr vhodné lokality/ Pobytové stopy ve vyschlém říčním
   dně/ I takto může vypadat vyschlé říční dno/ Příprava experimentálního
-  vybavení hotova! Průběžná kontrola experimentálně zaplavených vyschlých
+  vybavení hotova!/ Průběžná kontrola experimentálně zaplavených vyschlých
   sedimentů říčního dna/
 captionsEn: >-
   Oslava po úspěšném vzorkování/ Proplachování odebraného vzorku/ Třídění vzorku
@@ -23,7 +23,7 @@ captionsEn: >-
   Odběry vzorků pro experiment – chce to sílu býti hydrobiologem/ Rekognoskace
   terénu je zásadní pro výběr vhodné lokality/ Pobytové stopy ve vyschlém říčním
   dně/ I takto může vypadat vyschlé říční dno/ Příprava experimentálního
-  vybavení hotova! Průběžná kontrola experimentálně zaplavených vyschlých
+  vybavení hotova!/ Průběžná kontrola experimentálně zaplavených vyschlých
   sedimentů říčního dna/
 ---
 <div class="cz">
