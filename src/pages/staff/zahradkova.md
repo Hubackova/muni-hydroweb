@@ -5,7 +5,7 @@ name: 'Doc. RNDr. Světlana Zahrádková, Ph.D.'
 position: AKADEMICKÝ PRACOVNÍK
 positionEn: AKADEMICKÝ PRACOVNÍK
 email: zahradkova@sci.muni.cz
-phone: 420549498174
+phone: 549498174
 room: A32/316
 is: 'https://www.muni.cz/lide/2277-svetlana-zahradkova'
 rg: 'https://www.researchgate.net/profile/Svetlana_Zahradkova'
