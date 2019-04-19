@@ -12,6 +12,8 @@ rg: 'https://www.researchgate.net/profile/Jan_Helesic2'
 image: /images/staff_helesic.jpg
 ---
 <div class="cz">
+
+
 Absolvoval studium odborné biologie se zaměřením na ekologii a zoologii v roce 1977 na Přírodovědecké fakultě univerzity Jana Evangelisty Purkyně Brno (dřívější název MU). V době studia
 se věnoval ornitologii a chiropterologii. Do roku 1990 pracoval v resortním ústavu Ministerstva
 dopravy, kde se věnoval toxikologii, ochraně povrchových a podzemních vod a čistírenství. Je vedoucím pracovní skupiny Laboratoř biologie tekoucích vod a v letech 2007 – 2016 byl ředitelem
@@ -27,9 +29,12 @@ Research, 1998 – 2016. V letech 2003 – 2006 byl předseda české limnologi
 * Bioindikace stavu tekoucích vod (habilitace v roce 1999)
 
 **Seznam vědeckých a odborných prací** [zde](helesic.pdf)
+
 </div>
 
 <div class="en">
+
+
 Absolvoval studium odborné biologie se zaměřením na ekologii a zoologii v roce 1977 na Přírodovědecké fakultě univerzity Jana Evangelisty Purkyně Brno (dřívější název MU). V době studia
 se věnoval ornitologii a chiropterologii. Do roku 1990 pracoval v resortním ústavu Ministerstva
 dopravy, kde se věnoval toxikologii, ochraně povrchových a podzemních vod a čistírenství. Je vedoucím pracovní skupiny Laboratoř biologie tekoucích vod a v letech 2007 – 2016 byl ředitelem
@@ -45,4 +50,5 @@ Research, 1998 – 2016. V letech 2003 – 2006 byl předseda české limnologi
 * Bioindikace stavu tekoucích vod (habilitace v roce 1999)
 
 **List of scientific and professional works:** [here](helesic.pdf)
+
 </div>
