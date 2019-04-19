@@ -22,6 +22,7 @@ image: /images/phd_hrivova.jpg
 * Ekologické nároky sladkovodních plazivek
 * Genetická variabilita sladkovodních klanonožců
 * Taxonomie a rozšíření plazivek Evropy
+
 </div>
 
 <div class="en">
@@ -31,4 +32,5 @@ image: /images/phd_hrivova.jpg
 * Ekologické nároky sladkovodních plazivek
 * Genetická variabilita sladkovodních klanonožců
 * Taxonomie a rozšíření plazivek Evropy
+
 </div>
