@@ -21,6 +21,7 @@ image: /images/phd_vyravsky.jpg
 
 * Ekologie lasturnatek prameništních slatinišť Západních Karpat
 * Distribuce lasturnatek pramenných biotopů na různých prostorových škálách
+
 </div>
 
 <div class="en">
@@ -29,4 +30,5 @@ image: /images/phd_vyravsky.jpg
 
 * Ekologie lasturnatek prameništních slatinišť Západních Karpat
 * Distribuce lasturnatek pramenných biotopů na různých prostorových škálách
+
 </div>
