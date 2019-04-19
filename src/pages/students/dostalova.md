@@ -21,6 +21,7 @@ image: /images/phd_dostalova.jpg
 
 * Role suchého říčního dna, zbytkových tůní a malých vodních nádrží jako refugií pro organismy tekoucích vod v průběhu vysychání toků
 * Vliv vysychání na populační strukturu a fekunditu blešivce potočního (_Gammarus fossarum_)
+
 </div>
 
 <div class="en">
@@ -30,4 +31,5 @@ image: /images/phd_dostalova.jpg
 * Role suchého říčního dna, zbytkových tůní a malých vodních nádrží jako refugií pro organismy
   tekoucích vod v průběhu vysychání toků
 * Vliv vysychání na populační strukturu a fekunditu blešivce potočního (_Gammarus fossarum_)
+
 </div>
