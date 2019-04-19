@@ -12,6 +12,8 @@ rg: 'https://www.researchgate.net/profile/Michal_Horsak'
 image: /images/staff_horsak.jpg
 ---
 <div class="cz">
+
+
 Od roku 2004 pracuje na Ústavu botaniky a zoologie Masarykovy univerzity, kde přednáší fylogenezi
  a diverzitu bezobratlých, malakozoologii a s J. Rolečkem vývoj přírody ve čtvrtohorách. Jako stálý člen
  Biotýmu se rád věnuje výuce v terénu a pořádání terénních cvičení. Studoval obor Systematická
@@ -26,10 +28,13 @@ Od roku 2004 pracuje na Ústavu botaniky a zoologie Masarykovy univerzity, kde p
   glaciálu a raného holocénu
 * Vliv dispersních schopností a podmínek prostředí na utváření biotických společenstev
 * Vliv historických aspektů na současný výskyt a přežívaní glaciálních reliktů či stanovištních
-    specialistů
-</div> 
+      specialistů
+
+</div>
 
 <div class="en">
+
+
 Od roku 2004 pracuje na Ústavu botaniky a zoologie Masarykovy univerzity, kde přednáší fylogenezi
  a diverzitu bezobratlých, malakozoologii a s J. Rolečkem vývoj přírody ve čtvrtohorách. Jako stálý člen
  Biotýmu se rád věnuje výuce v terénu a pořádání terénních cvičení. Studoval obor Systematická
@@ -44,5 +49,6 @@ Od roku 2004 pracuje na Ústavu botaniky a zoologie Masarykovy univerzity, kde p
   glaciálu a raného holocénu
 * Vliv dispersních schopností a podmínek prostředí na utváření biotických společenstev
 * Vliv historických aspektů na současný výskyt a přežívaní glaciálních reliktů či stanovištních
-    specialistů
-</div> 
+      specialistů
+
+</div>
