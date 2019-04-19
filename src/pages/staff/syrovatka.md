@@ -12,6 +12,8 @@ rg: 'https://www.researchgate.net/profile/Vit_Syrovatka'
 image: /images/staff_syrovatka.jpg
 ---
 <div class="cz">
+
+
 Absolvent oboru hydrobiologie. Věnuje se ekologii zejména pakomárů a analýze biologických dat.
 
 **Výzkumná témata:**
@@ -21,9 +23,12 @@ Absolvent oboru hydrobiologie. Věnuje se ekologii zejména pakomárů a analýz
 * Společenstva pakomárů vodních biotopů ve vztahu ke kvalitě prostředí
 * Role prostoru v utváření společenstev
 * Analýza dat
-</div> 
+
+</div>
 
 <div class="en">
+
+
 Absolvent oboru hydrobiologie. Věnuje se ekologii zejména pakomárů a analýze biologických dat.
 
 **Research topics:**
@@ -33,4 +38,5 @@ Absolvent oboru hydrobiologie. Věnuje se ekologii zejména pakomárů a analýz
 * Společenstva pakomárů vodních biotopů ve vztahu ke kvalitě prostředí
 * Role prostoru v utváření společenstev
 * Analýza dat
-</div> 
+
+</div>
