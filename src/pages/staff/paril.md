@@ -12,7 +12,9 @@ rg: 'https://www.researchgate.net/profile/Petr_Paril '
 image: /images/staff_paril.jpg
 ---
 <div class="cz">
-Po studiu na Masarykově univerzitě (MU) jsem pracoval jako hydrobiolog na Agentuře ochrany přírody a krajiny ČR (1992–1996) a České inspekci životního prostředí (1996–2002). Na MU jsem se vrátil v roce 2002 nejprve do EU projektu STAR a od roku 2004 jsem se zapojil do hydrobiologického týmu Ústavu botaniky a zoologie. V letech 2011-20016 jsem souběžně pracoval na Výzkumném ústavu vodohospodářském T.G.M., v.v.i. Od roku 2005 se zabývám ekologií vodních bezobratlých ve vysychavých tocích, což se promítlo do projektu [BIOSUCHO](http://www.sucho.eu/) vytvořením metody retrospektivní indikace epizod vyschnutí toku a navržením interaktivní mapy rizika vysychání toků ČR.
+
+
+Po studiu na Masarykově univerzitě (MU) jsem pracoval jako hydrobiolog na Agentuře ochrany přírody a krajiny ČR (1992–1996) a České inspekci životního prostředí (1996–2002). Na MU jsem se vrátil v roce 2002 nejprve do EU projektu STAR a od roku 2004 jsem se zapojil do hydrobiologického týmu Ústavu botaniky a zoologie. V letech 2011-20016 jsem souběžně pracoval na Výzkumném ústavu vodohospodářském T.G.M., v.v.i. Od roku 2005 se zabývám ekologií vodních bezobratlých ve vysychavých tocích, což se promítlo do projektu \[BIOSUCHO](http://www.sucho.eu/) vytvořením metody retrospektivní indikace epizod vyschnutí toku a navržením interaktivní mapy rizika vysychání toků ČR.
 
 **Výzkumná témata:**
 
@@ -27,10 +29,13 @@ Po studiu na Masarykově univerzitě (MU) jsem pracoval jako hydrobiolog na Agen
    změnou klimatu se také věnuji šíření expandujících vodních bezobratlých (např. pošvatka _Leuctra geniculata_).
 
 **Širší životopis a curriculum vitae** [zde](https://www.muni.cz/lide/70751-petr-paril/zivotopis)
+
 </div>
 
 <div class="en">
-Po studiu na Masarykově univerzitě (MU) jsem pracoval jako hydrobiolog na Agentuře ochrany přírody a krajiny ČR (1992–1996) a České inspekci životního prostředí (1996–2002). Na MU jsem se vrátil v roce 2002 nejprve do EU projektu STAR a od roku 2004 jsem se zapojil do hydrobiologického týmu Ústavu botaniky a zoologie. V letech 2011-20016 jsem souběžně pracoval na Výzkumném ústavu vodohospodářském T.G.M., v.v.i. Od roku 2005 se zabývám ekologií vodních bezobratlých ve vysychavých tocích, což se promítlo do projektu [BIOSUCHO](http://www.sucho.eu/) vytvořením metody retrospektivní indikace epizod vyschnutí toku a navržením interaktivní mapy rizika vysychání toků ČR.
+
+
+Po studiu na Masarykově univerzitě (MU) jsem pracoval jako hydrobiolog na Agentuře ochrany přírody a krajiny ČR (1992–1996) a České inspekci životního prostředí (1996–2002). Na MU jsem se vrátil v roce 2002 nejprve do EU projektu STAR a od roku 2004 jsem se zapojil do hydrobiologického týmu Ústavu botaniky a zoologie. V letech 2011-20016 jsem souběžně pracoval na Výzkumném ústavu vodohospodářském T.G.M., v.v.i. Od roku 2005 se zabývám ekologií vodních bezobratlých ve vysychavých tocích, což se promítlo do projektu \[BIOSUCHO](http://www.sucho.eu/) vytvořením metody retrospektivní indikace epizod vyschnutí toku a navržením interaktivní mapy rizika vysychání toků ČR.
 
 **Research topics:**
 
@@ -45,4 +50,5 @@ Po studiu na Masarykově univerzitě (MU) jsem pracoval jako hydrobiolog na Agen
    změnou klimatu se také věnuji šíření expandujících vodních bezobratlých (např. pošvatka _Leuctra geniculata_).
 
 **Wider CV and curriculum vitae** [here](https://www.muni.cz/lide/70751-petr-paril/zivotopis)
+
 </div>
