@@ -12,6 +12,8 @@ rg: 'https://www.researchgate.net/profile/Jan_Sychra'
 image: /images/staff_sychra.jpg
 ---
 <div class="cz">
+
+
 Od roku 2008 jsem lektorem a kurátorem zoologických sbírek na Ústavu botaniky a zoologie
  Masarykovy univerzity. Věnuji se výzkumu bezobratlých ve stojatých vodách, především v rybnících a
  různých typech mokřadů jako jsou rašeliniště, horské nádrže a polní rozlivy. Zabývám se především
@@ -26,9 +28,12 @@ Od roku 2008 jsem lektorem a kurátorem zoologických sbírek na Ústavu botanik
   další významné vodní bezobratlé
 * Management a ochrana mokřadů
 * Ornitologie – vodní ptáci, ptáci ve městech, ochrana ptáků
-</div> 
+
+</div>
 
 <div class="en">
+
+
 Od roku 2008 jsem lektorem a kurátorem zoologických sbírek na Ústavu botaniky a zoologie
  Masarykovy univerzity. Věnuji se výzkumu bezobratlých ve stojatých vodách, především v rybnících a
  různých typech mokřadů jako jsou rašeliniště, horské nádrže a polní rozlivy. Zabývám se především
@@ -43,4 +48,5 @@ Od roku 2008 jsem lektorem a kurátorem zoologických sbírek na Ústavu botanik
   další významné vodní bezobratlé
 * Management a ochrana mokřadů
 * Ornitologie – vodní ptáci, ptáci ve městech, ochrana ptáků
-</div> 
+
+</div>
