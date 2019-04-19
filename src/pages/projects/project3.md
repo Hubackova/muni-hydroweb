@@ -1,8 +1,30 @@
 ---
 title: project3
 name: Výzkum vysychavých toků
-captions: /
-captionsEn: /
+captions: >-
+  Oslava po úspěšném vzorkování/ Proplachování odebraného vzorku/ Třídění vzorku
+  v terénu/ Nadšení při práci v terénu/ Už se to nese – odebraný vzorek k
+  fixaci/ Zaznamenat do protokolu všechny práce je nezbytné/ Zbytková tůň,
+  Sudoměřický potok/ Instalace fotopasti/ Měření průtoku/ Instalované čidlo k
+  měření osvitu/ Terénní komando/ Odběr vzorku z vyschlého dna/ Odběr vzorku z
+  vyschlého dna podruhé/ Kontrola, zda fotopast zaznamenává a vysílá správně/
+  Odběry vzorků pro experiment – chce to sílu býti hydrobiologem/ Rekognoskace
+  terénu je zásadní pro výběr vhodné lokality/ Pobytové stopy ve vyschlém říčním
+  dně/ I takto může vypadat vyschlé říční dno/ Příprava experimentálního
+  vybavení hotova! Průběžná kontrola experimentálně zaplavených vyschlých
+  sedimentů říčního dna/
+captionsEn: >-
+  Oslava po úspěšném vzorkování/ Proplachování odebraného vzorku/ Třídění vzorku
+  v terénu/ Nadšení při práci v terénu/ Už se to nese – odebraný vzorek k
+  fixaci/ Zaznamenat do protokolu všechny práce je nezbytné/ Zbytková tůň,
+  Sudoměřický potok/ Instalace fotopasti/ Měření průtoku/ Instalované čidlo k
+  měření osvitu/ Terénní komando/ Odběr vzorku z vyschlého dna/ Odběr vzorku z
+  vyschlého dna podruhé/ Kontrola, zda fotopast zaznamenává a vysílá správně/
+  Odběry vzorků pro experiment – chce to sílu býti hydrobiologem/ Rekognoskace
+  terénu je zásadní pro výběr vhodné lokality/ Pobytové stopy ve vyschlém říčním
+  dně/ I takto může vypadat vyschlé říční dno/ Příprava experimentálního
+  vybavení hotova! Průběžná kontrola experimentálně zaplavených vyschlých
+  sedimentů říčního dna/
 ---
 <div class="cz">
 
