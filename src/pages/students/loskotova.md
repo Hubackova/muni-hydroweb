@@ -21,6 +21,7 @@ image: /images/phd_loskotova.jpg
 
 * Ekologie vysychavých toků, možnosti bioindikace vyschnutí
 * Taxonomické a funkční složení makrozoobentosu vysychavých toků
+* Experimentální výzkum vlivu vysychání a dalších abiotických faktorů na resistenci makrozoobentosu
 
 </div>
 
@@ -30,5 +31,6 @@ image: /images/phd_loskotova.jpg
 
 * Ekologie vysychavých toků, možnosti bioindikace vyschnutí
 * Taxonomické a funkční složení makrozoobentosu vysychavých toků
+* Experimentální výzkum vlivu vysychání a dalších abiotických faktorů na resistenci makrozoobentos
 
 </div>
