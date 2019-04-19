@@ -1,9 +1,30 @@
 ---
 title: project6
 name: Výzkum vysychavých biotopů polních rozlivů a jejich bioty
-captions: /
-nameEn: Výzkum vysychavých biotopů polních rozlivů a jejich bioty
-captionsEn: /
+captions: >-
+  Lovící komando u Uherského Ostrohu/ Lov u Markthofu/ Lov u Uherského Ostrohu/
+  Bláto u Mistřína/ Bzenecké louky/ Měření na Bzeneckých loukách/ Lov u Hevlína/
+  Lovíme u Tvrdonic/ Polní rozliv u Nových Mlýnů/ Lov listonohů u Petrova/
+  Vysychající rozliv u Ladné/ Polní rozliv u Rebešovic/Žábronožka panonská
+  (Chirocephalus carnuntanus)/ Škeblovka rovnohřbetá (Leptestheria
+  dahalacensis)/ Listonoh jarní (Lepidurus apus)/ Listonoh letní (Triops
+  cancriformis) a žábronožky letní (Branchipus schaefferi)/ Starý a mladý
+  listonoh jarní/ Mladí listonozi letní/ Listonoh letní hloubí důlek/ Listonozi
+  co to nestihli…/ Škeblovky (Conchostraca) na cedníku/ Škeblovky (Conchostraca)
+  v akvárečku/ Plný cedník velkých lupenonohých korýšů/ Žábronožky letní
+  (Branchipus schaefferi), sem tam listonoh/ Uschlé lasturnatky (Ostracoda)/
+captionsEn: >-
+  Lovící komando u Uherského Ostrohu/ Lov u Markthofu/ Lov u Uherského Ostrohu/
+  Bláto u Mistřína/ Bzenecké louky/ Měření na Bzeneckých loukách/ Lov u Hevlína/
+  Lovíme u Tvrdonic/ Polní rozliv u Nových Mlýnů/ Lov listonohů u Petrova/
+  Vysychající rozliv u Ladné/ Polní rozliv u Rebešovic/Žábronožka panonská
+  (Chirocephalus carnuntanus)/ Škeblovka rovnohřbetá (Leptestheria
+  dahalacensis)/ Listonoh jarní (Lepidurus apus)/ Listonoh letní (Triops
+  cancriformis) a žábronožky letní (Branchipus schaefferi)/ Starý a mladý
+  listonoh jarní/ Mladí listonozi letní/ Listonoh letní hloubí důlek/ Listonozi
+  co to nestihli…/ Škeblovky (Conchostraca) na cedníku/ Škeblovky (Conchostraca)
+  v akvárečku/ Plný cedník velkých lupenonohých korýšů/ Žábronožky letní
+  (Branchipus schaefferi), sem tam listonoh/ Uschlé lasturnatky (Ostracoda)/
 ---
 <div class="cz">
 Polní rozlivy jsou specifické biotopy efemérního charakteru, vznikající na zemědělských plochách
