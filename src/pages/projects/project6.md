@@ -5,8 +5,8 @@ captions: >-
   Lovící komando u Uherského Ostrohu/ Lov u Markthofu/ Lov u Uherského Ostrohu/
   Bláto u Mistřína/ Bzenecké louky/ Měření na Bzeneckých loukách/ Lov u Hevlína/
   Lovíme u Tvrdonic/ Polní rozliv u Nových Mlýnů/ Lov listonohů u Petrova/
-  Vysychající rozliv u Ladné/ Polní rozliv u Rebešovic/Žábronožka panonská
-  (Chirocephalus carnuntanus)/ Škeblovka rovnohřbetá (Leptestheria
+  Vysychající rozliv u Ladné/ Polní rozliv u Rebešovic/U Mistřína/Žábronožka
+  panonská (Chirocephalus carnuntanus)/ Škeblovka rovnohřbetá (Leptestheria
   dahalacensis)/ Listonoh jarní (Lepidurus apus)/ Listonoh letní (Triops
   cancriformis) a žábronožky letní (Branchipus schaefferi)/ Starý a mladý
   listonoh jarní/ Mladí listonozi letní/ Listonoh letní hloubí důlek/ Listonozi
@@ -17,8 +17,8 @@ captionsEn: >-
   Lovící komando u Uherského Ostrohu/ Lov u Markthofu/ Lov u Uherského Ostrohu/
   Bláto u Mistřína/ Bzenecké louky/ Měření na Bzeneckých loukách/ Lov u Hevlína/
   Lovíme u Tvrdonic/ Polní rozliv u Nových Mlýnů/ Lov listonohů u Petrova/
-  Vysychající rozliv u Ladné/ Polní rozliv u Rebešovic/Žábronožka panonská
-  (Chirocephalus carnuntanus)/ Škeblovka rovnohřbetá (Leptestheria
+  Vysychající rozliv u Ladné/ Polní rozliv u Rebešovic/U Mistřína/Žábronožka
+  panonská (Chirocephalus carnuntanus)/ Škeblovka rovnohřbetá (Leptestheria
   dahalacensis)/ Listonoh jarní (Lepidurus apus)/ Listonoh letní (Triops
   cancriformis) a žábronožky letní (Branchipus schaefferi)/ Starý a mladý
   listonoh jarní/ Mladí listonozi letní/ Listonoh letní hloubí důlek/ Listonozi
