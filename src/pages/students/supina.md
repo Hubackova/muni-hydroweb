@@ -22,6 +22,7 @@ image: /images/phd_supina.jpg
 * Vliv technického zasněžování na biologické složky přírodního prostředí na
   území Krkonošského národního parku a jeho ochranného pásma
 * Taxonomická specializace: jepice (Ephemeroptera), pakomárovití (Chironomidae)
+
 </div>
 
 <div class="en">
@@ -31,4 +32,5 @@ image: /images/phd_supina.jpg
 * Vliv technického zasněžování na biologické složky přírodního prostředí na
   území Krkonošského národního parku a jeho ochranného pásma
 * Taxonomická specializace: jepice (Ephemeroptera), pakomárovití (Chironomidae)
+
 </div>
