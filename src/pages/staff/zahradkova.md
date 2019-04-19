@@ -13,7 +13,9 @@ image: /images/staff_zahradkova.jpg
 ---
 <div class="cz">
 
-Je docentkou hydrobiologie na Ústavu botaniky a zoologie Masarykovy univerzity, v současné době v důchodu. Její výzkum je zaměřen na makrozoobentos, především řád Ephemeroptera – jepice. Zabývá se vývojem metod hodnocení ekologického stavu toků, od saprobiologie po moderní multikriteriální hodnocení, a analýzou dlouhodobých změn taxocenóz vodního hmyzu ve vztahu ke změnám prostředí. V současnosti se věnuje fenoménu vysychání tekoucích vod a změnám v referenčních společenstvech toků souvisejícími se současnými klimatickými změnami. 
+Je docentkou hydrobiologie na Ústavu botaniky a zoologie
+ Masarykovy univerzity, v současné době v důchodu. Její výzkum je zaměřen na
+ makrozoobentos, především řád Ephemeroptera – jepice. Zabývá se vývojem metod hodnocení ekologického stavu toků, od saprobiologie po moderní multikriteriální hodnocení, a analýzou dlouhodobých změn taxocenóz vodního hmyzu ve vztahu ke změnám prostředí. V současnosti se věnuje fenoménu vysychání tekoucích vod a změnám v referenčních společenstvech toků souvisejícími se současnými klimatickými změnami. 
 
 **Výzkumná témata:**
 
@@ -25,7 +27,14 @@ Je docentkou hydrobiologie na Ústavu botaniky a zoologie Masarykovy univerzity
 
 <div class="en">
 
-Je docentkou hydrobiologie na Ústavu botaniky a zoologie Masarykovy univerzity, v současné době v důchodu. Její výzkum je zaměřen na makrozoobentos, především řád Ephemeroptera – jepice. Zabývá se vývojem metod hodnocení ekologického stavu toků, od saprobiologie po moderní multikriteriální hodnocení, a analýzou dlouhodobých změn taxocenóz vodního hmyzu ve vztahu ke změnám prostředí. V současnosti se věnuje fenoménu vysychání tekoucích vod a změnám v referenčních společenstvech toků souvisejícími se současnými klimatickými změnami. 
+Je docentkou hydrobiologie na Ústavu botaniky a zoologie
+ Masarykovy univerzity, v současné době v důchodu. Její výzkum je zaměřen na
+ makrozoobentos, především řád Ephemeroptera – jepice. Zabývá se vývojem metod
+ hodnocení ekologického stavu toků, od saprobiologie po moderní multikriteriální
+ hodnocení, a analýzou dlouhodobých změn taxocenóz vodního hmyzu ve vztahu ke
+ změnám prostředí. V současnosti se věnuje fenoménu vysychání tekoucích vod a
+ změnám v referenčních společenstvech toků souvisejícími se současnými
+ klimatickými změnami. 
 
 **Výzkumná témata:**
 
