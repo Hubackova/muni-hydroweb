@@ -4,18 +4,16 @@ nameCz: "Změny diverzity a druhových vlastností vodních organizmů: individu
 nameEn: "Změny diverzity a druhových vlastností vodních organizmů: individuální tolerance, dlouhodobé trendy a prostorová variabilita"
 ---
 <div class="cz">
-Ekologická společenstva jsou obecně řízena třemi hlavními mechanizmy: 1) Podmínky
-prostředí selektují druhy na základě jejich individuálních tolerancí; 2) Dostupnost
-lokality v geografickém prostoru i v čase omezuje rozšíření druhů v závislosti na jejich
-schopnosti se šířit; 3) Biotické interakce mohou vést až vyloučení konkurenčně málo
-zdatných druhů v konkrétních systémech.
+Ekologická společenstva jsou obecně řízena třemi hlavními mechanizmy:<br/> 
+1) Podmínky prostředí selektují druhy na základě jejich individuálních tolerancí<br/>
+2) Dostupnost lokality v geografickém prostoru i v čase omezuje rozšíření druhů v závislosti na jejich schopnosti se šířit<br/>
+3) Biotické interakce mohou vést až vyloučení konkurenčně málo zdatných druhů v konkrétních systémech<br/>
 
 Naše pracovní skupina hydrobiologů se věnuje výzkumu těchto tří mechanizmů ve vodním
 prostředí na různých prostorových i časových škálách. Naše studijní plochy zahrnují
 přirozené, dosud relativně neovlivněné lokality (např.
 <span style='color:#0868ac'> referenční toky vyšších a středních poloh, prameniště a rašeliniště</span>) i
-lokality pod silným antropogenním tlakem (
-<span style='color:#0868ac'>rybníky, polní mokřady, velké řeky, důlní vody</span>). Zvláštní pozornost věnujeme
+lokality pod silným antropogenním tlakem (<span style='color:#0868ac'>rybníky, polní mokřady, velké řeky, důlní vody</span>). Zvláštní pozornost věnujeme
 otázkám, které souvisí s dopady dlouhodobých synergických změn (především klimatu a
 znečištění) na biodiverzitu vodního prostředí, jmenovitě problému
 <span style='color:#0868ac'> vysychání toků</span> vlivem extremizace srážek, změn biodiverzity v řekách nižších

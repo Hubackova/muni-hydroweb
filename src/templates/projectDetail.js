@@ -106,7 +106,7 @@ class ProjectDetail extends Component {
                   <StyledLink to="/projects/">
                     <i className="fa fa-arrow-left" />
                   </StyledLink>
-                  <ImgMobile>{imgs2 ? imgs.concat(imgs2) : imgs}</ImgMobile>
+                  <ImgMobile>{imgs2 ? imgs2.concat(imgs) : imgs}</ImgMobile>
                 </Content>
 
                 <ImgColumn>{imgs}</ImgColumn>
