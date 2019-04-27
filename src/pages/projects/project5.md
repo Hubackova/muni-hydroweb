@@ -55,17 +55,12 @@ včetně inkrustace dnových sedimentů. Drobné toky a výtoky důlních vod js
 jsou zjištěné změny ve společenstvech vodních organizmů dobrým příkladem a modelem přirozených
 rekolonizací a revitalizací.
 
-
-
 **Podpora projektů**
 
 ENKI o.p.s., obecně prospěšná společnost pro výzkum a osvětu v oborech životního prostředí. 2013–2019
 Diamo – Geam s.p. Dolní Rožínka 1990–2018
 
-
-
 **Lidé zapojení do projektů**
-
 
 Jana Schenková, Jan Helešic, Martina Poláková, Vendula Polášková, Michal Horsák, Sylvie Žáková, Veronika
 Weissová
@@ -77,15 +72,29 @@ Weissová
 Růžičková S., Schenková J., Weissová V. &amp; Helešic J. 2014. Environmental impact of heated mining waters on
 clitellate (Annelida: Clitellata) assemblages. Biologia, 69/9: 1179–1189.
 
-
 Polášková V., Schenková J., Bartošová M., Rádková V. &amp; Horsák M. 2017. Post-mining calcareous seepages as
 surrogate habitats for aquatic macroinvertebrate biota of vanishing calcareous spring fens. Ecological
 Engineering, 109: 119–132.
 
-
 Žáková, S., Weissová V., Uher B. &amp; Helešic J. 2017. Macroinvertebrate herbivores and epilithon algae
 community of a stream affected by mineralized heated mining water inflow. Annales de Limnologie -
 International Journal of Limnology, 53: 189–201.
+
+</div>
+
+<div class="project-theses">
+
+**Obhájené disertační práce**
+
+_Sylvie Růžičková_ 2016. [Vliv oteplených důlních vod na vybrané skupiny organismů v malém toku.](https://is.muni.cz/th/okij3/)
+
+**Obhájené diplomové a bakalářské práce**
+
+_Martina Bartošová_ 2016. [Makrozoobentos pěnovcových potoků na Sokolovské výsypce](https://is.muni.cz/th/qo18e/?lang=cs). \[DP]
+
+_Martina Bartošová_ 2014. [Vodní bezobratlí postindustriálních stanovišť - výsypky Sokolovské uhelné pánve](https://is.muni.cz/th/zfva5/?lang=cs). \[BP]
+
+_Veronika Konvičková_ 2007. [Studium makrozoobentosu tůní Karvinska se zaměřením na stav a funkci společenstva vážek](https://is.muni.cz/th/p4qj3/?lang=cs). \[DP]
 
 </div>
 </div>
@@ -117,17 +126,12 @@ včetně inkrustace dnových sedimentů. Drobné toky a výtoky důlních vod js
 jsou zjištěné změny ve společenstvech vodních organizmů dobrým příkladem a modelem přirozených
 rekolonizací a revitalizací.
 
-
-
 **Podpora projektů**
 
 ENKI o.p.s., obecně prospěšná společnost pro výzkum a osvětu v oborech životního prostředí. 2013–2019
 Diamo – Geam s.p. Dolní Rožínka 1990–2018
 
-
-
 **Lidé zapojení do projektů**
-
 
 Jana Schenková, Jan Helešic, Martina Poláková, Vendula Polášková, Michal Horsák, Sylvie Žáková, Veronika
 Weissová
@@ -139,15 +143,29 @@ Weissová
 Růžičková S., Schenková J., Weissová V. &amp; Helešic J. 2014. Environmental impact of heated mining waters on
 clitellate (Annelida: Clitellata) assemblages. Biologia, 69/9: 1179–1189.
 
-
 Polášková V., Schenková J., Bartošová M., Rádková V. &amp; Horsák M. 2017. Post-mining calcareous seepages as
 surrogate habitats for aquatic macroinvertebrate biota of vanishing calcareous spring fens. Ecological
 Engineering, 109: 119–132.
 
-
 Žáková, S., Weissová V., Uher B. &amp; Helešic J. 2017. Macroinvertebrate herbivores and epilithon algae
 community of a stream affected by mineralized heated mining water inflow. Annales de Limnologie -
 International Journal of Limnology, 53: 189–201.
+
+</div>
+
+<div class="project-theses">
+
+**Obhájené disertační práce**
+
+_Sylvie Růžičková_ 2016. [Vliv oteplených důlních vod na vybrané skupiny organismů v malém toku.](https://is.muni.cz/th/okij3/)
+
+**Obhájené diplomové a bakalářské práce**
+
+_Martina Bartošová_ 2016. [Makrozoobentos pěnovcových potoků na Sokolovské výsypce](https://is.muni.cz/th/qo18e/?lang=cs). \[DP]
+
+_Martina Bartošová_ 2014. [Vodní bezobratlí postindustriálních stanovišť - výsypky Sokolovské uhelné pánve](https://is.muni.cz/th/zfva5/?lang=cs). \[BP]
+
+_Veronika Konvičková_ 2007. [Studium makrozoobentosu tůní Karvinska se zaměřením na stav a funkci společenstva vážek](https://is.muni.cz/th/p4qj3/?lang=cs). \[DP]
 
 </div>
 </div>
