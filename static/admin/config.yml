@@ -49,6 +49,7 @@ collections:
     fields:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Name", name: "name", widget: "string"}
+      - {label: "Name Eng", name: "nameEng", widget: "string"}
       - {label: 'Image labels', name: 'captions', widget: 'string' }
       - {label: 'Image labels En', name: 'captionsEn', widget: 'string' }
       - {label: "Body", name: "body", widget: "markdown"}

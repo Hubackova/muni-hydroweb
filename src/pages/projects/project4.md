@@ -1,8 +1,7 @@
 ---
 title: project4
-name: >-
-  Silva Gabreta Monitoring – Přeshraniční monitoring biodiversity a vodního
-  režimu
+name: Silva Gabreta Monitoring – Přeshraniční monitoring biodiversity a vodního režimu
+nameEn: Silva Gabreta Monitoring – Přeshraniční monitoring biodiversity a vodního režimu
 captions: >-
   Kings and Queens of Böhmerwald/ jezírko na Blatenské slati/ Michal hází
   planktonkou/ Honza s pastí na brouky/ revitalizace na Hraniční slati/ Černé

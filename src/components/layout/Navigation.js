@@ -66,7 +66,7 @@ class Navigation extends PureComponent {
     const textCz = {
       homepage: "HomePage",
       history: "Historie",
-      staff: "Zaměstnatnci",
+      staff: "Zaměstnanci",
       students: "Studenti",
       projects: "Projekty",
       publications: "Publikace",
@@ -126,13 +126,13 @@ class Navigation extends PureComponent {
               >
                 {text.courses}
               </ListLink>
-              <ListLink
+              {/* <ListLink
                 to="/history/"
                 menuVisible={menuVisible}
                 className={this.getClass("history")}
               >
                 {text.history}
-              </ListLink>
+              </ListLink> */}
               <NavigationLinkA
                 href="http://botzool.sci.muni.cz/publikace/h/"
                 target="_blanc"

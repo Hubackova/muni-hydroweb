@@ -1,6 +1,7 @@
 ---
 title: project3
 name: Výzkum vysychavých toků
+nameEn: Výzkum vysychavých toků
 captions: >-
   Oslava po úspěšném vzorkování/ Proplachování odebraného vzorku/ Třídění vzorku
   v terénu/ Nadšení při práci v terénu/ Už se to nese – odebraný vzorek k

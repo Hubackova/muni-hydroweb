@@ -1,6 +1,7 @@
 ---
 title: project2
 name: "Dlouhodobé změny toků a jejich bioty v\_České republice"
+nameEn: "Dlouhodobé změny toků a jejich bioty v\_České republice"
 captions: >-
   Bečva u Oseku 1955/ Vladimír Landa a Zelinka/ Tomáš Soldán/ Světlana
   Zahrádková/ Jindřiška Bojková/ Morava u Lhoty 1955/ Svratka u Doubravníku/

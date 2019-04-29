@@ -1,6 +1,7 @@
 ---
 title: project5
 name: Společenstva důlních vod a výsypek
+nameEn: Společenstva důlních vod a výsypek
 captions: >-
   Pohled z výsypky Červená Ema na lom Jiří/Výsypka Červená Ema/Prameniště
   Okružního potoka na Sokolovské výsypce (2013)/Přítok nádrže Pavel na

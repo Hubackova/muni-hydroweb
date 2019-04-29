@@ -1,6 +1,7 @@
 ---
 title: project6
 name: Výzkum vysychavých biotopů polních rozlivů a jejich bioty
+nameEn: Výzkum vysychavých biotopů polních rozlivů a jejich bioty
 captions: >-
   Lovící komando u Uherského Ostrohu/ Lov u Markthofu/ Lov u Uherského Ostrohu/
   Bláto u Mistřína/ Bzenecké louky/ Měření na Bzeneckých loukách/ Lov u Hevlína/

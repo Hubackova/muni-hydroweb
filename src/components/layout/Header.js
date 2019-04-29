@@ -13,7 +13,8 @@ const HeaderComponent = ({ className }) => (
     query={graphql`
       query {
         images: allFile(
-          filter: { extension: { regex: "/(jpg)|(png)/" }, relativeDirectory: { eq: "homepage" } }
+          filter: { extension: { regex: "/(jpg)|(png)/" }, relativeDirectory: { eq: "homepage" } },
+          sort: { fields: [relativePath], order: ASC }
         ) {
           edges {
             node {
@@ -39,7 +40,7 @@ const HeaderComponent = ({ className }) => (
                     <img src={ecdyonurus} alt="logo" />
                   </ImgCont>
                   <Muni>
-                    <IntContextConsumer>
+                    {/* <IntContextConsumer>
                       {({ changeToCz }) => (
                         <Flag src={czFlag} name="cz" onClick={() => changeToCz()} />
                       )}
@@ -48,13 +49,19 @@ const HeaderComponent = ({ className }) => (
                       {({ changeToEn }) => (
                         <Flag src={ukFlag} name="en" onClick={() => changeToEn()} />
                       )}
-                    </IntContextConsumer>
+                    </IntContextConsumer> */}
                     <Link to="/" style={{ textDecoration: "none" }}>
-                      <Main>{int==="en" ? "Hydrobiology working group" : "Pracovní skupina hydrobiologie"}</Main>
+                      <Main>
+                        {int === "en"
+                          ? "Hydrobiology working group"
+                          : "Pracovní skupina hydrobiologie"}
+                      </Main>
                     </Link>
                     {!className && (
                       <SubMain>
-                        {int==="en" ? "Department of Botany and Zoology | Faculty of Science | Masaryk University" : "Ústav botaniky a zoologie | Přírodovědecká fakulta | Masarykova univerzita"}
+                        {int === "en"
+                          ? "Department of Botany and Zoology | Faculty of Science | Masaryk University"
+                          : "Ústav botaniky a zoologie | Přírodovědecká fakulta | Masarykova univerzita"}
                       </SubMain>
                     )}
                   </Muni>

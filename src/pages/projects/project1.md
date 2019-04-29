@@ -1,6 +1,7 @@
 ---
 title: project1
 name: Vodní bezobratlí prameništních slatinišť Západních Karpat
+nameEn: Vodní bezobratlí prameništních slatinišť Západních Karpat
 captions: >-
   2006 - na Obidové s doc. Opravilovou/ 2005 - na Hrubém Mechnáči/ 2007 - cestou
   z Kalábové/ 2005 - Markéta v terénu/ 2007 - Marki a Veny/ 2010 - bahnologie na
