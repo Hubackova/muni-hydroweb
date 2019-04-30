@@ -16,7 +16,6 @@ title: mgrBc
 [Tereza Marečková](https://is.muni.cz/auth/osoba/436430)
 [Simona Pěničková](https://is.muni.cz/auth/osoba/451194)
 
-**Absolventi**
 </div>
 <div class="en">
 
@@ -34,4 +33,5 @@ title: mgrBc
 [Simona Pěničková](https://is.muni.cz/auth/osoba/451194)
 
 **Absolvents**
+
 </div>
