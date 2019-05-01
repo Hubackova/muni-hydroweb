@@ -1,7 +1,7 @@
 ---
 title: project1
 name: Vodní bezobratlí prameništních slatinišť Západních Karpat
-nameEn: Vodní bezobratlí prameništních slatinišť Západních Karpat
+nameEng: Vodní bezobratlí prameništních slatinišť Západních Karpat
 captions: >-
   2006 - na Obidové s doc. Opravilovou/ 2005 - na Hrubém Mechnáči/ 2007 - cestou
   z Kalábové/ 2005 - Markéta v terénu/ 2007 - Marki a Veny/ 2010 - bahnologie na
@@ -32,7 +32,7 @@ Karpat jsou řídce roztroušena na úbočí hor a kopců, kde na nich díky roz
 podloží pozorujeme unikátní gradient minerální bohatosti. Již 10 let zde intenzivně zkoumáme vliv
 podmínek prostředí, zejména onoho minerálně-trofického gradientu, na různé skupiny vodních
 bezobratlých. Podstatnou roli při formování společenstev hrají rovněž kolonizační procesy, to díky vzájemné izolovanosti a různému stáří jednotlivých slatiništních lokalit. Testujeme, do jaké míry se na
-utváření společenstev podepisují způsob šíření druhů a jejich specializace na slatiništní stanoviště.
+utváření společenstev podepisuje způsob šíření druhů a jejich specializace na slatiništní stanoviště.
 
 V poslední době se zaměřujeme i na studium distribuce vodních bezobratlých v malém měřítku, na
 kterém vystupuje do popředí rozmanitost prostředí i vliv biotických vztahů. Slatiniště totiž mnohdy
@@ -132,7 +132,7 @@ Karpat jsou řídce roztroušena na úbočí hor a kopců, kde na nich díky roz
 podloží pozorujeme unikátní gradient minerální bohatosti. Již 10 let zde intenzivně zkoumáme vliv
 podmínek prostředí, zejména onoho minerálně-trofického gradientu, na různé skupiny vodních
 bezobratlých. Podstatnou roli při formování společenstev hrají rovněž kolonizační procesy, to díky vzájemné izolovanosti a různému stáří jednotlivých slatiništních lokalit. Testujeme, do jaké míry se na
-utváření společenstev podepisují způsob šíření druhů a jejich specializace na slatiništní stanoviště.
+utváření společenstev podepisuje způsob šíření druhů a jejich specializace na slatiništní stanoviště.
 
 V poslední době se zaměřujeme i na studium distribuce vodních bezobratlých v malém měřítku, na
 kterém vystupuje do popředí rozmanitost prostředí i vliv biotických vztahů. Slatiniště totiž mnohdy
