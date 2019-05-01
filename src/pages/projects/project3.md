@@ -1,7 +1,7 @@
 ---
 title: project3
 name: Výzkum vysychavých toků
-nameEn: Výzkum vysychavých toků
+nameEng: Výzkum vysychavých toků
 captions: >-
   Oslava po úspěšném vzorkování/ Proplachování odebraného vzorku/ Třídění vzorku
   v terénu/ Nadšení při práci v terénu/ Už se to nese – odebraný vzorek k
@@ -35,7 +35,7 @@ metody pro management vodního hospodářství a údržby krajiny - TA02020395).
 navázala v letech 2016-2020 mezinárodní spolupráce v celoevropském projektu [SMIRES](www.smires.eu) (Science
 and Management of Intermittent Rivers & Ephemeral Streams - COST Action CA15113).
 Výzkum se zaměřuje na dopady stále narůstajícího vysychání toků na oživení vodotečí nejen vodními
-bezobratlými ale v poslední době i dalšími skupinami (fytobentos, suchozemští bezobratlí/obratlovci),
+bezobratlými, ale v poslední době i dalšími skupinami (fytobentos, suchozemští bezobratlí/obratlovci),
 které v těchto dynamických biotopech přežívají nebo je nově osidlují.
 
 **Grantové projekty**
@@ -61,7 +61,7 @@ proto patří ověření dosud vyvinutých přístupů pro retrospektivní indik
 kde působí org. znečištění, včetně testování na větších geografických škálách (Maďarsko, Francie).
 Kromě aplikace stávajícího bioindikačního přístupu po znovuzaplavení toku budou laboratorně
 testovány i interakce obou stresorů na semenné bance bezobratlých v sedimentu dna během fáze
-vyschnutí. Výstupem projektu budou nejen odborné publikace ale i software umožňující vyhodnocení
+vyschnutí. Výstupem projektu budou nejen odborné publikace, ale i software umožňující vyhodnocení
 ohroženosti toku vysycháním při spolupůsobení organického znečištění.
 
 V poslední době se skupina zapojila i do projektů zaměřených na monitoring dopadů opatření proti
@@ -101,7 +101,6 @@ Research Ideas and Outcomes, 3: 1-23. [PDF](https://hal.archives-ouvertes.fr/hal
 Shumilova O., …. **Pařil**, P. …. 2019: Simulating rewetting events in intermittent
 rivers and ephemeral streams: a global analysis of leached nutrients and
 organic matter. Global Change Biology. (first online 9.1.2019) [PDF](https://onlinelibrary.wiley.com/doi/pdf/10.1111/gcb.14537)
-
 
 Stubbington, R., Chadd, R., Cid, N., Csabai, Z.,
 Miliša, M., Morais, M., Munné, A., **Pařil**,
@@ -172,13 +171,13 @@ _Jitka Krajčová_ 2007 [Driftová aktivita makrozoobentosu intermitentního tok
 </div>
 
 <div class="en">
-Základ pracovní skupiny se zformoval v letech 2012-2015 během projektu \\[BIOSUCHO](www.sucho.eu) (Vysychání
+Základ pracovní skupiny se zformoval v letech 2012-2015 během projektu \\\[BIOSUCHO](www.sucho.eu) (Vysychání
 toků v období klimatické změny: predikce rizika a biologická indikace epizod vyschnutí jako nové
 metody pro management vodního hospodářství a údržby krajiny - TA02020395). Na něj postupně
-navázala v letech 2016-2020 mezinárodní spolupráce v celoevropském projektu \\[SMIRES](www.smires.eu) (Science
+navázala v letech 2016-2020 mezinárodní spolupráce v celoevropském projektu \\\[SMIRES](www.smires.eu) (Science
 and Management of Intermittent Rivers & Ephemeral Streams - COST Action CA15113).
 Výzkum se zaměřuje na dopady stále narůstajícího vysychání toků na oživení vodotečí nejen vodními
-bezobratlými ale v poslední době i dalšími skupinami (fytobentos, suchozemští bezobratlí/obratlovci),
+bezobratlými, ale v poslední době i dalšími skupinami (fytobentos, suchozemští bezobratlí/obratlovci),
 které v těchto dynamických biotopech přežívají nebo je nově osidlují.
 
 **Grantové projekty**
@@ -204,7 +203,7 @@ proto patří ověření dosud vyvinutých přístupů pro retrospektivní indik
 kde působí org. znečištění, včetně testování na větších geografických škálách (Maďarsko, Francie).
 Kromě aplikace stávajícího bioindikačního přístupu po znovuzaplavení toku budou laboratorně
 testovány i interakce obou stresorů na semenné bance bezobratlých v sedimentu dna během fáze
-vyschnutí. Výstupem projektu budou nejen odborné publikace ale i software umožňující vyhodnocení
+vyschnutí. Výstupem projektu budou nejen odborné publikace, ale i software umožňující vyhodnocení
 ohroženosti toku vysycháním při spolupůsobení organického znečištění.
 
 V poslední době se skupina zapojila i do projektů zaměřených na monitoring dopadů opatření proti
