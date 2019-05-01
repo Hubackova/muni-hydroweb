@@ -1,7 +1,7 @@
 ---
 title: project6
 name: Výzkum vysychavých biotopů polních rozlivů a jejich bioty
-nameEn: Výzkum vysychavých biotopů polních rozlivů a jejich bioty
+nameEng: Výzkum vysychavých biotopů polních rozlivů a jejich bioty
 captions: >-
   Lovící komando u Uherského Ostrohu/ Lov u Markthofu/ Lov u Uherského Ostrohu/
   Bláto u Mistřína/ Bzenecké louky/ Měření na Bzeneckých loukách/ Lov u Hevlína/
@@ -37,13 +37,13 @@ Vlajkovými organismy těchto biotopů jsou vodní bezobratlí, zejména velcí 
 zajímavých skupin (např. perloočky, lasturnatky, vodní brouci, ploštice, vážky, dvoukřídlí, vč.
 pakomárů ad.). O taxonomickém složení, ekologii, o životních strategiích umožňujících přežívání v
 tomto efemérním prostředí či o tom, jaké ekologické faktory ovlivňují složení a početnost
-společenstev vodních bezobratlých v polních mokřadech však víme jen velmi málo. Navíc jsou tyto
+společenstev vodních bezobratlých v polních mokřadech, však víme jen velmi málo. Navíc jsou tyto
 biotopy hostící i četné ohrožené a vzácné druhy již od své podstaty velmi zranitelné a jejich ochrana v
 zemědělské krajině jen velmi těžko uchopitelná.
 
 Od roku 2014 jsme se začali těmto ohroženým biotopům a jejich pozoruhodným obyvatelům
-systematicky věnovat. Ve spolupráci s Českou společností ornitologickou či Botanickým ústavem AV
-ČR jsme začali mapovat polní rozlivy po celé jižní Moravě. Náš výzkum se zaměřuje na popis
+systematicky věnovat. Ve spolupráci s [Českou společností ornitologickou](https://www.birdlife.cz/) či [Botanickým ústavem AV
+ČR](https://www.ibot.cas.cz/cs/) jsme začali mapovat polní rozlivy po celé jižní Moravě. Náš výzkum se zaměřuje na popis
 společenstev vodních bezobratlých těchto biotopů a důležitých ekologických faktorů, které ovlivňují
 jejich složení, kategorizaci typů polních rozlivů na základě významných společenstev organismů,
 biologii a ekologii významných druhů vodních bezobratlých, případně mokřadních ptáků, ale i na
