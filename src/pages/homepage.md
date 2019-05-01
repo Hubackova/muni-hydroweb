@@ -1,13 +1,11 @@
 ---
 title: homepage
-nameCz: "Změny diverzity a druhových vlastností vodních organizmů: individuální tolerance, dlouhodobé trendy a prostorová variabilita"
-nameEn: "Změny diverzity a druhových vlastností vodních organizmů: individuální tolerance, dlouhodobé trendy a prostorová variabilita"
 ---
 <div class="cz">
 Ekologická společenstva jsou obecně řízena třemi hlavními mechanizmy:<br/> 
 1) Podmínky prostředí selektují druhy na základě jejich individuálních tolerancí<br/>
 2) Dostupnost lokality v geografickém prostoru i v čase omezuje rozšíření druhů v závislosti na jejich schopnosti se šířit<br/>
-3) Biotické interakce mohou vést až vyloučení konkurenčně málo zdatných druhů v konkrétních systémech<br/>
+3) Biotické interakce mohou vést až k vyloučení konkurenčně málo zdatných druhů v konkrétních systémech<br/>
 
 Naše pracovní skupina hydrobiologů se věnuje výzkumu těchto tří mechanizmů ve vodním
 prostředí na různých prostorových i časových škálách. Naše studijní plochy zahrnují
@@ -27,6 +25,7 @@ metod.
 
 Náš výzkum je primárně základní, avšak tradičně se naše skupina snaží o využití výsledků k
 predikcím, vyhodnocení rizik a v oblasti ochrany přírody a managementu.
+
 </div>
 <div class="en">
 Ekologická společenstva jsou obecně řízena třemi hlavními mechanizmy: 1) Podmínky
@@ -53,5 +52,6 @@ tak experimentech v přírodních i laboratorních podmínkách, včetně zapoje
 metod.
 
 Náš výzkum je primárně základní, avšak tradičně se naše skupina snaží o využití výsledků k
-predikcím, vyhodnocení rizik a v oblasti ochrany přírody a managementu.
+predikcím, vyhodnocení rizik a aplikaci v oblasti ochrany přírody a managementu.
+
 </div>
