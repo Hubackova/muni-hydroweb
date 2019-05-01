@@ -24,7 +24,7 @@ tak experimentech v přírodních i laboratorních podmínkách, včetně zapoje
 metod.
 
 Náš výzkum je primárně základní, avšak tradičně se naše skupina snaží o využití výsledků k
-predikcím, vyhodnocení rizik a v oblasti ochrany přírody a managementu.
+predikcím, vyhodnocení rizik a aplikaci v oblasti ochrany přírody a managementu.
 
 </div>
 <div class="en">
