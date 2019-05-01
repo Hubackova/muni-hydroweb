@@ -27,7 +27,7 @@ captionsEn: >-
 ---
 <div class="cz">
 Prameništní slatiniště jsou cenné mokřadní biotopy, které hostí specifickou faunu i flóru. Není jich
-mnoho a ty nynější jsou navíc ohrožena lidskou činností a změnami klimatu. Slatiniště Západních
+mnoho a ta nynější jsou navíc ohrožena lidskou činností a změnami klimatu. Slatiniště Západních
 Karpat jsou řídce roztroušena na úbočí hor a kopců, kde na nich díky rozmanitosti geologického
 podloží pozorujeme unikátní gradient minerální bohatosti. Již 10 let zde intenzivně zkoumáme vliv
 podmínek prostředí, zejména onoho minerálně-trofického gradientu, na různé skupiny vodních
@@ -127,7 +127,7 @@ _Křoupalová V._ 2008. [Prostorová variabilita makrozoobentosu: srovnání dvo
 
 <div class="en">
 Prameništní slatiniště jsou cenné mokřadní biotopy, které hostí specifickou faunu i flóru. Není jich
-mnoho a ty nynější jsou navíc ohrožena lidskou činností a změnami klimatu. Slatiniště Západních
+mnoho a ta nynější jsou navíc ohrožena lidskou činností a změnami klimatu. Slatiniště Západních
 Karpat jsou řídce roztroušena na úbočí hor a kopců, kde na nich díky rozmanitosti geologického
 podloží pozorujeme unikátní gradient minerální bohatosti. Již 10 let zde intenzivně zkoumáme vliv
 podmínek prostředí, zejména onoho minerálně-trofického gradientu, na různé skupiny vodních
