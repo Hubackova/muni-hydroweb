@@ -46,7 +46,7 @@ průběh sukcese na těchto stanovištích.
 
 Vliv těžby uranu a jejího útlumu v poslední těžební oblasti střední Evropy v dolech Dolní Rožínka, Bukov, Olší a
 Pucov (Českomoravská vrchovina) je státem vysoce sledovaná problematika. Důlní vody jsou čištěny
-nejmodernějšími fyzikálně – chemickými metodami a tak téměř nedochází k úniku radioaktivních prvků do
+nejmodernějšími fyzikálně-chemickými metodami a tak téměř nedochází k úniku radioaktivních prvků do
 okolních vod. Problémem ovšem zůstává vyšší a stálá teplota důlních vod, vysoké obsahy síranů a rozpustných
 forem železa a manganu u výtoků důlních vod do řek Nedvědičky, Loučky (povodí Svratky) a Jasinky (povodí
 Oslavy). U Nedvědičky dochází k průměrnému zvýšení teploty vody (i vlivem oteplených vod z chemické
