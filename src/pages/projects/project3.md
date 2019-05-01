@@ -54,7 +54,7 @@ nedisponují speciálními rezistentními formami pro překonání vyschnutí.
 [Validace bioindikačních metod jako nástrojů pro udržitelný management středoevropských](https://www.muni.cz/vyzkum/projekty/37785)
 vysychavých toků a přenos těchto metod do praxe (LTC17017) (2017-2020), MŠMT INTER-
 EXCELLENCE. Projekt se zaměřuje na možnosti bioindikace předcházejících epizod vyschnutí toku
-pomocí makrozoobentosu v tocích, kde působí vyschnutí spolu organickým znečištěním. Přestože jsou
+pomocí makrozoobentosu v tocích, kde působí vyschnutí spolu s organickým znečištěním. Přestože jsou
 základní mechanizmy působení obou stresorů na dané společenstvo známy, v praxi nebyla jejich
 interakce studována pro jejich často synergický, a tudíž obtížně oddělitelný efekt. K cílům projektu
 proto patří ověření dosud vyvinutých přístupů pro retrospektivní indikaci epizod vyschnutí v tocích,
@@ -171,10 +171,10 @@ _Jitka Krajčová_ 2007 [Driftová aktivita makrozoobentosu intermitentního tok
 </div>
 
 <div class="en">
-Základ pracovní skupiny se zformoval v letech 2012-2015 během projektu \\\[BIOSUCHO](www.sucho.eu) (Vysychání
+Základ pracovní skupiny se zformoval v letech 2012-2015 během projektu \\\\[BIOSUCHO](www.sucho.eu) (Vysychání
 toků v období klimatické změny: predikce rizika a biologická indikace epizod vyschnutí jako nové
 metody pro management vodního hospodářství a údržby krajiny - TA02020395). Na něj postupně
-navázala v letech 2016-2020 mezinárodní spolupráce v celoevropském projektu \\\[SMIRES](www.smires.eu) (Science
+navázala v letech 2016-2020 mezinárodní spolupráce v celoevropském projektu \\\\[SMIRES](www.smires.eu) (Science
 and Management of Intermittent Rivers & Ephemeral Streams - COST Action CA15113).
 Výzkum se zaměřuje na dopady stále narůstajícího vysychání toků na oživení vodotečí nejen vodními
 bezobratlými, ale v poslední době i dalšími skupinami (fytobentos, suchozemští bezobratlí/obratlovci),
@@ -196,7 +196,7 @@ nedisponují speciálními rezistentními formami pro překonání vyschnutí.
 [Validace bioindikačních metod jako nástrojů pro udržitelný management středoevropských](https://www.muni.cz/vyzkum/projekty/37785)
 vysychavých toků a přenos těchto metod do praxe (LTC17017) (2017-2020), MŠMT INTER-
 EXCELLENCE. Projekt se zaměřuje na možnosti bioindikace předcházejících epizod vyschnutí toku
-pomocí makrozoobentosu v tocích, kde působí vyschnutí spolu organickým znečištěním. Přestože jsou
+pomocí makrozoobentosu v tocích, kde působí vyschnutí spolu s organickým znečištěním. Přestože jsou
 základní mechanizmy působení obou stresorů na dané společenstvo známy, v praxi nebyla jejich
 interakce studována pro jejich často synergický, a tudíž obtížně oddělitelný efekt. K cílům projektu
 proto patří ověření dosud vyvinutých přístupů pro retrospektivní indikaci epizod vyschnutí v tocích,
