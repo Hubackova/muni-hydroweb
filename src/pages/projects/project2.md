@@ -19,7 +19,7 @@ captionsEn: >-
 Sladkovodní biotopy byly v průběhu minulého století silně zasaženy různými antropickými vlivy,
 které výrazně ovlivnily současný ekologický stav toků a také výskyt mnoha druhů vodních organismů.
 Díky existenci unikátních historických dat můžeme studovat změny ve společenstvech vodního
-hmyzu - především jepic, pošvatek a chrostíků - v průběhu uplynulých sta let.
+hmyzu – především jepic, pošvatek a chrostíků – v průběhu uplynulých sta let.
 
 Již od 90. let minulého století se zabýváme vyhodnocením změn taxonomické i funkční diverzity
 společenstev různých říčních biotopů. Studujeme, které vlastnosti druhů (species traits) jsou výhodné
