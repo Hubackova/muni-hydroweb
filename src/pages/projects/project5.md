@@ -1,7 +1,7 @@
 ---
 title: project5
 name: Společenstva důlních vod a výsypek
-nameEn: Společenstva důlních vod a výsypek
+nameEng: Společenstva důlních vod a výsypek
 captions: >-
   Pohled z výsypky Červená Ema na lom Jiří/Výsypka Červená Ema/Prameniště
   Okružního potoka na Sokolovské výsypce (2013)/Přítok nádrže Pavel na
@@ -41,7 +41,7 @@ naší kulturní krajiny. Na svazích výsypek hnědouhelných lomů v Sokolovs
 prameny a potoky s extrémní koncentrací síranů a řady dalších iontů, ve kterých také dochází ke srážení
 pěnovce. Díky neutrálnímu pH a podobnosti s přirozenými pěnovcovými potoky mohou představovat náhradní
 stanoviště pro některé vzácné druhy vodních bezobratlých, jejichž přirozená stanoviště v okolní zemědělské
-krajině vymizela, zejména vážek, dvoukřídlého hmyzu a brouků. Výzkum probíhá od roku 2013 a je sledován
+krajině vymizela – zejména vážek, dvoukřídlého hmyzu a brouků. Výzkum probíhá od roku 2013 a je sledován
 průběh sukcese na těchto stanovištích.
 
 Vliv těžby uranu a jejího útlumu v poslední těžební oblasti střední Evropy v dolech Dolní Rožínka, Bukov, Olší a
