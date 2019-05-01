@@ -1,7 +1,11 @@
 ---
 title: project4
-name: Silva Gabreta Monitoring – Přeshraniční monitoring biodiversity a vodního režimu
-nameEn: Silva Gabreta Monitoring – Přeshraniční monitoring biodiversity a vodního režimu
+name: >-
+  Silva Gabreta Monitoring – Přeshraniční monitoring biodiversity a vodního
+  režimu
+nameEng: >-
+  Silva Gabreta Monitoring – Přeshraniční monitoring biodiversity a vodního
+  režimu
 captions: >-
   Kings and Queens of Böhmerwald/ jezírko na Blatenské slati/ Michal hází
   planktonkou/ Honza s pastí na brouky/ revitalizace na Hraniční slati/ Černé
@@ -20,11 +24,11 @@ captionsEn: >-
 <div class="cz">
 
 V rámci Programu přeshraniční spolupráce České republiky a Bavorska se podílíme na projektu [Silva Gabreta Monitoring](http://www.silvagabreta.eu/index.html.cs) zaměřeném na Národní parky Šumava a Bavorský les, které byly oceněny certifikátem "[Transboundary Parks](https://www.europarc.org/bavarian-forest-sumava-national-parks/?utm_source=ep&utm_medium=search&utm_campaign=linktrack&utm_content=results)". Cílem projektu je vytvoření funkční infrastruktury přeshraniční
-monitorovací sítě a historiky první společné provedení a vyhodnocení monitoringu biodiversity lesů,
+monitorovací sítě a historicky první společné provedení a vyhodnocení monitoringu biodiversity lesů,
 rašelinišť a vod v obou národních parcích za využití společných moderních metod. Získaná data budou
 významným podkladem pro další kroky směřující ke sbližování ochranářského managementu ve
 společně sdíleném prostoru česko-bavorské Šumavy. Nové poznatky budou zároveň využity pro
-zodpovědnou zprávu tohoto území a cestovní ruch, neboť jak aktuální výzkumy ukazují, pro
+zodpovědnou správu tohoto území a cestovní ruch, neboť jak aktuální výzkumy ukazují, pro
 návštěvníky území je stále větší atrakcí divoká příroda v jádrové oblasti obou národních parků, na něž
 je tento projekt zaměřen prioritně. Projekt rovněž přinese řadu predikcí pro optimalizaci managementu
 přeshraničního regionu v době klimatické změny, jejíž důsledky již nyní zažíváme.
@@ -76,7 +80,7 @@ Budějovicích](https://kbe.prf.jcu.cz/) sledujeme kolonizaci a vývoj bentický
 Jedlový a Žlebský potok), jejichž regulovaná koryta byla revitalizována (částečným) zasypáním a
 vybudováním nových koryt v původní trase. Zajímá nás nejen sukcese společenstev, ale také
 dynamika vývoje mesohabitatů v nových korytech a kontrast společenstev vůči regulovaným, ale do
-značné míry renaturalizovaným, korytům a okolním biotopům tekoucích vod. Monitoring probíhá od
+značné míry renaturalizovaným, korytům a okolním biotopům tekoucích vod. Monitoring probíhal od
 roku 2014 až do roku 2018.
 
 <div class="project-publication">
@@ -118,9 +122,7 @@ _Paterová S._ 2016. [Revitalizace malých vodních toků v České republice](h
 
 Základní monitoring vodního hmyzu a zooplanktonu ve vztahu k podmínkám prostředí se zaměřuje na
 porovnání přirozených, narušených a revitalizovaných rašelinišť na Šumavě a výzkum biodiversity
-vrchovištní jezírek a aluviálních tůní s důrazem na vzácné, ohrožené a specializované druhy, které
-
-vyžadují ochranu. Podrobný výzkum dvou horských povodí v jádrové oblasti Šumavy, horní část
+vrchovištních jezírek a aluviálních tůní s důrazem na vzácné, ohrožené a specializované druhy, které vyžadují ochranu. Podrobný výzkum dvou horských povodí v jádrové oblasti Šumavy, horní část
 Große Ohe a Vydry, se věnuje problematice vlivu acidifikace a vlastností povodí (především ve
 vztahu ke struktuře lesních porostů) na biodiversitu
 makrozoobentosu.
@@ -140,9 +142,9 @@ Gabreta, 24: 171–211. [PDF](http://www.npsumava.cz/gallery/38/11665-9_sg_24_bo
 </div>
 
 <div class="en">
-V rámci Programu přeshraniční spolupráce České republiky a Bavorska se podílíme na projektu \\\\\\\\[Silva
+V rámci Programu přeshraniční spolupráce České republiky a Bavorska se podílíme na projektu \\\\\\\\\[Silva
 Gabreta Monitoring](http://www.silvagabreta.eu/index.html.cs) zaměřeném na Národní parky Šumava a Bavorský les, které byly oceněny
-certifikátem \\\\\\\\["Transboundary Parks"](https://www.europarc.org/bavarian-forest-sumava-national-parks/?utm_source=ep&utm_medium=search&utm_campaign=linktrack&utm_content=results). Cílem projektu je vytvoření funkční infrastruktury přeshraniční
+certifikátem \\\\\\\\\["Transboundary Parks"](https://www.europarc.org/bavarian-forest-sumava-national-parks/?utm_source=ep&utm_medium=search&utm_campaign=linktrack&utm_content=results). Cílem projektu je vytvoření funkční infrastruktury přeshraniční
 monitorovací sítě a historicky první společné provedení a vyhodnocení monitoringu biodiversity lesů,
 rašelinišť a vod v obou národních parcích za využití společných moderních metod. Získaná data budou
 významným podkladem pro další kroky směřující ke sbližování ochranářského managementu ve
