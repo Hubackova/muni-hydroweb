@@ -55,7 +55,7 @@ invertebrate assemblages of isolated spring fens), Grantová agentura České re
 **Lidé zapojení do projektů**
 
 Michal Horsák, Marie Zhai, Jana Schenková, Jindřiška Bojková, Vít Syrovátka, Vendula Polášková,
-Vanda Šorfová, Dana Hřívová, David Výravský, Martina Bílková
+Vanda Šorfová, Dana Klímová Hřívová, David Výravský, Martina Bílková
 
 <div class="project-publication">
 
@@ -155,7 +155,7 @@ invertebrate assemblages of isolated spring fens), Grantová agentura České re
 **Lidé zapojení do projektů**
 
 Michal Horsák, Marie Zhai, Jana Schenková, Jindřiška Bojková, Vít Syrovátka, Vendula Polášková,
-Vanda Šorfová, Dana Hřívová, David Výravský, Martina Bílková
+Vanda Šorfová, Dana Klímová Hřívová, David Výravský, Martina Bílková
 
 <div class="project-publication">
 
