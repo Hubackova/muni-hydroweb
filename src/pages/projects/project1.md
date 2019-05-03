@@ -62,17 +62,17 @@ Vanda Šorfová, Dana Klímová Hřívová, David Výravský, Martina Bílková
 **Vybrané publikace**
 
 Horsák M., Polášková V., Zhai M., Bojková J., Syrovátka V., Šorfová V., Schenková J., Polášek M.,
-Peterka T. & Hájek M. 2018: Spring-fen habitat islands in a warming climate: Partitioning the effects of mesoclimate air and water temperature on aquatic and terrestrial biota. _Science of the Total Environment_ 634 : 355–365.
+Peterka T. & Hájek M. 2018: Spring-fen habitat islands in a warming climate: Partitioning the effects of mesoclimate air and water temperature on aquatic and terrestrial biota. _Science of the Total Environment_ 634: 355–365.
 
 Horsák M., Rádková V., Syrovátka V., Bojková J., Křoupalová V., Schenková J. & Zajacová J. 2015:
-Drivers of aquatic macroinvertebrate richness in spring fens in relation to habitat specialization and dispersal mode. _Journal of Biogeography_ 42 : 2112–2121.
+Drivers of aquatic macroinvertebrate richness in spring fens in relation to habitat specialization and dispersal mode. _Journal of Biogeography_ 42: 2112–2121.
 
 Omelková M., Syrovátka V., Křoupalová V., Rádková V., Bojková J., Horsák M., Zhai M. & Helešic
 J. 2013: Dipteran assemblages of spring fens closely follow the gradient of groundwater mineral
 richness. _Canadian Journal of Fisheries and Aquatic Sciences_ 70: 689–700.
 
 Rádková V., Bojková J., Křoupalová V., Schenková J., Syrovátka V. & Horsák M. 2014: The role of
-dispersal mode and habitat specialisation in metacommunity structuring of aquatic macroinvertebrates in isolated spring fens. _Freshwater Biology_ 59 : 2256–2267.
+dispersal mode and habitat specialisation in metacommunity structuring of aquatic macroinvertebrates in isolated spring fens. _Freshwater Biology_ 59: 2256–2267.
 
 Rádková V., Polášková V., Bojková J., Syrovátka V. & Horsák M. 2017: Environmental filtering of
 aquatic insects in spring fens: patterns of species-specific responses related to specialist-generalist categorization. _Hydrobiologia_ 797: 159–170.
