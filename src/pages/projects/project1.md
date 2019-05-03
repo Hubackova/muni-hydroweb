@@ -1,7 +1,7 @@
 ---
 title: project1
 name: Vodní bezobratlí prameništních slatinišť Západních Karpat
-nameEn: Vodní bezobratlí prameništních slatinišť Západních Karpat
+nameEng: Vodní bezobratlí prameništních slatinišť Západních Karpat
 captions: >-
   2006 - na Obidové s doc. Opravilovou/ 2005 - na Hrubém Mechnáči/ 2007 - cestou
   z Kalábové/ 2005 - Markéta v terénu/ 2007 - Marki a Veny/ 2010 - bahnologie na
@@ -62,31 +62,31 @@ Vanda Šorfová, Dana Klímová Hřívová, David Výravský, Martina Bílková
 **Vybrané publikace**
 
 Horsák M., Polášková V., Zhai M., Bojková J., Syrovátka V., Šorfová V., Schenková J., Polášek M.,
-Peterka T. & Hájek M. 2018. Spring-fen habitat islands in a warming climate: Partitioning the effects of mesoclimate air and water temperature on aquatic and terrestrial biota. Science of the Total Environment, 634 : 355–365.
+Peterka T. & Hájek M. 2018: Spring-fen habitat islands in a warming climate: Partitioning the effects of mesoclimate air and water temperature on aquatic and terrestrial biota. _Science of the Total Environment_ 634 : 355–365.
 
-Horsák M., Rádková V., Syrovátka V., Bojková J., Křoupalová V., Schenková J. & Zajacová J. 2015.
-Drivers of aquatic macroinvertebrate richness in spring fens in relation to habitat specialization and dispersal mode. Journal of Biogeography, 42 : 2112–2121.
+Horsák M., Rádková V., Syrovátka V., Bojková J., Křoupalová V., Schenková J. & Zajacová J. 2015:
+Drivers of aquatic macroinvertebrate richness in spring fens in relation to habitat specialization and dispersal mode. _Journal of Biogeography_ 42 : 2112–2121.
 
 Omelková M., Syrovátka V., Křoupalová V., Rádková V., Bojková J., Horsák M., Zhai M. & Helešic
-J. 2013. Dipteran assemblages of spring fens closely follow the gradient of groundwater mineral
-richness. Canadian Journal of Fisheries and Aquatic Sciences, 70: 689–700.
+J. 2013: Dipteran assemblages of spring fens closely follow the gradient of groundwater mineral
+richness. _Canadian Journal of Fisheries and Aquatic Sciences_ 70: 689–700.
 
-Rádková V., Bojková J., Křoupalová V., Schenková J., Syrovátka V. & Horsák M. 2014. The role of
-dispersal mode and habitat specialisation in metacommunity structuring of aquatic macroinvertebrates in isolated spring fens. Freshwater Biology, 59 : 2256–2267.
+Rádková V., Bojková J., Křoupalová V., Schenková J., Syrovátka V. & Horsák M. 2014: The role of
+dispersal mode and habitat specialisation in metacommunity structuring of aquatic macroinvertebrates in isolated spring fens. _Freshwater Biology_ 59 : 2256–2267.
 
-Rádková V., Polášková V., Bojková J., Syrovátka V. & Horsák M. 2017. Environmental filtering of
-aquatic insects in spring fens: patterns of species-specific responses related to specialist-generalist categorization. Hydrobiologia, 797: 159–170.
+Rádková V., Polášková V., Bojková J., Syrovátka V. & Horsák M. 2017: Environmental filtering of
+aquatic insects in spring fens: patterns of species-specific responses related to specialist-generalist categorization. _Hydrobiologia_ 797: 159–170.
 
-Rádková V., Syrovátka V., Bojková J., Schenková J., Křoupalová V. & Horsák M. 2014. The
-importance of species replacement and richness differences in small-scale diversity patterns of aquatic macroinvertebrates in spring fens. Limnologica, 47: 52–61.
+Rádková V., Syrovátka V., Bojková J., Schenková J., Křoupalová V. & Horsák M. 2014: The
+importance of species replacement and richness differences in small-scale diversity patterns of aquatic macroinvertebrates in spring fens. _Limnologica_ 47: 52–61.
 
-Schenková J., Bílková M. & Horsák M. 2016. The response of Clitellata (Annelida) to environmental gradients in spring fens. Limnologica, 57: 73–82.
+Schenková J., Bílková M. & Horsák M. 2016: The response of Clitellata (Annelida) to environmental gradients in spring fens. _Limnologica_ 57: 73–82.
 
-Schenková J., Bílková M., Polášková J., Horsák M. & Schlaghamerský J. 2018. Variation of Clitellata (Annelida) assemblages related to water saturation in groundwater-dependent wetlands. Hydrobiologia, 823: 49–65.
+Schenková J., Bílková M., Polášková J., Horsák M. & Schlaghamerský J. 2018: Variation of Clitellata (Annelida) assemblages related to water saturation in groundwater-dependent wetlands. _Hydrobiologia_ 823: 49–65.
 
-Zhai M., Hřívová D. & Peterka T. 2015. The harpacticoid assemblages (Copepoda: Harpacticoida) in the Western Carpathian spring fens in relation to environmental variablesand habitat age. Limnologica, 53: 84–94.
+Zhai M., Hřívová D. & Peterka T. 2015: The harpacticoid assemblages (Copepoda: Harpacticoida) in the Western Carpathian spring fens in relation to environmental variablesand habitat age. _Limnologica_ 53: 84–94.
 
-Zhai M., Nováček O., Výravský D., Bojková J. & Helešic J. 2015. Environmental and spatial control of ostracod assemblages in the Western Carpathian spring fens. Hydrobiologia, 745: 225–239.
+Zhai M., Nováček O., Výravský D., Bojková J. & Helešic J. 2015: Environmental and spatial control of ostracod assemblages in the Western Carpathian spring fens. _Hydrobiologia_ 745: 225–239.
 
 </div>
 
