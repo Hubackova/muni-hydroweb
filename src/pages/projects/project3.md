@@ -81,8 +81,8 @@ Eva Hanáková, Jan Šupina, Jiří Jakubínský, Světlana Zahrádková, Jan He
 
 **Pařil** P., Leigh C., **Polášek** M., Sarremejane R., Řezníčková P., **Dostálová** A. &
 Stubbington R. 2018: Short-term streambed drying events alter amphipod
-population structure in a central European stream. Fundamental and Applied
-Limnology. [PDF](http://docserver.ingentaconnect.com/deliver/fasttrack/schweiz/18639135/fal_000_0_0000_0000_paril_1164_prepub_1547215377239.pdf?expires=1555189280&id=id22479149&checksum=030B2F8413E12D89FA0B835BCFC7715A)
+population structure in a central European stream. _Fundamental and Applied
+Limnology_. [PDF](http://docserver.ingentaconnect.com/deliver/fasttrack/schweiz/18639135/fal_000_0_0000_0000_paril_1164_prepub_1547215377239.pdf?expires=1555189280&id=id22479149&checksum=030B2F8413E12D89FA0B835BCFC7715A)
 
 **Loskotová** B., **Straka** M. & **Pařil** P.
 2019: Sediment characteristics influence benthic macroinvertebrate vertical
