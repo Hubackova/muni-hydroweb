@@ -1,7 +1,7 @@
 ---
 title: project6
 name: Výzkum vysychavých biotopů polních rozlivů a jejich bioty
-nameEn: Výzkum vysychavých biotopů polních rozlivů a jejich bioty
+nameEng: Výzkum vysychavých biotopů polních rozlivů a jejich bioty
 captions: >-
   Lovící komando u Uherského Ostrohu/ Lov u Markthofu/ Lov u Uherského Ostrohu/
   Bláto u Mistřína/ Bzenecké louky/ Měření na Bzeneckých loukách/ Lov u Hevlína/
@@ -61,17 +61,17 @@ Jan Sychra, Alžbeta Devánová
 
 **Vybrané publikace**
 
-Reiter A., Merta L. &amp; Sychra J. (2014): Nové nálezy velkých lupenonožců (Crustacea: Anostraca,
-Notostraca, Spinicaudata) na Znojemsku. Thayensia (Znojmo) 11: 89–106.
+Reiter A., Merta L. & Sychra J. 2014: Nové nálezy velkých lupenonožců (Crustacea: Anostraca,
+Notostraca, Spinicaudata) na Znojemsku. _Thayensia (Znojmo)_ 11: 89–106.
 
-Merta L., Zavadil V. &amp; Sychra J. (2016): Atlas rozšíření velkých lupenonožců České republiky.
+Merta L., Zavadil V. & Sychra J. 2016: _Atlas rozšíření velkých lupenonožců České republiky_.
 Agentura ochrany přírody a krajiny ČR. 111 pp.
 
-Sychra J., Čamlík G., Merta L., Zavadil V. &amp; Devánová A. (2017): Temporal field wetlands as
+Sychra J., Čamlík G., Merta L., Zavadil V. & Devánová A. 2017: Temporal field wetlands as
 biodiversity hot spots in agricultural landscape in the Czech Republic. 10 Symposium for
 European Freshwater Sciences 2017.Olomouc. Abstract Book: 106.
 
-Němec R. &amp; Sychra J. (2017): Polní mokřady. Pp. 281–291. In Čížková H., Vlasáková L. &amp; Květ J.
+Němec R. & Sychra J. 2017: _Polní mokřady_. Pp. 281–291. In Čížková H., Vlasáková L. & Květ J.
 (eds.): Mokřady. Ekologie, ochrana a udržitelné využívání. Episteme. Natura. Jihočeská univerzita
 v Českých Budějovicích. 630 pp.
 
