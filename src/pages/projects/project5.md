@@ -70,16 +70,16 @@ Weissová
 
 **Vybrané publikace**
 
-Růžičková S., Schenková J., Weissová V. &amp; Helešic J. 2014. Environmental impact of heated mining waters on
-clitellate (Annelida: Clitellata) assemblages. Biologia, 69/9: 1179–1189.
+Růžičková S., Schenková J., Weissová V. & Helešic J. 2014: Environmental impact of heated mining waters on
+clitellate (Annelida: Clitellata) assemblages. _Biologia_ 69/9: 1179–1189.
 
-Polášková V., Schenková J., Bartošová M., Rádková V. &amp; Horsák M. 2017. Post-mining calcareous seepages as
-surrogate habitats for aquatic macroinvertebrate biota of vanishing calcareous spring fens. Ecological
-Engineering, 109: 119–132.
+Polášková V., Schenková J., Bartošová M., Rádková V. & Horsák M. 2017: Post-mining calcareous seepages as
+surrogate habitats for aquatic macroinvertebrate biota of vanishing calcareous spring fens. _Ecological
+Engineering_ 109: 119–132.
 
-Žáková, S., Weissová V., Uher B. &amp; Helešic J. 2017. Macroinvertebrate herbivores and epilithon algae
-community of a stream affected by mineralized heated mining water inflow. Annales de Limnologie -
-International Journal of Limnology, 53: 189–201.
+Žáková, S., Weissová V., Uher B. & Helešic J. 2017: Macroinvertebrate herbivores and epilithon algae
+community of a stream affected by mineralized heated mining water inflow. _Annales de Limnologie -
+International Journal of Limnology_ 53: 189–201.
 
 </div>
 
