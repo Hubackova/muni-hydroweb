@@ -3,7 +3,7 @@ title: project4
 name: >-
   Silva Gabreta Monitoring – Přeshraniční monitoring biodiversity a vodního
   režimu
-nameEn: >-
+nameEng: >-
   Silva Gabreta Monitoring – Přeshraniční monitoring biodiversity a vodního
   režimu
 captions: >-
@@ -58,16 +58,16 @@ osmi jezer, která jsou v různém stupni zotavení z acidifikace. Dosud byla vy
 **Publikace**
 
 Soldán T., Bojková J., Vrba J., Bitušík P., Chvojka P.,
-Papáček M., Peltanová J., Sychra J. &amp; Tátosová J. 2012.
+Papáček M., Peltanová J., Sychra J. & Tátosová J. 2012:
 Aquatic insects of the Bohemian Forest glacial lakes:
 Diversity, long-term changes, and influence of
-acidification. Silva Gabreta, 18: 123–283. [PDF](http://www.npsumava.cz/gallery/22/6750-sg_18_3_soldanetal_2.pdf)
+acidification. _Silva Gabreta_ 18: 123–283. [PDF](http://www.npsumava.cz/gallery/22/6750-sg_18_3_soldanetal_2.pdf)
 
 Vrba J., Bojková J., Chvojka P., Fott J., Kopáček J., Macek
 M., Nedbalová L., Papáček M., Rádková V., Sacherová V.,
-Soldán T. &amp; Šorf M. 2016. Constraints on the biological
+Soldán T. & Šorf M. 2016: Constraints on the biological
 recovery of the Bohemian Forest lakes from acid stress.
-Freshwater Biology, 61: 376–395.
+_Freshwater Biology_ 61: 376–395.
 
 </div>
 
@@ -88,17 +88,17 @@ roku 2014 až do roku 2018.
 **Publikace**
 
 Bojková J., Čížková H., Kučerová A., Rádková V.,
-Soldán T., Svidenský T. &amp; Vrba J. 2015. Monitoring of
+Soldán T., Svidenský T. & Vrba J. 2015: Monitoring of
 the restored streams in the Vltavský Luh, Šumava
-National Park. Silva Gabreta, 21: 73–79. [PDF](http://www.npsumava.cz/gallery/31/9348-sg_21_1_bojkovaetal.pdf)
+National Park. _Silva Gabreta_ 21: 73–79. [PDF](http://www.npsumava.cz/gallery/31/9348-sg_21_1_bojkovaetal.pdf)
 
-Bojkova J., Rádková V. &amp; Soldan T. 2015.
+Bojkova J., Rádková V. & Soldan T. 2015:
 Znovuzrození říčky Hučiny. Jeden z probíhajících
-revitalizačních projektů. Šumava, 4/15: 12–13.
+revitalizačních projektů. _Šumava_ 4/15: 12–13.
 
-Bojková J., Bufková I., Rádková V., Soldán T. &amp; Vrba
+Bojková J., Bufková I., Rádková V., Soldán T. & Vrba
 J. 2017. Jak se žije v revitalizovaných potocích na
-Šumavě. Živa, 2: 75–76. [PDF](http://ziva.avcr.cz/files/ziva/pdf/jak-se-zije-v-revitalizovanych-potocich-na-sumave.pdf)
+Šumavě. _Živa_ 2: 75–76. [PDF](http://ziva.avcr.cz/files/ziva/pdf/jak-se-zije-v-revitalizovanych-potocich-na-sumave.pdf)
 
 </div>
 
@@ -132,19 +132,19 @@ makrozoobentosu.
 **Publikace**
 
 Bojková J., Seifert L., Petruželová J., Šorfová V.,
-Syrovátka V., Sroka P. &amp; Polášková V. 2018. Species
+Syrovátka V., Sroka P. & Polášková V. 2018: Species
 richness and composition of macroinvertebrate
 assemblages in the Bavarian Forest National Park:
-Preliminary results of the stream monitoring. Silva
-Gabreta, 24: 171–211. [PDF](http://www.npsumava.cz/gallery/38/11665-9_sg_24_bojkovaetal.pdf)
+Preliminary results of the stream monitoring. _Silva
+Gabreta_ 24: 171–211. [PDF](http://www.npsumava.cz/gallery/38/11665-9_sg_24_bojkovaetal.pdf)
 
 </div>
 </div>
 
 <div class="en">
-V rámci Programu přeshraniční spolupráce České republiky a Bavorska se podílíme na projektu \\\\\\\\\[Silva
+V rámci Programu přeshraniční spolupráce České republiky a Bavorska se podílíme na projektu \\\\\\\\\\[Silva
 Gabreta Monitoring](http://www.silvagabreta.eu/index.html.cs) zaměřeném na Národní parky Šumava a Bavorský les, které byly oceněny
-certifikátem \\\\\\\\\["Transboundary Parks"](https://www.europarc.org/bavarian-forest-sumava-national-parks/?utm_source=ep&utm_medium=search&utm_campaign=linktrack&utm_content=results). Cílem projektu je vytvoření funkční infrastruktury přeshraniční
+certifikátem \\\\\\\\\\["Transboundary Parks"](https://www.europarc.org/bavarian-forest-sumava-national-parks/?utm_source=ep&utm_medium=search&utm_campaign=linktrack&utm_content=results). Cílem projektu je vytvoření funkční infrastruktury přeshraniční
 monitorovací sítě a historicky první společné provedení a vyhodnocení monitoringu biodiversity lesů,
 rašelinišť a vod v obou národních parcích za využití společných moderních metod. Získaná data budou
 významným podkladem pro další kroky směřující ke sbližování ochranářského managementu ve
