@@ -69,7 +69,7 @@ Agentura ochrany přírody a krajiny ČR. 111 pp.
 
 Sychra J., Čamlík G., Merta L., Zavadil V. & Devánová A. 2017: Temporal field wetlands as
 biodiversity hot spots in agricultural landscape in the Czech Republic. 10 Symposium for
-European Freshwater Sciences 2017.Olomouc. Abstract Book: 106.
+European Freshwater Sciences 2017. Olomouc. Abstract Book: 106.
 
 Němec R. & Sychra J. 2017: _Polní mokřady_. Pp. 281–291. In Čížková H., Vlasáková L. & Květ J.
 (eds.): Mokřady. Ekologie, ochrana a udržitelné využívání. Episteme. Natura. Jihočeská univerzita
