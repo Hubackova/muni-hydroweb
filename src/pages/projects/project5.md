@@ -1,33 +1,33 @@
 ---
 title: project5
 name: Společenstva důlních vod a výsypek
-nameEn: Společenstva důlních vod a výsypek
+nameEng: Společenstva důlních vod a výsypek
 captions: >-
-  Pohled z výsypky Červená Ema na lom Jiří/Výsypka Červená Ema/Prameniště
-  Okružního potoka na Sokolovské výsypce (2013)/Přítok nádrže Pavel na
-  Sokolovské výsypce (2013)/Sokolovsko - Martina Bartošová a Standa Němejc u
-  Okružního potoka (2013)/Vzorkování v pěnovcovém bahně Okružního potoka
-  (2013)/Potok vyvěrající z Pohlereichovy štoly (2013)/Modráčkový potok
+  Jana Schenková v sukcesním houští v okolí Okružního p. (2014)/Výsypka Červená
+  Ema/Prameniště Okružního potoka na Sokolovské výsypce (2013)/Přítok nádrže
+  Pavel na Sokolovské výsypce (2013)/Sokolovsko - Martina Bartošová a Standa
+  Němejc u Okružního potoka (2013)/Vzorkování v pěnovcovém bahně Okružního
+  potoka (2013)/Potok vyvěrající z Pohlereichovy štoly (2013)/Modráčkový potok
   (2014)/Haemopis sanguisuga v Modráčkovém potoce na výsypce (2014)/Hrad Loket a
   část sokolovského týmu Vendula Polášková a Martina Bartošová/Ivo Přikryl - náš
-  vůdce po výsypkách (2014)/Jana Schenková v sukcesním houští v okolí Okružního
-  p. (2014)/Vendulka Polášková na lovu imág u Okružního potoka (2014)/Pěnovcové
-  prameniště Májový mokřad (2014)/Okružní potok, každý rok trochu jiný
-  (2014)/Dobře sladěný pracovní oděv s vodami Pohlreichova potoka (2014)/Lov
-  imág u První nádrže (2014)
+  vůdce po výsypkách (2014)/Pohled z výsypky Červená Ema na lom Jiří/Vendulka
+  Polášková na lovu imág u Okružního potoka (2014)/Pěnovcové prameniště Májový
+  mokřad (2014)/Okružní potok, každý rok trochu jiný (2014)/Dobře sladěný
+  pracovní oděv s vodami Pohlreichova potoka (2014)/Lov imág u První nádrže
+  (2014)
 captionsEn: >-
-  Pohled z výsypky Červená Ema na lom Jiří/Výsypka Červená Ema/Prameniště
-  Okružního potoka na Sokolovské výsypce (2013)/Přítok nádrže Pavel na
-  Sokolovské výsypce (2013)/Sokolovsko - Martina Bartošová a Standa Němejc u
-  Okružního potoka (2013)/Vzorkování v pěnovcovém bahně Okružního potoka
-  (2013)/Potok vyvěrající z Pohlereichovy štoly (2013)/Modráčkový potok
+  Jana Schenková v sukcesním houští v okolí Okružního p. (2014)/Výsypka Červená
+  Ema/Prameniště Okružního potoka na Sokolovské výsypce (2013)/Přítok nádrže
+  Pavel na Sokolovské výsypce (2013)/Sokolovsko - Martina Bartošová a Standa
+  Němejc u Okružního potoka (2013)/Vzorkování v pěnovcovém bahně Okružního
+  potoka (2013)/Potok vyvěrající z Pohlereichovy štoly (2013)/Modráčkový potok
   (2014)/Haemopis sanguisuga v Modráčkovém potoce na výsypce (2014)/Hrad Loket a
   část sokolovského týmu Vendula Polášková a Martina Bartošová/Ivo Přikryl - náš
-  vůdce po výsypkách (2014)/Jana Schenková v sukcesním houští v okolí Okružního
-  p. (2014)/Vendulka Polášková na lovu imág u Okružního potoka (2014)/Pěnovcové
-  prameniště Májový mokřad (2014)/Okružní potok, každý rok trochu jiný
-  (2014)/Dobře sladěný pracovní oděv s vodami Pohlreichova potoka (2014)/Lov
-  imág u První nádrže (2014)
+  vůdce po výsypkách (2014)/Pohled z výsypky Červená Ema na lom Jiří/Vendulka
+  Polášková na lovu imág u Okružního potoka (2014)/Pěnovcové prameniště Májový
+  mokřad (2014)/Okružní potok, každý rok trochu jiný (2014)/Dobře sladěný
+  pracovní oděv s vodami Pohlreichova potoka (2014)/Lov imág u První nádrže
+  (2014)
 ---
 <div class="cz">
 Rozvoj těžby nerostných surovin probíhal v České republice po staletí a i dnes má tato činnost značný dopad na
