@@ -62,7 +62,7 @@ Polášková, Petr Pařil
 
 **Vybrané publikace**
 
-Soldán T., Zahrádková S., Helešic J., Dušek L. &amp; Landa V. 1998: Distributional and quantitative patterns of Ephemeroptera and Plecoptera in the Czech Republic: A possibility of detection of long-term changes of aquatic biotopes. _Folia Facultatis Scientiarium Naturalium Universitatis Masarykianae Brunensis_ 98, 1–305.
+Soldán T., Zahrádková S., Helešic J., Dušek L. &amp; Landa V. 1998: Distributional and quantitative patterns of Ephemeroptera and Plecoptera in the Czech Republic: A possibility of detection of long-term changes of aquatic biotopes. _Folia Facultatis Scientiarium Naturalium Universitatis Masarykianae Brunensis_ 98: 1–305.
 
 Bojková J., Komprdová K., Soldán T. & Zahrádková S. 2012: Species loss of stoneflies (Plecoptera) in the Czech Republic during the 20 th century. _Freshwater Biology_ 57: 2550–2567.
 
