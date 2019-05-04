@@ -1,7 +1,7 @@
 ---
 title: project5
 name: Společenstva důlních vod a výsypek
-nameEng: Společenstva důlních vod a výsypek
+nameEn: Společenstva důlních vod a výsypek
 captions: >-
   Jana Schenková v sukcesním houští v okolí Okružního p. (2014)/Výsypka Červená
   Ema/Prameniště Okružního potoka na Sokolovské výsypce (2013)/Přítok nádrže
