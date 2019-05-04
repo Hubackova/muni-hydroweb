@@ -68,12 +68,12 @@ Merta L., Zavadil V. & Sychra J. 2016: _Atlas rozšíření velkých lupenonožc
 Agentura ochrany přírody a krajiny ČR. 111 pp.
 
 Sychra J., Čamlík G., Merta L., Zavadil V. & Devánová A. 2017: Temporal field wetlands as
-biodiversity hot spots in agricultural landscape in the Czech Republic. 10 Symposium for
-European Freshwater Sciences 2017. Olomouc. Abstract Book: 106.
+biodiversity hot spots in agricultural landscape in the Czech Republic. _10th Symposium for
+European Freshwater Sciences 2017. Olomouc. Abstract Book_. Pp. 106.
 
-Němec R. & Sychra J. 2017: _Polní mokřady_. Pp. 281–291. In Čížková H., Vlasáková L. & Květ J.
+Němec R. & Sychra J. 2017: Polní mokřady. _In: Čížková H., Vlasáková L. & Květ J.
 (eds.): Mokřady. Ekologie, ochrana a udržitelné využívání. Episteme. Natura. Jihočeská univerzita
-v Českých Budějovicích. 630 pp.
+v Českých Budějovicích_. Pp. 281–291.
 
 </div>
 
