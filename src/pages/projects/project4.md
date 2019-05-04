@@ -55,7 +55,7 @@ osmi jezer, která jsou v různém stupni zotavení z acidifikace. Dosud byla vy
 
 <div class="project-publication">
 
-**Publikace**
+**Vybrané publikace**
 
 Soldán T., Bojková J., Vrba J., Bitušík P., Chvojka P.,
 Papáček M., Peltanová J., Sychra J. & Tátosová J. 2012:
@@ -85,7 +85,7 @@ roku 2014 až do roku 2018.
 
 <div class="project-publication">
 
-**Publikace**
+**Vybrané publikace**
 
 Bojková J., Čížková H., Kučerová A., Rádková V.,
 Soldán T., Svidenský T. & Vrba J. 2015: Monitoring of
@@ -94,7 +94,7 @@ National Park. _Silva Gabreta_ 21: 73–79. [PDF](http://www.npsumava.cz/gallery
 
 Bojkova J., Rádková V. & Soldan T. 2015:
 Znovuzrození říčky Hučiny. Jeden z probíhajících
-revitalizačních projektů. _Šumava_ 4/15: 12–13.
+revitalizačních projektů. _Šumava_ 4(15): 12–13.
 
 Bojková J., Bufková I., Rádková V., Soldán T. & Vrba
 J. 2017. Jak se žije v revitalizovaných potocích na
@@ -129,7 +129,7 @@ makrozoobentosu.
 
 <div class="project-publication">
 
-**Publikace**
+**Vybrané publikace**
 
 Bojková J., Seifert L., Petruželová J., Šorfová V.,
 Syrovátka V., Sroka P. & Polášková V. 2018: Species
@@ -142,9 +142,9 @@ Gabreta_ 24: 171–211. [PDF](http://www.npsumava.cz/gallery/38/11665-9_sg_24_bo
 </div>
 
 <div class="en">
-V rámci Programu přeshraniční spolupráce České republiky a Bavorska se podílíme na projektu \\\\\\\\\\[Silva
+V rámci Programu přeshraniční spolupráce České republiky a Bavorska se podílíme na projektu \\\\\\\\\\\[Silva
 Gabreta Monitoring](http://www.silvagabreta.eu/index.html.cs) zaměřeném na Národní parky Šumava a Bavorský les, které byly oceněny
-certifikátem \\\\\\\\\\["Transboundary Parks"](https://www.europarc.org/bavarian-forest-sumava-national-parks/?utm_source=ep&utm_medium=search&utm_campaign=linktrack&utm_content=results). Cílem projektu je vytvoření funkční infrastruktury přeshraniční
+certifikátem \\\\\\\\\\\["Transboundary Parks"](https://www.europarc.org/bavarian-forest-sumava-national-parks/?utm_source=ep&utm_medium=search&utm_campaign=linktrack&utm_content=results). Cílem projektu je vytvoření funkční infrastruktury přeshraniční
 monitorovací sítě a historicky první společné provedení a vyhodnocení monitoringu biodiversity lesů,
 rašelinišť a vod v obou národních parcích za využití společných moderních metod. Získaná data budou
 významným podkladem pro další kroky směřující ke sbližování ochranářského managementu ve
