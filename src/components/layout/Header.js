@@ -12,16 +12,12 @@ const HeaderComponent = ({ className }) => (
   <StaticQuery
     query={graphql`
       query {
-        images: allFile(
-          filter: { extension: { regex: "/(jpg)|(png)/" }, relativeDirectory: { eq: "homepage" } },
-          sort: { fields: [relativePath], order: ASC }
-        ) {
+        allImageSharp(filter: { fluid: { src: { regex: "/homepage_/" } } }) {
           edges {
             node {
-              childImageSharp {
-                fluid(maxWidth: 3200) {
-                  ...GatsbyImageSharpFluid
-                }
+              id
+              fluid(maxWidth: 3200) {
+                ...GatsbyImageSharpFluid
               }
             }
           }
@@ -29,7 +25,7 @@ const HeaderComponent = ({ className }) => (
       }
     `}
     render={data => {
-      const imgs = data.images.edges.map(i => i.node.childImageSharp.fluid);
+      const imgs = data.allImageSharp.edges.map(i => i.node.fluid);
       return (
         <IntContextConsumer>
           {({ int }) => (
