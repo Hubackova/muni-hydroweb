@@ -12,7 +12,8 @@ const HeaderComponent = ({ className }) => (
   <StaticQuery
     query={graphql`
       query {
-        allImageSharp(filter: { fluid: { src: { regex: "/homepage_/" } } }) {
+        allImageSharp(filter: { fluid: { src: { regex: "/homepage_/" } } }
+        sort: { fields: [fluid___src], order: ASC }) {
           edges {
             node {
               id

@@ -6,11 +6,12 @@ import twitter from "../../pages/images/twitter.png";
 import { IntContextConsumer } from "../Context";
 
 const footerCz = {
-  botzool: "Ústav botaniky a zoologie, ",
+  botzool: "Ústav botaniky a zoologie ",
+  isPart: "je součástí ",
   faculty: "Přírodovědecké fakulty",
   university: " Masarykovy Univerzity",
-  postalAddressHeading: "Poštovní adresa: ",
-  physicalAddressHeading: "Adresa pracoviště: ",
+  postalAddressHeading: "Poštovní adresa ",
+  physicalAddressHeading: "Adresa pracoviště ",
   postalAddress: "Kotlářská 267/2, 611 37, Brno, Česká republika",
   physicalAddress1: "Univerzitní kampus Bohunice, budova A32,",
   physicalAddress2: "Kamenice 753/5, 625 00, Brno, Česká republika",
@@ -18,7 +19,8 @@ const footerCz = {
 };
 
 const footerEn = {
-  botzool: "Department of Botany and Zoology, ",
+  botzool: "Department of Botany and Zoology ",
+  isPart: "is a part of ",
   faculty: "Faculty of Science",
   university: " Masaryk University",
   postalAddressHeading: "Postal address: ",
@@ -38,7 +40,7 @@ const FooterContent = () => (
           <FooterSection background="rgba(150,150,150, 0.9)">
             <FooterHeader>MUNI</FooterHeader>
             <A href="http://botzool.sci.muni.cz">{footer.botzool}</A>
-            je součástí <A href="http://www.sci.muni.cz/">{footer.faculty}</A>
+            {footer.isPart} <A href="http://www.sci.muni.cz/">{footer.faculty}</A>
             <A href="https://www.muni.cz/">{footer.university}</A>
           </FooterSection>
           <FooterSection background="rgba(150,150,150, 0.8)">

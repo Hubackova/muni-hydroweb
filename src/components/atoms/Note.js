@@ -8,6 +8,6 @@ export default ({children}) => {
 };
 
 const Note = styled.div`
-  color: ${props => props.theme.grey};
+  color: ${props => props.theme.main};
   margin: 10px 0;
 `;

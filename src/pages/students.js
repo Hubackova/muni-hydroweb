@@ -36,7 +36,7 @@ export default ({ data }) => {
                 );
               })}
             </div>
-            <Note>* Mateřská dovolená</Note>
+            <Note>* {int === "en" ? "Maternity leave" : "Mateřská dovolená"}</Note>
             <hr />
             <div dangerouslySetInnerHTML={{ __html: students }} />
           </div>
