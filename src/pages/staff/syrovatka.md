@@ -5,7 +5,7 @@ name: 'Mgr. Vít Syrovátka, Ph.D.'
 position: AKADEMICKÝ PRACOVNÍK
 positionEn: AKADEMICKÝ PRACOVNÍK
 email: syrovat@sci.muni.cz
-phone: 549498563
+phone: 549498566
 room: A32/322
 is: 'https://www.muni.cz/lide/43336-vit-syrovatka'
 rg: 'https://www.researchgate.net/profile/Vit_Syrovatka'
