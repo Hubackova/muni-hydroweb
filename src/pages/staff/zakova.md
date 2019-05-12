@@ -1,12 +1,12 @@
 ---
 title: zakova
 order: 15
-name: 'Mgr. Sylvie Žáková, Ph.D,'
+name: 'Mgr. Sylvie Žáková, Ph.D.'
 position: LABORATORNÍ TECHNIČKA
 positionEn: LABORATORNÍ TECHNIČKA
 email: titanie@seznam.cz
 phone: 0
-room: /
+room: '-'
 is: 'https://www.muni.cz/lide/106742-sylvie-zakova'
 rg: www.researchgate.net/profile/Sylvie_Ruzickova
 image: /images/staff_zakova.jpg
