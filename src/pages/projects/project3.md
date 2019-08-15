@@ -81,7 +81,7 @@ Eva Hanáková, Jan Šupina, Jiří Jakubínský, Světlana Zahrádková, Jan He
 
 **Pařil** P., **Polášek** M., **Loskotová** B., **Straka** M., Crabot J. & Datry T. 2019: An unexpected source of invertebrate community recovery in intermittent streams from a humid continental climate. _Freshwater Biology_. [PDF](https://onlinelibrary.wiley.com/doi/epdf/10.1111/fwb.13386)
 
-**Loskotová** B., **Straka** M. & **Pařil** P. 2019: Sediment characteristics influence benthic macroinvertebrate vertical migrations and survival under experimental water loss conditions. _Fundamental and Applied Limnology_ 193(1): 39-49. [DOI](https://doi.org/10.1127/fal/2019/1138)
+**Loskotová** B., **Straka** M. & **Pařil** P. 2019: Sediment characteristics influence benthic macroinvertebrate vertical migrations and survival under experimental water loss conditions. _Fundamental and Applied Limnology_ 193(1): 39-49. [PDF](https://www.schweizerbart.de/papers/fal/detail/193/91614/Sediment_characteristics_influence_benthic_macroin?af=crossref)
 
 **Straka** M., **Polášek** M., Syrovátka V., Stubbington R., **Zahrádková** S., ... **Pařil** P. 2019: Recognition of stream drying based on benthic macroinvertebrates: A new tool in Central Europe. _Ecological Indicators_ 106. [PDF](https://reader.elsevier.com/reader/sd/pii/S1470160X19304716?token=24D20FC8F47E81A03D9A17122C9A01A08A2E658984EF383A5CE77776CEA49B43562BF6BA413FBA46D9C743CF9EE574F9)
 
