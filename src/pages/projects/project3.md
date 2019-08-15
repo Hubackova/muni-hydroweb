@@ -83,6 +83,8 @@ Eva Hanáková, Jan Šupina, Jiří Jakubínský, Světlana Zahrádková, Jan He
 
 **Loskotová** B., **Straka** M. & **Pařil** P. 2019: Sediment characteristics influence benthic macroinvertebrate vertical migrations and survival under experimental water loss conditions. _Fundamental and Applied Limnology_ 193(1): 39-49. [DOI](https://doi.org/10.1127/fal/2019/1138)
 
+**Straka** M., **Polášek** M., Syrovátka V., Stubbington R., **Zahrádková** S., ... **Pařil** P. 2019: Recognition of stream drying based on benthic macroinvertebrates: A new tool in Central Europe. _Ecological Indicators_ 106. [PDF](https://reader.elsevier.com/reader/sd/pii/S1470160X19304716?token=24D20FC8F47E81A03D9A17122C9A01A08A2E658984EF383A5CE77776CEA49B43562BF6BA413FBA46D9C743CF9EE574F9)
+
 **Pařil** P., Leigh C., **Polášek** M., Sarremejane R., Řezníčková P., **Dostálová** A. &
 Stubbington R. 2018: Short-term streambed drying events alter amphipod
 population structure in a central European stream. _Fundamental and Applied
@@ -93,27 +95,27 @@ analysis of terrestrial plant litter dynamics in non-perennial waterways. _Natur
 Geoscience_ 5(11): 497-503. [PDF](http://irep.ntu.ac.uk/id/eprint/34001/1/11489_Stubbington.pdf)
 
 Datry T., Singer G., Sauquet E., Capdevilla D.
-J., Von Schiller D., Subbington R., ... **Pařil, P**. … & Alves M. H. 2017:
+J., Von Schiller D., Subbington R., ... **Pařil** P. … & Alves M. H. 2017:
 Science and management of intermittent rivers and ephemeral streams (SMIRES).
 Research Ideas and Outcomes 3: 1-23. [PDF](https://hal.archives-ouvertes.fr/hal-01871041/document)
 
-Shumilova O., …. **Pařil**, P. …. 2019: Simulating rewetting events in intermittent
+Shumilova O., …. **Pařil** P. …. 2019: Simulating rewetting events in intermittent
 rivers and ephemeral streams: a global analysis of leached nutrients and
 organic matter. _Global Change Biology_. [PDF](https://onlinelibrary.wiley.com/doi/pdf/10.1111/gcb.14537)
 
 Stubbington R., Chadd R., Cid N., Csabai Z.,
 Miliša M., Morais M., Munné A., **Pařil**
-P. Pešić V., Tziortzisj I., Verdonschot R. C. & Datry, T. 2018:
+P. Pešić V., Tziortzisj I., Verdonschot R. C. & Datry T. 2018:
 Biomonitoring of intermittent rivers and ephemeral streams in Europe: Current
 practice and priorities to enhance ecological status assessments. _Science of
 the total environment_ 618: 1096-1113. [PDF](https://reader.elsevier.com/reader/sd/pii/S0048969717324865?token=ECA1F7E507035C2B093F4D7F1BB83CC67F464FF023BF0439AAFBA3293F6553FB021C5C6FE91EC729EC7EC82736748ED0)
 
-Zahrádková S., Hájek O., Treml P., **Pařil** P., **Straka** M., Němejcová D., **Polášek**
+**Zahrádková** S., Hájek O., Treml P., **Pařil** P., **Straka** M., Němejcová D., **Polášek**
 M. & Ondráček P. 2015: Hodnocení rizika vysychání drobných vodních toků
 v České republice. _Vodohospodářské technicko-ekonomické informace_ 57(6): 4-16. [HTML](https://www.vtei.cz/2015/12/hodnoceni-rizika-vysychani-drobnych-vodnich-toku-v-ceske-republice/)
 
 **Pařil** P., Syrovátka V.,
-Zahrádková S., **Straka** M., **Polášek** M., Němejcová D., Opatřilová
+**Zahrádková** S., **Straka** M., **Polášek** M., Němejcová D., Opatřilová
 L., Šikulová L. & Řezníčková P. 2015: Metodika retrospektivní
 bioindikace epizod vyschnutí toků na základě analýzy makrozoobentosu. Metodika
 certifikovaná Ministerstvem životního prostředí dne 21.12. 2015 pod číslem
