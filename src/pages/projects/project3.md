@@ -86,7 +86,7 @@ Eva Hanáková, Jan Šupina, Jiří Jakubínský, Světlana Zahrádková, Jan He
 **Straka** M., **Polášek** M., Syrovátka V., Stubbington R., **Zahrádková** S., ... **Pařil** P. 2019: Recognition of stream drying based on benthic macroinvertebrates: A new tool in Central Europe. _Ecological Indicators_ 106. [PDF](https://reader.elsevier.com/reader/sd/pii/S1470160X19304716?token=24D20FC8F47E81A03D9A17122C9A01A08A2E658984EF383A5CE77776CEA49B43562BF6BA413FBA46D9C743CF9EE574F9)
 
 **Pařil** P., Leigh C., **Polášek** M., Sarremejane R., Řezníčková P., **Dostálová** A. &
-Stubbington R. 2018: Short-term streambed drying events alter amphipod
+Stubbington R. 2019: Short-term streambed drying events alter amphipod
 population structure in a central European stream. _Fundamental and Applied
 Limnology_. [PDF](http://docserver.ingentaconnect.com/deliver/fasttrack/schweiz/18639135/fal_000_0_0000_0000_paril_1164_prepub_1547215377239.pdf?expires=1555189280&id=id22479149&checksum=030B2F8413E12D89FA0B835BCFC7715A)
 
@@ -101,7 +101,7 @@ Research Ideas and Outcomes 3: 1-23. [PDF](https://hal.archives-ouvertes.fr/hal-
 
 Shumilova O., …. **Pařil** P. …. 2019: Simulating rewetting events in intermittent
 rivers and ephemeral streams: a global analysis of leached nutrients and
-organic matter. _Global Change Biology_. [PDF](https://onlinelibrary.wiley.com/doi/pdf/10.1111/gcb.14537)
+organic matter. _Global Change Biology_ 25:1591–1611. [PDF](https://onlinelibrary.wiley.com/doi/pdf/10.1111/gcb.14537)
 
 Stubbington R., Chadd R., Cid N., Csabai Z.,
 Miliša M., Morais M., Munné A., **Pařil**
