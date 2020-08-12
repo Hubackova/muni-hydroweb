@@ -2,8 +2,8 @@
 title: helesic
 order: 3
 name: 'Doc. RNDr. Jan Helešic, Ph.D.'
-position: ODBORNÝ ASISTENT
-positionEn: ODBORNÝ ASISTENT
+position: DOCENT
+positionEn: DOCENT
 email: helesic@sci.muni.cz
 phone: 549494194
 room: A32/319
