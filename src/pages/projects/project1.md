@@ -82,11 +82,15 @@ importance of species replacement and richness differences in small-scale divers
 
 Schenková J., Bílková M. & Horsák M. 2016: The response of Clitellata (Annelida) to environmental gradients in spring fens. _Limnologica_ 57: 73–82.
 
-Schenková J., Bílková M., Polášková J., Horsák M. & Schlaghamerský J. 2018: Variation of Clitellata (Annelida) assemblages related to water saturation in groundwater-dependent wetlands. _Hydrobiologia_ 823: 49–65.
+Schenková J., Bílková M., Polášková J., Horsák M. & Schlaghamerský J. 2018: Variation of Clitellata (Annelida) assemblages related to water saturation in groundwater-dependent wetlands. 
+
+_Syrovátka V., Zhai M., Bojková J., Šorfová V. & Horsák M. 2020: Native Gammarus fossarum affects species composition of macroinvertebrate communities: evidence from laboratory, field enclosures, and natural habitat. Aquatic Ecology 54: 505–518.Hydrobiologia_ 823: 49–65.
 
 Zhai M., Hřívová D. & Peterka T. 2015: The harpacticoid assemblages (Copepoda: Harpacticoida) in the Western Carpathian spring fens in relation to environmental variablesand habitat age. _Limnologica_ 53: 84–94.
 
 Zhai M., Nováček O., Výravský D., Bojková J. & Helešic J. 2015: Environmental and spatial control of ostracod assemblages in the Western Carpathian spring fens. _Hydrobiologia_ 745: 225–239.
+
+Zhai M., Syrovátka V., Bojková J., Šorfová V., Polášková V., Schenková J. & Horsák M. 2020: Does predator abundance influence species diversity of equilibrium macroinvertebrate assemblages in spring fens? Freshwater Biology 65: 987–998.
 
 </div>
 
