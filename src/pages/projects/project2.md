@@ -34,6 +34,8 @@ skupin bioty na referenčních lokalitách.
 
 **Grantové projekty**
 
+Klimaticky podmíněná homogenizace vodních bezobratlých testovaná na třech modelových systémech a historických datech (Climatically promoted homogenization of aquatic invertebrates tested on three model lotic systems and historical data), Grantová agentura České republiky, 20-17305S, 2020–2022
+
 [Monitoring dlouhodobých změn biologické diverzity tekoucích vod v období klimatické změny:
 návrh, realizace a implementace do veřejného informačního systému ARROW](http://www.riverchange.cz/) (Monitoring of
 long-term changes in biological diversity of running waters during climate change: design,
