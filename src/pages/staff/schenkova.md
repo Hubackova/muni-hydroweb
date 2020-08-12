@@ -2,8 +2,8 @@
 title: schenkova
 order: 2
 name: 'Doc. RNDr. Jana Schenková, Ph.D.'
-position: AKADEMICKÝ PRACOVNÍK
-positionEn: AKADEMICKÝ PRACOVNÍK
+position: ODBORNÝ ASISTENT
+positionEn: ODBORNÝ ASISTENT
 email: schenk@sci.muni.cz
 phone: 549496959
 room: A32/315
