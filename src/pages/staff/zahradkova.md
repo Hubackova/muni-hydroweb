@@ -1,9 +1,9 @@
 ---
 title: zahradkova
-order: 13
+order: 11
 name: 'Doc. RNDr. Světlana Zahrádková, Ph.D.'
-position: AKADEMICKÝ PRACOVNÍK
-positionEn: AKADEMICKÝ PRACOVNÍK
+position: VÝZKUMNÍK
+positionEn: VÝZKUMNÍK
 email: zahradkova@sci.muni.cz
 phone: 549498174
 room: A32/316
