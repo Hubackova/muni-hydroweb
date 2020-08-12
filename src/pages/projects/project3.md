@@ -70,6 +70,8 @@ a antropogenních zásahů - TITSMZP703) a [antropogenně indukovaného vysychá
 zasněžování na biologické složky přírodního prostředí na území Krkonošského národního parku a jeho
 ochranného pásma - TITSMZP707).
 
+Síť lokalit Biosucho je dále zkoumána v projektu „Klimaticky podmíněná homogenizace vodních bezobratlých“ za účelem vyhodnocení dlouhodobého vývoje vysychavých toků.
+
 **Lidé zapojení do projektů**
 
 Petr Pařil, Marek Polášek, Barbora Loskotová, Alena Dostálová, Vendula Polášková, Michal Straka,
