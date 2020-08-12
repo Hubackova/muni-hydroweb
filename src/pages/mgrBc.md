@@ -21,7 +21,7 @@ title: mgrBc
 
 [Bc. Vojtěch Spousta](https://is.muni.cz/auth/osoba/447587),
 
-[Bc. Zuzana Ševčíková](https://is.muni.cz/auth/osoba/461008),
+[Bc. Zuzana Ševčíková](https://is.muni.cz/auth/osoba/461008)
 
 **Bc. Studenti**
 
