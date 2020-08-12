@@ -1,9 +1,9 @@
 ---
 title: straka
-order: 10
+order: 9
 name: 'Mgr. Michal Straka, Ph.D.'
-position: ODBORNÝ PRACOVNÍK
-positionEn: ODBORNÝ PRACOVNÍK
+position: VÝZKUMNÍK
+positionEn: VÝZKUMNÍK
 email: michal.straka@centrum.cz
 phone: 549498563
 room: A32/321
