@@ -77,6 +77,12 @@ _Alžběta Devánová_ 2017: [Biologie a ekologie velkých lupenonožců v poln�
 
 _Dorota Gvozdjáková_ 2017: [Planktonní společenstva korýšů v periodických vodách](https://is.muni.cz/th/aei4t?). BP
 
+_Alžběta Devánová_ 2020. [Biologie a ekologie vybraných druhů velkých lupenonožců (Crustacea: Branchiopoda) v podmínkách polních mokřadů a chovu](https://is.muni.cz/th/xjt62/). DP
+
+_Alžběta Dubnová_ 2020. [Genetická diverzita žábronožky letní (Branchipus schaefferi) v ČR](https://is.muni.cz/th/peabx/). BP
+
+
+
 </div>
 </div>
 <div class="en">
