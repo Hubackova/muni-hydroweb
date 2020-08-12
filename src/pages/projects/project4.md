@@ -102,6 +102,17 @@ J. 2017. Jak se žije v revitalizovaných potocích na
 
 </div>
 
+- - -
+
+**3. Monitoring diversity bezobratlých rašelinišť a horských povodí**
+
+Základní monitoring vodního hmyzu a zooplanktonu ve vztahu k podmínkám prostředí se zaměřuje na
+porovnání přirozených, narušených a revitalizovaných rašelinišť na Šumavě a výzkum biodiversity
+vrchovištních jezírek a aluviálních tůní s důrazem na vzácné, ohrožené a specializované druhy, které vyžadují ochranu. Podrobný výzkum dvou horských povodí v jádrové oblasti Šumavy, horní část
+Große Ohe a Vydry, se věnuje problematice vlivu acidifikace a vlastností povodí (především ve
+vztahu ke struktuře lesních porostů) na biodiversitu
+makrozoobentosu.
+
 <div class="project-theses">
 
 **Obhájené bakalářské a diplomové práce**
@@ -115,17 +126,6 @@ _Paterová S._ 2018. [Vývoj společenstev makrozoobentosu v revitalizovaném ú
 _Paterová S._ 2016. [Revitalizace malých vodních toků v České republice](https://is.muni.cz/th/znct7). Bakalářská práce
 
 </div>
-
-- - -
-
-**3. Monitoring diversity bezobratlých rašelinišť a horských povodí**
-
-Základní monitoring vodního hmyzu a zooplanktonu ve vztahu k podmínkám prostředí se zaměřuje na
-porovnání přirozených, narušených a revitalizovaných rašelinišť na Šumavě a výzkum biodiversity
-vrchovištních jezírek a aluviálních tůní s důrazem na vzácné, ohrožené a specializované druhy, které vyžadují ochranu. Podrobný výzkum dvou horských povodí v jádrové oblasti Šumavy, horní část
-Große Ohe a Vydry, se věnuje problematice vlivu acidifikace a vlastností povodí (především ve
-vztahu ke struktuře lesních porostů) na biodiversitu
-makrozoobentosu.
 
 <div class="project-publication">
 
@@ -142,9 +142,9 @@ Gabreta_ 24: 171–211. [PDF](http://www.npsumava.cz/gallery/38/11665-9_sg_24_bo
 </div>
 
 <div class="en">
-V rámci Programu přeshraniční spolupráce České republiky a Bavorska se podílíme na projektu \\\\\\\\\\\[Silva
+V rámci Programu přeshraniční spolupráce České republiky a Bavorska se podílíme na projektu \\\\\\\\\\\\[Silva
 Gabreta Monitoring](http://www.silvagabreta.eu/index.html.cs) zaměřeném na Národní parky Šumava a Bavorský les, které byly oceněny
-certifikátem \\\\\\\\\\\["Transboundary Parks"](https://www.europarc.org/bavarian-forest-sumava-national-parks/?utm_source=ep&utm_medium=search&utm_campaign=linktrack&utm_content=results). Cílem projektu je vytvoření funkční infrastruktury přeshraniční
+certifikátem \\\\\\\\\\\\["Transboundary Parks"](https://www.europarc.org/bavarian-forest-sumava-national-parks/?utm_source=ep&utm_medium=search&utm_campaign=linktrack&utm_content=results). Cílem projektu je vytvoření funkční infrastruktury přeshraniční
 monitorovací sítě a historicky první společné provedení a vyhodnocení monitoringu biodiversity lesů,
 rašelinišť a vod v obou národních parcích za využití společných moderních metod. Získaná data budou
 významným podkladem pro další kroky směřující ke sbližování ochranářského managementu ve
