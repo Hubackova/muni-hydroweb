@@ -1,9 +1,9 @@
 ---
 title: paril
-order: 8
+order: 5
 name: 'RNDr. Petr Pařil, Ph.D.'
-position: ODBORNÝ PRACOVNÍK
-positionEn: ODBORNÝ PRACOVNÍK
+position: LEKTOR
+positionEn: LEKTOR
 email: paril@sci.muni.cz
 phone: 549498563
 room: A32/321
