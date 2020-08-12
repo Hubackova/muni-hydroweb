@@ -40,7 +40,8 @@ vykazují značnou prostorovou heterogenitu, jež umožňuje koexistenci mnoha d
 
 **Grantové projekty**
 
-Klimaticky podmíněná homogenizace vodních bezobratlých testovaná na třech modelových systémech a historických datech (Climatically promoted homogenization of aquatic invertebrates tested on three model lotic systems and historical data), Grantová agentura České republiky, 20-17305S, 2020–2022
+Klimaticky podmíněná homogenizace vodních bezobratlých testovaná na třech modelových
+ systémech a historických datech (Climatically promoted homogenization of aquatic invertebrates tested on three model lotic systems and historical data), Grantová agentura České republiky, 20-17305S, 2020–2022
 
 [Koexistence vodních bezobratlých na prameništních slatiništích: úloha abiotické heterogenity a
 biotických interakcí na regionální a lokální škále](https://www.muni.cz/vyzkum/projekty/33031) (The coexistence of aquatic invertebrates in spring
@@ -84,9 +85,9 @@ importance of species replacement and richness differences in small-scale divers
 
 Schenková J., Bílková M. & Horsák M. 2016: The response of Clitellata (Annelida) to environmental gradients in spring fens. _Limnologica_ 57: 73–82.
 
-Schenková J., Bílková M., Polášková J., Horsák M. & Schlaghamerský J. 2018: Variation of Clitellata (Annelida) assemblages related to water saturation in groundwater-dependent wetlands. 
+Schenková J., Bílková M., Polášková J., Horsák M. & Schlaghamerský J. 2018: Variation of Clitellata (Annelida) assemblages related to water saturation in groundwater-dependent wetlands. _Hydrobiologia_ 823: 49–65.
 
-_Syrovátka V., Zhai M., Bojková J., Šorfová V. & Horsák M. 2020: Native Gammarus fossarum affects species composition of macroinvertebrate communities: evidence from laboratory, field enclosures, and natural habitat. Aquatic Ecology 54: 505–518.Hydrobiologia_ 823: 49–65.
+Syrovátka V., Zhai M., Bojková J., Šorfová V. & Horsák M. 2020: Native Gammarus fossarum affects species composition of macroinvertebrate communities: evidence from laboratory, field enclosures, and natural habitat. _Aquatic Ecology_ 54: 505–518.
 
 Zhai M., Hřívová D. & Peterka T. 2015: The harpacticoid assemblages (Copepoda: Harpacticoida) in the Western Carpathian spring fens in relation to environmental variablesand habitat age. _Limnologica_ 53: 84–94.
 
