@@ -1,9 +1,9 @@
 ---
 title: sychra
-order: 5
+order: 6
 name: 'Mgr. Jan Sychra, Ph.D.'
-position: AKADEMICKÝ PRACOVNÍK
-positionEn: AKADEMICKÝ PRACOVNÍK
+position: LEKTOR
+positionEn: LEKTOR
 email: honzas@mail.muni.cz
 phone: 549498564
 room: A32/322
