@@ -1,9 +1,9 @@
 ---
 title: polasek
-order: 12
+order: 7
 name: 'Mgr. Marek Polášek, Ph.D.'
-position: ODBORNÝ PRACOVNÍK
-positionEn: ODBORNÝ PRACOVNÍK
+position: VÝZKUMNÍK
+positionEn: VÝZKUMNÍK
 email: m.polasek@mail.muni.cz
 phone: 549498174
 room: A32/316
