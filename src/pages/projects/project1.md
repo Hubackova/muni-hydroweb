@@ -93,7 +93,7 @@ Zhai M., Hřívová D. & Peterka T. 2015: The harpacticoid assemblages (Copepoda
 
 Zhai M., Nováček O., Výravský D., Bojková J. & Helešic J. 2015: Environmental and spatial control of ostracod assemblages in the Western Carpathian spring fens. _Hydrobiologia_ 745: 225–239.
 
-Zhai M., Syrovátka V., Bojková J., Šorfová V., Polášková V., Schenková J. & Horsák M. 2020: Does predator abundance influence species diversity of equilibrium macroinvertebrate assemblages in spring fens? Freshwater Biology 65: 987–998.
+Zhai M., Syrovátka V., Bojková J., Šorfová V., Polášková V., Schenková J. & Horsák M. 2020: Does predator abundance influence species diversity of equilibrium macroinvertebrate assemblages in spring fens? _Freshwater Biology_ 65: 987–998.
 
 </div>
 
