@@ -40,6 +40,8 @@ vykazují značnou prostorovou heterogenitu, jež umožňuje koexistenci mnoha d
 
 **Grantové projekty**
 
+Klimaticky podmíněná homogenizace vodních bezobratlých testovaná na třech modelových systémech a historických datech (Climatically promoted homogenization of aquatic invertebrates tested on three model lotic systems and historical data), Grantová agentura České republiky, 20-17305S, 2020–2022
+
 [Koexistence vodních bezobratlých na prameništních slatiništích: úloha abiotické heterogenity a
 biotických interakcí na regionální a lokální škále](https://www.muni.cz/vyzkum/projekty/33031) (The coexistence of aquatic invertebrates in spring
 fens: the role of abiotic heterogeneity and biotic interactions at regional and local scale), Grantová
