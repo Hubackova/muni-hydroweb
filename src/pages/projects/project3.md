@@ -110,7 +110,7 @@ the total environment_ 618: 1096-1113. [PDF](https://reader.elsevier.com/reader/
 Datry T., Singer G., Sauquet E., Capdevilla D.
 J., Von Schiller D., Subbington R., ... **Pařil** P. … & Alves M. H. 2017:
 Science and management of intermittent rivers and ephemeral streams (SMIRES).
-Research Ideas and Outcomes 3: 1-23. [PDF](https://hal.archives-ouvertes.fr/hal-01871041/document)
+_Research Ideas and Outcomes_ 3: 1-23. [PDF](https://hal.archives-ouvertes.fr/hal-01871041/document)
 
 **Zahrádková** S., Hájek O., Treml P., **Pařil** P., **Straka** M., Němejcová D., **Polášek**
 M. & Ondráček P. 2015: Hodnocení rizika vysychání drobných vodních toků
