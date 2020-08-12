@@ -22,7 +22,7 @@ Díky existenci unikátních historických dat můžeme studovat změny ve spole
 hmyzu – především jepic, pošvatek a chrostíků – v průběhu uplynulých sta let.
 
 Již od 90. let minulého století se zabýváme vyhodnocením změn taxonomické i funkční diverzity
-společenstev různých říčních biotopů. Studujeme, které vlastnosti druhů (species traits) jsou výhodné
+společenstev různých říčních biotopů. Studujeme, které vlastnosti druhů jsou výhodné
 pro přežívání v suboptimálních podmínkách, a také plasticitu životních cyklů, přežívání a plodnost
 jedinců v různých podmínkách prostředí.
 
