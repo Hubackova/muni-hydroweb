@@ -1,9 +1,9 @@
 ---
 title: zhai
-order: 7
+order: 12
 name: 'Mgr. Marie Zhai, Ph.D.'
-position: ODBORNÝ PRACOVNÍK
-positionEn: ODBORNÝ PRACOVNÍK
+position: VÝZKUMNÍK
+positionEn: VÝZKUMNÍK
 email: marie.zhai@yahoo.com
 phone: 549498567
 room: A32/323
