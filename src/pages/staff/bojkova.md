@@ -1,9 +1,9 @@
 ---
 title: bojkova
-order: 4
+order: 1
 name: 'Mgr. Jindřiška Bojková, Ph.D.'
-position: AKADEMICKÝ PRACOVNÍK
-positionEn: AKADEMICKÝ PRACOVNÍK
+position: VEDOUCÍ PRACOVNÍ SKUPINY
+positionEn: VEDOUCÍ PRACOVNÍ SKUPINY
 email: bosikado@mail.muni.cz
 phone: 549498577
 room: A32/327
