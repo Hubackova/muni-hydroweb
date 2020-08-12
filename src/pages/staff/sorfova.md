@@ -1,9 +1,9 @@
 ---
 title: sorfova
-order: 11
+order: 10
 name: 'Mgr. Vanda Šorfová, Ph.D. *'
-position: ODBORNÝ PRACOVNÍK
-positionEn: ODBORNÝ PRACOVNÍK
+position: VÝZKUMNÍK
+positionEn: VÝZKUMNÍK
 email: sorfova.vanda@gmail.com
 phone: 549498575
 room: A32/327
