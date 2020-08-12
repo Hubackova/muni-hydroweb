@@ -17,8 +17,7 @@ znečištění) na biodiverzitu vodního prostředí, jmenovitě problému
 <span style='color:#0868ac'> vysychání toků</span> vlivem extremizace srážek, změn biodiverzity v řekách nižších
 poloh, ale také strategiím druhů pro přežívání silně pozměněných až extrémních podmínek.
 
-Klíčové pro všechny tři výše uvedené mechanizmy jsou vlastnosti populací a druhů (species
-traits), jejich tolerance a plasticita. Optimální přístup k pochopení těchto mechanismů
+Klíčové pro všechny tři výše uvedené mechanizmy jsou vlastnosti populací a druhů, jejich tolerance a plasticita. Optimální přístup k pochopení těchto mechanismů
 vidíme v kombinaci výzkumu založeném jak na terénním sběru dat v přírodních podmínkách,
 tak experimentech v přírodních i laboratorních podmínkách, včetně zapojení molekulárních
 metod.
