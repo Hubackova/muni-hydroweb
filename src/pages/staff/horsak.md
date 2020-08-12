@@ -1,9 +1,9 @@
 ---
 title: horsak
-order: 3
+order: 4
 name: 'prof. RNDr. Michal Horsák, Ph.D.'
-position: AKADEMICKÝ PRACOVNÍK
-positionEn: AKADEMICKÝ PRACOVNÍK
+position: ODBORNÝ ASISTENT
+positionEn: ODBORNÝ ASISTENT
 email: horsak@sci.muni.cz
 phone: 549494448
 room: A32/314
