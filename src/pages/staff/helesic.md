@@ -1,9 +1,9 @@
 ---
 title: helesic
-order: 1
+order: 3
 name: 'Doc. RNDr. Jan Helešic, Ph.D.'
-position: VEDOUCÍ PRACOVNÍ SKUPINY
-positionEn: VEDOUCÍ PRACOVNÍ SKUPINY
+position: ODBORNÝ ASISTENT
+positionEn: ODBORNÝ ASISTENT
 email: helesic@sci.muni.cz
 phone: 549494194
 room: A32/319
