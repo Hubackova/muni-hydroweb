@@ -47,7 +47,7 @@ comming soon...
 
 **Lidé zapojení do projektů**
 
-Jan Sychra, Alžbeta Devánová
+Jan Sychra, Alžběta Devánová, Jindřiška Bojková, Michal Horsák
 
 <div class="project-publication">
 
