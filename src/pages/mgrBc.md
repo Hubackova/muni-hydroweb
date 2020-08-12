@@ -3,10 +3,9 @@ title: mgrBc
 ---
 <div class="cz">
 
-**Mgr. Studenti**\
-[Bc. Alžbeta Devánová](https://is.muni.cz/auth/osoba/437390),
+**Mgr. Studenti**
 
-[Bc. Selma de Donnová](https://is.muni.cz/auth/osoba/451725),
+[Bc. Alžběta Dubnová](https://is.muni.cz/auth/osoba/473714),
 
 [Bc. Karolína Fišarová](https://is.muni.cz/auth/osoba/460702),
 
@@ -22,14 +21,11 @@ title: mgrBc
 
 [Bc. Vojtěch Spousta](https://is.muni.cz/auth/osoba/447587),
 
-[Bc. Izabela Štěpánková](https://is.muni.cz/auth/osoba/437315)
+[Bc. Zuzana Ševčíková](https://is.muni.cz/auth/osoba/461008),
 
-**Bc. Studenti**\
-[Alžběta Dubnová](https://is.muni.cz/auth/osoba/473714),
+**Bc. Studenti**
 
 [Petra Lovecká](https://is.muni.cz/auth/osoba/461040),
-
-[Zuzana Ševčíková](https://is.muni.cz/auth/osoba/461008),
 
 [Martin Šulák](https://is.muni.cz/auth/osoba/463501),
 
