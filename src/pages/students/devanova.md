@@ -11,7 +11,7 @@ supervisor: 'prof. RNDr. Michal Horsák, Ph.D.'
 email: 437390@mail.muni.cz
 phone: 549498559
 room: A32/313
-is: '-'
+is: 'https://is.muni.cz/auth/osoba/437390'
 rg: '-'
 image: /images/phd_devanova.jpg
 ---
