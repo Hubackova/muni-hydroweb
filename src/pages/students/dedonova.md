@@ -11,7 +11,7 @@ supervisor: 'Mgr. Jindřiška Bojková, Ph.D.'
 email: 451725@mail.muni.cz
 phone: 549498559
 room: A32/313
-is: '-'
+is: 'https://is.muni.cz/auth/osoba/451725'
 rg: '-'
 image: /images/phd_dedonova.jpg
 ---
