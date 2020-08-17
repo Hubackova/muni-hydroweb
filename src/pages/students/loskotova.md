@@ -11,7 +11,7 @@ supervisor: 'RNDr. Petr Pařil, Ph.D.'
 email: bara.loskotova@mail.muni.cz
 phone: 549498559
 room: A32/313
-is: 'https://www.muni.cz/en/students/263064-barbora-loskotova'
+is: 'https://www.muni.cz/lide/263064-barbora-loskotova'
 rg: 'https://www.researchgate.net/profile/Barbora_Loskotova'
 image: /images/phd_loskotova.jpg
 ---
