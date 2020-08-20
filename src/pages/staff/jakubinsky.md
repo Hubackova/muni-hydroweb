@@ -13,7 +13,7 @@ image: /images/staff_jakubinsky.jpg
 ---
 <div class="cz">
 
-Jsem absolventem magisterského i doktorského studia Fyzické geografie na PřF MU, specializujícím se v oblasti environmentální hydrologie a fluviální geomorfologie. Od roku 2012 pracuji v Ústavu výzkumu globální změny AV ČR, v.v.i. (CzechGlobe), od r. 2015 externě vyučuji na Katedře geografie PedF MU a souběžně od r. 2018 jsem na částečný úvazek zaměstnán v Ústavu botaniky a zoologie PřF MU.
+Jsem absolventem magisterského i doktorského studia Fyzické geografie na PřF MU, specializujícím se v oblasti environmentální hydrologie a fluviální geomorfologie. Od roku 2012 pracuji na Ústavu výzkumu globální změny AV ČR, v.v.i. (CzechGlobe), od r. 2015 externě vyučuji na Katedře geografie PedF MU a souběžně od r. 2018 jsem na částečný úvazek zaměstnán na Ústavu botaniky a zoologie PřF MU.
 
 **Výzkumná témata:** 
 
