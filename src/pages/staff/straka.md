@@ -1,6 +1,6 @@
 ---
 title: straka
-order: 10
+order: 11
 name: 'Mgr. Michal Straka, Ph.D.'
 position: VÝZKUMNÍK
 positionEn: VÝZKUMNÍK
