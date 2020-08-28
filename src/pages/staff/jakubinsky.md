@@ -1,6 +1,6 @@
 ---
 title: jakubinsky
-order: 7
+order: 8
 name: 'RNDr. Jiří Jakubínský, Ph.D.'
 position: VÝZKUMNÍK
 positionEn: VÝZKUMNÍK
