@@ -1,6 +1,6 @@
 ---
 title: polaskova
-order: 9
+order: 10
 name: 'Mgr. Vendula Polášková, Ph.D. *'
 position: VÝZKUMNÍK
 positionEn: VÝZKUMNÍK
