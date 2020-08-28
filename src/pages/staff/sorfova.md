@@ -1,6 +1,6 @@
 ---
 title: sorfova
-order: 11
+order: 12
 name: 'Mgr. Vanda Šorfová, Ph.D. *'
 position: VÝZKUMNÍK
 positionEn: VÝZKUMNÍK
