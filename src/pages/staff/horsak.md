@@ -6,7 +6,7 @@ position: PROFESOR
 positionEn: PROFESOR
 email: horsak@sci.muni.cz
 phone: 549494448
-room: A32/314
+room: A32/319
 is: 'https://www.muni.cz/lide/8803-michal-horsak'
 rg: 'https://www.researchgate.net/profile/Michal_Horsak'
 image: /images/staff_horsak.jpg
