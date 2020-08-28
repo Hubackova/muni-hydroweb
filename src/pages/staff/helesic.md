@@ -6,7 +6,7 @@ position: DOCENT
 positionEn: DOCENT
 email: helesic@sci.muni.cz
 phone: 549494194
-room: A32/319
+room: A32/314
 is: 'https://www.muni.cz/lide/580-jan-helesic'
 rg: 'https://www.researchgate.net/profile/Jan_Helesic2'
 image: /images/staff_helesic.jpg
