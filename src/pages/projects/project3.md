@@ -32,7 +32,7 @@ captionsEn: >-
 Základ pracovní skupiny se zformoval v letech 2012-2015 během projektu [BIOSUCHO](http://www.sucho.eu/) (Vysychání
 toků v období klimatické změny: predikce rizika a biologická indikace epizod vyschnutí jako nové
 metody pro management vodního hospodářství a údržby krajiny). Na něj postupně
-navázala v letech 2016-2020 mezinárodní spolupráce v celoevropském projektu [SMIRES](www.smires.eu) (Science
+navázala v letech 2016-2020 mezinárodní spolupráce v celoevropském projektu [SMIRES](https://www.smires.eu/) (Science
 and Management of Intermittent Rivers & Ephemeral Streams - COST Action CA15113).
 Výzkum se zaměřuje na dopady stále narůstajícího vysychání toků na oživení vodotečí nejen vodními
 bezobratlými, ale v poslední době i dalšími skupinami (fytobentos, suchozemští bezobratlí/obratlovci),
