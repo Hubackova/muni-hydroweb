@@ -8,7 +8,7 @@ email: titanie@seznam.cz
 phone: 549498576
 room: A32/325
 is: 'https://www.muni.cz/lide/106742-sylvie-zakova'
-rg: www.researchgate.net/profile/Sylvie_Ruzickova
+rg: 'https://www.researchgate.net/profile/Sylvie_Ruzickova'
 image: /images/staff_zakova.jpg
 ---
 <div class="cz">
