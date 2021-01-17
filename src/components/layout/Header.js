@@ -27,6 +27,7 @@ const HeaderComponent = ({ className }) => (
     `}
     render={data => {
       const imgs = data.allImageSharp.edges.map(i => i.node.fluid);
+      const url = typeof window !== 'undefined' ? window.location.href : '';
       return (
         <IntContextConsumer>
           {({ int }) => (
@@ -37,7 +38,7 @@ const HeaderComponent = ({ className }) => (
                     <img src={ecdyonurus} alt="logo" />
                   </ImgCont>
                   <Muni>
-                    {window.location.href.includes("projects/project3") && (
+                    {url.includes("projects/project3") && (
                       <>
                         <IntContextConsumer>
                           {({ changeToCz }) => (
