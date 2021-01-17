@@ -37,16 +37,28 @@ const HeaderComponent = ({ className }) => (
                     <img src={ecdyonurus} alt="logo" />
                   </ImgCont>
                   <Muni>
-                    {window.location.href.includes("projects/project3") && <IntContextConsumer>
-                      {({ changeToCz }) => (
-                        <Flag src={czFlag} name="cz" onClick={() => changeToCz()} />
-                      )}
-                    </IntContextConsumer>
-                    <IntContextConsumer>
-                      {({ changeToEn }) => (
-                        <Flag src={ukFlag} name="en" onClick={() => changeToEn()} />
-                      )}
-                    </IntContextConsumer>}
+                    {window.location.href.includes("projects/project3") && (
+                      <>
+                        <IntContextConsumer>
+                          {({ changeToCz }) => (
+                            <Flag
+                              src={czFlag}
+                              name="cz"
+                              onClick={() => changeToCz()}
+                            />
+                          )}
+                        </IntContextConsumer>
+                        <IntContextConsumer>
+                          {({ changeToEn }) => (
+                            <Flag
+                              src={ukFlag}
+                              name="en"
+                              onClick={() => changeToEn()}
+                            />
+                          )}
+                        </IntContextConsumer>
+                      </>
+                    )}
                     <Link to="/" style={{ textDecoration: "none" }}>
                       <Main>
                         {int === "en"
