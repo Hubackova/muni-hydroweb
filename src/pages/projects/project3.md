@@ -174,7 +174,9 @@ _Jitka Krajčová_ 2007 [Driftová aktivita makrozoobentosu intermitentního tok
 </div>
 
 <div class="en">
-The foundations of our research team formed during the \\[BIODROUGHT](http://biodrought.eu/) ((Drying out of streams during climate change: prediction of risk and biological indication of drought periods as new methods for water resources and landscape management) project in 2012-2015. International cooperation within Europe-wide project \\[SMIRES](http://www.smires.eu) (Science and Management of Intermittent Rivers & Ephemeral Streams - COST Action CA15113) followed in 2016-2020. These projects focussed on recent impacts of increased stream drying on aquatic macroinvertebrates and other groups (phytobentos, terrestrial invertebrates and vertebrates) that either survive or newly colonize the dynamic intermittent stream habitats.
+
+The foundations of our research team formed during the [BIODROUGHT](http://biodrought.eu) (Drying out of streams during climate change: prediction of risk and biological indication of drought periods as new methods for water resources and landscape management) project in 2012-2015. International cooperation within Europe-wide project [SMIRES](https://www.smires.eu/) (Science and Management of Intermittent Rivers & Ephemeral Streams - COST Action CA15113) followed in 2016-2020. 
+These projects focussed on recent impacts of increased stream drying on aquatic macroinvertebrates and other groups (phytobentos, terrestrial invertebrates and vertebrates) that either survive or newly colonize the dynamic intermittent stream habitats.
 
 **Grantové projekty**
 
