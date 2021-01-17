@@ -1,7 +1,7 @@
 ---
 title: project3
 name: Výzkum vysychavých toků
-nameEn: Výzkum vysychavých toků
+nameEn: Intermittent Streams Research
 captions: >-
   Oslava po úspěšném vzorkování/ Proplachování odebraného vzorku/ Třídění vzorku
   v terénu/ Nadšení při terénních pracích/ Už se to nese – odebraný vzorek k
@@ -178,7 +178,7 @@ _Jitka Krajčová_ 2007 [Driftová aktivita makrozoobentosu intermitentního tok
 The foundations of our research team formed during the [BIODROUGHT](http://biodrought.eu) (Drying out of streams during climate change: prediction of risk and biological indication of drought periods as new methods for water resources and landscape management) project in 2012-2015. International cooperation within Europe-wide project [SMIRES](https://www.smires.eu/) (Science and Management of Intermittent Rivers & Ephemeral Streams - COST Action CA15113) followed in 2016-2020. 
 These projects focussed on recent impacts of increased stream drying on aquatic macroinvertebrates and other groups (phytobentos, terrestrial invertebrates and vertebrates) that either survive or newly colonize the dynamic intermittent stream habitats.
 
-**Grantové projekty**
+**Grant projects**
 
 [DryGrad](https://www.muni.cz/vyzkum/projekty/37293) - **Effects of DRYing on European river communities: a west-eastern GRADient perspective (acronym, 7AMB17FR011) (2017-2018)**, MEYS MOBILITY. In conjunction with the INRAE research institute in Lyon, France, this research was focussed on the biota (mainly invertebrates) of intermittent streams within the west-east oceanic-to-continental climatic gradient. We found different responses in stream communities historically adapted to hydrological drought (Mediterranean climate in southern France) vs. stream communities only recently experiencing drought (humid continental climate in the Czech Republic). Further, attention was paid to survival chances in dry streambeds for aquatic invertebrates that presumably do not possess any specialized drought resistant stages.
 
