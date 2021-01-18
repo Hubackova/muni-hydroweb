@@ -29,7 +29,7 @@ captionsEn: >-
 ---
 <div class="cz">
 
-Základ pracovní skupiny se zformoval v letech 2012-2015 během projektu [BIOSUCHO](http://www.sucho.eu/) (Vysychání
+Základ pracovní skupiny se zformoval v letech 2012-2015 během projektu [BIOSUCHO](http://biodrought.eu/) (Vysychání
 toků v období klimatické změny: predikce rizika a biologická indikace epizod vyschnutí jako nové
 metody pro management vodního hospodářství a údržby krajiny). Na něj postupně
 navázala v letech 2016-2020 mezinárodní spolupráce v celoevropském projektu [SMIRES](https://www.smires.eu/) (Science
@@ -188,7 +188,7 @@ Most recently (2017-2021), our research team is also involved in the projects [D
 
 The BIODROUGHT network of sampling sites on intermittent streams is currently included in the project “[Climatically promoted homogenization of aquatic invertebrates](https://www.muni.cz/vyzkum/projekty/51247)“ (2020-2023, GA20-17305S), in order to evaluate a long-term community changes in intermittent streams.
 
-Since 2020 we have participated in the global DRYvER (Securing biodiversity, functional integrity and ecosystem services in DRYing rivER networks, 2020-2024) project within the Horizon 2020 program (action 869226) by investigating the hydrology, biotic groups, water management and  social perception for one of the most drought impacted Czech catchments of Velicka river.
+Since 2020 we have participated in the global [DRYvER](https://www.dryver.eu/) (Securing biodiversity, functional integrity and ecosystem services in DRYing rivER networks, 2020-2024) project within the Horizon 2020 program (action 869226) by investigating the hydrology, biotic groups, water management and  social perception for one of the most drought impacted Czech catchments of Velicka river.
 
 **Group leader:** Petr Pařil
 
