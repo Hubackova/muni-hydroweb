@@ -29,7 +29,7 @@ captionsEn: >-
 ---
 <div class="cz">
 
-Základ pracovní skupiny se zformoval v letech 2012-2015 během projektu [BIOSUCHO](http://biodrought.eu/) (Vysychání
+Základ pracovní skupiny se zformoval v letech 2012-2015 během projektu [BIOSUCHO](http://sucho.eu/) (Vysychání
 toků v období klimatické změny: predikce rizika a biologická indikace epizod vyschnutí jako nové
 metody pro management vodního hospodářství a údržby krajiny). Na něj postupně
 navázala v letech 2016-2020 mezinárodní spolupráce v celoevropském projektu [SMIRES](https://www.smires.eu/) (Science
