@@ -15,18 +15,17 @@ captions: >-
   Příprava experimentálního vybavení hotova!/ Průběžná kontrola experimentálně
   zaplavených vyschlých sedimentů říčního dna/
 captionsEn: >-
-  Celebration after successful sampling/ Elutriation of a MIV sample/ Field MIV
-  sample sorting/ Field work excitement/ It's coming – MIV sample for
-  preservation/ It is essential to record all actions in to a protocol/ Residual
-  pool, Sudomericky stream/ Installation of a scouting camera/ Discharge
-  measurement/ Installed datalogger for light level measurement/ Refreshing
-  field hygiene/ Field team in an action/ Sampling of dry streambed/ Sampling of
-  dry streambed #2/ Control of right functioning of a scouting camera/ MIV
-  sampling for mesocosm experiment – it's tough to be a hydrobiologist/
-  Essential field survey to select optimal sites/ Animal tracks in a dry
-  streambed/ Dry streambed with terrestrial macrophytes/ Preparation of
-  experimental equipment done!/ Inspection of experimentally flooded dry
-  streambed sediments
+  Celebration after successful sampling/ Rinse of a MIV sample/ Field MIV sample
+  sorting/ Field work excitement/ It's coming – MIV sample for preservation/ It
+  is essential to record all actions in to a protocol/ Residual pool,
+  Sudomericky stream/ Installation of a scouting camera/ Discharge measurement/
+  Installed datalogger for light level measurement/ Refreshing field hygiene/
+  Field team in an action/ Sampling of dry streambed/ Sampling of dry streambed
+  #2/ Control of right functioning of a scouting camera/ MIV sampling for
+  mesocosm experiment – it's tough to be a hydrobiologist/ Essential field
+  survey to select optimal sites/ Animal tracks in a dry streambed/ Dry
+  streambed with terrestrial macrophytes/ Preparation of experimental equipment
+  done!/ Inspection of experimentally flooded dry streambed sediments
 ---
 <div class="cz">
 
