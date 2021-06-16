@@ -81,11 +81,17 @@ Eva Hanáková, Jan Šupina, Jiří Jakubínský, Světlana Zahrádková, Jan He
 
 **Vybrané publikace**
 
-**Pařil** P., **Polášek** M., **Loskotová** B., **Straka** M., Crabot J. & Datry T. 2019: An unexpected source of invertebrate community recovery in intermittent streams from a humid continental climate. _Freshwater Biology_ 64:1971-1983. [PDF](https://onlinelibrary.wiley.com/doi/epdf/10.1111/fwb.13386)
+Crabot J., **Polášek** M., Launay B., **Pařil** P. & Datry T. 2020: Drying in newly intermittent rivers leads to higher variability of invertebrate communities. _Freshwater Biology_ 66: 730-744. [PDF](https://onlinelibrary.wiley.com/doi/full/10.1111/fwb.13673)
+
+**Loskotová** B., **Straka** M., **Polášek** M., **Dostálová** A. & **Pařil** P. 2021: Macroinvertebrate seedbank survival in pristine and nutrient-enriched intermittent streams and its contribution to flow phase communities. _Hydrobiologia_ 848: 1911-1923. [PDF](https://link.springer.com/article/10.1007/s10750-021-04566-1)
+
+Sarremejane R., Cid N., Stubbington R., Datry T., Alp M., Cañedo-Argüelles M., Cordero-Rivera A., Csabai Z., Gutiérrez-Cánovas C., Heino J., Forcellini M., Millán A., Paillex A., **Pařil** P., **Polášek** M., Tierno de Figueroa J. M., Usseglio-Polatera P., Zamora-Muñoz C. & Bonada N. 2020: DISPERSE, a trait database to assess the dispersal potential of European aquatic macroinvertebrates. _Scientific data_ 7: 1-9. [PDF](https://www.nature.com/articles/s41597-020-00732-7)
+
+**Pařil** P., **Polášek** M., **Loskotová** B., **Straka** M., Crabot J. & Datry T. 2019: An unexpected source of invertebrate community recovery in intermittent streams from a humid continental climate. _Freshwater Biology_ 64: 1971-1983. [PDF](https://onlinelibrary.wiley.com/doi/epdf/10.1111/fwb.13386)
 
 **Loskotová** B., **Straka** M. & **Pařil** P. 2019: Sediment characteristics influence benthic macroinvertebrate vertical migrations and survival under experimental water loss conditions. _Fundamental and Applied Limnology_ 193: 39-49. [PDF](https://www.schweizerbart.de/papers/fal/detail/193/91614/Sediment_characteristics_influence_benthic_macroin?af=crossref)
 
-**Straka** M., **Polášek** M., Syrovátka V., Stubbington R., **Zahrádková** S., ... **Pařil** P. 2019: Recognition of stream drying based on benthic macroinvertebrates: A new tool in Central Europe. _Ecological Indicators_ 106:105486. [PDF](https://reader.elsevier.com/reader/sd/pii/S1470160X19304716?token=24D20FC8F47E81A03D9A17122C9A01A08A2E658984EF383A5CE77776CEA49B43562BF6BA413FBA46D9C743CF9EE574F9)
+**Straka** M., **Polášek** M., Syrovátka V., Stubbington R., **Zahrádková** S., ... **Pařil** P. 2019: Recognition of stream drying based on benthic macroinvertebrates: A new tool in Central Europe. _Ecological Indicators_ 106: 105486. [PDF](https://reader.elsevier.com/reader/sd/pii/S1470160X19304716?token=24D20FC8F47E81A03D9A17122C9A01A08A2E658984EF383A5CE77776CEA49B43562BF6BA413FBA46D9C743CF9EE574F9)
 
 **Pařil** P., Leigh C., **Polášek** M., Sarremejane R., Řezníčková P., **Dostálová** A. &
 Stubbington R. 2019: Short-term streambed drying events alter amphipod
@@ -94,7 +100,7 @@ Limnology 193: 51-64_. [PDF](http://docserver.ingentaconnect.com/deliver/fasttra
 
 Shumilova O., …. **Pařil** P. …. 2019: Simulating rewetting events in intermittent
 rivers and ephemeral streams: a global analysis of leached nutrients and
-organic matter. _Global Change Biology_ 25:1591–1611. [PDF](https://onlinelibrary.wiley.com/doi/pdf/10.1111/gcb.14537)
+organic matter. _Global Change Biology_ 25: 1591–1611. [PDF](https://onlinelibrary.wiley.com/doi/pdf/10.1111/gcb.14537)
 
 Datry T. … **Pařil** P., **Polášek** M., … 2018: A global
 analysis of terrestrial plant litter dynamics in non-perennial waterways. _Nature
