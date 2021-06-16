@@ -73,6 +73,8 @@ ochranného pásma - TITSMZP707).
 
 Síť lokalit Biosucho je dále zkoumána v projektu „Klimaticky podmíněná homogenizace vodních bezobratlých“ za účelem vyhodnocení dlouhodobého vývoje vysychavých toků.
 
+Od roku 2020 se podílíme na celosvětovém projektu [DRYvER](https://www.dryver.eu/) (Securing biodiversity, functional integrity and ecosystem services in DRYing rivER networks, 2020-2024) v rámci programu Horizon 2020 (akce 869226). Zkoumáme hydrologii, biotické skupiny, hospodaření s vodou a sociální rozměr jednoho z nejvíce suchem zasažených povodí v České republice, povodí Veličky.
+
 **Lidé zapojení do projektů**
 
 Petr Pařil, Marek Polášek, Barbora Loskotová, Alena Dostálová, Vendula Polášková, Michal Straka,
@@ -257,8 +259,6 @@ certifikovaná Ministerstvem životního prostředí dne 21.12. 2015 pod čísle
 2014: Souprava pro odběr sedimentu z vyschlého dna (Užitný vzor č. 27576).
 Úřad průmyslového vlastnictví, Praha; Vlastník: Výzkumný ústav vodohospodářský
 T.G.M. v.v.i.
-
-
 
 </div>
 
