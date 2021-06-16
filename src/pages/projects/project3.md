@@ -198,61 +198,60 @@ Since 2020 we have participated in the global [DRYvER](https://www.dryver.eu/) (
 
 **Selected publications**
 
-Crabot J., **M. Polášek**, B. Launay, **P. Pařil** & Datry T. 2020: Drying in newly intermittent rivers leads to higher variability of invertebrate communities. Freshwater Biology.  [PDF link](https://onlinelibrary.wiley.com/doi/full/10.1111/fwb.13673)
+Crabot J., **Polášek** M., Launay B., **Pařil** P. & Datry T. 2020: Drying in newly intermittent rivers leads to higher variability of invertebrate communities. _Freshwater Biology_ 66: 730-744. [PDF](https://onlinelibrary.wiley.com/doi/full/10.1111/fwb.13673)
 
-Sarremejane R., Cid N., Stubbington R., Datry T., Alp M., Cañedo-Argüelles M., Cordero-Rivera A., Csabai Z., Gutiérrez-Cánovas C., Heino J., Forcellini M., Millán A., Paillex A., **Pařil P.**, **Polášek M.**, Tierno de Figueroa J. M., Usseglio-Polatera P., Zamora-Muñoz C. & Bonada N. 2020: DISPERSE, a trait database to assess the dispersal potential of European aquatic macroinvertebrates. Scientific data, 386. [PDF link](https://www.nature.com/articles/s41597-020-00732-7)
+**Loskotová** B., **Straka** M., **Polášek** M., **Dostálová** A. & **Pařil** P. 2021: Macroinvertebrate seedbank survival in pristine and nutrient-enriched intermittent streams and its contribution to flow phase communities. _Hydrobiologia_ 848: 1911-1923. [PDF](https://link.springer.com/article/10.1007/s10750-021-04566-1)
 
-**Pařil**, P., Leigh, C., **Polášek**, M., Sarremejane, R., Řezníčková, P., **Dostálová**, A., &
-Stubbington, R. (2018). Short-term streambed drying events alter amphipod
-population structure in a central European stream. Fundamental and Applied
-Limnology/Archiv für Hydrobiologie.
-https://www.ingentaconnect.com/content/schweiz/fal/pre-prints/content-fal_000_0_0000_0000_paril_1164_prepub;jsessionid=2d6qlqj8o0ksi.x-ic-live-03
+Sarremejane R., Cid N., Stubbington R., Datry T., Alp M., Cañedo-Argüelles M., Cordero-Rivera A., Csabai Z., Gutiérrez-Cánovas C., Heino J., Forcellini M., Millán A., Paillex A., **Pařil** P., **Polášek** M., Tierno de Figueroa J. M., Usseglio-Polatera P., Zamora-Muñoz C. & Bonada N. 2020: DISPERSE, a trait database to assess the dispersal potential of European aquatic macroinvertebrates. _Scientific data_ 7: 1-9. [PDF](https://www.nature.com/articles/s41597-020-00732-7)
 
-**Loskotová** B. **Straka** M., **Pařil** P.
-2019: Sediment characteristics influence benthic macroinvertebrate vertical
-migrations and survival under experimental water loss conditions. Fundamental
-and Applied Limnology.  (accepted)
+**Pařil** P., **Polášek** M., **Loskotová** B., **Straka** M., Crabot J. & Datry T. 2019: An unexpected source of invertebrate community recovery in intermittent streams from a humid continental climate. _Freshwater Biology_ 64: 1971-1983. [PDF](https://onlinelibrary.wiley.com/doi/epdf/10.1111/fwb.13386)
 
-Datry, T. …. **Pařil**, P., **Polášek** M., …. 2018: A global
-analysis of terrestrial plant litter dynamics in non-perennial waterways. Nature
-Geoscience, 5(11): 497-503.
-[https://www.nature.com/articles/s41561-018-0134-4](https://www.nature.com/articles/s41561-018-0134-4%C2%A8)
+**Loskotová** B., **Straka** M. & **Pařil** P. 2019: Sediment characteristics influence benthic macroinvertebrate vertical migrations and survival under experimental water loss conditions. _Fundamental and Applied Limnology_ 193: 39-49. [PDF](https://www.schweizerbart.de/papers/fal/detail/193/91614/Sediment_characteristics_influence_benthic_macroin?af=crossref)
 
-Datry, T., Singer, G., Sauquet, E., Capdevilla, D.
-J., Von Schiller, D., Subbington, R., ... **Pařil, P**. … & Alves, M. H. 2017:
-Science and management of intermittent rivers and ephemeral streams (SMIRES).
-Research Ideas and Outcomes, 3: 1-23.
-<https://riojournal.com/article/21774/>
+**Straka** M., **Polášek** M., Syrovátka V., Stubbington R., **Zahrádková** S., ... **Pařil** P. 2019: Recognition of stream drying based on benthic macroinvertebrates: A new tool in Central Europe. _Ecological Indicators_ 106: 105486. [PDF](https://reader.elsevier.com/reader/sd/pii/S1470160X19304716?token=24D20FC8F47E81A03D9A17122C9A01A08A2E658984EF383A5CE77776CEA49B43562BF6BA413FBA46D9C743CF9EE574F9)
 
-Shumilova O., …. **Pařil**, P. …. 2019: Simulating rewetting events in intermittent
+**Pařil** P., Leigh C., **Polášek** M., Sarremejane R., Řezníčková P., **Dostálová** A. &
+Stubbington R. 2019: Short-term streambed drying events alter amphipod
+population structure in a central European stream. _Fundamental and Applied
+Limnology 193: 51-64_. [PDF](http://docserver.ingentaconnect.com/deliver/fasttrack/schweiz/18639135/fal_000_0_0000_0000_paril_1164_prepub_1547215377239.pdf?expires=1555189280&id=id22479149&checksum=030B2F8413E12D89FA0B835BCFC7715A)
+
+Shumilova O., …. **Pařil** P. …. 2019: Simulating rewetting events in intermittent
 rivers and ephemeral streams: a global analysis of leached nutrients and
-organic matter. Global Change Biology. (first online 9.1.2019)
-<https://onlinelibrary.wiley.com/doi/10.1111/gcb.14537>
+organic matter. _Global Change Biology_ 25: 1591–1611. [PDF](https://onlinelibrary.wiley.com/doi/pdf/10.1111/gcb.14537)
 
-Stubbington, R., Chadd, R., Cid, N., Csabai, Z.,
-Miliša, M., Morais, M., Munné, A., **Pařil**,
-P. Pešić, V., Tziortzisj, I., Verdonschot, R. C. & T. Datry 2018:
+Datry T. … **Pařil** P., **Polášek** M., … 2018: A global
+analysis of terrestrial plant litter dynamics in non-perennial waterways. _Nature
+Geoscience_ 5: 497-503. [PDF](http://irep.ntu.ac.uk/id/eprint/34001/1/11489_Stubbington.pdf)
+
+Stubbington R., Chadd R., Cid N., Csabai Z.,
+Miliša M., Morais M., Munné A., **Pařil**
+P. Pešić V., Tziortzisj I., Verdonschot R. C. & Datry T. 2018:
 Biomonitoring of intermittent rivers and ephemeral streams in Europe: Current
-practice and priorities to enhance ecological status assessments. Science of
-the total environment, 618: 1096-1113.
-<https://www.sciencedirect.com/science/article/pii/S0048969717324865>
+practice and priorities to enhance ecological status assessments. _Science of
+the total environment_ 618: 1096-1113. [PDF](https://reader.elsevier.com/reader/sd/pii/S0048969717324865?token=ECA1F7E507035C2B093F4D7F1BB83CC67F464FF023BF0439AAFBA3293F6553FB021C5C6FE91EC729EC7EC82736748ED0)
 
-Zahrádková, S., Hájek, O., Treml, P., **Pařil**, P., **Straka**, M., Němejcová, D., **Polášek**,
-M. & Ondráček, P. (2015). Hodnocení rizika vysychání drobných vodních toků
-v České republice. Vodohospodářské technicko-ekonomické informace, 57(6), 4-16.
-<https://www.vtei.cz/2015/12/hodnoceni-rizika-vysychani-drobnych-vodnich-toku-v-ceske-republice/>
+Datry T., Singer G., Sauquet E., Capdevilla D.
+J., Von Schiller D., Subbington R., ... **Pařil** P. … & Alves M. H. 2017:
+Science and management of intermittent rivers and ephemeral streams (SMIRES).
+_Research Ideas and Outcomes_ 3: 1-23. [PDF](https://hal.archives-ouvertes.fr/hal-01871041/document)
 
-**Pařil**, P., Syrovátka V.,
-Zahrádková S., **Straka** M., **Polášek** M., Němejcová D., Opatřilová
-L., Šikulová L. & Řezníčková P., (2015): Metodika retrospektivní
+**Zahrádková** S., Hájek O., Treml P., **Pařil** P., **Straka** M., Němejcová D., **Polášek**
+M. & Ondráček P. 2015: Hodnocení rizika vysychání drobných vodních toků
+v České republice. _Vodohospodářské technicko-ekonomické informace_ 57: 4-16. [HTML](https://www.vtei.cz/2015/12/hodnoceni-rizika-vysychani-drobnych-vodnich-toku-v-ceske-republice/)
+
+**Pařil** P., Syrovátka V.,
+**Zahrádková** S., **Straka** M., **Polášek** M., Němejcová D., Opatřilová
+L., Šikulová L. & Řezníčková P. 2015: Metodika retrospektivní
 bioindikace epizod vyschnutí toků na základě analýzy makrozoobentosu. Metodika
 certifikovaná Ministerstvem životního prostředí dne 21.12. 2015 pod číslem
 91808/ENV/15. 34 s.
 
-**Pařil**, P., **Polášek** M. & M. **Straka**
-(2014): Souprava pro odběr sedimentu z vyschlého dna (Užitný vzor č. 27576).
+**Pařil** P., **Polášek** M. & **Straka** M.
+2014: Souprava pro odběr sedimentu z vyschlého dna (Užitný vzor č. 27576).
 Úřad průmyslového vlastnictví, Praha; Vlastník: Výzkumný ústav vodohospodářský
 T.G.M. v.v.i.
+
+
 
 </div>
 
