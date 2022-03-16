@@ -23,6 +23,12 @@ title: mgrBc
 
 [Albín Pařízek](https://is.muni.cz/auth/osoba/493658)
 
+[Adéla Pastuszková](https://is.muni.cz/auth/osoba/500045)
+
+[Dominik Pliska](https://is.muni.cz/auth/osoba/499022)
+
+[Barbora Řehůřková](https://is.muni.cz/auth/osoba/499376)
+
 
 
 </div>
