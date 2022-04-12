@@ -5,44 +5,50 @@ import Layout from "../components/layout";
 import PersonBox from "../components/personBox";
 import Note from "../components/atoms/Note";
 
-export default ({ data }) => {
-  const [showChild, setShowChild] = useState(false)
-  useEffect(() => { setShowChild(true); }, [])
+const Students = ({ data }) => {
+  const [showChild, setShowChild] = useState(false);
+  useEffect(() => {
+    setShowChild(true);
+  }, []);
   useLayoutEffect(() => {
-    const position =  localStorage.getItem('studentScroll');
-    typeof window !== 'undefined' && window && window.scrollTo(0, position)
+    const position = localStorage.getItem("studentScroll");
+    typeof window !== "undefined" && window && window.scrollTo(0, position);
   });
-  
+
   const students = data.markdownRemark.html;
   return (
-    showChild && <Layout>
-      <IntContextConsumer>
-        {({ int }) => (
-          <div className={int}>
-            <div>
-              {data.allMarkdownRemark.edges.map(({ node }) => {
-                const img = data.allImageSharp.edges.find(img =>
-                  img.node.fluid.src.includes(node.frontmatter.title)
-                );
-                return (
-                  <PersonBox
-                    personInfo={node.frontmatter}
-                    key={node.id}
-                    int={int}
-                    isStudent={true}
-                    linkTo={node.fields.slug}
-                    fluid={img.node.fluid}
-                  />
-                );
-              })}
+    showChild && (
+      <Layout>
+        <IntContextConsumer>
+          {({ int }) => (
+            <div className={int}>
+              <div>
+                {data.allMarkdownRemark.edges.map(({ node }) => {
+                  const img = data.allImageSharp.edges.find((img) =>
+                    img.node.fluid.src.includes(node.frontmatter.title)
+                  );
+                  return (
+                    <PersonBox
+                      personInfo={node.frontmatter}
+                      key={node.id}
+                      int={int}
+                      isStudent={true}
+                      linkTo={node.fields.slug}
+                      fluid={img.node.fluid}
+                    />
+                  );
+                })}
+              </div>
+              <Note>
+                * {int === "en" ? "Maternity leave" : "Mateřská dovolená"}
+              </Note>
+              <hr />
+              <div dangerouslySetInnerHTML={{ __html: students }} />
             </div>
-            <Note>* {int === "en" ? "Maternity leave" : "Mateřská dovolená"}</Note>
-            <hr />
-            <div dangerouslySetInnerHTML={{ __html: students }} />
-          </div>
-        )}
-      </IntContextConsumer>
-    </Layout>
+          )}
+        </IntContextConsumer>
+      </Layout>
+    )
   );
 };
 
@@ -93,3 +99,5 @@ export const query = graphql`
     }
   }
 `;
+
+export default Students;

@@ -5,27 +5,27 @@ import { IntContextConsumer } from "../components/Context";
 import ProjectBox from "../components/projectBox";
 import Layout from "../components/layout";
 
-export default ({ data }) => {
+const Projects = ({ data }) => {
   return (
     <Layout>
       <Container>
-      <IntContextConsumer>
-        {({ int }) => (
-        data.allMarkdownRemark.edges.map(({ node }) => {
-          const img = data.allImageSharp.edges.find(img =>
-            img.node.fluid.src.includes(`${node.frontmatter.title}.jpg`)
-          );
-          return (
-            <ProjectBox
-              project={node}
-              key={node.frontmatter.title}
-              linkTo={`projects/${node.frontmatter.title}`}
-              fluid={img && img.node.fluid}
-              int={int}
-            />
-          );
-        })
-        )}
+        <IntContextConsumer>
+          {({ int }) =>
+            data.allMarkdownRemark.edges.map(({ node }) => {
+              const img = data.allImageSharp.edges.find((img) =>
+                img.node.fluid.src.includes(`${node.frontmatter.title}.jpg`)
+              );
+              return (
+                <ProjectBox
+                  project={node}
+                  key={node.frontmatter.title}
+                  linkTo={`/projects/${node.frontmatter.title}`}
+                  fluid={img && img.node.fluid}
+                  int={int}
+                />
+              );
+            })
+          }
         </IntContextConsumer>
       </Container>
     </Layout>
@@ -78,3 +78,5 @@ export const query = graphql`
     }
   }
 `;
+
+export default Projects;

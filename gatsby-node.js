@@ -8,13 +8,13 @@ exports.onCreateNode = ({ node, getNode, actions }) => {
     createNodeField({
       node,
       name: `slug`,
-      value: slug
+      value: slug,
     });
   }
 };
 
-exports.createPages = async ({ actions: { createPage }, graphql }) => {
-  graphql(`
+/* exports.createPages = async function ({ actions, graphql }) {
+  const projects = await graphql(`
     {
       allMarkdownRemark(filter: { fields: { slug: { regex: "/projects/" } } }) {
         edges {
@@ -27,22 +27,64 @@ exports.createPages = async ({ actions: { createPage }, graphql }) => {
         }
       }
     }
-  `).then(result => {
-    result.data.allMarkdownRemark.edges.forEach(({ node }) => {
-      const imgName = node.fields.slug.slice(10).slice(0, -1);
-      createPage({
-        path: node.fields.slug,
-        component: path.resolve(`./src/templates/projectDetail.js`),
-        context: {
-          slug: node.fields.slug,
-          title: imgName,
-          imgsRegex: `/${imgName}_/`
+  `);
+
+  projects.data.allMarkdownRemark.edges.forEach(({ node }) => {
+    console.log(
+      "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+      node.fields.slug
+    );
+    actions.createPage({
+      path: node.fields.slug,
+      component: require.resolve(`./src/templates/projectDetail.js`),
+      context: {
+        slug: node.fields.slug,
+        title: imgName,
+        imgsRegex: `/${imgName}_/`,
+      },
+    });
+  });
+}; */
+
+exports.createPages = async ({ actions: { createPage }, graphql }) => {
+  const projects = await graphql(`
+    {
+      allMarkdownRemark(filter: { fields: { slug: { regex: "/projects/" } } }) {
+        edges {
+          node {
+            html
+            fields {
+              slug
+            }
+          }
         }
-      });
+      }
+    }
+  `);
+
+  // Handle errors
+  if (projects.errors) {
+    reporter.panicOnBuild(`Error while running GraphQL query.`);
+    return;
+  }
+  const projectDetailTemplate = path.resolve(
+    `./src/templates/projectDetail.js`
+  );
+  projects.data.allMarkdownRemark.edges.forEach(({ node }) => {
+    const imgName = node.fields.slug.slice(10).slice(0, -1);
+    console.log(node.fields.slug, "AAAAAAAAAAAAAAAAAAAA");
+    createPage({
+      path: node.fields.slug,
+      component: projectDetailTemplate,
+      context: {
+        slug: node.fields.slug,
+        title: imgName,
+        imgsRegex: `/${imgName}_/`,
+      },
     });
   });
 
-  graphql(`
+  const students = await graphql(`
     {
       allMarkdownRemark(filter: { fields: { slug: { regex: "/students/" } } }) {
         edges {
@@ -55,21 +97,21 @@ exports.createPages = async ({ actions: { createPage }, graphql }) => {
         }
       }
     }
-  `).then(result => {
-    result.data.allMarkdownRemark.edges.forEach(({ node }) => {
-      const imgName = node.fields.slug.slice(10).slice(0, -1);
-      createPage({
-        path: node.fields.slug,
-        component: path.resolve(`./src/templates/personDetail.js`),
-        context: {
-          slug: node.fields.slug,
-          imgname: `/${imgName}.jpg/`
-        }
-      });
+  `);
+
+  students.data.allMarkdownRemark.edges.forEach(({ node }) => {
+    const imgName = node.fields.slug.slice(10).slice(0, -1);
+    createPage({
+      path: node.fields.slug,
+      component: path.resolve(`./src/templates/personDetail.js`),
+      context: {
+        slug: node.fields.slug,
+        imgname: `/${imgName}.jpg/`,
+      },
     });
   });
 
-  graphql(`
+  const staff = await graphql(`
     {
       allMarkdownRemark(filter: { fields: { slug: { regex: "/staff/" } } }) {
         edges {
@@ -82,17 +124,16 @@ exports.createPages = async ({ actions: { createPage }, graphql }) => {
         }
       }
     }
-  `).then(result => {
-    result.data.allMarkdownRemark.edges.forEach(({ node }) => {
-      const imgName = node.fields.slug.slice(7).slice(0, -1);
-      createPage({
-        path: node.fields.slug,
-        component: path.resolve(`./src/templates/personDetail.js`),
-        context: {
-          slug: node.fields.slug,
-          imgname: `/${imgName}.jpg/`
-        }
-      });
+  `);
+  staff.data.allMarkdownRemark.edges.forEach(({ node }) => {
+    const imgName = node.fields.slug.slice(7).slice(0, -1);
+    createPage({
+      path: node.fields.slug,
+      component: path.resolve(`./src/templates/personDetail.js`),
+      context: {
+        slug: node.fields.slug,
+        imgname: `/${imgName}.jpg/`,
+      },
     });
   });
 };

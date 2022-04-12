@@ -1,8 +1,8 @@
 import React from "react";
 import styled from "styled-components";
-import facebook from "../../pages/images/facebook.png";
-import youtube from "../../pages/images/youtube.png";
-import twitter from "../../pages/images/twitter.png";
+import facebook from "../../images/facebook.png";
+import youtube from "../../images/youtube.png";
+import twitter from "../../images/twitter.png";
 import { IntContextConsumer } from "../Context";
 
 const footerCz = {
@@ -15,7 +15,7 @@ const footerCz = {
   postalAddress: "Kotlářská 267/2, 611 37, Brno, Česká republika",
   physicalAddress1: "Univerzitní kampus Bohunice, budova A32,",
   physicalAddress2: "Kamenice 753/5, 625 00, Brno, Česká republika",
-  links: "Odkazy"
+  links: "Odkazy",
 };
 
 const footerEn = {
@@ -28,7 +28,7 @@ const footerEn = {
   postalAddress: "Kotlářská 267/2, 611 37, Brno, Czech Republic",
   physicalAddress1: "University Campus Bohunice, building A32,",
   physicalAddress2: "Kamenice 753/5, 625 00, Brno, Czech Republic",
-  links: "Links"
+  links: "Links",
 };
 
 const FooterContent = () => (
@@ -40,7 +40,8 @@ const FooterContent = () => (
           <FooterSection background="rgba(150,150,150, 0.9)">
             <FooterHeader>MUNI</FooterHeader>
             <A href="http://botzool.sci.muni.cz">{footer.botzool}</A>
-            {footer.isPart} <A href="http://www.sci.muni.cz/">{footer.faculty}</A>
+            {footer.isPart}{" "}
+            <A href="http://www.sci.muni.cz/">{footer.faculty}</A>
             <A href="https://www.muni.cz/">{footer.university}</A>
           </FooterSection>
           <FooterSection background="rgba(150,150,150, 0.8)">
@@ -82,8 +83,8 @@ const Container = styled.div`
 
 const FooterSection = styled.div`
   flex: 1;
-  color: ${props => props.theme.white};
-  background-color: ${props => props.background};
+  color: ${(props) => props.theme.white};
+  background-color: ${(props) => props.background};
   padding: 1em;
   text-align: center;
   line-height: 1.2;
@@ -92,7 +93,7 @@ const FooterSection = styled.div`
 `;
 
 const A = styled.a`
-  color: ${props => props.theme.white};
+  color: ${(props) => props.theme.white};
   text-decoration: none;
   font-weight: bold;
   &:hover {

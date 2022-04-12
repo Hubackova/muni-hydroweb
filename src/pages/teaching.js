@@ -4,16 +4,20 @@ import styled from "styled-components";
 import { IntContextConsumer } from "../components/Context";
 import Layout from "../components/layout";
 
-export default ({ data }) => (
+const Teaching = ({ data }) => (
   <Layout>
     <Content>
-      <IntContextConsumer>
-        {({ int }) => (
-          <div className={int}>
-            <div dangerouslySetInnerHTML={{ __html: data.markdownRemark.html }} />
-          </div>
-        )}
-      </IntContextConsumer>
+      {data?.markdownRemark && (
+        <IntContextConsumer>
+          {({ int }) => (
+            <div className={int}>
+              <div
+                dangerouslySetInnerHTML={{ __html: data.markdownRemark.html }}
+              />
+            </div>
+          )}
+        </IntContextConsumer>
+      )}
     </Content>
   </Layout>
 );
@@ -32,3 +36,5 @@ const Content = styled.div`
     margin: 0 10px;
   }
 `;
+
+export default Teaching;

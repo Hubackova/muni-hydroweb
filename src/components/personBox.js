@@ -2,8 +2,8 @@ import React, { Component } from "react";
 import styled from "styled-components";
 import { Link } from "gatsby";
 import StyledLink from "./atoms/StyledLink";
-import researchgate from "../pages/images/social-researchgate.png";
-import is from "../pages/images/social-is.png";
+import researchgate from "../images/social-researchgate.png";
+import is from "../images/social-is.png";
 import Img from "gatsby-image";
 
 const text = { thesis: "Práce", supervisor: "Školitel" };
@@ -12,7 +12,9 @@ const textEn = { thesis: "Thesis", supervisor: "Supervisor" };
 class PersonBox extends Component {
   setPosition = () => {
     const position = typeof window !== "undefined" && window && window.scrollY;
-    this.props.isStudent ? localStorage.setItem("studentScroll", position) : localStorage.setItem("staffScroll", position);
+    this.props.isStudent
+      ? localStorage.setItem("studentScroll", position)
+      : localStorage.setItem("staffScroll", position);
   };
 
   render() {
@@ -20,9 +22,11 @@ class PersonBox extends Component {
     return (
       <Box>
         <ImgBox>
-          <Link to={linkTo} onClick={this.setPosition}>{fluid && <Img fluid={fluid} />}</Link>
+          <Link to={linkTo} onClick={this.setPosition}>
+            {fluid && <Img fluid={fluid} />}
+          </Link>
         </ImgBox>
-        <div  onClick={() => this.setPosition()}>
+        <div onClick={() => this.setPosition()}>
           <StyledLink to={linkTo}>
             <Name>
               {personInfo.name}
@@ -47,7 +51,10 @@ class PersonBox extends Component {
               </Div>
             )}
             <Div>
-              <i className="fa fa-envelope fa-lg" style={{ color: "black", marginRight: 15 }} />
+              <i
+                className="fa fa-envelope fa-lg"
+                style={{ color: "black", marginRight: 15 }}
+              />
               <a href={`mailto:${personInfo.email}` || "#"}>
                 <span>{personInfo.email}</span>
               </a>
@@ -97,7 +104,7 @@ const ImgBox = styled.div`
 `;
 
 const Name = styled.h3`
-  color: ${props => props.theme.lightblue};
+  color: ${(props) => props.theme.lightblue};
   margin: 0;
   margin-bottom: 20px;
   border-bottom: 0.08em solid rgb(229, 229, 229);

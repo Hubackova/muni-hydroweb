@@ -26,13 +26,6 @@ module.exports = {
       resolve: `gatsby-plugin-mdx`,
       options: {
         extensions: [".mdx", ".md"],
-        rehypePlugins: [
-          // Generate heading ids for rehype-autolink-headings
-          [require.esm("rehype-slug")],
-          // To pass options, use a 2-element array with the
-          // configuration in an object in the second element
-          [require.esm("rehype-autolink-headings"), { behavior: "wrap" }],
-        ],
       },
     },
     `gatsby-plugin-styled-components`,
@@ -41,7 +34,7 @@ module.exports = {
     {
       resolve: `gatsby-source-filesystem`,
       options: {
-        path: `${__dirname}/src/pages`,
+        path: `${__dirname}/src/md`,
         name: "markdown-pages",
       },
     },
@@ -60,7 +53,7 @@ module.exports = {
         plugins: [
           "gatsby-remark-copy-linked-files",
           {
-            resolve: "gatsby-remark-relative-images",
+            resolve: `gatsby-remark-relative-images-v2`,
             options: {
               name: "uploads",
             },

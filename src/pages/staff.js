@@ -5,48 +5,48 @@ import PersonBox from "../components/personBox";
 import Note from "../components/atoms/Note";
 import { IntContextConsumer } from "../components/Context";
 
-export default ({ data }) => {
-  const [showChild, setShowChild] = useState(false)
-  useEffect(() => { setShowChild(true); }, [])
+const Staff = ({ data }) => {
+  const [showChild, setShowChild] = useState(false);
+  useEffect(() => {
+    setShowChild(true);
+  }, []);
   useLayoutEffect(() => {
-    const position =  localStorage.getItem('staffScroll');
-    typeof window !== 'undefined' && window && window.scrollTo(0, position)
+    const position = localStorage.getItem("staffScroll");
+    typeof window !== "undefined" && window && window.scrollTo(0, position);
   });
-  
-  return (
-    showChild && <Layout>
-      <IntContextConsumer>
-        {({ int }) => (
-          <div className={int}>
-            <div>
-              {data.allMarkdownRemark.edges.map(({ node }) => {
-                const img = data.allImageSharp.edges.find(img =>
-                  img.node.fluid.src.includes(node.frontmatter.title)
-                );
 
-                return (
-                  <IntContextConsumer>
-                    {({ int }) => (
-                      <>
-                      <PersonBox
-                        personInfo={node.frontmatter}
-                        int={int}
-                        key={node.id}
-                        isStudent={false}
-                        linkTo={node.fields.slug}
-                        fluid={img && img.node.fluid}
-                      />
-                      </>
-                    )}
-                  </IntContextConsumer>
-                );
-              })}
+  return (
+    showChild && (
+      <Layout>
+        <IntContextConsumer>
+          {({ int }) => (
+            <div className={int}>
+              <div>
+                {data.allMarkdownRemark.edges.map(({ node }) => {
+                  const img = data.allImageSharp.edges.find((img) =>
+                    img.node.fluid.src.includes(node.frontmatter.title)
+                  );
+
+                  return (
+                    <PersonBox
+                      personInfo={node.frontmatter}
+                      int={int}
+                      key={node.id}
+                      isStudent={false}
+                      linkTo={node.fields.slug}
+                      fluid={img && img.node.fluid}
+                    />
+                  );
+                })}
+              </div>
+              <Note>
+                * {int === "en" ? "Maternity leave" : "Mateřská dovolená"}
+              </Note>
             </div>
-            <Note>* {int === "en" ? "Maternity leave" : "Mateřská dovolená"}</Note>
-          </div>
-        )}
-      </IntContextConsumer>
-    </Layout>
+          )}
+        </IntContextConsumer>
+      </Layout>
+    )
   );
 };
 
@@ -92,3 +92,5 @@ export const query = graphql`
     }
   }
 `;
+
+export default Staff;

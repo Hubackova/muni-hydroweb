@@ -3,11 +3,15 @@ import styled from "styled-components";
 import { Link } from "gatsby";
 import { IntContextConsumer } from "../Context";
 
-const ListLink = props => (
-  <NavigationLink to={props.to} className={`${props.menuVisible} ${props.className}`} onClick={() => {
-    localStorage.setItem("studentScroll", 0) 
-    localStorage.setItem("staffScroll", 0);
-  }}>
+const ListLink = (props) => (
+  <NavigationLink
+    to={props.to}
+    className={`${props.menuVisible} ${props.className}`}
+    onClick={() => {
+      localStorage.setItem("studentScroll", 0);
+      localStorage.setItem("staffScroll", 0);
+    }}
+  >
     {props.children}
   </NavigationLink>
 );
@@ -18,7 +22,7 @@ class Navigation extends PureComponent {
   state = {
     menuVisible: false,
     width: windowGlobal.innerWidth,
-    scrolling: "upper"
+    scrolling: "upper",
   };
 
   componentDidMount() {
@@ -37,7 +41,7 @@ class Navigation extends PureComponent {
     this.setState({ width: windowGlobal.innerWidth });
   };
 
-  handleScroll = event => {
+  handleScroll = (event) => {
     const windowGlobal = event.currentTarget;
     if (this.prev > windowGlobal.scrollY) {
       this.setState({ scrolling: "up", menuVisible: false });
@@ -52,8 +56,12 @@ class Navigation extends PureComponent {
     this.setState({ menuVisible: !this.state.menuVisible });
   };
 
-  getClass = urlIncludes => {
-    if (windowGlobal && windowGlobal.location && windowGlobal.location.href.includes(urlIncludes)) {
+  getClass = (urlIncludes) => {
+    if (
+      windowGlobal &&
+      windowGlobal.location &&
+      windowGlobal.location.href.includes(urlIncludes)
+    ) {
       return "active";
     } else return "";
   };
@@ -61,7 +69,8 @@ class Navigation extends PureComponent {
   render() {
     const { scrolling, width } = this.state;
     const isMobile = width < 800;
-    const menuVisible = this.state.menuVisible || !isMobile ? "menuVisible" : "";
+    const menuVisible =
+      this.state.menuVisible || !isMobile ? "menuVisible" : "";
 
     const textCz = {
       homepage: "HomePage",
@@ -71,7 +80,7 @@ class Navigation extends PureComponent {
       projects: "Projekty",
       publications: "Publikace",
       courses: "Výuka",
-      collection: "Sbírka"
+      collection: "Sbírka",
     };
 
     const textEn = {
@@ -82,7 +91,7 @@ class Navigation extends PureComponent {
       projects: "Projects",
       publications: "Publications",
       courses: "Teaching",
-      collection: "Collection"
+      collection: "Collection",
     };
 
     return (
@@ -109,7 +118,11 @@ class Navigation extends PureComponent {
               >
                 {text.projects}
               </ListLink>
-              <ListLink to="/staff/" menuVisible={menuVisible} className={this.getClass("staff")}>
+              <ListLink
+                to="/staff/"
+                menuVisible={menuVisible}
+                className={this.getClass("staff")}
+              >
                 {text.staff}
               </ListLink>
               <ListLink
@@ -120,7 +133,7 @@ class Navigation extends PureComponent {
                 {text.students}
               </ListLink>
               <ListLink
-                to="/courses/"
+                to="/teaching/"
                 menuVisible={menuVisible}
                 className={this.getClass("courses")}
               >
@@ -167,7 +180,7 @@ const Container = styled.ul`
   margin: 0;
   padding: 0 15px;
   opacity: 0;
-  background-color: ${props => props.theme.white};
+  background-color: ${(props) => props.theme.white};
   @media (max-width: 799px) {
     flex-direction: column;
     width: 100vw;
@@ -196,8 +209,8 @@ const NavigationLink = styled(Link)`
   cursor: pointer;
   text-decoration: none;
   padding: 0px 10px;
-  background-color: ${props => props.theme.white};
-  color: ${props => props.theme.grey};
+  background-color: ${(props) => props.theme.white};
+  color: ${(props) => props.theme.grey};
 
   &.menuVisible {
     display: flex;
@@ -229,7 +242,7 @@ const NavigationLinkA = styled.a`
   cursor: pointer;
   text-decoration: none;
   padding: 0px 10px;
-  color: ${props => props.theme.grey};
+  color: ${(props) => props.theme.grey};
 
   &.menuVisible {
     display: flex;
@@ -258,7 +271,7 @@ const NavbarToggle = styled.span`
   align-self: flex-end;
   font-size: 40px;
   &:hover {
-    color: ${props => props.theme.secondary};
+    color: ${(props) => props.theme.secondary};
   }
   &.menuVisible {
     &:hover {

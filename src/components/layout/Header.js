@@ -2,18 +2,20 @@ import React from "react";
 import styled from "styled-components";
 import { StaticQuery, graphql, Link } from "gatsby";
 
-import ecdyonurus from "../../pages/images/ecdyonurus_head.jpg";
+import ecdyonurus from "../../images/ecdyonurus_head.jpg";
 import ImgSlider from "./ImgSlider";
-import czFlag from "../../pages/images/cz-icon.png";
-import ukFlag from "../../pages/images/uk-icon.png";
+import czFlag from "../../images/cz-icon.png";
+import ukFlag from "../../images/uk-icon.png";
 import { IntContextConsumer } from "../Context";
 
 const HeaderComponent = ({ className }) => (
   <StaticQuery
     query={graphql`
       query {
-        allImageSharp(filter: { fluid: { src: { regex: "/homepage_/" } } }
-        sort: { fields: [fluid___originalName], order: ASC }) {
+        allImageSharp(
+          filter: { fluid: { src: { regex: "/homepage_/" } } }
+          sort: { fields: [fluid___originalName], order: ASC }
+        ) {
           edges {
             node {
               id
@@ -25,9 +27,9 @@ const HeaderComponent = ({ className }) => (
         }
       }
     `}
-    render={data => {
-      const imgs = data.allImageSharp.edges.map(i => i.node.fluid);
-      const url = typeof window !== 'undefined' ? window.location.href : '';
+    render={(data) => {
+      const imgs = data.allImageSharp.edges.map((i) => i.node.fluid);
+      const url = typeof window !== "undefined" ? window.location.href : "";
       return (
         <IntContextConsumer>
           {({ int }) => (
@@ -146,13 +148,13 @@ const Main = styled.div`
     font-size: 1.5em;
   }
   font-weight: bold;
-  color: ${props => props.theme.white};
+  color: ${(props) => props.theme.white};
   text-transform: uppercase;
 `;
 
 const SubMain = styled.div`
   font-size: 1em;
-  color: ${props => props.theme.white};
+  color: ${(props) => props.theme.white};
   padding-bottom: 0.5em;
   margin-top: 0.7em;
   @media (max-width: 600px) {
