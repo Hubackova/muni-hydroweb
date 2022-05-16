@@ -9,7 +9,7 @@ title: mgrBc
 
 [Bc. Alžběta Dubnová](https://is.muni.cz/auth/osoba/473714)
 
-[Ondřej Jandáček](https://is.muni.cz/auth/osoba/460617)
+[Bc. Ondřej Jandáček](https://is.muni.cz/auth/osoba/460617)
 
 [Bc. Zuzana Ševčíková](https://is.muni.cz/auth/osoba/461008)
 
