@@ -1,14 +1,14 @@
 ---
 title: jakubinsky
-order: 8
-name: 'RNDr. Jiří Jakubínský, Ph.D.'
+order: 11
+name: RNDr. Jiří Jakubínský, Ph.D.
 position: VÝZKUMNÍK
 positionEn: VÝZKUMNÍK
 email: jakubinsky@mail.muni.cz
 phone: 549498174
 room: A32/316
-is: 'https://www.muni.cz/lide/191605-jiri-jakubinsky'
-rg: 'https://www.researchgate.net/profile/Jiri_Jakubinsky'
+is: https://www.muni.cz/lide/191605-jiri-jakubinsky
+rg: https://www.researchgate.net/profile/Jiri_Jakubinsky
 image: /images/staff_jakubinsky.jpg
 ---
 <div class="cz">
