@@ -1,14 +1,14 @@
 ---
 title: straka
-order: 11
-name: 'Mgr. Michal Straka, Ph.D.'
+order: 10
+name: Mgr. Michal Straka, Ph.D.
 position: VÝZKUMNÍK
 positionEn: VÝZKUMNÍK
 email: michal.straka@centrum.cz
 phone: 549498563
 room: A32/321
-is: 'https://www.muni.cz/lide/22364-michal-straka'
-rg: 'https://www.researchgate.net/profile/Michal_Straka2 '
+is: https://www.muni.cz/lide/22364-michal-straka
+rg: "https://www.researchgate.net/profile/Michal_Straka2 "
 image: /images/staff_straka.jpg
 ---
 <div class="cz">
