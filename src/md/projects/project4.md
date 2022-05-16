@@ -1,25 +1,21 @@
 ---
 title: project4
-name: >-
-  Silva Gabreta Monitoring – Přeshraniční monitoring biodiversity a vodního
+name: Silva Gabreta Monitoring – Přeshraniční monitoring biodiversity a vodního
   režimu
-nameEn: >-
-  Silva Gabreta Monitoring – Přeshraniční monitoring biodiversity a vodního
-  režimu
-captions: >-
-  Kings and Queens of Böhmerwald/ jezírko na Blatenské slati/ Michal hází
-  planktonkou/ Honza s pastí na brouky/ revitalizace na Hraniční slati/ Černé
-  jezero/ třídění vzorků na Čertově jezeře/ revitalizovaná Hučina/ bagrování
-  nového koryta Žlebského potoka/ na Roklanském potoce u Modravy/ Roklanský
-  potok/ opravdový les/ Tmavý potok v mrtvém lese/ nekonečný les (NP bavorský
-  les a Rachelsee)
-captionsEn: >-
-  Kings and Queens of Böhmerwald/ jezírko na Blatenské slati/ Michal hází
-  planktonkou/ Honza s pastí na brouky/ revitalizace na Hraniční slati/ Černé
-  jezero/ třídění vzorků na Čertově jezeře/ revitalizovaná Hučina/ bagrování
-  nového koryta Žlebského potoka/ na Roklanském potoce u Modravy/ Roklanský
-  potok/ opravdový les/ Tmavý potok v mrtvém lese/ nekonečný les (NP bavorský
-  les a Rachelsee)
+nameEn: Silva Gabreta Monitoring – Přeshraniční monitoring biodiversity a
+  vodního režimu
+captions: Kings and Queens of Böhmerwald/ jezírko na Blatenské slati/ Michal
+  hází planktonkou/ Honza s pastí na brouky/ revitalizace na Hraniční slati/
+  Černé jezero/ třídění vzorků na Čertově jezeře/ revitalizovaná Hučina/
+  bagrování nového koryta Žlebského potoka/ na Roklanském potoce u Modravy/
+  Roklanský potok/ opravdový les/ Tmavý potok v mrtvém lese/ nekonečný les (NP
+  bavorský les a Rachelsee)
+captionsEn: Kings and Queens of Böhmerwald/ jezírko na Blatenské slati/ Michal
+  hází planktonkou/ Honza s pastí na brouky/ revitalizace na Hraniční slati/
+  Černé jezero/ třídění vzorků na Čertově jezeře/ revitalizovaná Hučina/
+  bagrování nového koryta Žlebského potoka/ na Roklanském potoce u Modravy/
+  Roklanský potok/ opravdový les/ Tmavý potok v mrtvém lese/ nekonečný les (NP
+  bavorský les a Rachelsee)
 ---
 <div class="cz">
 
@@ -35,13 +31,13 @@ přeshraničního regionu v době klimatické změny, jejíž důsledky již nyn
 
 **Grantový projekt**
 
-Silva Gabreta Monitoring – Realisierung eines grenzübergreifenden Monitorings von Biodiversität
+[Silva Gabreta Monitoring](http://silvagabreta.eu/) – Realisierung eines grenzübergreifenden Monitorings von Biodiversität
 und Wasserhaushalt Silva Gabreta Monitoring – Realizace přeshraničního monitoringu biodiversity a
 vodního režimu. Program přeshraniční spolupráce ČR a Svobodný stát Bavorsko Cíl EÚS 2014–2020.
 
 **Lidé zapojení do projektů**
 
-Jindřiška Bojková, Vanda Šorfová, Jan Sychra, Vít Syrovátka, Jana Petruželová a Eva Hanáková
+Jindřiška Bojková, Vanda Šorfová, Jan Sychra, Vít Syrovátka, Jana Petruželová, Selma Dedonnová, Eva Hanáková
 
 **Témata, kterými se na území NP Šumava a NP Bavorský les zabýváme**
 
@@ -57,17 +53,23 @@ osmi jezer, která jsou v různém stupni zotavení z acidifikace. Dosud byla vy
 
 **Vybrané publikace**
 
-Soldán T., Bojková J., Vrba J., Bitušík P., Chvojka P.,
-Papáček M., Peltanová J., Sychra J. & Tátosová J. 2012:
-Aquatic insects of the Bohemian Forest glacial lakes:
-Diversity, long-term changes, and influence of
-acidification. _Silva Gabreta_ 18: 123–283. [PDF](http://www.npsumava.cz/gallery/22/6750-sg_18_3_soldanetal_2.pdf)
+Petruželová J., Bojková J., Sychra J., Šorfová V., Polášková V. & Vrba J. 2022: Complex effects of acidification, habitat properties and fish stock on littoral macroinvertebrate assemblages in montane standing waters. *Journal of Limnology* 81: 2053.
+
+Šupina J., Bojková J. & Boukal D.S. 2022: Environmental stressors alter multiple determinants of individual reproductive output in the acid-tolerant mayfly *Leptophlebia vespertina*. *Ecological Entomology* 47: 488–500.
 
 Vrba J., Bojková J., Chvojka P., Fott J., Kopáček J., Macek
 M., Nedbalová L., Papáček M., Rádková V., Sacherová V.,
 Soldán T. & Šorf M. 2016: Constraints on the biological
 recovery of the Bohemian Forest lakes from acid stress.
-_Freshwater Biology_ 61: 376–395.
+*Freshwater Biology* 61: 376–395.
+
+Soldán T., Bojková J., Vrba J., Bitušík P., Chvojka P.,
+Papáček M., Peltanová J., Sychra J. & Tátosová J. 2012:
+Aquatic insects of the Bohemian Forest glacial lakes:
+Diversity, long-term changes, and influence of
+acidification. *Silva Gabreta* 18: 123–283. [PDF](http://www.npsumava.cz/gallery/22/6750-sg_18_3_soldanetal_2.pdf)
+
+
 
 </div>
 
@@ -90,15 +92,15 @@ roku 2014 až do roku 2018.
 Bojková J., Čížková H., Kučerová A., Rádková V.,
 Soldán T., Svidenský T. & Vrba J. 2015: Monitoring of
 the restored streams in the Vltavský Luh, Šumava
-National Park. _Silva Gabreta_ 21: 73–79. [PDF](http://www.npsumava.cz/gallery/31/9348-sg_21_1_bojkovaetal.pdf)
+National Park. *Silva Gabreta* 21: 73–79. [PDF](http://www.npsumava.cz/gallery/31/9348-sg_21_1_bojkovaetal.pdf)
 
 Bojkova J., Rádková V. & Soldan T. 2015:
 Znovuzrození říčky Hučiny. Jeden z probíhajících
-revitalizačních projektů. _Šumava_ 4(15): 12–13.
+revitalizačních projektů. *Šumava* 4(15): 12–13.
 
 Bojková J., Bufková I., Rádková V., Soldán T. & Vrba
 J. 2017. Jak se žije v revitalizovaných potocích na
-Šumavě. _Živa_ 2: 75–76. [PDF](http://ziva.avcr.cz/files/ziva/pdf/jak-se-zije-v-revitalizovanych-potocich-na-sumave.pdf)
+Šumavě. *Živa* 2: 75–76. [PDF](http://ziva.avcr.cz/files/ziva/pdf/jak-se-zije-v-revitalizovanych-potocich-na-sumave.pdf)
 
 </div>
 
@@ -121,40 +123,42 @@ Bojková J., Seifert L., Petruželová J., Šorfová V.,
 Syrovátka V., Sroka P. & Polášková V. 2018: Species
 richness and composition of macroinvertebrate
 assemblages in the Bavarian Forest National Park:
-Preliminary results of the stream monitoring. _Silva
-Gabreta_ 24: 171–211. [PDF](http://www.npsumava.cz/gallery/38/11665-9_sg_24_bojkovaetal.pdf)
+Preliminary results of the stream monitoring. *Silva
+Gabreta* 24: 171–211. [PDF](http://www.npsumava.cz/gallery/38/11665-9_sg_24_bojkovaetal.pdf)
 
 </div>
-
-
 
 <div class="project-theses">
 
 **Obhájené bakalářské a diplomové práce**
 
-_de Donnová S_. 2020. [Odpověď makrozoobentosu na revitalizaci toků v NP Šumava](https://is.muni.cz/th/jiqom/). Diplomová práce
+*Dvořáková A.* 2021. [Vodní brouci a ploštice aluviálních tůní ve Vltavském luhu na Šumavě](https://is.muni.cz/th/uv1wq/). Bakalářská práce 
 
-_Štěpánková I_. 2020. [Pakomárovití (Diptera: Chironomidae) vltavských poříčních tůní na Šumavě](https://is.muni.cz/th/c0u0f/). Diplomová práce
+*de Donnová S*. 2020. [Odpověď makrozoobentosu na revitalizaci toků v NP Šumava](https://is.muni.cz/th/jiqom/). Diplomová práce
 
-_Fišarová K._ 2019. [Kolonizace toků bentickými bezobratlými: procesy a dynamika](https://is.muni.cz/th/k8su9/). Bakalářská práce
+*Štěpánková I*. 2020. [Pakomárovití (Diptera: Chironomidae) vltavských poříčních tůní na Šumavě](https://is.muni.cz/th/c0u0f/). Diplomová práce
 
-_Pěničková S_. 2019. [Diverzita chrostíků (Trichoptera) tekoucích vod Šumavy](https://is.muni.cz/th/xjrd7/). Bakalářská práce
+*Fišarová K.* 2019. [Kolonizace toků bentickými bezobratlými: procesy a dynamika](https://is.muni.cz/th/k8su9/). Bakalářská práce
 
-_de Donnová S._ 2018. [Krátkodobá kolonizace revitalizovaných potoků makrozoobentosem: případová
+Kozlová K. 2019. [Vážky (Odonata) vrchovištních jezírek na Šumavě](https://is.muni.cz/th/mvhse/). Bakalářská práce 
+
+*Pěničková S*. 2019. [Diverzita chrostíků (Trichoptera) tekoucích vod Šumavy](https://is.muni.cz/th/xjrd7/). Bakalářská práce
+
+*de Donnová S.* 2018. [Krátkodobá kolonizace revitalizovaných potoků makrozoobentosem: případová
 studie z Vltavského luhu (NP Šumava)](https://is.muni.cz/th/gro6o/). Bakalářská práce
 
-_Paterová S._ 2018. [Vývoj společenstev makrozoobentosu v revitalizovaném úseku říčky Hučiny (NP
+*Paterová S.* 2018. [Vývoj společenstev makrozoobentosu v revitalizovaném úseku říčky Hučiny (NP
 Šumava)](https://is.muni.cz/th/ucgqs/). Diplomová práce
 
-_Paterová S._ 2016. [Revitalizace malých vodních toků v České republice](https://is.muni.cz/th/znct7). Bakalářská práce
+*Paterová S.* 2016. [Revitalizace malých vodních toků v České republice](https://is.muni.cz/th/znct7). Bakalářská práce
 
 </div>
 </div>
 
 <div class="en">
-V rámci Programu přeshraniční spolupráce České republiky a Bavorska se podílíme na projektu \\\\\\\\\\\\\\\[Silva
+V rámci Programu přeshraniční spolupráce České republiky a Bavorska se podílíme na projektu \\\\\\\\\\\\\\\\[Silva
 Gabreta Monitoring](http://www.silvagabreta.eu/index.html.cs) zaměřeném na Národní parky Šumava a Bavorský les, které byly oceněny
-certifikátem \\\\\\\\\\\\\\\["Transboundary Parks"](https://www.europarc.org/bavarian-forest-sumava-national-parks/?utm_source=ep&utm_medium=search&utm_campaign=linktrack&utm_content=results). Cílem projektu je vytvoření funkční infrastruktury přeshraniční
+certifikátem \\\\\\\\\\\\\\\\["Transboundary Parks"](https://www.europarc.org/bavarian-forest-sumava-national-parks/?utm_source=ep&utm_medium=search&utm_campaign=linktrack&utm_content=results). Cílem projektu je vytvoření funkční infrastruktury přeshraniční
 monitorovací sítě a historicky první společné provedení a vyhodnocení monitoringu biodiversity lesů,
 rašelinišť a vod v obou národních parcích za využití společných moderních metod. Získaná data budou
 významným podkladem pro další kroky směřující ke sbližování ochranářského managementu ve
@@ -237,13 +241,13 @@ J. 2017. Jak se žije v revitalizovaných potocích na
 
 **Obhájené bakalářské a diplomové práce**
 
-_de Donnová S._ 2018. [Krátkodobá kolonizace revitalizovaných potoků makrozoobentosem: případová
+*de Donnová S.* 2018. [Krátkodobá kolonizace revitalizovaných potoků makrozoobentosem: případová
 studie z Vltavského luhu (NP Šumava)](https://is.muni.cz/th/gro6o/). Bakalářská práce
 
-_Paterová S._ 2018. [Vývoj společenstev makrozoobentosu v revitalizovaném úseku říčky Hučiny (NP
+*Paterová S.* 2018. [Vývoj společenstev makrozoobentosu v revitalizovaném úseku říčky Hučiny (NP
 Šumava)](https://is.muni.cz/th/ucgqs/). Diplomová práce
 
-_Paterová S._ 2016. [Revitalizace malých vodních toků v České republice](https://is.muni.cz/th/znct7). Bakalářská práce
+*Paterová S.* 2016. [Revitalizace malých vodních toků v České republice](https://is.muni.cz/th/znct7). Bakalářská práce
 
 </div>
 
