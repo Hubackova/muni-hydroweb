@@ -7,13 +7,13 @@ title: courses
 **Mgr. Marek Polášek, Ph.D.**
 
 [Biologie vodních bezobratlých Bi7451](https://is.muni.cz/predmet/sci/jaro2023/Bi7451)\
-**Mgr. Jindřiška Bojková, Ph.D., RNDr. Petr Pařil, Ph.D**
+**Mgr. Jindřiška Bojková, Ph.D.**, **RNDr. Petr Pařil, Ph.D**
 
 [Determinace vodních bezobratlých - cvičení Bi8762](https://is.muni.cz/predmet/sci/jaro2023/Bi8762)[](https://is.muni.cz/predmet/sci/jaro2023/Bi8095)\
-**doc. RNDr. Jana Schenková, Ph.D., Mgr. Jindřiška Bojková, Ph.D.**, Mgr. Petr Kment, Ph.D., **RNDr. Petr Pařil, Ph.D., Mgr. Michal Straka, Ph.D., Mgr. Jan Sychra, Ph.D., Mgr. Marie Zhai, Ph.D.,** 
+**doc. RNDr. Jana Schenková, Ph.D.**, **Mgr. Jindřiška Bojková, Ph.D.**, Mgr. Petr Kment, Ph.D., **RNDr. Petr Pařil, Ph.D.**, **Mgr. Michal Straka, Ph.D.**, **Mgr. Jan Sychra, Ph.D.**, **Mgr. Marie Zhai, Ph.D.**
 
 [Ekologie moří a oceánobiologie Bi8095](https://is.muni.cz/predmet/sci/jaro2023/Bi8095)\
-**Mgr. Marie Zhai, Ph.D.**
+**Mgr. Marie Zhai, Ph.D.**, **doc. RNDr. Jan Helešic**
 
 [Ekologie moří a oceánobiologie - cvičení Bi8095c](https://is.muni.cz/predmet/sci/jaro2023/Bi8095c)\
 **Mgr. Marie Zhai, Ph.D.**
@@ -22,7 +22,7 @@ title: courses
 **doc. RNDr. Jana Schenková, Ph.D., Mgr. Jindřiška Bojková, Ph.D.**
 
 [Hydrobiologie Bi6360](https://is.muni.cz/predmet/sci/jaro2023/Bi6360)\
- **Ph.D., Mgr. Jindřiška Bojková, Ph.D.doc., RNDr. Jan Helešic**
+ **Mgr. Jindřiška Bojková, Ph.D.**, **doc. RNDr. Jan Helešic,** **Ph.D.**
 
 [Mikrobiální ekologie vody Bi6361](https://is.muni.cz/predmet/sci/jaro2017/Bi6361)\
 doc. RNDr. Martin Rulík, Ph.D., **doc. RNDr. Jan Helešic, Ph.D.**
