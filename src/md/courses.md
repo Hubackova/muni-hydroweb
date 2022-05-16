@@ -24,9 +24,6 @@ title: courses
 [Hydrobiologie Bi6360](https://is.muni.cz/predmet/sci/jaro2023/Bi6360)\
  **Mgr. Jindřiška Bojková, Ph.D.**, **doc. RNDr. Jan Helešic,** **Ph.D.**
 
-[Mikrobiální ekologie vody Bi6361](https://is.muni.cz/predmet/sci/jaro2017/Bi6361)\
-doc. RNDr. Martin Rulík, Ph.D., **doc. RNDr. Jan Helešic, Ph.D.**
-
 [Vybrané kapitoly z ekologie stojatých vod Bi7683](https://is.muni.cz/predmet/sci/podzim2021/Bi7683)\
 prof. RNDr. Jaroslav Vrba CSc., **Mgr. Jindřiška Bojková, Ph.D., doc. RNDr. Jan Helešic, Ph.D.**
 
