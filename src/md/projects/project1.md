@@ -64,7 +64,7 @@ Vanda Šorfová, Dana Klímová Hřívová, David Výravský, Martina Bílková
 
 **Vybrané publikace**
 
-Šorfová V., Poláková M., Bojková J., Polášková V., Schenková J., Horsák M. 2022: Environmental heterogeneity, dispersal mode and habitat specialisation modify within‐site beta diversity of spring macroinvertebrates. *International Review of Hydrobiology*, 1–9.
+Šorfová V., Poláková M., Bojková J., Polášková V., Schenková J., Horsák M. 2022: Environmental heterogeneity, dispersal mode and habitat specialisation modify within‐site beta diversity of spring macroinvertebrates. *International Review of Hydrobiology*, 1–9. [PDF](https://doi.org/10.1002/iroh.202102112)
 
 Syrovátka V., Zhai M., Bojková J., Šorfová V. & Horsák M. 2020: Native Gammarus fossarum affects species composition of macroinvertebrate communities: evidence from laboratory, field enclosures, and natural habitat. *Aquatic Ecology* 54: 505–518.
 
@@ -96,8 +96,6 @@ importance of species replacement and richness differences in small-scale divers
 Omelková M., Syrovátka V., Křoupalová V., Rádková V., Bojková J., Horsák M., Zhai M. & Helešic
 J. 2013: Dipteran assemblages of spring fens closely follow the gradient of groundwater mineral
 richness. *Canadian Journal of Fisheries and Aquatic Sciences* 70: 689–700.
-
-
 
 </div>
 
