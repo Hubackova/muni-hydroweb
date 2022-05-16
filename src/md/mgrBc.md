@@ -9,11 +9,9 @@ title: mgrBc
 
 [Bc. Alžběta Dubnová](https://is.muni.cz/auth/osoba/473714)
 
-[Bc. Ondřej Jandáček](https://is.muni.cz/auth/osoba/460617)
+[Ondřej Jandáček](https://is.muni.cz/auth/osoba/460617)
 
 [Bc. Zuzana Ševčíková](https://is.muni.cz/auth/osoba/461008)
-
-
 
 **Bc. Studenti**
 
@@ -28,8 +26,6 @@ title: mgrBc
 [Dominik Pliska](https://is.muni.cz/auth/osoba/499022)
 
 [Barbora Řehůřková](https://is.muni.cz/auth/osoba/499376)
-
-
 
 </div>
 <div class="en">
