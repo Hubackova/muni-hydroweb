@@ -60,10 +60,10 @@ doc. Mgr. Tomáš Bartonička, Ph.D., **Mgr. Jan Sychra, Ph.D.**
 Mgr. Igor Malenovský, Ph.D., prof. RNDr. Michal Horsák, Ph.D., **Mgr. Jan Sychra, Ph.D.**, Mgr. Petr Kment, Ph.D.[](https://is.muni.cz/predmet/sci/jaro2020/Bi7111)
 
 [Terénní cvičení ze zoologie Bi2140](https://is.muni.cz/predmet/sci/jaro2023/Bi2140)\
-**doc. RNDr. Jana Schenková, Ph.D., Mgr. Jan Sychra, Ph.D.,** prof. RNDr. Michal Horsák, Ph.D., doc. Mgr. Tomáš Bartonička, Ph.D., **Mgr. Jindřiška Bojková, Ph.D.,** Mgr. Adam Konečný, Ph.D., Mgr. Igor Malenovský, Ph.D., **RNDr. Petr Pařil, Ph.D.,** doc. Dipl. Biol. Jiří Schlaghamerský, Ph.D., RNDr. Andrea Špalek Tóthová, Ph.D.
+**doc. RNDr. Jana Schenková, Ph.D.**, **Mgr. Jan Sychra, Ph.D.**, prof. RNDr. Michal Horsák, Ph.D., doc. Mgr. Tomáš Bartonička, Ph.D., **Mgr. Jindřiška Bojková, Ph.D.**, Mgr. Adam Konečný, Ph.D., Mgr. Igor Malenovský, Ph.D., **RNDr. Petr Pařil, Ph.D.**, doc. Dipl. Biol. Jiří Schlaghamerský, Ph.D., RNDr. Andrea Špalek Tóthová, Ph.D.
 
 [Úvod do studia ekologické a evoluční biologie Bi1000](https://is.muni.cz/predmet/sci/podzim2022/Bi1000)\
-Mgr. Iveta Hodová, Ph.D., prof. RNDr. Milan Chytrý, Ph.D., prof. RNDr. Michal Horsák, doc. Mgr. Tomáš Bartonička, Ph.D., **Mgr. Jindřiška Bojková, Ph.D.,** doc. RNDr. Petr Bureš, Ph.D., doc. RNDr. Milan Gelnar, CSc., doc. Mgr. Michal Hájek, Ph.D., **doc. RNDr. Jan Helešic, Ph.D**., Ph.D., Mgr. Adam Konečný, Ph.D., **RNDr. Petr Pařil, Ph.D.**, prof. Mgr. Stanislav Pekár, Ph.D.,
+Mgr. Iveta Hodová, Ph.D., prof. RNDr. Milan Chytrý, Ph.D., prof. RNDr. Michal Horsák, Ph.D., doc. Mgr. Tomáš Bartonička, Ph.D., **Mgr. Jindřiška Bojková, Ph.D.**, prof. RNDr. Petr Bureš, Ph.D., prof. RNDr. Milan Gelnar, CSc., doc. Mgr. Michal Hájek, Ph.D., **doc. RNDr. Jan Helešic, Ph.D.**, Mgr. Adam Konečný, Ph.D., **RNDr. Petr Pařil, Ph.D.**, prof. Mgr. Stanislav Pekár, Ph.D.
 
 [Úvod do terénní zoologie bezobratlých Bi8761](https://is.muni.cz/predmet/sci/jaro2023/Bi8761)\
 **doc. RNDr. Jana Schenková, Ph.D.,** prof. RNDr. Michal Horsák, Ph.D., **Mgr. Marie Zhai, Ph.D.** , RNDr. Andrea Bardůnek Valigurová, Ph.D., Mgr. Igor Malenovský, Ph.D., **RNDr. Petr Pařil, Ph.D.**, prof. Mgr. Stanislav Pekár, Ph.D., Mgr. Eva Řehulková, Ph.D., Mgr. Mária Seifertová, Ph.D., doc. Dipl. Biol. Jiří Schlaghamerský, Ph.D., **Mgr. Jan Sychra, Ph.D.**
