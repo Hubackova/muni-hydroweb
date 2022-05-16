@@ -3,6 +3,14 @@ title: mgrBc
 ---
 <div class="cz">
 
+**Obhájené disertační práce**
+
+Mgr. Bc. Barbora Loskotová, Ph.D., 2022, [Aquatic invertebrate persistence in intermittent streams](https://is.muni.cz/th/if9fw/)
+
+Mgr. Jan Šupina, Ph.D., 2022, [Vliv vybraných faktorů na životní historii a fekunditu jepic (Ephemeroptera) studovaný pomocí experimentálních metod](https://is.muni.cz/th/ws8tx/)
+
+
+
 **Mgr. Studenti**
 
 [Bc. Alexandra Černá](https://is.muni.cz/auth/osoba/437080)
