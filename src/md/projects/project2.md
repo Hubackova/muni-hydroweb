@@ -1,15 +1,13 @@
 ---
 title: project2
-name: "Dlouhodobé změny toků a jejich bioty v\_České republice"
-nameEn: "Dlouhodobé změny toků a jejich bioty v\_České republice"
-captions: >-
-  Bečva u Oseku 1955/ Vladimír Landa a Zelinka/ Tomáš Soldán/ Světlana
+name: Dlouhodobé změny toků a jejich bioty v České republice
+nameEn: Dlouhodobé změny toků a jejich bioty v České republice
+captions: Bečva u Oseku 1955/ Vladimír Landa a Zelinka/ Tomáš Soldán/ Světlana
   Zahrádková/ Jindřiška Bojková/ Morava u Lhoty 1955/ Svratka u Doubravníku/
   Osoblaha u Janova 1956/ Mže Milíkov/ Ploučnice Žízníkov/ Olešenka Peklo/
   Křinice Černá brána/ Kamenice v Zemské bráně/ Javoří potok Modrava/ Zdobnice
   Pěčín/ Stropnice u Bílovic na jaře 2010
-captionsEn: >-
-  Bečva u Oseku 1955/ Vladimír Landa a Zelinka/ Tomáš Soldán/ Světlana
+captionsEn: Bečva u Oseku 1955/ Vladimír Landa a Zelinka/ Tomáš Soldán/ Světlana
   Zahrádková/ Jindřiška Bojková/ Morava u Lhoty 1955/ Svratka u Doubravníku/
   Osoblaha u Janova 1956/ Mže Milíkov/ Ploučnice Žízníkov/ Olešenka Peklo/
   Křinice Černá brána/ Kamenice v Zemské bráně/ Javoří potok Modrava/ Zdobnice
@@ -34,7 +32,8 @@ skupin bioty na referenčních lokalitách.
 
 **Grantové projekty**
 
-Klimaticky podmíněná homogenizace vodních bezobratlých testovaná na třech modelových systémech a historických datech (Climatically promoted homogenization of aquatic invertebrates tested on three model lotic systems and historical data), Grantová agentura České republiky, 20-17305S, 2020–2022
+[Klimaticky podmíněná homogenizace vodních bezobratlých testovaná na třech modelových
+ systémech a historických datech](https://www.muni.cz/vyzkum/projekty/51247) (Climatically promoted homogenization of aquatic invertebrates tested on three model lotic systems and historical data), Grantová agentura České republiky, 20-17305S, 2020–2022
 
 [Monitoring dlouhodobých změn biologické diverzity tekoucích vod v období klimatické změny:
 návrh, realizace a implementace do veřejného informačního systému ARROW](http://www.riverchange.cz/) (Monitoring of
@@ -57,25 +56,29 @@ Bioindikace globálních a regionálních změn prostředí na základě popula�
 
 **Lidé zapojení do projektů**
 
-Jindřiška Bojková, Vanda Šorfová, Marek Polášek, Vendula Polášková, Petr Pařil, Světlana Zahrádková, Jan Helešic
+Jindřiška Bojková, Vanda Šorfová, Marek Polášek, Vendula Polášková, Petr Pařil, Světlana Zahrádková, Jan Helešic, Selma Dedonnová
 
 <div class="project-publication">
 
 **Vybrané publikace**
 
-Soldán T., Zahrádková S., Helešic J., Dušek L. &amp; Landa V. 1998: Distributional and quantitative patterns of Ephemeroptera and Plecoptera in the Czech Republic: A possibility of detection of long-term changes of aquatic biotopes. _Folia Facultatis Scientiarium Naturalium Universitatis Masarykianae Brunensis_ 98: 1–305.
+Šupina J., Bojková J. & Boukal D.S. 2020: Warming erodes individual-level variability in life history responses to predation risk in larvae of the mayfly *Cloeon dipterum*. *Freshwater Biology* 65: 2211–2223.
 
-Bojková J., Komprdová K., Soldán T. & Zahrádková S. 2012: Species loss of stoneflies (Plecoptera) in the Czech Republic during the 20 th century. _Freshwater Biology_ 57: 2550–2567.
+Zedková B., Rádková V., Bojková J., Soldán T. & Zahrádková S. 2015: Mayflies Ephemeroptera) as indicators of environmental changes in the past five decades: a case study from the Morava and Odra River Basins (Czech Republic). *Aquatic Conservation: Marine and Freshwater Ecosystems* 25: 622–638.
 
-Bojková J., Rádková V., Soldán T. & Zahrádková S. 2014: Trends in species diversity of lotic stoneflies (Plecoptera) in the Czech Republic over five decades. _Insect Conservation and Diversity_ 7: 252–262.
+Bojková J., Rádková V., Soldán T. & Zahrádková S. 2014: Trends in species diversity of lotic stoneflies (Plecoptera) in the Czech Republic over five decades. *Insect Conservation and Diversity* 7: 252–262.
 
-Bojková J. & Soldán T. 2013: Stoneflies (Plecoptera) of the Czech Republic: species checklist, distribution and protection status. _Acta Entomologica Musei Nationalis Pragae_ 53: 443–484.
+Soldán T., Bojková J., Zahrádková S., Helešic J. & Sroka P. 2014: Dlouhodobý výzkum vodního hmyzu – rodinné stříbro české entomologie. *Živa* 5: 215–218. [PDF](http://ziva.avcr.cz/files/ziva/pdf/dlouhodoby-vyzkum-vodniho-hmyzu-rodinne-stribro-ce.pdf)
 
-Soldán T., Bojková J., Zahrádková S., Helešic J. & Sroka P. 2014: Dlouhodobý výzkum vodního hmyzu – rodinné stříbro české entomologie. _Živa_ 5: 215–218. [PDF](http://ziva.avcr.cz/files/ziva/pdf/dlouhodoby-vyzkum-vodniho-hmyzu-rodinne-stribro-ce.pdf)
+Bojková J. & Soldán T. 2013: Stoneflies (Plecoptera) of the Czech Republic: species checklist, distribution and protection status. *Acta Entomologica Musei Nationalis Pragae* 53: 443–484.
 
-Zahrádková S., Soldán T., Bojková J., Helešic J., Janovská H. & Sroka P., 2009: Distribution and biology of mayflies (Ephemeroptera) of the Czech Republic: present status and perspectives. _Aquatic Insects_ 31(suppl. 1): 629–652.
+Bojková J., Komprdová K., Soldán T. & Zahrádková S. 2012: Species loss of stoneflies (Plecoptera) in the Czech Republic during the 20 th century. *Freshwater Biology* 57: 2550–2567.
 
-Zedková B., Rádková V., Bojková J., Soldán T. & Zahrádková S. 2015: Mayflies Ephemeroptera) as indicators of environmental changes in the past five decades: a case study from the Morava and Odra River Basins (Czech Republic). _Aquatic Conservation: Marine and Freshwater Ecosystems_ 25: 622–638.
+Zahrádková S., Soldán T., Bojková J., Helešic J., Janovská H. & Sroka P., 2009: Distribution and biology of mayflies (Ephemeroptera) of the Czech Republic: present status and perspectives. *Aquatic Insects* 31(suppl. 1): 629–652.
+
+Soldán T., Zahrádková S., Helešic J., Dušek L. & Landa V. 1998: Distributional and quantitative patterns of Ephemeroptera and Plecoptera in the Czech Republic: A possibility of detection of long-term changes of aquatic biotopes. *Folia Facultatis Scientiarium Naturalium Universitatis Masarykianae Brunensis* 98: 1–305.
+
+
 
 </div>
 </div>
