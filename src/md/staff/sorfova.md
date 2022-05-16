@@ -1,7 +1,7 @@
 ---
 title: sorfova
 order: 9
-name: Mgr. Vanda Šorfová, Ph.D. *
+name: Mgr. Vanda Šorfová, Ph.D.
 position: VÝZKUMNÍK
 positionEn: VÝZKUMNÍK
 email: sorfova.vanda@gmail.com
