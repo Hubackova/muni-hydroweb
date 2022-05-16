@@ -12,6 +12,9 @@ title: courses
 [Čistírenství a vodárenství Bi8045](https://is.muni.cz/predmet/sci/jaro2020/Bi8045)\
 **RNDr. Petr Pařil, Ph.D., doc. RNDr. Jan Helešic, Ph.D.**
 
+[Determinace vodních bezobratlých - cvičení Bi8762](https://is.muni.cz/predmet/sci/jaro2023/Bi8762)[](https://is.muni.cz/predmet/sci/jaro2023/Bi8095)\
+**doc. RNDr. Jana Schenková, Ph.D., Mgr. Jindřiška Bojková, Ph.D.**, Mgr. Petr Kment, Ph.D., **RNDr. Petr Pařil, Ph.D., Mgr. Michal Straka, Ph.D., Mgr. Jan Sychra, Ph.D., Mgr. Marie Zhai, Ph.D.,** 
+
 [Ekologie moří a oceánobiologie Bi8095](https://is.muni.cz/predmet/sci/jaro2023/Bi8095)\
 **Mgr. Marie Zhai, Ph.D.**
 
@@ -56,8 +59,8 @@ doc. Mgr. Tomáš Bartonička, Ph.D., **Mgr. Jan Sychra, Ph.D.**
 [Ochrana živočišných druhů Bi7112](https://is.muni.cz/predmet/sci/podzim2022/Bi7112)\
 **RNDr. Petr Pařil, Ph.D., Mgr. Jan Sychra, Ph.D.**
 
-[Terénní exkurze k environmentálním problémům Bi7111](https://is.muni.cz/predmet/sci/jaro2020/Bi7111)\
-**RNDr. Petr Pařil, Ph.D., Mgr. Jan Sychra** , Ph.D., doc. Mgr. Lubomír Tichý, Ph.D.
+[Terénní cvičení z entomologie Bi0055](https://is.muni.cz/predmet/sci/jaro2023/Bi0055)\
+Mgr. Igor Malenovský, prof. RNDr. Michal Horsák, Ph.D., **Mgr. Jan Sychra** , Ph.D., Mg. Petr Kment, Ph.D.[](https://is.muni.cz/predmet/sci/jaro2020/Bi7111)
 
 [Terénní cvičení ze zoologie Bi2140](https://is.muni.cz/predmet/sci/jaro2023/Bi2140)\
 **doc. RNDr. Jana Schenková, Ph.D., Mgr. Jan Sychra, Ph.D.,** prof. RNDr. Michal Horsák, Ph.D., doc. Mgr. Tomáš Bartonička, Ph.D., **Mgr. Jindřiška Bojková, Ph.D.,** Mgr. Adam Konečný, Ph.D., Mgr. Igor Malenovský, Ph.D., **RNDr. Petr Pařil, Ph.D.,** doc. Dipl. Biol. Jiří Schlaghamerský, Ph.D., RNDr. Andrea Špalek Tóthová, Ph.D.
