@@ -2,32 +2,30 @@
 title: project5
 name: Společenstva důlních vod a výsypek
 nameEn: Společenstva důlních vod a výsypek
-captions: >-
-  Jana Schenková v sukcesním houští v okolí Okružního p. (2014)/Výsypka Červená
-  Ema/Prameniště Okružního potoka na Sokolovské výsypce (2013)/Přítok nádrže
-  Pavel na Sokolovské výsypce (2013)/Sokolovsko - Martina Bartošová a Standa
-  Němejc u Okružního potoka (2013)/Vzorkování v pěnovcovém bahně Okružního
-  potoka (2013)/Potok vyvěrající z Pohlereichovy štoly (2013)/Modráčkový potok
-  (2014)/Haemopis sanguisuga v Modráčkovém potoce na výsypce (2014)/Hrad Loket a
-  část sokolovského týmu Vendula Polášková a Martina Bartošová/Ivo Přikryl - náš
-  vůdce po výsypkách (2014)/Pohled z výsypky Červená Ema na lom Jiří/Vendulka
-  Polášková na lovu imág u Okružního potoka (2014)/Pěnovcové prameniště Májový
-  mokřad (2014)/Okružní potok, každý rok trochu jiný (2014)/Dobře sladěný
-  pracovní oděv s vodami Pohlreichova potoka (2014)/Lov imág u První nádrže
-  (2014)
-captionsEn: >-
-  Jana Schenková v sukcesním houští v okolí Okružního p. (2014)/Výsypka Červená
-  Ema/Prameniště Okružního potoka na Sokolovské výsypce (2013)/Přítok nádrže
-  Pavel na Sokolovské výsypce (2013)/Sokolovsko - Martina Bartošová a Standa
-  Němejc u Okružního potoka (2013)/Vzorkování v pěnovcovém bahně Okružního
-  potoka (2013)/Potok vyvěrající z Pohlereichovy štoly (2013)/Modráčkový potok
-  (2014)/Haemopis sanguisuga v Modráčkovém potoce na výsypce (2014)/Hrad Loket a
-  část sokolovského týmu Vendula Polášková a Martina Bartošová/Ivo Přikryl - náš
-  vůdce po výsypkách (2014)/Pohled z výsypky Červená Ema na lom Jiří/Vendulka
-  Polášková na lovu imág u Okružního potoka (2014)/Pěnovcové prameniště Májový
-  mokřad (2014)/Okružní potok, každý rok trochu jiný (2014)/Dobře sladěný
-  pracovní oděv s vodami Pohlreichova potoka (2014)/Lov imág u První nádrže
-  (2014)
+captions: Jana Schenková v sukcesním houští v okolí Okružního p. (2014)/Výsypka
+  Červená Ema/Prameniště Okružního potoka na Sokolovské výsypce (2013)/Přítok
+  nádrže Pavel na Sokolovské výsypce (2013)/Sokolovsko - Martina Bartošová a
+  Standa Němejc u Okružního potoka (2013)/Vzorkování v pěnovcovém bahně
+  Okružního potoka (2013)/Potok vyvěrající z Pohlereichovy štoly
+  (2013)/Modráčkový potok (2014)/Haemopis sanguisuga v Modráčkovém potoce na
+  výsypce (2014)/Hrad Loket a část sokolovského týmu Vendula Polášková a Martina
+  Bartošová/Ivo Přikryl - náš vůdce po výsypkách (2014)/Pohled z výsypky Červená
+  Ema na lom Jiří/Vendulka Polášková na lovu imág u Okružního potoka
+  (2014)/Pěnovcové prameniště Májový mokřad (2014)/Okružní potok, každý rok
+  trochu jiný (2014)/Dobře sladěný pracovní oděv s vodami Pohlreichova potoka
+  (2014)/Lov imág u První nádrže (2014)
+captionsEn: Jana Schenková v sukcesním houští v okolí Okružního p.
+  (2014)/Výsypka Červená Ema/Prameniště Okružního potoka na Sokolovské výsypce
+  (2013)/Přítok nádrže Pavel na Sokolovské výsypce (2013)/Sokolovsko - Martina
+  Bartošová a Standa Němejc u Okružního potoka (2013)/Vzorkování v pěnovcovém
+  bahně Okružního potoka (2013)/Potok vyvěrající z Pohlereichovy štoly
+  (2013)/Modráčkový potok (2014)/Haemopis sanguisuga v Modráčkovém potoce na
+  výsypce (2014)/Hrad Loket a část sokolovského týmu Vendula Polášková a Martina
+  Bartošová/Ivo Přikryl - náš vůdce po výsypkách (2014)/Pohled z výsypky Červená
+  Ema na lom Jiří/Vendulka Polášková na lovu imág u Okružního potoka
+  (2014)/Pěnovcové prameniště Májový mokřad (2014)/Okružní potok, každý rok
+  trochu jiný (2014)/Dobře sladěný pracovní oděv s vodami Pohlreichova potoka
+  (2014)/Lov imág u První nádrže (2014)
 ---
 <div class="cz">
 Rozvoj těžby nerostných surovin probíhal v České republice po staletí a i dnes má tato činnost značný dopad na
@@ -58,8 +56,9 @@ rekolonizací a revitalizací.
 
 **Podpora projektů**
 
-ENKI o.p.s., obecně prospěšná společnost pro výzkum a osvětu v oborech životního prostředí. 2013–2019
-Diamo – Geam s.p. Dolní Rožínka 1990–2018
+ENKI o.p.s., obecně prospěšná společnost pro výzkum a osvětu v oborech životního prostředí; 2013–2019
+
+Diamo – Geam s.p. Dolní Rožínka; 1990–2018
 
 **Lidé zapojení do projektů**
 
@@ -70,18 +69,25 @@ Weissová
 
 **Vybrané publikace**
 
-Bartošová M., Schenková J., Polášková V., Bojková J., Šorfová V. & Horsák M. 2019: Macroinvertebrate assemblages of the post-mining calcareous stream habitats: Are they similar to those inhabiting the natural calcareous springs. _Ecological Engineering_ 136: 38-45.
+
+
+Poláková M., Straka M., Polášek M. & Němejcová D. 2022: Unexplored freshwater communities in post-mining ponds: effect of different restoration approaches. *Restoration Ecology*: e13679.
+
+Chmelová E., Kolar V., Jan J., Carreira B.M., Landeira-Dabarca A., Otáhalová Š., Poláková M., Vebrová L., Borovec J., Boukal D.S. & Tropek R. 2021: Valuable Secondary Habitats or Hazardous Ecological Traps? Environmental Risk Assessment of Minor and Trace Elements in Fly Ash Deposits across the Czech Republic. *Sustainability* 13: 10385.
+
+Bartošová M., Schenková J., Polášková V., Bojková J., Šorfová V. & Horsák M. 2019: Macroinvertebrate assemblages of the post-mining calcareous stream
+ habitats: Are they similar to those inhabiting the natural calcareous springs. *Ecological Engineering* 136: 38-45.
 
 Polášková V., Schenková J., Bartošová M., Rádková V. & Horsák M. 2017: Post-mining calcareous seepages as
-surrogate habitats for aquatic macroinvertebrate biota of vanishing calcareous spring fens. _Ecological
-Engineering_ 109: 119–132.
+surrogate habitats for aquatic macroinvertebrate biota of vanishing calcareous spring fens. *Ecological
+Engineering* 109: 119–132.
 
 Žáková, S., Weissová V., Uher B. & Helešic J. 2017: Macroinvertebrate herbivores and epilithon algae
-community of a stream affected by mineralized heated mining water inflow. _Annales de Limnologie -
-International Journal of Limnology_ 53: 189–201.
+community of a stream affected by mineralized heated mining water inflow. *Annales de Limnologie -
+International Journal of Limnology* 53: 189–201.
 
 Růžičková S., Schenková J., Weissová V. & Helešic J. 2014: Environmental impact of heated mining waters on
-clitellate (Annelida: Clitellata) assemblages. _Biologia_ 69/9: 1179–1189.
+clitellate (Annelida: Clitellata) assemblages. *Biologia* 69/9: 1179–1189.
 
 </div>
 
@@ -89,15 +95,15 @@ clitellate (Annelida: Clitellata) assemblages. _Biologia_ 69/9: 1179–1189.
 
 **Obhájené disertační práce**
 
-_Sylvie Růžičková_ 2016. [Vliv oteplených důlních vod na vybrané skupiny organismů v malém toku.](https://is.muni.cz/th/okij3/)
+*Sylvie Růžičková* 2016. [Vliv oteplených důlních vod na vybrané skupiny organismů v malém toku.](https://is.muni.cz/th/okij3/)
 
 **Obhájené diplomové a bakalářské práce**
 
-_Martina Bartošová_ 2016. [Makrozoobentos pěnovcových potoků na Sokolovské výsypce](https://is.muni.cz/th/qo18e/?lang=cs). \[DP]
+*Martina Bartošová* 2016. [Makrozoobentos pěnovcových potoků na Sokolovské výsypce](https://is.muni.cz/th/qo18e/?lang=cs). \[DP]
 
-_Martina Bartošová_ 2014. [Vodní bezobratlí postindustriálních stanovišť - výsypky Sokolovské uhelné pánve](https://is.muni.cz/th/zfva5/?lang=cs). \[BP]
+*Martina Bartošová* 2014. [Vodní bezobratlí postindustriálních stanovišť - výsypky Sokolovské uhelné pánve](https://is.muni.cz/th/zfva5/?lang=cs). \[BP]
 
-_Veronika Konvičková_ 2007. [Studium makrozoobentosu tůní Karvinska se zaměřením na stav a funkci společenstva vážek](https://is.muni.cz/th/p4qj3/?lang=cs). \[DP]
+*Veronika Konvičková* 2007. [Studium makrozoobentosu tůní Karvinska se zaměřením na stav a funkci společenstva vážek](https://is.muni.cz/th/p4qj3/?lang=cs). \[DP]
 
 </div>
 </div>
@@ -160,15 +166,15 @@ International Journal of Limnology, 53: 189–201.
 
 **Obhájené disertační práce**
 
-_Sylvie Růžičková_ 2016. [Vliv oteplených důlních vod na vybrané skupiny organismů v malém toku.](https://is.muni.cz/th/okij3/)
+*Sylvie Růžičková* 2016. [Vliv oteplených důlních vod na vybrané skupiny organismů v malém toku.](https://is.muni.cz/th/okij3/)
 
 **Obhájené diplomové a bakalářské práce**
 
-_Martina Bartošová_ 2016. [Makrozoobentos pěnovcových potoků na Sokolovské výsypce](https://is.muni.cz/th/qo18e/?lang=cs). \[DP]
+*Martina Bartošová* 2016. [Makrozoobentos pěnovcových potoků na Sokolovské výsypce](https://is.muni.cz/th/qo18e/?lang=cs). \[DP]
 
-_Martina Bartošová_ 2014. [Vodní bezobratlí postindustriálních stanovišť - výsypky Sokolovské uhelné pánve](https://is.muni.cz/th/zfva5/?lang=cs). \[BP]
+*Martina Bartošová* 2014. [Vodní bezobratlí postindustriálních stanovišť - výsypky Sokolovské uhelné pánve](https://is.muni.cz/th/zfva5/?lang=cs). \[BP]
 
-_Veronika Konvičková_ 2007. [Studium makrozoobentosu tůní Karvinska se zaměřením na stav a funkci společenstva vážek](https://is.muni.cz/th/p4qj3/?lang=cs). \[DP]
+*Veronika Konvičková* 2007. [Studium makrozoobentosu tůní Karvinska se zaměřením na stav a funkci společenstva vážek](https://is.muni.cz/th/p4qj3/?lang=cs). \[DP]
 
 </div>
 </div>
