@@ -59,6 +59,9 @@ doc. Mgr. Tomáš Bartonička, Ph.D., **Mgr. Jan Sychra, Ph.D.**
 [Ochrana živočišných druhů Bi7112](https://is.muni.cz/predmet/sci/podzim2022/Bi7112)\
 **RNDr. Petr Pařil, Ph.D., Mgr. Jan Sychra, Ph.D.**
 
+[Speciální botanicko-zoologické cvičení v terénu Bi8160](https://is.muni.cz/predmet/sci/jaro2023/Bi8160)[](https://is.muni.cz/predmet/sci/podzim2022/Bi7112)\
+**Mgr. Jan Sychra, Ph.D.,** prof. RNDr. Michal Horsák, Ph.D., Mgr. Jan Roleček, Ph.D., Mgr. Daniel Dvořák, Mgr. Igor Malenovský, Ph.D.
+
 [Terénní cvičení z entomologie Bi0055](https://is.muni.cz/predmet/sci/jaro2023/Bi0055)\
 Mgr. Igor Malenovský, prof. RNDr. Michal Horsák, Ph.D., **Mgr. Jan Sychra** , Ph.D., Mg. Petr Kment, Ph.D.[](https://is.muni.cz/predmet/sci/jaro2020/Bi7111)
 
