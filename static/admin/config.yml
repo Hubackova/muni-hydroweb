@@ -8,72 +8,72 @@ public_folder: images
 collections:
   - name: "students"
     label: "Students"
-    folder: "src/pages/students"
+    folder: "src/md/students"
     create: true
     fields:
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Name", name: "name", widget: "string"}
-      - {label: "Thesis", name: "thesis", widget: "string"}
-      - {label: "Thesis En", name: "thesisEn", widget: "string"}
-      - {label: "Supervisor", name: "supervisor", widget: "string"}
-      - {label: "Email", name: "email", widget: "string"}
-      - {label: "Phone", name: "phone", widget: "number"}
-      - {label: "Room", name: "room", widget: "string"}
-      - {label: "IS", name: "is", widget: "string"}
-      - {label: "RG", name: "rg", widget: "string"}
-      - {label: 'Image', name: 'image', widget: 'image' }
-      - {label: "Body", name: "body", widget: "markdown"}
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Name", name: "name", widget: "string" }
+      - { label: "Thesis", name: "thesis", widget: "string" }
+      - { label: "Thesis En", name: "thesisEn", widget: "string" }
+      - { label: "Supervisor", name: "supervisor", widget: "string" }
+      - { label: "Email", name: "email", widget: "string" }
+      - { label: "Phone", name: "phone", widget: "number" }
+      - { label: "Room", name: "room", widget: "string" }
+      - { label: "IS", name: "is", widget: "string" }
+      - { label: "RG", name: "rg", widget: "string" }
+      - { label: "Image", name: "image", widget: "image" }
+      - { label: "Body", name: "body", widget: "markdown" }
 
   - name: "staff"
     label: "Staff"
-    folder: "src/pages/staff"
+    folder: "src/md/staff"
     create: true
     fields:
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Order", name: "order", widget: "number"}
-      - {label: "Name", name: "name", widget: "string"}
-      - {label: "Position", name: "position", widget: "string"}
-      - {label: "Position En", name: "positionEn", widget: "string"}
-      - {label: "Email", name: "email", widget: "string"}
-      - {label: "Phone", name: "phone", widget: "number"}
-      - {label: "Room", name: "room", widget: "string"}
-      - {label: "IS", name: "is", widget: "string"}
-      - {label: "RG", name: "rg", widget: "string"}
-      - {label: 'Image', name: 'image', widget: 'image' }
-      - {label: "Body", name: "body", widget: "markdown"}
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Order", name: "order", widget: "number" }
+      - { label: "Name", name: "name", widget: "string" }
+      - { label: "Position", name: "position", widget: "string" }
+      - { label: "Position En", name: "positionEn", widget: "string" }
+      - { label: "Email", name: "email", widget: "string" }
+      - { label: "Phone", name: "phone", widget: "number" }
+      - { label: "Room", name: "room", widget: "string" }
+      - { label: "IS", name: "is", widget: "string" }
+      - { label: "RG", name: "rg", widget: "string" }
+      - { label: "Image", name: "image", widget: "image" }
+      - { label: "Body", name: "body", widget: "markdown" }
 
   - name: "projects"
     label: "Projects"
-    folder: "src/pages/projects"
+    folder: "src/md/projects"
     create: false
     fields:
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Name", name: "name", widget: "string"}
-      - {label: "Name En", name: "nameEn", widget: "string"}
-      - {label: 'Image labels', name: 'captions', widget: 'string' }
-      - {label: 'Image labels En', name: 'captionsEn', widget: 'string' }
-      - {label: "Body", name: "body", widget: "markdown"}
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Name", name: "name", widget: "string" }
+      - { label: "Name En", name: "nameEn", widget: "string" }
+      - { label: "Image labels", name: "captions", widget: "string" }
+      - { label: "Image labels En", name: "captionsEn", widget: "string" }
+      - { label: "Body", name: "body", widget: "markdown" }
 
   - name: pages
     label: Pages
     files:
-      - file: "src/pages/homepage.md"
+      - file: "src/md/homepage.md"
         label: "Homepage"
         name: "homepage"
         fields:
-          - {label: Title, name: title, widget: string}
-          - {label: "Body", name: "body", widget: "markdown"}
+          - { label: Title, name: title, widget: string }
+          - { label: "Body", name: "body", widget: "markdown" }
 
-      - file: "src/pages/courses.md"
+      - file: "src/md/courses.md"
         label: "Courses"
         name: "courses"
         fields:
-          - {label: Title, name: title, widget: string}
-          - {label: "Body", name: "body", widget: "markdown"}
+          - { label: Title, name: title, widget: string }
+          - { label: "Body", name: "body", widget: "markdown" }
 
-      - file: "src/pages/mgrBc.md"
+      - file: "src/md/mgrBc.md"
         label: "Mgr+Bc students"
         name: "mgrbcstudents"
         fields:
-          - {label: "Title", name: "title", widget: "string"}
-          - {label: "Body", name: "body", widget: "markdown"}
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Body", name: "body", widget: "markdown" }

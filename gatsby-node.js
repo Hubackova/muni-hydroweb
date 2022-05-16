@@ -13,39 +13,6 @@ exports.onCreateNode = ({ node, getNode, actions }) => {
   }
 };
 
-/* exports.createPages = async function ({ actions, graphql }) {
-  const projects = await graphql(`
-    {
-      allMarkdownRemark(filter: { fields: { slug: { regex: "/projects/" } } }) {
-        edges {
-          node {
-            html
-            fields {
-              slug
-            }
-          }
-        }
-      }
-    }
-  `);
-
-  projects.data.allMarkdownRemark.edges.forEach(({ node }) => {
-    console.log(
-      "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
-      node.fields.slug
-    );
-    actions.createPage({
-      path: node.fields.slug,
-      component: require.resolve(`./src/templates/projectDetail.js`),
-      context: {
-        slug: node.fields.slug,
-        title: imgName,
-        imgsRegex: `/${imgName}_/`,
-      },
-    });
-  });
-}; */
-
 exports.createPages = async ({ actions: { createPage }, graphql }) => {
   const projects = await graphql(`
     {
@@ -72,7 +39,6 @@ exports.createPages = async ({ actions: { createPage }, graphql }) => {
   );
   projects.data.allMarkdownRemark.edges.forEach(({ node }) => {
     const imgName = node.fields.slug.slice(10).slice(0, -1);
-    console.log(node.fields.slug, "AAAAAAAAAAAAAAAAAAAA");
     createPage({
       path: node.fields.slug,
       component: projectDetailTemplate,
