@@ -1,14 +1,14 @@
 ---
 title: sorfova
-order: 12
-name: 'Mgr. Vanda Šorfová, Ph.D. *'
+order: 9
+name: Mgr. Vanda Šorfová, Ph.D. *
 position: VÝZKUMNÍK
 positionEn: VÝZKUMNÍK
 email: sorfova.vanda@gmail.com
 phone: 549498575
 room: A32/327
-is: 'https://www.muni.cz/lide/222709-vanda-sorfova'
-rg: 'https://www.researchgate.net/profile/Vanda_Sorfova '
+is: https://www.muni.cz/lide/222709-vanda-sorfova
+rg: "https://www.researchgate.net/profile/Vanda_Sorfova "
 image: /images/staff_sorfova.jpg
 ---
 <div class="cz">
