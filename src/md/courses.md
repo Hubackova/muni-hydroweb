@@ -19,25 +19,25 @@ title: courses
 **Mgr. Marie Zhai, Ph.D.**
 
 [Hydrobiologický seminář Bi7806](https://is.muni.cz/predmet/sci/jaro2023/Bi7806)\
-**doc. RNDr. Jana Schenková, Ph.D., Mgr. Jindřiška Bojková, Ph.D.**
+**doc. RNDr. Jana Schenková, Ph.D.**, **Mgr. Jindřiška Bojková, Ph.D.**
 
 [Hydrobiologie Bi6360](https://is.muni.cz/predmet/sci/jaro2023/Bi6360)\
  **Mgr. Jindřiška Bojková, Ph.D.**, **doc. RNDr. Jan Helešic,** **Ph.D.**
 
 [Vybrané kapitoly z ekologie stojatých vod Bi7683](https://is.muni.cz/predmet/sci/podzim2021/Bi7683)\
-prof. RNDr. Jaroslav Vrba CSc., **Mgr. Jindřiška Bojková, Ph.D., doc. RNDr. Jan Helešic, Ph.D.**
+prof. RNDr. Jaroslav Vrba CSc., **doc. RNDr. Jan Helešic, Ph.D.**, **Mgr. Jindřiška Bojková, Ph.D.** 
 
 [Vybrané kapitoly z krustaceologie Bi8750](https://is.muni.cz/predmet/sci/jaro2022/Bi8750)\
-**Mgr. Marie Zhai, Ph.D.** , doc. RNDr. Adam Petrusek, Ph.D., prof. RNDr. Zdeněk Ďuriš, CSc., Mgr. Radka Symonová, Ph.D.
+**Mgr. Marie Zhai, Ph.D.**, prof. RNDr. Adam Petrusek, Ph.D., prof. RNDr. Zdeněk Ďuriš, CSc., Mgr. Radka Symonová, Ph.D.
 
 [Vybrané kapitoly z říční ekologie Bi7684](https://is.muni.cz/predmet/sci/podzim2022/Bi7684)\
-**Mgr. Jindřiška Bojková, Ph.D., Mgr. Marie Zhai, Ph.D., doc. RNDr. Jan Helešic, Ph.D.**
+**Mgr. Jindřiška Bojková, Ph.D.**, **Mgr. Marie Zhai, Ph.D.**, **doc. RNDr. Jan Helešic, Ph.D.**
 
 [Základní limnologické metody Bi6750](https://is.muni.cz/predmet/sci/jaro2023/Bi6750)\
-**RNDr. Petr Pařil, Ph.D., Mgr. Jindřiška Bojková, Ph.D.,** Mgr. Barbora Hutňan Chattová, Ph.D., **Mgr. Jan Sychra, Ph.D., Mgr. Marie Zhai, Ph.D.**
+**RNDr. Petr Pařil, Ph.D.**, **Mgr. Jindřiška Bojková, Ph.D.**, Mgr. Barbora Hutňan Chattová, Ph.D., **Mgr. Jan Sychra, Ph.D.**, **Mgr. Marie Zhai, Ph.D.**
 
 [Znečišťování vod a ekologie technických zásahů Bi8040](https://is.muni.cz/predmet/sci/jaro2023/Bi8040)\
-**RNDr. Petr Pařil, Ph.D., doc. RNDr. Jana Schenková, Ph.D.**
+**RNDr. Petr Pařil, Ph.D.**, **doc. RNDr. Jan Helešic, Ph.D.**, **doc. RNDr. Jana Schenková, Ph.D.**
 
 - - -
 
