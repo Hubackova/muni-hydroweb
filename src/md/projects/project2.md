@@ -62,7 +62,7 @@ Jindřiška Bojková, Vanda Šorfová, Marek Polášek, Vendula Polášková, Pe
 
 **Vybrané publikace**
 
-Šupina J., Bojková J. & Boukal D.S. 2020: Warming erodes individual-level variability in life history responses to predation risk in larvae of the mayfly *Cloeon dipterum*. *Freshwater Biology* 65: 2211–2223.
+Šupina J., Bojková J. & Boukal D.S. 2020: Warming erodes individual-level variability in life history responses to predation risk in larvae of the mayfly *Cloeon dipterum*. *Freshwater Biology* 65: 2211–2223. [PDF](https://doi.org/10.1111/fwb.13619)
 
 Zedková B., Rádková V., Bojková J., Soldán T. & Zahrádková S. 2015: Mayflies Ephemeroptera) as indicators of environmental changes in the past five decades: a case study from the Morava and Odra River Basins (Czech Republic). *Aquatic Conservation: Marine and Freshwater Ecosystems* 25: 622–638.
 
@@ -77,8 +77,6 @@ Bojková J., Komprdová K., Soldán T. & Zahrádková S. 2012: Species loss of s
 Zahrádková S., Soldán T., Bojková J., Helešic J., Janovská H. & Sroka P., 2009: Distribution and biology of mayflies (Ephemeroptera) of the Czech Republic: present status and perspectives. *Aquatic Insects* 31(suppl. 1): 629–652.
 
 Soldán T., Zahrádková S., Helešic J., Dušek L. & Landa V. 1998: Distributional and quantitative patterns of Ephemeroptera and Plecoptera in the Czech Republic: A possibility of detection of long-term changes of aquatic biotopes. *Folia Facultatis Scientiarium Naturalium Universitatis Masarykianae Brunensis* 98: 1–305.
-
-
 
 </div>
 </div>
