@@ -48,16 +48,16 @@ prof. RNDr. Jaroslav Vrba CSc., **doc. RNDr. Jan Helešic, Ph.D.**, **Mgr. Jind�
 doc. Mgr. Tomáš Bartonička, Ph.D., **Mgr. Jan Sychra, Ph.D.**
 
 [Management ohrožených ekosystémů Bi7113](https://is.muni.cz/predmet/sci/podzim2022/Bi7113)\
-**RNDr. Petr Pařil, Ph.D., Mgr. Jan Sychra, Ph.D.**, doc. Mgr. Lubomír Tichý, Ph.D.
+**RNDr. Petr Pařil, Ph.D.**, **Mgr. Jan Sychra, Ph.D.**, doc. Mgr. Lubomír Tichý, Ph.D.
 
 [Ochrana živočišných druhů Bi7112](https://is.muni.cz/predmet/sci/podzim2022/Bi7112)\
-**RNDr. Petr Pařil, Ph.D., Mgr. Jan Sychra, Ph.D.**
+**RNDr. Petr Pařil, Ph.D.**, **Mgr. Jan Sychra, Ph.D.**
 
 [Speciální botanicko-zoologické cvičení v terénu Bi8160](https://is.muni.cz/predmet/sci/jaro2023/Bi8160)[](https://is.muni.cz/predmet/sci/podzim2022/Bi7112)\
 **Mgr. Jan Sychra, Ph.D.,** prof. RNDr. Michal Horsák, Ph.D., Mgr. Jan Roleček, Ph.D., Mgr. Daniel Dvořák, Mgr. Igor Malenovský, Ph.D.
 
 [Terénní cvičení z entomologie Bi0055](https://is.muni.cz/predmet/sci/jaro2023/Bi0055)\
-Mgr. Igor Malenovský, prof. RNDr. Michal Horsák, Ph.D., **Mgr. Jan Sychra** , Ph.D., Mg. Petr Kment, Ph.D.[](https://is.muni.cz/predmet/sci/jaro2020/Bi7111)
+Mgr. Igor Malenovský, Ph.D., prof. RNDr. Michal Horsák, Ph.D., **Mgr. Jan Sychra, Ph.D.**, Mgr. Petr Kment, Ph.D.[](https://is.muni.cz/predmet/sci/jaro2020/Bi7111)
 
 [Terénní cvičení ze zoologie Bi2140](https://is.muni.cz/predmet/sci/jaro2023/Bi2140)\
 **doc. RNDr. Jana Schenková, Ph.D., Mgr. Jan Sychra, Ph.D.,** prof. RNDr. Michal Horsák, Ph.D., doc. Mgr. Tomáš Bartonička, Ph.D., **Mgr. Jindřiška Bojková, Ph.D.,** Mgr. Adam Konečný, Ph.D., Mgr. Igor Malenovský, Ph.D., **RNDr. Petr Pařil, Ph.D.,** doc. Dipl. Biol. Jiří Schlaghamerský, Ph.D., RNDr. Andrea Špalek Tóthová, Ph.D.
