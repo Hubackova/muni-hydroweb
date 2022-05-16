@@ -9,7 +9,7 @@ phone: 549498559
 room: A32/313
 is: https://www.muni.cz/lide/263064-barbora-loskotova
 rg: https://www.researchgate.net/profile/Barbora-Loskotova
-image: images/phd_loskotova.jpg
+image: images/staff_loskotova.jpg
 ---
 <div class="cz">
 
