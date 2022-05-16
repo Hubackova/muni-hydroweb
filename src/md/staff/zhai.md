@@ -1,14 +1,14 @@
 ---
 title: zhai
-order: 14
-name: 'Mgr. Marie Zhai, Ph.D.'
+order: 7
+name: Mgr. Marie Zhai, Ph.D.
 position: VÝZKUMNÍK
 positionEn: VÝZKUMNÍK
 email: marie.zhai@yahoo.com
 phone: 549498567
 room: A32/323
-is: 'https://www.muni.cz/lide/11978-marie-zhai'
-rg: 'https://www.researchgate.net/profile/Marie_Zhai'
+is: https://www.muni.cz/lide/11978-marie-zhai
+rg: https://www.researchgate.net/profile/Marie_Zhai
 image: /images/staff_zhai.jpg
 ---
 <div class="cz">
