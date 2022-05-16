@@ -1,36 +1,42 @@
 ---
-title: jakubinsky
+title: loskotova
 order: 11
-name: RNDr. Jiří Jakubínský, Ph.D.
+name: Mgr. Bc. Barbora Loskotová, Ph.D.
 position: VÝZKUMNÍK
 positionEn: VÝZKUMNÍK
-email: jakubinsky@mail.muni.cz
-phone: 549498174
-room: A32/316
-is: https://www.muni.cz/lide/191605-jiri-jakubinsky
-rg: https://www.researchgate.net/profile/Jiri_Jakubinsky
-image: /images/staff_jakubinsky.jpg
+email: bara.loskotova@mail.muni.cz
+phone: 549498559
+room: A32/313
+is: https://www.muni.cz/lide/263064-barbora-loskotova
+rg: https://www.researchgate.net/profile/Barbora-Loskotova
+image: images/phd_loskotova.jpg
 ---
 <div class="cz">
 
-Jsem absolventem magisterského i doktorského studia Fyzické geografie na PřF MU, specializujícím se v oblasti environmentální hydrologie a fluviální geomorfologie. Od roku 2012 pracuji na Ústavu výzkumu globální změny AV ČR, v.v.i. (CzechGlobe), od r. 2015 externě vyučuji na Katedře geografie PedF MU a souběžně od r. 2018 jsem na částečný úvazek zaměstnán na Ústavu botaniky a zoologie PřF MU.
+
+
+Je absolventkou magisterského studia oboru Zoologie a postgraduálního studia oboru Hydrobiologie na Masarykově univerzitě. Od roku 2017 působí jako odborná pracovnice na Ústavu botaniky a zoologie MUNI, PřF. Zaměřuje se na výzkum ekologie společenstev makrozoobentosu ve vysychavých tocích. Její taxonomickou specializací jsou larvy pošvatek (Plecoptera).
 
 **Výzkumná témata:** 
 
-* Ekosystémové funkce a služby poskytované údolními a poříčními nivami v podmínkách probíhající klimatické a environmentální změny
-* Hodnocení komplexního ekologického stavu příbřežních biotopů v ČR (vývoj metodiky a nástroje pro podporu hodnocení)
-* Problematika vodoretenční funkce krajiny a opatření ke zlepšení hydrologického režimu (zmírnění četnosti výskytu extrémních hydrologických situací)
+* Ekologie vysychavých toků, možnosti bioindikace vyschnutí
+* Taxonomické a funkční složení makrozoobentosu vysychavých toků
+* Experimentální výzkum vlivu vysychání a dalších abiotických faktorů na resistenci makrozoobentosu
+
+
 
 </div>
 
 <div class="en">
 
-Jsem absolventem magisterského i doktorského studia Fyzické geografie na PřF MU, specializujícím se v oblasti environmentální hydrologie a fluviální geomorfologie. Od roku 2012 pracuji v Ústavu výzkumu globální změny AV ČR, v.v.i. (CzechGlobe), od r. 2015 externě vyučuji na Katedře geografie PedF MU a souběžně od r. 2018 jsem na částečný úvazek zaměstnán v Ústavu botaniky a zoologie PřF MU.
+Je absolventkou magisterského studia oboru Zoologie a postgraduálního studia oboru Hydrobiologie na Masarykově univerzitě. Od roku 2017 působí jako odborná pracovnice na Ústavu botaniky a zoologie MUNI, PřF. Zaměřuje se na výzkum ekologie společenstev makrozoobentosu ve vysychavých tocích. Její taxonomickou specializací jsou larvy pošvatek (Plecoptera).
 
 **Research topics:**
 
-* Ekosystémové funkce a služby poskytované údolními a poříčními nivami v podmínkách probíhající klimatické a environmentální změny
-* Hodnocení komplexního ekologického stavu příbřežních biotopů v ČR (vývoj metodiky a nástroje pro podporu hodnocení)
-* Problematika vodoretenční funkce krajiny a opatření ke zlepšení hydrologického režimu (zmírnění četnosti výskytu extrémních hydrologických situací)
+* Ekologie vysychavých toků, možnosti bioindikace vyschnutí
+* Taxonomické a funkční složení makrozoobentosu vysychavých toků
+* Experimentální výzkum vlivu vysychání a dalších abiotických faktorů na resistenci makrozoobentosu
+
+
 
 </div>
