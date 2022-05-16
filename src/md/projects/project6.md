@@ -2,18 +2,16 @@
 title: project6
 name: Výzkum efemerních polních rozlivů a jejich bioty
 nameEn: Výzkum efemerních polních rozlivů a jejich bioty
-captions: >-
-  Lovící komando u Uherského Ostrohu/ Lov u Markthofu/ Lov u Uherského Ostrohu/
-  Bláto u Mistřína/ Měření na Bzeneckých loukách/ Lov u Hevlína/ Lovíme u
-  Tvrdonic/ Lov listonohů u Petrova/Žábronožka panonská (Chirocephalus
+captions: Lovící komando u Uherského Ostrohu/ Lov u Markthofu/ Lov u Uherského
+  Ostrohu/ Bláto u Mistřína/ Měření na Bzeneckých loukách/ Lov u Hevlína/ Lovíme
+  u Tvrdonic/ Lov listonohů u Petrova/Žábronožka panonská (Chirocephalus
   carnuntanus)/ Škeblovka rovnohřbetá (Leptestheria dahalacensis)/ Listonoh
   jarní (Lepidurus apus)/ Listonoh letní (Triops cancriformis)/ Žábronožka
   sněžní (Eubranchipus grubii) – samice/ Žábronožka letní (Branchipus
   schaefferi) – samice/ Škeblovka (Cyzicus sp.)/ Listonoh letní hloubí důlek/
-captionsEn: >-
-  Lovící komando u Uherského Ostrohu/ Lov u Markthofu/ Lov u Uherského Ostrohu/
-  Bláto u Mistřína/ Měření na Bzeneckých loukách/ Lov u Hevlína/ Lovíme u
-  Tvrdonic/ Lov listonohů u Petrova/Žábronožka panonská (Chirocephalus
+captionsEn: Lovící komando u Uherského Ostrohu/ Lov u Markthofu/ Lov u Uherského
+  Ostrohu/ Bláto u Mistřína/ Měření na Bzeneckých loukách/ Lov u Hevlína/ Lovíme
+  u Tvrdonic/ Lov listonohů u Petrova/Žábronožka panonská (Chirocephalus
   carnuntanus)/ Škeblovka rovnohřbetá (Leptestheria dahalacensis)/ Listonoh
   jarní (Lepidurus apus)/ Listonoh letní (Triops cancriformis)/ Žábronožka
   sněžní (Eubranchipus grubii) – samice/ Žábronožka letní (Branchipus
@@ -53,19 +51,19 @@ Jan Sychra, Alžběta Devánová, Jindřiška Bojková, Michal Horsák
 
 **Vybrané publikace**
 
-Reiter A., Merta L. & Sychra J. 2014: Nové nálezy velkých lupenonožců (Crustacea: Anostraca,
-Notostraca, Spinicaudata) na Znojemsku. _Thayensia (Znojmo)_ 11: 89–106.
+Devánová A., Sychra J., Bojková J. & Horsák M. 2022: Adult *Triops cancriformis* (Pancrustacea: Notostraca) mediates the hatching rate of its resting eggs. *Hydrobiologia* 849: 1923–1929. 
 
-Merta L., Zavadil V. & Sychra J. 2016: _Atlas rozšíření velkých lupenonožců České republiky_.
+Němec R. & Sychra J. 2017: Polní mokřady. *In: Čížková H., Vlasáková L. & Květ J.
+(eds.): Mokřady. Ekologie, ochrana a udržitelné využívání. Episteme. Natura. Jihočeská univerzita
+v Českých Budějovicích*. Pp. 281–291.
+
+Merta L., Zavadil V. & Sychra J. 2016: *Atlas rozšíření velkých lupenonožců České republiky*.
 Agentura ochrany přírody a krajiny ČR. 111 pp.
 
-Sychra J., Čamlík G., Merta L., Zavadil V. & Devánová A. 2017: Temporal field wetlands as
-biodiversity hot spots in agricultural landscape in the Czech Republic. _10th Symposium for
-European Freshwater Sciences 2017. Olomouc. Abstract Book_. Pp. 106.
+Reiter A., Merta L. & Sychra J. 2014: Nové nálezy velkých lupenonožců (Crustacea: Anostraca,
+Notostraca, Spinicaudata) na Znojemsku. *Thayensia (Znojmo)* 11: 89–106.
 
-Němec R. & Sychra J. 2017: Polní mokřady. _In: Čížková H., Vlasáková L. & Květ J.
-(eds.): Mokřady. Ekologie, ochrana a udržitelné využívání. Episteme. Natura. Jihočeská univerzita
-v Českých Budějovicích_. Pp. 281–291.
+
 
 </div>
 
@@ -73,13 +71,21 @@ v Českých Budějovicích_. Pp. 281–291.
 
 **Obhájené bakalářské a diplomové práce**
 
-_Alžběta Devánová_ 2017: [Biologie a ekologie velkých lupenonožců v polních rozlivech](https://is.muni.cz/th/izs30?). BP
 
-_Dorota Gvozdjáková_ 2017: [Planktonní společenstva korýšů v periodických vodách](https://is.muni.cz/th/aei4t?). BP
 
-_Alžběta Devánová_ 2020. [Biologie a ekologie vybraných druhů velkých lupenonožců (Crustacea: Branchiopoda) v podmínkách polních mokřadů a chovu](https://is.muni.cz/th/xjt62/). DP
+*Černá A.* 2021. [Vodní ploštice a brouci v biotopech polních mokřadů](https://is.muni.cz/th/zqvfd/). Bakalářská práce
 
-_Alžběta Dubnová_ 2020. [Genetická diverzita žábronožky letní (Branchipus schaefferi) v ČR](https://is.muni.cz/th/peabx/). BP
+*Menšíková K.* 2021. [Hnízdění vodouše rudonohého (Tringa totanus) v mokřadech zemědělské krajiny](https://is.muni.cz/th/i1z6j/) Bakalářská práce
+
+*Gvozdjáková D.* 2021. [Ekologie a biologie zooplanktonu ve vysychavých vodách polních rozlivů](https://is.muni.cz/th/jle5m/). Diplomová práce
+
+*Devánová A.* 2020. [Biologie a ekologie vybraných druhů velkých lupenonožců (Crustacea: Branchiopoda) v podmínkách polních mokřadů a chovu](https://is.muni.cz/th/xjt62/). Diplomová práce
+
+*Dubnová A.* 2020. [Genetická diverzita žábronožky letní (Branchipus schaefferi) v ČR](https://is.muni.cz/th/peabx/). Bakalářská práce
+
+*Devánová A.* 2017: [Biologie a ekologie velkých lupenonožců v polních rozlivech](https://is.muni.cz/th/izs30?). Bakalářská práce
+
+*Gvozdjáková* D. 2017: [Planktonní společenstva korýšů v periodických vodách](https://is.muni.cz/th/aei4t?). Bakalářská práce
 
 
 
@@ -139,9 +145,9 @@ v Českých Budějovicích. 630 pp.
 
 **Obhájené bakalářské a diplomové práce**
 
-_Alžběta Devánová_ 2017: [Biologie a ekologie velkých lupenonožců v polních rozlivech](https://is.muni.cz/th/izs30?). BP
+*Alžběta Devánová* 2017: [Biologie a ekologie velkých lupenonožců v polních rozlivech](https://is.muni.cz/th/izs30?). BP
 
-_Dorota Gvozdjáková_ 2017: [Planktonní společenstva korýšů v periodických vodách](https://is.muni.cz/th/aei4t?). BP
+*Dorota Gvozdjáková* 2017: [Planktonní společenstva korýšů v periodických vodách](https://is.muni.cz/th/aei4t?). BP
 
 </div>
 </div>
