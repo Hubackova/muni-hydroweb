@@ -66,7 +66,7 @@ Mgr. Igor Malenovský, Ph.D., prof. RNDr. Michal Horsák, Ph.D., **Mgr. Jan Sych
 Mgr. Iveta Hodová, Ph.D., prof. RNDr. Milan Chytrý, Ph.D., prof. RNDr. Michal Horsák, Ph.D., doc. Mgr. Tomáš Bartonička, Ph.D., **Mgr. Jindřiška Bojková, Ph.D.**, prof. RNDr. Petr Bureš, Ph.D., prof. RNDr. Milan Gelnar, CSc., doc. Mgr. Michal Hájek, Ph.D., **doc. RNDr. Jan Helešic, Ph.D.**, Mgr. Adam Konečný, Ph.D., **RNDr. Petr Pařil, Ph.D.**, prof. Mgr. Stanislav Pekár, Ph.D.
 
 [Úvod do terénní zoologie bezobratlých Bi8761](https://is.muni.cz/predmet/sci/jaro2023/Bi8761)\
-**doc. RNDr. Jana Schenková, Ph.D.,** prof. RNDr. Michal Horsák, Ph.D., **Mgr. Marie Zhai, Ph.D.** , RNDr. Andrea Bardůnek Valigurová, Ph.D., Mgr. Igor Malenovský, Ph.D., **RNDr. Petr Pařil, Ph.D.**, prof. Mgr. Stanislav Pekár, Ph.D., Mgr. Eva Řehulková, Ph.D., Mgr. Mária Seifertová, Ph.D., doc. Dipl. Biol. Jiří Schlaghamerský, Ph.D., **Mgr. Jan Sychra, Ph.D.**
+**doc. RNDr. Jana Schenková, Ph.D.,** prof. RNDr. Michal Horsák, Ph.D., **Mgr. Marie Zhai, Ph.D.**, doc. RNDr. Andrea Bardůnek Valigurová, Ph.D., Mgr. Igor Malenovský, Ph.D., **RNDr. Petr Pařil, Ph.D.**, prof. Mgr. Stanislav Pekár, Ph.D., Mgr. Eva Řehulková, Ph.D., Mgr. Mária Seifertová, Ph.D., doc. Dipl. Biol. Jiří Schlaghamerský, Ph.D., **Mgr. Jan Sychra, Ph.D.**
 
 [Zoologický seminář Bi6800](https://is.muni.cz/predmet/sci/podzim2022/Bi6800)\
 prof. RNDr. Michal Horsák, Ph.D., **Mgr. Jan Sychra, Ph.D.**
