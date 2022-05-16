@@ -51,7 +51,7 @@ Jan Sychra, Alžběta Devánová, Jindřiška Bojková, Michal Horsák
 
 **Vybrané publikace**
 
-Devánová A., Sychra J., Bojková J. & Horsák M. 2022: Adult *Triops cancriformis* (Pancrustacea: Notostraca) mediates the hatching rate of its resting eggs. *Hydrobiologia* 849: 1923–1929. 
+Devánová A., Sychra J., Bojková J. & Horsák M. 2022: Adult *Triops cancriformis* (Pancrustacea: Notostraca) mediates the hatching rate of its resting eggs. *Hydrobiologia* 849: 1923–1929. [PDF](https://doi.org/10.1007/s10750-022-04841-9)
 
 Němec R. & Sychra J. 2017: Polní mokřady. *In: Čížková H., Vlasáková L. & Květ J.
 (eds.): Mokřady. Ekologie, ochrana a udržitelné využívání. Episteme. Natura. Jihočeská univerzita
@@ -63,15 +63,11 @@ Agentura ochrany přírody a krajiny ČR. 111 pp.
 Reiter A., Merta L. & Sychra J. 2014: Nové nálezy velkých lupenonožců (Crustacea: Anostraca,
 Notostraca, Spinicaudata) na Znojemsku. *Thayensia (Znojmo)* 11: 89–106.
 
-
-
 </div>
 
 <div class="project-theses">
 
 **Obhájené bakalářské a diplomové práce**
-
-
 
 *Černá A.* 2021. [Vodní ploštice a brouci v biotopech polních mokřadů](https://is.muni.cz/th/zqvfd/). Bakalářská práce
 
@@ -86,8 +82,6 @@ Notostraca, Spinicaudata) na Znojemsku. *Thayensia (Znojmo)* 11: 89–106.
 *Devánová A.* 2017: [Biologie a ekologie velkých lupenonožců v polních rozlivech](https://is.muni.cz/th/izs30?). Bakalářská práce
 
 *Gvozdjáková* D. 2017: [Planktonní společenstva korýšů v periodických vodách](https://is.muni.cz/th/aei4t?). Bakalářská práce
-
-
 
 </div>
 </div>
