@@ -7,10 +7,7 @@ title: courses
 **Mgr. Marek Polášek, Ph.D.**
 
 [Biologie vodních bezobratlých Bi7451](https://is.muni.cz/predmet/sci/jaro2023/Bi7451)\
-**Mgr. Jindřiška Bojková, Ph.D., RNDr. Petr Pařil, Ph.D.**
-
-[Čistírenství a vodárenství Bi8045](https://is.muni.cz/predmet/sci/jaro2020/Bi8045)\
-**RNDr. Petr Pařil, Ph.D., doc. RNDr. Jan Helešic, Ph.D.**
+**Mgr. Jindřiška Bojková, Ph.D., RNDr. Petr Pařil, Ph.D**
 
 [Determinace vodních bezobratlých - cvičení Bi8762](https://is.muni.cz/predmet/sci/jaro2023/Bi8762)[](https://is.muni.cz/predmet/sci/jaro2023/Bi8095)\
 **doc. RNDr. Jana Schenková, Ph.D., Mgr. Jindřiška Bojková, Ph.D.**, Mgr. Petr Kment, Ph.D., **RNDr. Petr Pařil, Ph.D., Mgr. Michal Straka, Ph.D., Mgr. Jan Sychra, Ph.D., Mgr. Marie Zhai, Ph.D.,** 
