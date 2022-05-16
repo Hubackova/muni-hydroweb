@@ -91,6 +91,8 @@ Stubbington R., ... **Pařil** P., ... **Polášek** M., ... & Datry T. 2022: Di
 natural stressor and human impact gradients in river ecosystems across\
 Europe. *Journal of Applied Ecology* 59: 537-548. [PDF](https://doi.org/10.1111/1365-2664.14072)
 
+Crabot J., **Polášek** M., Launay B., **Pařil** P. & Datry T. 2021: Drying in newly intermittent rivers leads to higher variability of invertebrate communities. *Freshwater Biology* 66: 730-744. [PDF](https://onlinelibrary.wiley.com/doi/full/10.1111/fwb.13673)
+
 Datry T., ... **Loskotová** B., ... **Pařil** P., ... **Polášek** M., ... 2021: Securing Biodiversity, Functional Integrity, and Ecosystem Services in Drying River Networks (DRYvER). *Research Ideas and Outcomes*\
 7: e77750. [PDF](https://doi.org/10.3897/rio.7.e77750)\
 \
@@ -101,24 +103,22 @@ Mišíková Elexová E., Lešťáková M. & **Pařil** P. 2021: Stream drying\
 bioindication in Central Europe: A Biodrought Index accuracy assessment.\
 *Ecological Indicators* 130: 108045. [PDF](https://doi.org/10.1016/j.ecolind.2021.108045)
 
-Crabot J., **Polášek** M., Launay B., **Pařil** P. & Datry T. 2020: Drying in newly intermittent rivers leads to higher variability of invertebrate communities. *Freshwater Biology* 66: 730-744. [PDF](https://onlinelibrary.wiley.com/doi/full/10.1111/fwb.13673)
-
-Sarremejane R., Cid N., Stubbington R., Datry T., Alp M., Cañedo-Argüelles M., Cordero-Rivera A., Csabai Z., Gutiérrez-Cánovas C., Heino J., Forcellini M., Millán A., Paillex A., **Pařil** P., **Polášek** M., Tierno de Figueroa J. M., Usseglio-Polatera P., Zamora-Muñoz C. & Bonada N. 2020: DISPERSE, a trait database to assess the dispersal potential of European aquatic macroinvertebrates. *Scientific data* 7: 1-9. [PDF](https://www.nature.com/articles/s41597-020-00732-7)
-
-**Pařil** P., **Polášek** M., **Loskotová** B., **Straka** M., Crabot J. & Datry T. 2019: An unexpected source of invertebrate community recovery in intermittent streams from a humid continental climate. *Freshwater Biology* 64: 1971-1983. [PDF](https://onlinelibrary.wiley.com/doi/epdf/10.1111/fwb.13386)
+Sarremejane R., ...  **Pařil** P., **Polášek** M., ... & Bonada N. 2020: DISPERSE, a trait database to assess the dispersal potential of European aquatic macroinvertebrates. *Scientific data* 7: 1-9. [PDF](https://www.nature.com/articles/s41597-020-00732-7)
 
 **Loskotová** B., **Straka** M. & **Pařil** P. 2019: Sediment characteristics influence benthic macroinvertebrate vertical migrations and survival under experimental water loss conditions. *Fundamental and Applied Limnology* 193: 39-49. [PDF](https://www.schweizerbart.de/papers/fal/detail/193/91614/Sediment_characteristics_influence_benthic_macroin?af=crossref)
-
-**Straka** M., **Polášek** M., Syrovátka V., Stubbington R., **Zahrádková** S., ... **Pařil** P. 2019: Recognition of stream drying based on benthic macroinvertebrates: A new tool in Central Europe. *Ecological Indicators* 106: 105486. [PDF](https://reader.elsevier.com/reader/sd/pii/S1470160X19304716?token=24D20FC8F47E81A03D9A17122C9A01A08A2E658984EF383A5CE77776CEA49B43562BF6BA413FBA46D9C743CF9EE574F9)
 
 **Pařil** P., Leigh C., **Polášek** M., Sarremejane R., Řezníčková P., **Dostálová** A. &
 Stubbington R. 2019: Short-term streambed drying events alter amphipod
 population structure in a central European stream. *Fundamental and Applied
 Limnology 193: 51-64*. [PDF](http://docserver.ingentaconnect.com/deliver/fasttrack/schweiz/18639135/fal_000_0_0000_0000_paril_1164_prepub_1547215377239.pdf?expires=1555189280&id=id22479149&checksum=030B2F8413E12D89FA0B835BCFC7715A)
 
+**Pařil** P., **Polášek** M., **Loskotová** B., **Straka** M., Crabot J. & Datry T. 2019: An unexpected source of invertebrate community recovery in intermittent streams from a humid continental climate. *Freshwater Biology* 64: 1971-1983. [PDF](https://onlinelibrary.wiley.com/doi/epdf/10.1111/fwb.13386)
+
 Shumilova O., …. **Pařil** P. …. 2019: Simulating rewetting events in intermittent
 rivers and ephemeral streams: a global analysis of leached nutrients and
 organic matter. *Global Change Biology* 25: 1591–1611. [PDF](https://onlinelibrary.wiley.com/doi/pdf/10.1111/gcb.14537)
+
+**Straka** M., **Polášek** M., Syrovátka V., Stubbington R., **Zahrádková** S., ... **Pařil** P. 2019: Recognition of stream drying based on benthic macroinvertebrates: A new tool in Central Europe. *Ecological Indicators* 106: 105486. [PDF](https://reader.elsevier.com/reader/sd/pii/S1470160X19304716?token=24D20FC8F47E81A03D9A17122C9A01A08A2E658984EF383A5CE77776CEA49B43562BF6BA413FBA46D9C743CF9EE574F9)
 
 Datry T. … **Pařil** P., **Polášek** M., … 2018: A global
 analysis of terrestrial plant litter dynamics in non-perennial waterways. *Nature
@@ -136,16 +136,16 @@ J., Von Schiller D., Subbington R., ... **Pařil** P. … & Alves M. H. 2017:
 Science and management of intermittent rivers and ephemeral streams (SMIRES).
 *Research Ideas and Outcomes* 3: 1-23. [PDF](https://hal.archives-ouvertes.fr/hal-01871041/document)
 
-**Zahrádková** S., Hájek O., Treml P., **Pařil** P., **Straka** M., Němejcová D., **Polášek**
-M. & Ondráček P. 2015: Hodnocení rizika vysychání drobných vodních toků
-v České republice. *Vodohospodářské technicko-ekonomické informace* 57: 4-16. [HTML](https://www.vtei.cz/2015/12/hodnoceni-rizika-vysychani-drobnych-vodnich-toku-v-ceske-republice/)
-
 **Pařil** P., Syrovátka V.,
 **Zahrádková** S., **Straka** M., **Polášek** M., Němejcová D., Opatřilová
 L., Šikulová L. & Řezníčková P. 2015: Metodika retrospektivní
 bioindikace epizod vyschnutí toků na základě analýzy makrozoobentosu. Metodika
 certifikovaná Ministerstvem životního prostředí dne 21.12. 2015 pod číslem
 91808/ENV/15. 34 s.
+
+**Zahrádková** S., Hájek O., Treml P., **Pařil** P., **Straka** M., Němejcová D., **Polášek**
+M. & Ondráček P. 2015: Hodnocení rizika vysychání drobných vodních toků
+v České republice. *Vodohospodářské technicko-ekonomické informace* 57: 4-16. [HTML](https://www.vtei.cz/2015/12/hodnoceni-rizika-vysychani-drobnych-vodnich-toku-v-ceske-republice/)
 
 **Pařil** P., **Polášek** M. & **Straka** M.
 2014: Souprava pro odběr sedimentu z vyschlého dna (Užitný vzor č. 27576).
