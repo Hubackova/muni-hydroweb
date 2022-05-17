@@ -74,18 +74,17 @@ Poláková M., Straka M., Polášek M. & Němejcová D. 2022: Unexplored fres
 Chmelová E., Kolar V., Jan J., Carreira B.M., Landeira-Dabarca A., Otáhalová Š., Poláková M., Vebrová L., Borovec J., Boukal D.S. & Tropek R. 2021: Valuable Secondary Habitats or Hazardous Ecological Traps? Environmental Risk Assessment of Minor and Trace Elements in Fly Ash Deposits across the Czech Republic. *Sustainability* 13: 10385. [PDF](https://doi.org/10.3390/su131810385)
 
 Bartošová M., Schenková J., Polášková V., Bojková J., Šorfová V. & Horsák M. 2019: Macroinvertebrate assemblages of the post-mining calcareous stream
- habitats: Are they similar to those inhabiting the natural calcareous springs. *Ecological Engineering* 136: 38-45.
+ habitats: Are they similar to those inhabiting the natural calcareous springs. *Ecological Engineering* 136: 38-45. [PDF](https://doi.org/10.1016/j.ecoleng.2019.05.023)
 
-Polášková V., Schenková J., Bartošová M., Rádková V. & Horsák M. 2017: Post-mining calcareous seepages as
-surrogate habitats for aquatic macroinvertebrate biota of vanishing calcareous spring fens. *Ecological
-Engineering* 109: 119–132.
+Polášková V., Schenková J., Bartošová M., Rádková V. & Horsák M. 2017: Post-mining calcareous seepages as surrogate habitats for aquatic macroinvertebrate biota of vanishing calcareous spring fens. *Ecological
+Engineering* 109: 119–132. [PDF](https://doi.org/10.1016/j.ecoleng.2017.08.023)
 
-Žáková, S., Weissová V., Uher B. & Helešic J. 2017: Macroinvertebrate herbivores and epilithon algae
+Růžičková S., Weissová V., Uher B. & Helešic J. 2017: Macroinvertebrate herbivores and epilithon algae
 community of a stream affected by mineralized heated mining water inflow. *Annales de Limnologie -
-International Journal of Limnology* 53: 189–201.
+International Journal of Limnology* 53: 189–201. [PDF](https://doi.org/10.1051/limn/2017003)
 
 Růžičková S., Schenková J., Weissová V. & Helešic J. 2014: Environmental impact of heated mining waters on
-clitellate (Annelida: Clitellata) assemblages. *Biologia* 69/9: 1179–1189.
+clitellate (Annelida: Clitellata) assemblages. *Biologia* 69/9: 1179–1189. [PDF](https://link.springer.com/content/pdf/10.2478/s11756-014-0424-2.pdf)
 
 </div>
 
