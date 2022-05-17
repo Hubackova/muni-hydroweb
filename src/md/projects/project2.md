@@ -64,17 +64,17 @@ Jindřiška Bojková, Vanda Šorfová, Marek Polášek, Vendula Polášková, Pe
 
 Šupina J., Bojková J. & Boukal D.S. 2020: Warming erodes individual-level variability in life history responses to predation risk in larvae of the mayfly *Cloeon dipterum*. *Freshwater Biology* 65: 2211–2223. [PDF](https://doi.org/10.1111/fwb.13619)
 
-Zedková B., Rádková V., Bojková J., Soldán T. & Zahrádková S. 2015: Mayflies Ephemeroptera) as indicators of environmental changes in the past five decades: a case study from the Morava and Odra River Basins (Czech Republic). *Aquatic Conservation: Marine and Freshwater Ecosystems* 25: 622–638.
+Zedková B., Rádková V., Bojková J., Soldán T. & Zahrádková S. 2015: Mayflies Ephemeroptera) as indicators of environmental changes in the past five decades: a case study from the Morava and Odra River Basins (Czech Republic). *Aquatic Conservation: Marine and Freshwater Ecosystems* 25: 622–638. [PDF](https://doi.org/10.1002/aqc.2529)
 
-Bojková J., Rádková V., Soldán T. & Zahrádková S. 2014: Trends in species diversity of lotic stoneflies (Plecoptera) in the Czech Republic over five decades. *Insect Conservation and Diversity* 7: 252–262.
+Bojková J., Rádková V., Soldán T. & Zahrádková S. 2014: Trends in species diversity of lotic stoneflies (Plecoptera) in the Czech Republic over five decades. *Insect Conservation and Diversity* 7: 252–262. [PDF](https://doi.org/10.1111/icad.12050)
 
 Soldán T., Bojková J., Zahrádková S., Helešic J. & Sroka P. 2014: Dlouhodobý výzkum vodního hmyzu – rodinné stříbro české entomologie. *Živa* 5: 215–218. [PDF](http://ziva.avcr.cz/files/ziva/pdf/dlouhodoby-vyzkum-vodniho-hmyzu-rodinne-stribro-ce.pdf)
 
-Bojková J. & Soldán T. 2013: Stoneflies (Plecoptera) of the Czech Republic: species checklist, distribution and protection status. *Acta Entomologica Musei Nationalis Pragae* 53: 443–484.
+Bojková J. & Soldán T. 2013: Stoneflies (Plecoptera) of the Czech Republic: species checklist, distribution and protection status. *Acta Entomologica Musei Nationalis Pragae* 53: 443–484. [PDF](https://www.aemnp.eu/data/article-1463/1444-53_2_443.pdf)
 
-Bojková J., Komprdová K., Soldán T. & Zahrádková S. 2012: Species loss of stoneflies (Plecoptera) in the Czech Republic during the 20 th century. *Freshwater Biology* 57: 2550–2567.
+Bojková J., Komprdová K., Soldán T. & Zahrádková S. 2012: Species loss of stoneflies (Plecoptera) in the Czech Republic during the 20 th century. *Freshwater Biology* 57: 2550–2567. [PDF](https://doi.org/10.1111/fwb.12027)
 
-Zahrádková S., Soldán T., Bojková J., Helešic J., Janovská H. & Sroka P., 2009: Distribution and biology of mayflies (Ephemeroptera) of the Czech Republic: present status and perspectives. *Aquatic Insects* 31(suppl. 1): 629–652.
+Zahrádková S., Soldán T., Bojková J., Helešic J., Janovská H. & Sroka P., 2009: Distribution and biology of mayflies (Ephemeroptera) of the Czech Republic: present status and perspectives. *Aquatic Insects* 31(suppl. 1): 629–652. [PDF](https://doi.org/10.1080/01650420902745539)
 
 Soldán T., Zahrádková S., Helešic J., Dušek L. & Landa V. 1998: Distributional and quantitative patterns of Ephemeroptera and Plecoptera in the Czech Republic: A possibility of detection of long-term changes of aquatic biotopes. *Folia Facultatis Scientiarium Naturalium Universitatis Masarykianae Brunensis* 98: 1–305.
 
