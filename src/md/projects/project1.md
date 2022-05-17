@@ -66,36 +66,36 @@ Vanda Šorfová, Dana Klímová Hřívová, David Výravský, Martina Bílková
 
 Šorfová V., Poláková M., Bojková J., Polášková V., Schenková J., Horsák M. 2022: Environmental heterogeneity, dispersal mode and habitat specialisation modify within‐site beta diversity of spring macroinvertebrates. *International Review of Hydrobiology*, 1–9. [PDF](https://doi.org/10.1002/iroh.202102112)
 
-Syrovátka V., Zhai M., Bojková J., Šorfová V. & Horsák M. 2020: Native Gammarus fossarum affects species composition of macroinvertebrate communities: evidence from laboratory, field enclosures, and natural habitat. *Aquatic Ecology* 54: 505–518.
+Syrovátka V., Zhai M., Bojková J., Šorfová V. & Horsák M. 2020: Native *Gammarus fossarum* affects species composition of macroinvertebrate communities: evidence from laboratory, field enclosures, and natural habitat. *Aquatic Ecology* 54: 505–518. [PDF](https://link.springer.com/content/pdf/10.1007/s10452-020-09756-y.pdf)
 
-Zhai M., Syrovátka V., Bojková J., Šorfová V., Polášková V., Schenková J. & Horsák M. 2020: Does predator abundance influence species diversity of equilibrium macroinvertebrate assemblages in spring fens? *Freshwater Biology* 65: 987–998.
+Zhai M., Syrovátka V., Bojková J., Šorfová V., Polášková V., Schenková J. & Horsák M. 2020: Does predator abundance influence species diversity of equilibrium macroinvertebrate assemblages in spring fens? *Freshwater Biology* 65: 987–998. [PDF](https://doi.org/10.1111/fwb.13485)
 
 Horsák M., Polášková V., Zhai M., Bojková J., Syrovátka V., Šorfová V., Schenková J., Polášek M.,
-Peterka T. & Hájek M. 2018: Spring-fen habitat islands in a warming climate: Partitioning the effects of mesoclimate air and water temperature on aquatic and terrestrial biota. *Science of the Total Environment* 634: 355–365.
+Peterka T. & Hájek M. 2018: Spring-fen habitat islands in a warming climate: Partitioning the effects of mesoclimate air and water temperature on aquatic and terrestrial biota. *Science of the Total Environment* 634: 355–365. [PDF](https://doi.org/10.1016/j.scitotenv.2018.03.319)
 
-Schenková J., Bílková M., Polášková J., Horsák M. & Schlaghamerský J. 2018: Variation of Clitellata (Annelida) assemblages related to water saturation in groundwater-dependent wetlands. *Hydrobiologia* 823: 49–65.
+Schenková J., Bílková M., Polášková J., Horsák M. & Schlaghamerský J. 2018: Variation of Clitellata (Annelida) assemblages related to water saturation in groundwater-dependent wetlands. *Hydrobiologia* 823: 49–65. [PDF](https://link.springer.com/content/pdf/10.1007/s10750-018-3695-8.pdf)
 
 Rádková V., Polášková V., Bojková J., Syrovátka V. & Horsák M. 2017: Environmental filtering of
-aquatic insects in spring fens: patterns of species-specific responses related to specialist-generalist categorization. *Hydrobiologia* 797: 159–170.
+aquatic insects in spring fens: patterns of species-specific responses related to specialist-generalist categorization. *Hydrobiologia* 797: 159–170. [PDF](https://link.springer.com/content/pdf/10.1007/s10750-017-3169-4.pdf)
 
-Schenková J., Bílková M. & Horsák M. 2016: The response of Clitellata (Annelida) to environmental gradients in spring fens. *Limnologica* 57: 73–82.
+Schenková J., Bílková M. & Horsák M. 2016: The response of Clitellata (Annelida) to environmental gradients in spring fens. *Limnologica* 57: 73–82. [PDF](https://doi.org/10.1016/j.limno.2016.01.004)
 
 Horsák M., Rádková V., Syrovátka V., Bojková J., Křoupalová V., Schenková J. & Zajacová J. 2015:
-Drivers of aquatic macroinvertebrate richness in spring fens in relation to habitat specialization and dispersal mode. *Journal of Biogeography* 42: 2112–2121.
+Drivers of aquatic macroinvertebrate richness in spring fens in relation to habitat specialization and dispersal mode. *Journal of Biogeography* 42: 2112–2121. [PDF](https://doi.org/10.1111/jbi.12569)
 
-Zhai M., Hřívová D. & Peterka T. 2015: The harpacticoid assemblages (Copepoda: Harpacticoida) in the Western Carpathian spring fens in relation to environmental variablesand habitat age. *Limnologica* 53: 84–94.
+Zhai M., Hřívová D. & Peterka T. 2015: The harpacticoid assemblages (Copepoda: Harpacticoida) in the Western Carpathian spring fens in relation to environmental variablesand habitat age. *Limnologica* 53: 84–94. [PDF](https://doi.org/10.1016/j.limno.2015.07.001)
 
-Zhai M., Nováček O., Výravský D., Bojková J. & Helešic J. 2015: Environmental and spatial control of ostracod assemblages in the Western Carpathian spring fens. *Hydrobiologia* 745: 225–239.
+Zhai M., Nováček O., Výravský D., Bojková J. & Helešic J. 2015: Environmental and spatial control of ostracod assemblages in the Western Carpathian spring fens. *Hydrobiologia* 745: 225–239. [PDF](https://link.springer.com/content/pdf/10.1007/s10750-014-2104-1.pdf)
 
 Rádková V., Bojková J., Křoupalová V., Schenková J., Syrovátka V. & Horsák M. 2014: The role of
-dispersal mode and habitat specialisation in metacommunity structuring of aquatic macroinvertebrates in isolated spring fens. *Freshwater Biology* 59: 2256–2267.
+dispersal mode and habitat specialisation in metacommunity structuring of aquatic macroinvertebrates in isolated spring fens. *Freshwater Biology* 59: 2256–2267. [PDF](https://doi.org/10.1111/fwb.12428)
 
 Rádková V., Syrovátka V., Bojková J., Schenková J., Křoupalová V. & Horsák M. 2014: The
-importance of species replacement and richness differences in small-scale diversity patterns of aquatic macroinvertebrates in spring fens. *Limnologica* 47: 52–61.
+importance of species replacement and richness differences in small-scale diversity patterns of aquatic macroinvertebrates in spring fens. *Limnologica* 47: 52–61. [PDF](https://doi.org/10.1016/j.limno.2014.03.001)
 
 Omelková M., Syrovátka V., Křoupalová V., Rádková V., Bojková J., Horsák M., Zhai M. & Helešic
 J. 2013: Dipteran assemblages of spring fens closely follow the gradient of groundwater mineral
-richness. *Canadian Journal of Fisheries and Aquatic Sciences* 70: 689–700.
+richness. *Canadian Journal of Fisheries and Aquatic Sciences* 70: 689–700. [PDF](https://doi.org/10.1139/cjfas-2013-0026)
 
 </div>
 
