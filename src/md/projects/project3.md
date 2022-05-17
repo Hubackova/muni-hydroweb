@@ -82,26 +82,17 @@ Eva Hanáková, Jan Šupina, Jiří Jakubínský, Světlana Zahrádková, Jan He
 
 **Vybrané publikace**
 
-Sánchez-Montoya M.M., Gómez R., Calvo J.F., Bartonička T., Datry T. &\
-**Pařil P.** 2022: Ecological values of intermittent rivers for\
-terrestrial vertebrate fauna. *Science of The Total Environment* 806:\
-151308. [PDF](https://doi.org/10.1016/j.scitotenv.2021.151308)
+Sánchez-Montoya M.M., Gómez R., Calvo J.F., Bartonička T., Datry T. & **Pařil P.** 2022: Ecological values of intermittent rivers for terrestrial vertebrate fauna. *Science of The Total Environment* 806:151308 [PDF](https://doi.org/10.1016/j.scitotenv.2021.151308)
 
-Stubbington R., ... **Pařil** P., ... **Polášek** M., ... & Datry T. 2022: Disentangling responses to\
-natural stressor and human impact gradients in river ecosystems across\
-Europe. *Journal of Applied Ecology* 59: 537-548. [PDF](https://doi.org/10.1111/1365-2664.14072)
+Stubbington R., ... **Pařil** P., ... **Polášek** M., ... & Datry T. 2022: Disentangling responses to natural stressor and human impact gradients in river ecosystems across Europe. *Journal of Applied Ecology* 59: 537-548. [PDF](https://doi.org/10.1111/1365-2664.14072)
 
 Crabot J., **Polášek** M., Launay B., **Pařil** P. & Datry T. 2021: Drying in newly intermittent rivers leads to higher variability of invertebrate communities. *Freshwater Biology* 66: 730-744. [PDF](https://onlinelibrary.wiley.com/doi/full/10.1111/fwb.13673)
 
-Datry T., ... **Loskotová** B., ... **Pařil** P., ... **Polášek** M., ... 2021: Securing Biodiversity, Functional Integrity, and Ecosystem Services in Drying River Networks (DRYvER). *Research Ideas and Outcomes*\
-7: e77750. [PDF](https://doi.org/10.3897/rio.7.e77750)\
+Datry T., ... **Loskotová** B., ... **Pařil** P., ... **Polášek** M., ... 2021: Securing Biodiversity, Functional Integrity, and Ecosystem Services in Drying River Networks (DRYvER). *Research Ideas and Outcomes* 7: e77750. [PDF](https://doi.org/10.3897/rio.7.e77750)\
 \
 **Loskotová** B., **Straka** M., **Polášek** M., **Dostálová** A. & **Pařil** P. 2021: Macroinvertebrate seedbank survival in pristine and nutrient-enriched intermittent streams and its contribution to flow phase communities. *Hydrobiologia* 848: 1911-1923. [PDF](https://link.springer.com/article/10.1007/s10750-021-04566-1)
 
-**Straka** M., **Polášek** M., Csabai Z., Zweidick O., Graf W., Meyer E.I.,\
-Mišíková Elexová E., Lešťáková M. & **Pařil** P. 2021: Stream drying\
-bioindication in Central Europe: A Biodrought Index accuracy assessment.\
-*Ecological Indicators* 130: 108045. [PDF](https://doi.org/10.1016/j.ecolind.2021.108045)
+**Straka** M., **Polášek** M., Csabai Z., Zweidick O., Graf W., Meyer E.I., Mišíková Elexová E., Lešťáková M. & **Pařil** P. 2021: Stream drying bioindication in Central Europe: A Biodrought Index accuracy assessment. *Ecological Indicators* 130: 108045. [PDF](https://doi.org/10.1016/j.ecolind.2021.108045)
 
 Sarremejane R., ...  **Pařil** P., **Polášek** M., ... & Bonada N. 2020: DISPERSE, a trait database to assess the dispersal potential of European aquatic macroinvertebrates. *Scientific data* 7: 1-9. [PDF](https://www.nature.com/articles/s41597-020-00732-7)
 
