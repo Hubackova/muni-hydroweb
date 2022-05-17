@@ -61,7 +61,7 @@ Vrba J., Bojková J., Chvojka P., Fott J., Kopáček J., Macek
 M., Nedbalová L., Papáček M., Rádková V., Sacherová V.,
 Soldán T. & Šorf M. 2016: Constraints on the biological
 recovery of the Bohemian Forest lakes from acid stress.
-*Freshwater Biology* 61: 376–395.
+*Freshwater Biology* 61: 376–395. [PDF](https://doi.org/10.1111/fwb.12714)
 
 Soldán T., Bojková J., Vrba J., Bitušík P., Chvojka P.,
 Papáček M., Peltanová J., Sychra J. & Tátosová J. 2012:
@@ -154,9 +154,9 @@ studie z Vltavského luhu (NP Šumava)](https://is.muni.cz/th/gro6o/). Bakalář
 </div>
 
 <div class="en">
-V rámci Programu přeshraniční spolupráce České republiky a Bavorska se podílíme na projektu \\\\\\\\\\\\\\\\\[Silva
+V rámci Programu přeshraniční spolupráce České republiky a Bavorska se podílíme na projektu \\\\\\\\\\\\\\\\\\[Silva
 Gabreta Monitoring](http://www.silvagabreta.eu/index.html.cs) zaměřeném na Národní parky Šumava a Bavorský les, které byly oceněny
-certifikátem \\\\\\\\\\\\\\\\\["Transboundary Parks"](https://www.europarc.org/bavarian-forest-sumava-national-parks/?utm_source=ep&utm_medium=search&utm_campaign=linktrack&utm_content=results). Cílem projektu je vytvoření funkční infrastruktury přeshraniční
+certifikátem \\\\\\\\\\\\\\\\\\["Transboundary Parks"](https://www.europarc.org/bavarian-forest-sumava-national-parks/?utm_source=ep&utm_medium=search&utm_campaign=linktrack&utm_content=results). Cílem projektu je vytvoření funkční infrastruktury přeshraniční
 monitorovací sítě a historicky první společné provedení a vyhodnocení monitoringu biodiversity lesů,
 rašelinišť a vod v obou národních parcích za využití společných moderních metod. Získaná data budou
 významným podkladem pro další kroky směřující ke sbližování ochranářského managementu ve
