@@ -3,8 +3,6 @@ title: mgrBc
 ---
 <div class="cz">
 
-<div class="project-publication">
-
 **Obhájené disertační práce**
 
 [Aquatic invertebrate persistence in intermittent streams](https://is.muni.cz/th/if9fw/), Mgr. Bc. Barbora Loskotová, Ph.D., 2022
@@ -22,8 +20,6 @@ title: mgrBc
 [Životní strategie pijavic (Clitellata: Hirudinida) v podmínkách stojatých a tekoucích vod](https://is.muni.cz/th/zd8qi/), Mgr. Nela Kubová, Ph.D., 2015
 
 [Prostorová distribuce vodních bezobratlých krenálních stanovišť: variabilita a ekologické vztahy na malé škále](https://is.muni.cz/th/mgebp/), Mgr. Vendula Polášková, Ph.D., 2014
-
-</div>
 
 **Mgr. Studenti**
 
