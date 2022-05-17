@@ -3,6 +3,8 @@ title: mgrBc
 ---
 <div class="cz">
 
+<div class="project-publication">
+
 **Obhájené disertační práce**
 
 [Aquatic invertebrate persistence in intermittent streams](https://is.muni.cz/th/if9fw/), Mgr. Bc. Barbora Loskotová, Ph.D., 2022
@@ -21,6 +23,8 @@ title: mgrBc
 
 [Prostorová distribuce vodních bezobratlých krenálních stanovišť: variabilita a ekologické vztahy na malé škále](https://is.muni.cz/th/mgebp/), Mgr. Vendula Polášková, Ph.D., 2014
 
+</div>
+
 **Mgr. Studenti**
 
 [Bc. Alexandra Černá](https://is.muni.cz/auth/osoba/437080)
@@ -35,6 +39,10 @@ title: mgrBc
 
 [Jiří Kopřiva](https://is.muni.cz/auth/osoba/499691)
 
+[Matěj Kořínek](https://is.muni.cz/auth/osoba/499816)
+
+[Zuzana Kožnárková](https://is.muni.cz/auth/osoba/502395)
+
 [Zuzana Macháčková](https://is.muni.cz/auth/osoba/500090)
 
 [Albín Pařízek](https://is.muni.cz/auth/osoba/493658)
@@ -43,7 +51,11 @@ title: mgrBc
 
 [Dominik Pliska](https://is.muni.cz/auth/osoba/499022)
 
+[Veronika Riplová](https://is.muni.cz/auth/osoba/509381)
+
 [Barbora Řehůřková](https://is.muni.cz/auth/osoba/499376)
+
+[Dominika Šúrová](https://is.muni.cz/auth/osoba/509246)
 
 </div>
 <div class="en">
@@ -60,6 +72,10 @@ title: mgrBc
 **Bc. Students**\
 [Jiří Kopřiva](https://is.muni.cz/auth/osoba/499691)
 
+[Matěj Kořínek](https://is.muni.cz/auth/osoba/499816)
+
+[Zuzana Kožnárková](https://is.muni.cz/auth/osoba/502395)
+
 [Zuzana Macháčková](https://is.muni.cz/auth/osoba/500090)
 
 [Albín Pařízek](https://is.muni.cz/auth/osoba/493658)
@@ -68,7 +84,11 @@ title: mgrBc
 
 [Dominik Pliska](https://is.muni.cz/auth/osoba/499022)
 
+[Veronika Riplová](https://is.muni.cz/auth/osoba/509381)
+
 [Barbora Řehůřková](https://is.muni.cz/auth/osoba/499376)
+
+[Dominika Šúrová](https://is.muni.cz/auth/osoba/509246)
 
 - - -
 
