@@ -89,7 +89,7 @@ clitellate (Annelida: Clitellata) assemblages. *Biologia* 69: 1179–1189. [PDF]
 
 **Obhájené disertační práce**
 
-*Sylvie Růžičková* 2016. [Vliv oteplených důlních vod na vybrané skupiny organismů v malém toku.](https://is.muni.cz/th/okij3/)
+*Sylvie Růžičková* 2016. [Vliv oteplených důlních vod na vybrané skupiny organismů v malém toku](https://is.muni.cz/th/okij3/).
 
 **Obhájené diplomové a bakalářské práce**
 
