@@ -147,7 +147,11 @@ T.G.M. v.v.i.
 
 <div class="project-theses">
 
-**Obhájené diplomové a bakalářské práce s tematikou vysychavých toků**
+**Obhájené disertační práce**
+
+Barbora Loskotová 2022. [Aquatic macroinvertebrate persistence in intermittent streams](https://is.muni.cz/th/if9fw/).
+
+**Obhájené diplomové a bakalářské práce**
 
 *Alena Dostálová* 2018. [Vliv vysychání toků na populační strukturu a fekunditu blešivce potočního (*Gammarus fossarum*)](https://is.muni.cz/th/lxojn/). \[DP]
 
