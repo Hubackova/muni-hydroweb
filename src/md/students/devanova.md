@@ -1,18 +1,16 @@
 ---
 title: devanova
 name: Mgr. Alžběta Devánová
-thesis: >-
-  Ekologické a historické determinanty výskytu velkých lupenonohých korýšů v
-  Panonské oblasti
-thesisEn: >-
-  Ekologické a historické determinanty výskytu velkých lupenonohých korýšů v
-  Panonské oblasti
-supervisor: 'prof. RNDr. Michal Horsák, Ph.D.'
+thesis: Ekologické a historické determinanty výskytu velkých lupenonohých korýšů
+  v Panonské oblasti
+thesisEn: Ekologické a historické determinanty výskytu velkých lupenonohých
+  korýšů v Panonské oblasti
+supervisor: prof. RNDr. Michal Horsák, Ph.D.
 email: 437390@mail.muni.cz
 phone: 549498559
-room: A32/313
-is: 'https://is.muni.cz/auth/osoba/437390'
-rg: '-'
+room: D32/313
+is: https://is.muni.cz/auth/osoba/437390
+rg: "-"
 image: /images/phd_devanova.jpg
 ---
 <div class="cz">
