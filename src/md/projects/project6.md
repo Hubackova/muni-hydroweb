@@ -71,7 +71,7 @@ Notostraca, Spinicaudata) na Znojemsku. *Thayensia (Znojmo)* 11: 89–106. [PDF]
 
 *Černá A.* 2021. [Vodní ploštice a brouci v biotopech polních mokřadů](https://is.muni.cz/th/zqvfd/). Bakalářská práce
 
-*Menšíková K.* 2021. [Hnízdění vodouše rudonohého (Tringa totanus) v mokřadech zemědělské krajiny](https://is.muni.cz/th/i1z6j/) Bakalářská práce
+*Menšíková K.* 2021. [Hnízdění vodouše rudonohého (Tringa totanus) v mokřadech zemědělské krajiny](https://is.muni.cz/th/i1z6j/). Bakalářská práce
 
 *Gvozdjáková D.* 2021. [Ekologie a biologie zooplanktonu ve vysychavých vodách polních rozlivů](https://is.muni.cz/th/jle5m/). Diplomová práce
 
