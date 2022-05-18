@@ -168,7 +168,7 @@ bezobratlých osidlující vyschlé toky zjištěné odchytem do zemních pastí
 
 *Jiří Habarta* 2013. [Typy životních cyklů pošvatek (Plecoptera) ve vysychavém toku](https://is.muni.cz/th/foavd/). \[BP]
 
-*Eva Hanáková* 2012. [Změny prostorové distribuce makro- a meiobentosu v dnových sedimentech vysychavých toků](https://is.muni.cz/th/nn3dy/) \[DP]
+*Eva Hanáková* 2012. [Změny prostorové distribuce makro- a meiobentosu v dnových sedimentech vysychavých toků](https://is.muni.cz/th/nn3dy/). \[DP]
 
 *Eva Hanáková* 2009. [Vertikální distribuce makrozoobentosu vysychavého toku](https://is.muni.cz/th/v5ev2/). \[BP]
 
