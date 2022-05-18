@@ -11,7 +11,7 @@ is: https://www.muni.cz/lide/263064-barbora-loskotova
 rg: https://www.researchgate.net/profile/Barbora-Loskotova
 image: images/staff_loskotova.jpg
 ---
-<div class="cz>
+<div class="cz">
 
 Je absolventkou magisterského studia oboru Zoologie a postgraduálního studia oboru Hydrobiologie na Masarykově univerzitě. Od roku 2017 působí jako odborná pracovnice na Ústavu botaniky a zoologie MUNI, PřF. Zaměřuje se na výzkum ekologie společenstev makrozoobentosu ve vysychavých tocích. Její taxonomickou specializací jsou larvy pošvatek (Plecoptera).
 
