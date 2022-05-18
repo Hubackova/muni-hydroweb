@@ -61,7 +61,7 @@ Merta L., Zavadil V. & Sychra J. 2016: *Atlas rozšíření velkých lupenonožc
 Agentura ochrany přírody a krajiny ČR. 111 pp. [PDF](https://www.ochranaprirody.cz/res/archive/359/050195.pdf?seek=1494943795)
 
 Reiter A., Merta L. & Sychra J. 2014: Nové nálezy velkých lupenonožců (Crustacea: Anostraca,
-Notostraca, Spinicaudata) na Znojemsku. *Thayensia (Znojmo)* 11: 89–106.
+Notostraca, Spinicaudata) na Znojemsku. *Thayensia (Znojmo)* 11: 89–106. [PDF](https://nppodyji.env.cz/uploads/soubory/thayensia/cislo11/03_reiter_et_al_89_106_web.pdf)
 
 </div>
 
