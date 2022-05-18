@@ -1,14 +1,14 @@
 ---
 title: sychra
 order: 6
-name: 'Mgr. Jan Sychra, Ph.D.'
+name: Mgr. Jan Sychra, Ph.D.
 position: LEKTOR
 positionEn: LEKTOR
 email: honzas@mail.muni.cz
 phone: 549498564
-room: A32/322
-is: 'https://www.muni.cz/lide/13696-jan-sychra'
-rg: 'https://www.researchgate.net/profile/Jan_Sychra'
+room: D32/322
+is: https://www.muni.cz/lide/13696-jan-sychra
+rg: https://www.researchgate.net/profile/Jan_Sychra
 image: /images/staff_sychra.jpg
 ---
 <div class="cz">
