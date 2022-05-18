@@ -103,33 +103,33 @@ richness. *Canadian Journal of Fisheries and Aquatic Sciences* 70: 689–700. [P
 
 **Obhájené disertační práce**
 
-*Rádková V.* 2016. [The influence of environmental variables and dispersal abilities on distribution of aquatic macroinvertebrate larvae in isolated spring fens.](https://is.muni.cz/th/bxrpa/)
+*Rádková V.* 2016. [The influence of environmental variables and dispersal abilities on distribution of aquatic macroinvertebrate larvae in isolated spring fens](https://is.muni.cz/th/bxrpa/).
 
-*Křoupalová V.* 2014. [Prostorová distribuce vodních bezobratlých krenálních stanovišť: variabilita a ekologické vztahy na malé škále.](https://is.muni.cz/th/mgebp/)
+*Křoupalová V.* 2014. [Prostorová distribuce vodních bezobratlých krenálních stanovišť: variabilita a ekologické vztahy na malé škále](https://is.muni.cz/th/mgebp/).
 
 *Omelková M.* 2012. [Druhová skladba a ekologie dvoukřídlých (Diptera) na prameništních slatiništích, se zřetelem na vybrané taxonomické problémy čeledi koutulovití (Psychodidae)](https://is.muni.cz/th/w4lkc/).
 
-*Bojková J.* 2009. [Variabilita makrozoobentosu podél minerálně trofického gradientu prameništních slatinišť.](https://is.muni.cz/th/v033h/)
+*Bojková J.* 2009. [Variabilita makrozoobentosu podél minerálně trofického gradientu prameništních slatinišť](https://is.muni.cz/th/v033h/).
 
 **Obhájené diplomové práce**
 
-*Havlík T.* 2017. [Vliv disperze na strukturu společenstev vodních brouků (Coleoptera) izolovaných slatinišť.](https://is.muni.cz/th/394417/prif_b/?lang=cs)
+*Havlík T.* 2017. [Vliv disperze na strukturu společenstev vodních brouků (Coleoptera) izolovaných slatinišť](https://is.muni.cz/th/394417/prif_b/?lang=cs).
 
-*Výravský D.* 2016. [Mikrodistribuce lasturnatek (Ostracoda) na heterogenním prameništním slatiništi.](https://is.muni.cz/th/376313/prif_b/)
+*Výravský D.* 2016. [Mikrodistribuce lasturnatek (Ostracoda) na heterogenním prameništním slatiništi](https://is.muni.cz/th/376313/prif_b/).
 
-*Zajacová J.* 2016. [Druhová variabilita chrostíků (Trichoptera) na slatiništích ve vztahu ke společenstvům okolních potoků.](https://is.muni.cz/th/j19xj/)
+*Zajacová J.* 2016. [Druhová variabilita chrostíků (Trichoptera) na slatiništích ve vztahu ke společenstvům okolních potoků](https://is.muni.cz/th/j19xj/).
 
-*Bílková M.* 2014. [Geografická a ekologická variabilita opaskovců (Clitellata) prameništních slatinišť v Západních Karpatech.](https://is.muni.cz/th/pvom8?lang=cs)
+*Bílková M.* 2014. [Geografická a ekologická variabilita opaskovců (Clitellata) prameništních slatinišť v Západních Karpatech](https://is.muni.cz/th/pvom8?lang=cs).
 
-*Doležalová S.* 2014. [Taxocenózy plazivek (Copepoda: Harpacticoida) vybraných potoků Bílých Karpat: vliv mesohabitatu.](https://is.muni.cz/th/cd1vd/?id=250558)
+*Doležalová S.* 2014. [Taxocenózy plazivek (Copepoda: Harpacticoida) vybraných potoků Bílých Karpat: vliv mesohabitatu](https://is.muni.cz/th/cd1vd/?id=250558).
 
-*Hřívová D.* 2014. [Taxocenózy plazivek (Copepoda: Harpacticoida) na prameništních slatiništích Západních Karpat.](https://is.muni.cz/th/w43hj/)
+*Hřívová D.* 2014. [Taxocenózy plazivek (Copepoda: Harpacticoida) na prameništních slatiništích Západních Karpat](https://is.muni.cz/th/w43hj/).
 
-*Rádková V.* 2011. [Makrozoobentos pramenných stružek slatinišť moravsko-slovenského pomezí.](https://is.muni.cz/th/egopp/)
+*Rádková V.* 2011. [Makrozoobentos pramenných stružek slatinišť moravsko-slovenského pomezí](https://is.muni.cz/th/egopp/).
 
-*Nováček O.* 2010. [Struktura a složení taxocenóz lasturnatek (Ostracoda) podél gradientu minerální bohatosti prameništních slatinišť.](https://is.muni.cz/th/spdg1/)
+*Nováček O.* 2010. [Struktura a složení taxocenóz lasturnatek (Ostracoda) podél gradientu minerální bohatosti prameništních slatinišť](https://is.muni.cz/th/spdg1/).
 
-*Křoupalová V.* 2008. [Prostorová variabilita makrozoobentosu: srovnání dvou minerálně odlišných pramenišť.](https://is.muni.cz/th/106044/prif_m/)
+*Křoupalová V.* 2008. [Prostorová variabilita makrozoobentosu: srovnání dvou minerálně odlišných pramenišť](https://is.muni.cz/th/106044/prif_m/).
 
 </div>
 </div>
