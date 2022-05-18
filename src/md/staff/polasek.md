@@ -6,7 +6,7 @@ position: VÝZKUMNÍK
 positionEn: VÝZKUMNÍK
 email: m.polasek@mail.muni.cz
 phone: 549498174
-room: A32/316
+room: D32/316
 is: https://www.muni.cz/lide/136750-marek-polasek
 rg: "https://www.researchgate.net/profile/Marek_Polasek2 "
 image: /images/staff_polasek.jpg
