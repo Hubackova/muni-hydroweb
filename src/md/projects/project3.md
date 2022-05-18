@@ -149,7 +149,7 @@ T.G.M. v.v.i.
 
 **Obhájené disertační práce**
 
-Barbora Loskotová 2022. [Aquatic macroinvertebrate persistence in intermittent streams](https://is.muni.cz/th/if9fw/).
+*Barbora Loskotová* 2022. [Aquatic macroinvertebrate persistence in intermittent streams](https://is.muni.cz/th/if9fw/).
 
 **Obhájené diplomové a bakalářské práce**
 
