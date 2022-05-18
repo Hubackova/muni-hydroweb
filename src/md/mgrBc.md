@@ -23,7 +23,7 @@ title: mgrBc
 
 [Prostorová distribuce vodních bezobratlých krenálních stanovišť: variabilita a ekologické vztahy na malé škále](https://is.muni.cz/th/mgebp/), Mgr. Vendula Polášková, Ph.D., 2014
 
-[Druhová skladba a ekologie dvoukřídlých (Diptera) na prameništních slatiništích, se zřetelem na vybrané taxonomické problémy čeledi koutulovití (Psychodidae)](https://is.muni.cz/th/w4lkc/), Mgr. Markéta Omelková, Ph.D., 2012
+[Druhová skladba a ekologie dvoukřídlých (Diptera) na prameništních slatiništích, se zřetelem na vybrané taxonomické problémy čeledi koutulovití (Psychodidae)](https://is.muni.cz/th/w4lkc/), Mgr. Markéta Omelková, Ph.D., 2010
 
 </div>
 
