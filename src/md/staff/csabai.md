@@ -6,7 +6,7 @@ position: VÝZKUMNÍK
 positionEn: VÝZKUMNÍK
 email: csabai@gamma.ttk.pte.hu
 phone: 549498563
-room: A32/321
+room: D32/321
 is: https://www.muni.cz/lide/244670-zoltan-szabolcs-csabai
 rg: https://www.researchgate.net/profile/Zoltan_Csabai2
 image: /images/staff_csabai.jpg
