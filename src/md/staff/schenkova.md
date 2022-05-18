@@ -1,14 +1,14 @@
 ---
 title: schenkova
 order: 2
-name: 'Doc. RNDr. Jana Schenková, Ph.D.'
+name: Doc. RNDr. Jana Schenková, Ph.D.
 position: DOCENTKA
 positionEn: DOCENTKA
 email: schenk@sci.muni.cz
 phone: 549496959
-room: A32/315
-is: 'https://www.muni.cz/lide/1981-jana-schenkova'
-rg: 'https://www.researchgate.net/profile/Jana_Schenkova'
+room: D32/315
+is: https://www.muni.cz/lide/1981-jana-schenkova
+rg: https://www.researchgate.net/profile/Jana_Schenkova
 image: /images/staff_schenkova.jpg
 ---
 <div class="cz">
