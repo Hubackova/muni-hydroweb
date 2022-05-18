@@ -81,7 +81,7 @@ community of a stream affected by mineralized heated mining water inflow. *Annal
 International Journal of Limnology* 53: 189–201. [PDF](https://doi.org/10.1051/limn/2017003)
 
 Růžičková S., Schenková J., Weissová V. & Helešic J. 2014: Environmental impact of heated mining waters on
-clitellate (Annelida: Clitellata) assemblages. *Biologia* 69/9: 1179–1189. [PDF](https://link.springer.com/content/pdf/10.2478/s11756-014-0424-2.pdf)
+clitellate (Annelida: Clitellata) assemblages. *Biologia* 69: 1179–1189. [PDF](https://link.springer.com/content/pdf/10.2478/s11756-014-0424-2.pdf)
 
 </div>
 
