@@ -1,18 +1,16 @@
 ---
 title: vyravsky
 name: Mgr. David Výravský
-thesis: >-
-  Životní strategie lasturnatek (Ostracoda) na prameništních slatiništích
+thesis: Životní strategie lasturnatek (Ostracoda) na prameništních slatiništích
   Západních Karpat
-thesisEn: >-
-  Životní strategie lasturnatek (Ostracoda) na prameništních slatiništích
-  Západních Karpat
-supervisor: 'Mgr. Marie Zhai, Ph.D.'
+thesisEn: Životní strategie lasturnatek (Ostracoda) na prameništních
+  slatiništích Západních Karpat
+supervisor: Mgr. Marie Zhai, Ph.D.
 email: vyrius@gmail.com
 phone: 549498559
-room: A32/313
-is: 'https://www.muni.cz/lide/376313-david-vyravsky'
-rg: 'https://www.researchgate.net/profile/David_Vyravsky'
+room: D32/313
+is: https://www.muni.cz/lide/376313-david-vyravsky
+rg: https://www.researchgate.net/profile/David_Vyravsky
 image: /images/phd_vyravsky.jpg
 ---
 <div class="cz">
