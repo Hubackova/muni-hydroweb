@@ -138,7 +138,7 @@ Gabreta* 24: 171–211. [PDF](http://www.npsumava.cz/gallery/38/11665-9_sg_24_bo
 
 *Fišarová K.* 2019. [Kolonizace toků bentickými bezobratlými: procesy a dynamika](https://is.muni.cz/th/k8su9/). Bakalářská práce
 
-Kozlová K. 2019. [Vážky (Odonata) vrchovištních jezírek na Šumavě](https://is.muni.cz/th/mvhse/). Bakalářská práce 
+*Kozlová K.* 2019. [Vážky (Odonata) vrchovištních jezírek na Šumavě](https://is.muni.cz/th/mvhse/). Bakalářská práce 
 
 *Pěničková S*. 2019. [Diverzita chrostíků (Trichoptera) tekoucích vod Šumavy](https://is.muni.cz/th/xjrd7/). Bakalářská práce
 
@@ -154,9 +154,9 @@ studie z Vltavského luhu (NP Šumava)](https://is.muni.cz/th/gro6o/). Bakalář
 </div>
 
 <div class="en">
-V rámci Programu přeshraniční spolupráce České republiky a Bavorska se podílíme na projektu \\\\\\\\\\\\\\\\\\[Silva
+V rámci Programu přeshraniční spolupráce České republiky a Bavorska se podílíme na projektu \\\\\\\\\\\\\\\\\\\[Silva
 Gabreta Monitoring](http://www.silvagabreta.eu/index.html.cs) zaměřeném na Národní parky Šumava a Bavorský les, které byly oceněny
-certifikátem \\\\\\\\\\\\\\\\\\["Transboundary Parks"](https://www.europarc.org/bavarian-forest-sumava-national-parks/?utm_source=ep&utm_medium=search&utm_campaign=linktrack&utm_content=results). Cílem projektu je vytvoření funkční infrastruktury přeshraniční
+certifikátem \\\\\\\\\\\\\\\\\\\["Transboundary Parks"](https://www.europarc.org/bavarian-forest-sumava-national-parks/?utm_source=ep&utm_medium=search&utm_campaign=linktrack&utm_content=results). Cílem projektu je vytvoření funkční infrastruktury přeshraniční
 monitorovací sítě a historicky první společné provedení a vyhodnocení monitoringu biodiversity lesů,
 rašelinišť a vod v obou národních parcích za využití společných moderních metod. Získaná data budou
 významným podkladem pro další kroky směřující ke sbližování ochranářského managementu ve
