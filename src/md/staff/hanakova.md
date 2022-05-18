@@ -6,9 +6,9 @@ position: LABORATORNÍ TECHNIČKA
 positionEn: LABORATORNÍ TECHNIČKA
 email: evahanakova@seznam.cz
 phone: 549498576
-room: A32/325
-is: 'https://www.muni.cz/lide/223063-eva-hanakova'
-rg: '-'
+room: D32/325
+is: https://www.muni.cz/lide/223063-eva-hanakova
+rg: "-"
 image: /images/staff_hanakova.jpg
 ---
 <div class="cz">
