@@ -6,7 +6,7 @@ thesis: "Dlouhodobé odpovědi makrozoobentosu na antropické disturbance: vlivy
 thesisEn: "Dlouhodobé odpovědi makrozoobentosu na antropické disturbance: vlivy
   znečištění, změny habitatů a klimatických změn"
 supervisor: Mgr. Jindřiška Bojková, Ph.D.
-email: 451725@mail.muni.cz
+email: selma.dedonnova@gmail.com
 phone: 549498559
 room: D32/313
 is: https://is.muni.cz/auth/osoba/451725
