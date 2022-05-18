@@ -6,7 +6,7 @@ position: VEDOUCÍ PRACOVNÍ SKUPINY
 positionEn: VEDOUCÍ PRACOVNÍ SKUPINY
 email: bojkova@sci.muni.cz
 phone: 549498577
-room: A32/327
+room: D32/327
 is: https://www.muni.cz/lide/55140-jindriska-bojkova
 rg: https://www.researchgate.net/profile/Jindriska_Bojkova
 image: /images/staff_bojkova.jpg
