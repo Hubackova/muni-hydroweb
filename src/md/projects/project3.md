@@ -75,14 +75,14 @@ Od roku 2020 se podílíme na celosvětovém projektu [DRYvER](https://www.dryve
 
 **Lidé zapojení do projektů**
 
-Petr Pařil, Marek Polášek, Barbora Loskotová, Alena Dostálová, Vendula Polášková, Michal Straka,
-Eva Hanáková, Jan Šupina, Jiří Jakubínský, Světlana Zahrádková, Jan Helešic
+Petr Pařil, Marek Polášek, Barbora Loskotová, Vendula Polášková, Michal Straka,
+Eva Hanáková, Jan Šupina, David Výravský, Světlana Zahrádková, Zoltán Csabai
 
 <div class="project-publication">
 
 **Vybrané publikace**
 
-Sánchez-Montoya M.M., Gómez R., Calvo J.F., Bartonička T., Datry T. & **Pařil P.** 2022: Ecological values of intermittent rivers for terrestrial vertebrate fauna. *Science of The Total Environment* 806:151308 [PDF](https://doi.org/10.1016/j.scitotenv.2021.151308)
+Sánchez-Montoya M.M., Gómez R., Calvo J.F., Bartonička T., Datry T. & **Pařil** P. 2022: Ecological values of intermittent rivers for terrestrial vertebrate fauna. *Science of The Total Environment* 806:151308 [PDF](https://doi.org/10.1016/j.scitotenv.2021.151308)
 
 Stubbington R., ... **Pařil** P., ... **Polášek** M., ... & Datry T. 2022: Disentangling responses to natural stressor and human impact gradients in river ecosystems across Europe. *Journal of Applied Ecology* 59: 537-548. [PDF](https://doi.org/10.1111/1365-2664.14072)
 
@@ -90,7 +90,7 @@ Crabot J., **Polášek** M., Launay B., **Pařil** P. & Datry T. 2021: Drying in
 
 Datry T., ... **Loskotová** B., ... **Pařil** P., ... **Polášek** M., ... 2021: Securing Biodiversity, Functional Integrity, and Ecosystem Services in Drying River Networks (DRYvER). *Research Ideas and Outcomes* 7: e77750. [PDF](https://doi.org/10.3897/rio.7.e77750)\
 \
-**Loskotová** B., **Straka** M., **Polášek** M., **Dostálová** A. & **Pařil** P. 2021: Macroinvertebrate seedbank survival in pristine and nutrient-enriched intermittent streams and its contribution to flow phase communities. *Hydrobiologia* 848: 1911-1923. [PDF](https://link.springer.com/article/10.1007/s10750-021-04566-1)
+**Loskotová** B., **Straka** M., **Polášek** M., Dostálová A. & **Pařil** P. 2021: Macroinvertebrate seedbank survival in pristine and nutrient-enriched intermittent streams and its contribution to flow phase communities. *Hydrobiologia* 848: 1911-1923. [PDF](https://link.springer.com/article/10.1007/s10750-021-04566-1)
 
 **Straka** M., **Polášek** M., Csabai Z., Zweidick O., Graf W., Meyer E.I., Mišíková Elexová E., Lešťáková M. & **Pařil** P. 2021: Stream drying bioindication in Central Europe: A Biodrought Index accuracy assessment. *Ecological Indicators* 130: 108045. [PDF](https://doi.org/10.1016/j.ecolind.2021.108045)
 
@@ -98,7 +98,7 @@ Sarremejane R., ...  **Pařil** P., **Polášek** M., ... & Bonada N. 2020: DISP
 
 **Loskotová** B., **Straka** M. & **Pařil** P. 2019: Sediment characteristics influence benthic macroinvertebrate vertical migrations and survival under experimental water loss conditions. *Fundamental and Applied Limnology* 193: 39-49. [PDF](https://www.schweizerbart.de/papers/fal/detail/193/91614/Sediment_characteristics_influence_benthic_macroin?af=crossref)
 
-**Pařil** P., Leigh C., **Polášek** M., Sarremejane R., Řezníčková P., **Dostálová** A. &
+**Pařil** P., Leigh C., **Polášek** M., Sarremejane R., Řezníčková P., Dostálová A. &
 Stubbington R. 2019: Short-term streambed drying events alter amphipod
 population structure in a central European stream. *Fundamental and Applied
 Limnology 193: 51-64*. [PDF](http://docserver.ingentaconnect.com/deliver/fasttrack/schweiz/18639135/fal_000_0_0000_0000_paril_1164_prepub_1547215377239.pdf?expires=1555189280&id=id22479149&checksum=030B2F8413E12D89FA0B835BCFC7715A)
@@ -155,8 +155,8 @@ T.G.M. v.v.i.
 
 *Jan Semerád* 2018 [Vodní toky jako koridory pro přesuny terestrických obratlovců](https://is.muni.cz/th/sja9w/). \[BP]
 
-*Terezie Rosová* 2018. *[Společenstvo
-bezobratlých osidlující vyschlé toky zjištěné odchytem do zemních pastí](https://is.muni.cz/th/nwt6q/)*. \[BP]
+*Terezie Rosová* 2018. [Společenstvo
+bezobratlých osidlující vyschlé toky zjištěné odchytem do zemních pastí](https://is.muni.cz/th/nwt6q/). \[BP]
 
 *Barbora Loskotová* 2017. [Možnosti využití makrozoobentosu z vyschlého dna pro indikaci doby vyschnutí toku](https://is.muni.cz/th/i6in5/). \[DP]
 
@@ -172,7 +172,7 @@ bezobratlých osidlující vyschlé toky zjištěné odchytem do zemních pastí
 
 *Eva Hanáková* 2009. [Vertikální distribuce makrozoobentosu vysychavého toku](https://is.muni.cz/th/v5ev2/). \[BP]
 
-*Jitka Krajčová* 2009. [Migrace makrozoobentosu v intermitentním toku](https://is.muni.cz/th/plqq6/) \[DP]
+*Jitka Krajčová* 2009. [Migrace makrozoobentosu v intermitentním toku](https://is.muni.cz/th/plqq6/). \[DP]
 
 *Jana Zavadilová* 2009 [Životní strategie blešivce potočního (*Gammarus fossarum*) v podmínkách intermitentního toku](https://is.muni.cz/th/w9wdp/). \[DP]
 
@@ -182,7 +182,7 @@ bezobratlých osidlující vyschlé toky zjištěné odchytem do zemních pastí
 
 *Veronika Guziurová* 2007. [Makrozoobentos intermitentního toku-průběh rekolonizace po vyschnutí](https://is.muni.cz/th/o656l/). \[BP]
 
-*Jitka Krajčová* 2007 [Driftová aktivita makrozoobentosu intermitentního toku.](https://is.muni.cz/th/mc94v/?lang=cs) \[BP]
+*Jitka Krajčová* 2007 [Driftová aktivita makrozoobentosu intermitentního toku](https://is.muni.cz/th/mc94v/?lang=cs). \[BP]
 
 </div>
 
