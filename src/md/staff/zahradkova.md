@@ -6,7 +6,7 @@ position: VÝZKUMNÍK
 positionEn: VÝZKUMNÍK
 email: zahradkova@sci.muni.cz
 phone: 549498174
-room: A32/316
+room: D32/316
 is: https://www.muni.cz/lide/2277-svetlana-zahradkova
 rg: https://www.researchgate.net/profile/Svetlana_Zahradkova
 image: /images/staff_zahradkova.jpg
