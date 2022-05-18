@@ -6,7 +6,7 @@ position: VÝZKUMNÍK
 positionEn: VÝZKUMNÍK
 email: vendula.polaskova@email.cz
 phone: 549498577
-room: A32/327
+room: D32/327
 is: https://www.muni.cz/lide/106044-vendula-polaskova
 rg: https://www.researchgate.net/profile/Vendula_Polaskova
 image: /images/staff_polaskova.jpg
