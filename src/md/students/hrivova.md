@@ -1,18 +1,16 @@
 ---
 title: hrivova
 name: Mgr. Dana Klímová Hřívová *
-thesis: >-
-  Taxocenózy plazivek (Copepoda: Harpacticoida) na prameništních slatiništích
-  Západních Karpat
-thesisEn: >-
-  Taxocenózy plazivek (Copepoda: Harpacticoida) na prameništních slatiništích
-  Západních Karpat
-supervisor: 'Mgr. Marie Zhai, Ph.D.'
+thesis: "Taxocenózy plazivek (Copepoda: Harpacticoida) na prameništních
+  slatiništích Západních Karpat"
+thesisEn: "Taxocenózy plazivek (Copepoda: Harpacticoida) na prameništních
+  slatiništích Západních Karpat"
+supervisor: Mgr. Marie Zhai, Ph.D.
 email: danaklimova9@gmail.com
 phone: 549498567
-room: A32/323
-is: 'https://www.muni.cz/lide/323984-dana-klimova-hrivova'
-rg: 'https://www.researchgate.net/profile/Dana_Klimova_Hrivova'
+room: D32/323
+is: https://www.muni.cz/lide/323984-dana-klimova-hrivova
+rg: https://www.researchgate.net/profile/Dana_Klimova_Hrivova
 image: /images/phd_hrivova.jpg
 ---
 <div class="cz">
