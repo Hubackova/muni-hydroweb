@@ -48,11 +48,8 @@ nejmodernějšími fyzikálně-chemickými metodami a tak téměř nedochází k
 okolních vod. Problémem ovšem zůstává vyšší a stálá teplota důlních vod, vysoké obsahy síranů a rozpustných
 forem železa a manganu u výtoků důlních vod do řek Nedvědičky, Loučky (povodí Svratky) a Jasinky (povodí
 Oslavy). U Nedvědičky dochází k průměrnému zvýšení teploty vody (i vlivem oteplených vod z chemické
-úpravny rud) o 1,8 °C a k absenci zimního zamrzání. Situace na toku představuje vhodný model pro studium
-oteplení vod vlivem globálních klimatických změn. K tomu se přidává vliv silného srážení železa a manganu,
-včetně inkrustace dnových sedimentů. Drobné toky a výtoky důlních vod jsou sledovány od roku 1990 a tak
-jsou zjištěné změny ve společenstvech vodních organizmů dobrým příkladem a modelem přirozených
-rekolonizací a revitalizací.
+úpravny rud) o 1,8 °C a k absenci zimního zamrzání. K tomu se přidává vliv silného srážení železa a manganu,
+včetně inkrustace dnových sedimentů. Drobné toky a výtoky důlních vod jsou sledovány od roku 1990.
 
 **Podpora projektů**
 
