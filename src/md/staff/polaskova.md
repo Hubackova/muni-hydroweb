@@ -13,12 +13,11 @@ image: /images/staff_polaskova.jpg
 ---
 <div class="cz">
 
-
 Jsem absolventkou postgraduálního studia oboru hydrobiologie na Přírodovědecké fakultě
  Masarykovy univerzity, kde od roku 2011 pracuji jako odborný pracovník na Ústavu botaniky a
  zoologie.
 
-**Výzkumná témata:**
+**Výzkumná témata**
 
 * Ekologické vztahy vodních bezobratlých pramenných stanovišť
 * Prostorová distribuce vodních bezobratlých na malých škálách
@@ -29,12 +28,11 @@ Jsem absolventkou postgraduálního studia oboru hydrobiologie na Přírodověde
 
 <div class="en">
 
-
 Jsem absolventkou postgraduálního studia oboru hydrobiologie na Přírodovědecké fakultě
  Masarykovy univerzity, kde od roku 2011 pracuji jako odborný pracovník na Ústavu botaniky a
  zoologie.
 
-**Research topics:**
+**Research Topics**
 
 * Ekologické vztahy vodních bezobratlých pramenných stanovišť
 * Prostorová distribuce vodních bezobratlých na malých škálách
