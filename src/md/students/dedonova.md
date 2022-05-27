@@ -15,7 +15,7 @@ image: /images/phd_dedonova.jpg
 ---
 <div class="cz">
 
-**Výzkumná témata:**
+**Výzkumná témata**
 
 * Diverzita a ekologie jepic (Ephemeroptera)
 * Vývoj společenstev makrozoobentosu toků NP Šumava po revitalizacích
@@ -25,7 +25,7 @@ image: /images/phd_dedonova.jpg
 
 <div class="en">
 
-**Research topics:**
+**Research Topics**
 
 * Diverzita a ekologie jepic (Ephemeroptera)
 * Vývoj společenstev makrozoobentosu toků NP Šumava po revitalizacích
