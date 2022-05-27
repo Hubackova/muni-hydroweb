@@ -284,13 +284,13 @@ T.G.M. v.v.i.
 
 **Defended dissertation thesis**
 
-*Barbora Loskotová* 2022. [Aquatic macroinvertebrate persistence in intermittent streams](https://is.muni.cz/th/if9fw/).
+*Barbora Loskotová* 2022. [Aquatic macroinvertebrate persistence in intermittent streams](https://is.muni.cz/th/if9fw/Loskotova_B_PhD_thesis_2022.pdf?lang=en;info=1).
 
 **Defended master and bachelor theses**
 
-*Alena Dostálová* 2018. [Vliv vysychání toků na populační strukturu a fekunditu blešivce potočního (*Gammarus fossarum*)](https://is.muni.cz/th/lxojn/). \[DP]
+*Alena Dostálová* 2018. [](https://is.muni.cz/th/lxojn/)[Impact of drying up of streams on population structure and fecundity of freshwater gammarid *Gammarus fossarum*](https://is.muni.cz/th/lxojn/?lang=en). \[MT]
 
-*Jindřich Havelka* 2018. [Potenciál dna vysychavých toků pro obnovu populací vodních bezobratlých po obnovení průtoku](https://is.muni.cz/th/aznik/). \[DP]
+*Jindřich Havelka* 2018. [Potential of intermittent stream bed sediment for recovery of aquatic macroinvertebrate populations after flow resumption](https://is.muni.cz/th/aznik/?lang=en). \[MT]
 
 *Jan Semerád* 2018 [Vodní toky jako koridory pro přesuny terestrických obratlovců](https://is.muni.cz/th/sja9w/). \[BP]
 
