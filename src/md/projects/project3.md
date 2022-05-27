@@ -82,7 +82,7 @@ Eva Hanáková, Jan Šupina, David Výravský, Světlana Zahrádková, Zoltán C
 
 **Vybrané publikace**
 
-Sánchez-Montoya M.M., Gómez R., Calvo J.F., Bartonička T., Datry T. & **Pařil** P. 2022: Ecological values of intermittent rivers for terrestrial vertebrate fauna. *Science of The Total Environment* 806:151308 [PDF](https://doi.org/10.1016/j.scitotenv.2021.151308)
+Sánchez-Montoya M.M., Gómez R., Calvo J.F., Bartonička T., Datry T. & **Pařil** P. 2022: Ecological values of intermittent rivers for terrestrial vertebrate fauna. *Science of The Total Environment* 806:151308. [PDF](https://doi.org/10.1016/j.scitotenv.2021.151308)
 
 Stubbington R., ... **Pařil** P., ... **Polášek** M., ... & Datry T. 2022: Disentangling responses to natural stressor and human impact gradients in river ecosystems across Europe. *Journal of Applied Ecology* 59: 537-548. [PDF](https://doi.org/10.1111/1365-2664.14072)
 
@@ -219,7 +219,7 @@ Since 2020 we have participated in the global [DRYvER](https://www.dryver.eu/) (
 
 **Selected Publications**
 
-Sánchez-Montoya M.M., Gómez R., Calvo J.F., Bartonička T., Datry T. & **Pařil** P. 2022: Ecological values of intermittent rivers for terrestrial vertebrate fauna. *Science of The Total Environment* 806:151308 [PDF](https://doi.org/10.1016/j.scitotenv.2021.151308)
+Sánchez-Montoya M.M., Gómez R., Calvo J.F., Bartonička T., Datry T. & **Pařil** P. 2022: Ecological values of intermittent rivers for terrestrial vertebrate fauna. *Science of The Total Environment* 806:151308. [PDF](https://doi.org/10.1016/j.scitotenv.2021.151308)
 
 Stubbington R., ... **Pařil** P., ... **Polášek** M., ... & Datry T. 2022: Disentangling responses to natural stressor and human impact gradients in river ecosystems across Europe. *Journal of Applied Ecology* 59: 537-548. [PDF](https://doi.org/10.1111/1365-2664.14072)
 
