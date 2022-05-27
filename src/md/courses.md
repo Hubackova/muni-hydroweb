@@ -113,13 +113,13 @@ prof. RNDr. Jaroslav Vrba CSc., **doc. RNDr. Jan Helešic, Ph.D.**, **Mgr. Jind�
 
 - - -
 
-[Fylogeneze a diverzita bezobratlých - cvičení Bi1030c](https://is.muni.cz/predmet/sci/podzim2022/Bi1030c)\
+[Invertebrate phylogeny and diversity - practical course Bi1030c](https://is.muni.cz/predmet/sci/podzim2022/Bi1030c?lang=en)\
 **doc. RNDr. Jana Schenková, Ph.D.**
 
-[Fylogeneze a diverzita obratlovců - cvičení Bi2090c](https://is.muni.cz/predmet/sci/jaro2023/Bi2090c)\
+[Vertebrate phylogeny and diversity - practical course Bi2090c](https://is.muni.cz/predmet/sci/jaro2023/Bi2090c?lang=en)\
 doc. Mgr. Tomáš Bartonička, Ph.D., **Mgr. Jan Sychra, Ph.D.**
 
-[Management ohrožených ekosystémů Bi7113](https://is.muni.cz/predmet/sci/podzim2022/Bi7113)\
+[Management of endangered ecosystems Bi7113](https://is.muni.cz/predmet/sci/podzim2022/Bi7113?lang=en)\
 **RNDr. Petr Pařil, Ph.D.**, **Mgr. Jan Sychra, Ph.D.**, doc. Mgr. Lubomír Tichý, Ph.D.
 
 [Ochrana živočišných druhů Bi7112](https://is.muni.cz/predmet/sci/podzim2022/Bi7112)\
