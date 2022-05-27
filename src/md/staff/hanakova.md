@@ -3,7 +3,7 @@ title: hanakova
 order: 15
 name: Mgr. Eva Hanáková
 position: LABORATORNÍ TECHNIČKA
-positionEn: LABORATORNÍ TECHNIČKA
+positionEn: LABORATORY TECHNICIAN
 email: evahanakova@seznam.cz
 phone: 549498576
 room: D32/325
