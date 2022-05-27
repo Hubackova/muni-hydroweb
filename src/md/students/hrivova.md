@@ -15,7 +15,7 @@ image: /images/phd_hrivova.jpg
 ---
 <div class="cz">
 
-**Výzkumná témata:**
+**Výzkumná témata**
 
 * Ekologické nároky sladkovodních plazivek
 * Genetická variabilita sladkovodních klanonožců
@@ -25,7 +25,7 @@ image: /images/phd_hrivova.jpg
 
 <div class="en">
 
-**Research topics:**
+**Research Topics**
 
 * Ekologické nároky sladkovodních plazivek
 * Genetická variabilita sladkovodních klanonožců
