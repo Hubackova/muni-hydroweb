@@ -219,15 +219,15 @@ richness. *Canadian Journal of Fisheries and Aquatic Sciences* 70: 689–700. [P
 
 **Defended Master theses**
 
-*Havlík T.* 2017. [Vliv disperze na strukturu společenstev vodních brouků (Coleoptera) izolovaných slatinišť](https://is.muni.cz/th/394417/prif_b/?lang=cs).
+*Havlík T.* 2017. [](https://is.muni.cz/th/394417/prif_b/?lang=cs)[Effect of dispersal on structuring aquatic beetle (Coleoptera) assemblages in isolated spring fens](https://is.muni.cz/th/sd049/?lang=en).
 
-*Výravský D.* 2016. [Mikrodistribuce lasturnatek (Ostracoda) na heterogenním prameništním slatiništi](https://is.muni.cz/th/376313/prif_b/).
+*Výravský D.* 2016. [](https://is.muni.cz/th/376313/prif_b/)[Microdistribution of ostracods in a heterogeneous spring fen](https://is.muni.cz/th/vd5wt/?lang=en).
 
-*Zajacová J.* 2016. [Druhová variabilita chrostíků (Trichoptera) na slatiništích ve vztahu ke společenstvům okolních potoků](https://is.muni.cz/th/j19xj/).
+*Zajacová J.* 2016. [](https://is.muni.cz/th/j19xj/)[Species variability of caddisflies (Trichoptera) in spring fens related to their assemblages in neighbouring brooks](https://is.muni.cz/th/c3mhf/?lang=en).
 
-*Bílková M.* 2014. [Geografická a ekologická variabilita opaskovců (Clitellata) prameništních slatinišť v Západních Karpatech](https://is.muni.cz/th/pvom8?lang=cs).
+*Bílková M.* 2014. [](https://is.muni.cz/th/pvom8?lang=cs)[Geographical and ecological variability of clitellate (Clitellata) assemblages in spring fens of the Western Carpathians](https://is.muni.cz/th/pvom8/?lang=en).
 
-*Doležalová S.* 2014. [Taxocenózy plazivek (Copepoda: Harpacticoida) vybraných potoků Bílých Karpat: vliv mesohabitatu](https://is.muni.cz/th/cd1vd/?id=250558).
+*Doležalová S.* 2014. [](https://is.muni.cz/th/cd1vd/?id=250558)[Harpacticoid assemblages (Copepoda: Harpacticoida) in selected streams of the White Carpathians: the effect of mesohabitat](https://is.muni.cz/th/cd1vd/?lang=en).
 
 *Hřívová D.* 2014. [Taxocenózy plazivek (Copepoda: Harpacticoida) na prameništních slatiništích Západních Karpat](https://is.muni.cz/th/w43hj/).
 
