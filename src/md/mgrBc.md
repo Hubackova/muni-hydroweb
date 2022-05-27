@@ -66,7 +66,7 @@ title: mgrBc
 
 <div class="project-publication">
 
-**Defended Dissertation Theses**
+**Defended Doctoral Theses**
 
 [Aquatic macroinvertebrate persistence in intermittent streams](https://is.muni.cz/th/if9fw/Loskotova_B_PhD_thesis_2022.pdf?lang=en;info=1). Mgr. Bc. Barbora Loskotová, Ph.D., 2022
 
