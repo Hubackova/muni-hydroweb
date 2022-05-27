@@ -207,15 +207,15 @@ richness. *Canadian Journal of Fisheries and Aquatic Sciences* 70: 689–700. [P
 
 <div class="project-theses">
 
-**Defended Dissertation theses**
+**Defended Doctoral theses**
 
-*Rádková V.* 2016. [The influence of environmental variables and dispersal abilities on distribution of aquatic macroinvertebrate larvae in isolated spring fens](https://is.muni.cz/th/bxrpa/).
+*Rádková V.* 2016. [The influence of environmental variables and dispersal abilities on distribution of aquatic macroinvertebrate larvae in isolated spring fens](https://is.muni.cz/th/bxrpa/?lang=en).
 
-*Křoupalová V.* 2014. [Prostorová distribuce vodních bezobratlých krenálních stanovišť: variabilita a ekologické vztahy na malé škále](https://is.muni.cz/th/mgebp/).
+*Křoupalová V.* 2014. [](https://is.muni.cz/th/mgebp/)[Spatial distribution of aquatic invertebrates of crenal habitats: variation and ecological relationships at a small scale](https://is.muni.cz/th/mgebp/?lang=en).
 
-*Omelková M.* 2012. [Druhová skladba a ekologie dvoukřídlých (Diptera) na prameništních slatiništích, se zřetelem na vybrané taxonomické problémy čeledi koutulovití (Psychodidae)](https://is.muni.cz/th/w4lkc/).
+*Omelková M.* 2012. [](https://is.muni.cz/th/w4lkc/)[Species composition and ecology of the True Flies (Diptera) in the Western Carpathian spring fens in consideration of the taxonomy of selected higher taxa of Moth Flies (family Psychodidae)](https://is.muni.cz/th/w4lkc/?lang=en).
 
-*Bojková J.* 2009. [Variabilita makrozoobentosu podél minerálně trofického gradientu prameništních slatinišť](https://is.muni.cz/th/v033h/).
+*Bojková J.* 2009. [](https://is.muni.cz/th/v033h/)[The variability of macroinvertebrates along the gradient of mineral richness in the Western Carpathian spring fans](https://is.muni.cz/th/v033h/?lang=en).
 
 **Defended Master theses**
 
