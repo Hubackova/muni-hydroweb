@@ -3,7 +3,7 @@ title: bojkova
 order: 1
 name: Mgr. Jindřiška Bojková, Ph.D.
 position: VEDOUCÍ PRACOVNÍ SKUPINY
-positionEn: VEDOUCÍ PRACOVNÍ SKUPINY
+positionEn: GROUP HEAD
 email: bojkova@sci.muni.cz
 phone: 549498577
 room: D32/327
