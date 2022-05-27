@@ -298,13 +298,13 @@ T.G.M. v.v.i.
 
 *Barbora Loskotová* 2017. [Usability of aquatic macroinvertebrates from dry bottom sediments for bioindication of drought duration in stream](https://is.muni.cz/th/i6in5/Diplomova_prace_Loskotova.pdf?lang=en;info=1). \[MT]
 
-*Jiří Habarta* 2016. [Potenciální využití pošvatek (Plecoptera) pro bioindikaci vysychavých toků](https://is.muni.cz/th/fp8i9/). \[MT]
+*Jiří Habarta* 2016. [](https://is.muni.cz/th/fp8i9/)[Potential use of stoneflies (Plecoptera) for the bioindication of intermittent streams](https://is.muni.cz/th/fp8i9/?lang=en). \[MT]
 
-*Alena Dostálová* 2016. [Změny struktury populace blešivce potočního (*Gammarus fossarum*) po vyschnutí toku](https://is.muni.cz/th/fwgb1/). \[BT]
+*Alena Dostálová* 2016. [](https://is.muni.cz/th/fwgb1/)[Post-drought changes in population structure of freshwaters shrimp (*Gammarus fossarum*) in stream](https://is.muni.cz/th/fwgb1/?lang=en). \[BT]
 
-*Barbora Loskotová* 2015. [Odolnost vybraných skupin makrozoobentosu vůči vysychání](https://is.muni.cz/th/umeoo/). \[BT]
+*Barbora Loskotová* 2015. [](https://is.muni.cz/th/umeoo/)[Drought resistance of the selected benthic invertebrates](https://is.muni.cz/th/umeoo/?lang=en). \[BT]
 
-*Jiří Habarta* 2013. [Typy životních cyklů pošvatek (Plecoptera) ve vysychavém toku](https://is.muni.cz/th/foavd/). \[BT]
+*Jiří Habarta* 2013. [](https://is.muni.cz/th/foavd/)[The life cycle types of stoneflies (Plecoptera) in intermittent stream](https://is.muni.cz/th/foavd/?lang=en). \[BT]
 
 *Eva Hanáková* 2012. [Změny prostorové distribuce makro- a meiobentosu v dnových sedimentech vysychavých toků](https://is.muni.cz/th/nn3dy/). \[MT]
 
