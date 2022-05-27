@@ -143,34 +143,42 @@ Weissová
 
 <div class="project-publication">
 
-**Vybrané publikace**
+**Selecetd Publications**
 
-Růžičková S., Schenková J., Weissová V. &amp; Helešic J. 2014. Environmental impact of heated mining waters on
-clitellate (Annelida: Clitellata) assemblages. Biologia, 69/9: 1179–1189.
+Poláková M., Straka M., Polášek M. & Němejcová D. 2022: Unexplored freshwater communities in post-mining ponds: effect of different restoration approaches. *Restoration Ecology*: e13679. [PDF](https://doi.org/10.1111/rec.13679)
 
-Polášková V., Schenková J., Bartošová M., Rádková V. &amp; Horsák M. 2017. Post-mining calcareous seepages as
-surrogate habitats for aquatic macroinvertebrate biota of vanishing calcareous spring fens. Ecological
-Engineering, 109: 119–132.
+Chmelová E., Kolar V., Jan J., Carreira B.M., Landeira-Dabarca A., Otáhalová Š., Poláková M., Vebrová L., Borovec J., Boukal D.S. & Tropek R. 2021: Valuable Secondary Habitats or Hazardous Ecological Traps? Environmental Risk Assessment of Minor and Trace Elements in Fly Ash Deposits across the Czech Republic. *Sustainability* 13: 10385. [PDF](https://doi.org/10.3390/su131810385)
 
-Žáková, S., Weissová V., Uher B. &amp; Helešic J. 2017. Macroinvertebrate herbivores and epilithon algae
-community of a stream affected by mineralized heated mining water inflow. Annales de Limnologie -
-International Journal of Limnology, 53: 189–201.
+Bartošová M., Schenková J., Polášková V., Bojková J., Šorfová V. & Horsák M. 2019: Macroinvertebrate assemblages of the post-mining calcareous stream
+ habitats: Are they similar to those inhabiting the natural calcareous springs. *Ecological Engineering* 136: 38-45. [PDF](https://doi.org/10.1016/j.ecoleng.2019.05.023)
+
+Polášková V., Schenková J., Bartošová M., Rádková V. & Horsák M. 2017: Post-mining calcareous seepages as surrogate habitats for aquatic macroinvertebrate biota of vanishing calcareous spring fens. *Ecological
+Engineering* 109: 119–132. [PDF](https://doi.org/10.1016/j.ecoleng.2017.08.023)
+
+Růžičková S., Weissová V., Uher B. & Helešic J. 2017: Macroinvertebrate herbivores and epilithon algae
+community of a stream affected by mineralized heated mining water inflow. *Annales de Limnologie -
+International Journal of Limnology* 53: 189–201. [PDF](https://doi.org/10.1051/limn/2017003)
+
+Růžičková S., Schenková J., Weissová V. & Helešic J. 2014: Environmental impact of heated mining waters on
+clitellate (Annelida: Clitellata) assemblages. *Biologia* 69: 1179–1189. [PDF](https://link.springer.com/content/pdf/10.2478/s11756-014-0424-2.pdf)
 
 </div>
 
 <div class="project-theses">
 
-**Obhájené disertační práce**
+**Defended Doctoral Theses**
 
-*Sylvie Růžičková* 2016. [Vliv oteplených důlních vod na vybrané skupiny organismů v malém toku.](https://is.muni.cz/th/okij3/)
+*Sylvie Růžičková* 2016. [](https://is.muni.cz/th/okij3/)[Influence of heated mining water on selected groups of organisms in a stream](https://is.muni.cz/th/okij3/disertace_SR.pdf?lang=en;info=1)
 
-**Obhájené diplomové a bakalářské práce**
+**Defended Master Theses**
 
-*Martina Bartošová* 2016. [Makrozoobentos pěnovcových potoků na Sokolovské výsypce](https://is.muni.cz/th/qo18e/?lang=cs). \[DP]
+*Martina Bartošová* 2016. [](https://is.muni.cz/th/qo18e/?lang=cs)[Macrozoobenthos of Brooks with Tufa Precipitation in Sokolov Spoil Bank](https://is.muni.cz/th/qo18e/?lang=en).
 
-*Martina Bartošová* 2014. [Vodní bezobratlí postindustriálních stanovišť - výsypky Sokolovské uhelné pánve](https://is.muni.cz/th/zfva5/?lang=cs). \[BP]
+*Veronika Konvičková* 2007. [](https://is.muni.cz/th/p4qj3/?lang=cs)[The study of macrozoobenthos in ponds at Karvina´s area with a view to situation and function of dragonfly community](https://is.muni.cz/th/p4qj3/?lang=en).[](https://is.muni.cz/th/p4qj3/?lang=cs)
 
-*Veronika Konvičková* 2007. [Studium makrozoobentosu tůní Karvinska se zaměřením na stav a funkci společenstva vážek](https://is.muni.cz/th/p4qj3/?lang=cs). \[DP]
+**Defended Bachelor Theses**
+
+*Martina Bartošová* 2014. [](https://is.muni.cz/th/zfva5/?lang=cs)[Aquatic invertebrates of postindustrial sites - spoil banks in the Sokolov Coal Basin](https://is.muni.cz/th/zfva5/?lang=en).
 
 </div>
 </div>
