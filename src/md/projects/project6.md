@@ -77,9 +77,9 @@ Notostraca, Spinicaudata) na Znojemsku. *Thayensia (Znojmo)* 11: 89–106. [PDF]
 
 *Černá A.* 2021. [Vodní ploštice a brouci v biotopech polních mokřadů](https://is.muni.cz/th/zqvfd/).
 
-*Menšíková K.* 2021. [Hnízdění vodouše rudonohého (Tringa totanus) v mokřadech zemědělské krajiny](https://is.muni.cz/th/i1z6j/).
+*Menšíková K.* 2021. [Hnízdění vodouše rudonohého (*Tringa totanus*) v mokřadech zemědělské krajiny](https://is.muni.cz/th/i1z6j/).
 
-*Dubnová A.* 2020. [Genetická diverzita žábronožky letní (Branchipus schaefferi) v ČR](https://is.muni.cz/th/peabx/).
+*Dubnová A.* 2020. [Genetická diverzita žábronožky letní (*Branchipus schaefferi*) v ČR](https://is.muni.cz/th/peabx/).
 
 *Devánová A.* 2017: [Biologie a ekologie velkých lupenonožců v polních rozlivech](https://is.muni.cz/th/izs30?).
 
@@ -141,7 +141,7 @@ Notostraca, Spinicaudata) na Znojemsku. *Thayensia (Znojmo)* 11: 89–106. [PDF]
 
 *Gvozdjáková D.* 2021. [](https://is.muni.cz/th/jle5m/)[Ecology and biology of zooplankton in temporal waters of field wetlands](https://is.muni.cz/th/jle5m/?lang=en).
 
-*Devánová A.* 2020. [](https://is.muni.cz/th/xjt62/)[Biology and ecology of selected species of large branchipods (Crustacea: Branchiopoda) in field wetlands and breeding](https://is.muni.cz/th/xjt62/?lang=en).
+*Devánová A.* 2020. [](https://is.muni.cz/th/xjt62/)[Biology and ecology of selected species of large branchiopods (Crustacea: Branchiopoda) in field wetlands and breeding](https://is.muni.cz/th/xjt62/?lang=en).
 
 **Defended Bachelor Theses**
 
@@ -151,7 +151,7 @@ Notostraca, Spinicaudata) na Znojemsku. *Thayensia (Znojmo)* 11: 89–106. [PDF]
 
 *Dubnová A.* 2020. [](https://is.muni.cz/th/peabx/)[Genetic diversity of fairy shrimp *Branchipus schaefferi* in the Czech republic](https://is.muni.cz/th/peabx/?lang=en).
 
-*Devánová A.* 2017: [Biologie a ekologie velkých lupenonožců v polních rozlivech](https://is.muni.cz/th/izs30?).
+*Devánová A.* 2017: [](https://is.muni.cz/th/izs30?)[Biology and ecology of large branchiopods in field wetlands](https://is.muni.cz/th/izs30/?lang=en).
 
 *Gvozdjáková* D. 2017: [Planktonní společenstva korýšů v periodických vodách](https://is.muni.cz/th/aei4t?).
 
