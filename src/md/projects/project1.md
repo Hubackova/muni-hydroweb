@@ -229,13 +229,13 @@ richness. *Canadian Journal of Fisheries and Aquatic Sciences* 70: 689–700. [P
 
 *Doležalová S.* 2014. [](https://is.muni.cz/th/cd1vd/?id=250558)[Harpacticoid assemblages (Copepoda: Harpacticoida) in selected streams of the White Carpathians: the effect of mesohabitat](https://is.muni.cz/th/cd1vd/?lang=en).
 
-*Hřívová D.* 2014. [Taxocenózy plazivek (Copepoda: Harpacticoida) na prameništních slatiništích Západních Karpat](https://is.muni.cz/th/w43hj/).
+*Hřívová D.* 2014. [](https://is.muni.cz/th/w43hj/)[Harpacticoid assemblages (Copepoda: Harpacticoida) in spring fens of the Western Carpathians](https://is.muni.cz/th/w43hj/?lang=en).
 
-*Rádková V.* 2011. [Makrozoobentos pramenných stružek slatinišť moravsko-slovenského pomezí](https://is.muni.cz/th/egopp/).
+*Rádková V.* 2011. [](https://is.muni.cz/th/egopp/)[Macroinvertebrate assemblages of fen streamlets in outer part of the Western Carpathians](https://is.muni.cz/th/egopp/?lang=en).
 
-*Nováček O.* 2010. [Struktura a složení taxocenóz lasturnatek (Ostracoda) podél gradientu minerální bohatosti prameništních slatinišť](https://is.muni.cz/th/spdg1/).
+*Nováček O.* 2010. [](https://is.muni.cz/th/spdg1/)[Structure and composition of ostracod assemblages (Ostracoda) along the gradient of mineral richness in the Western Carpathian spring fens](https://is.muni.cz/th/spdg1/?lang=en).
 
-*Křoupalová V.* 2008. [Prostorová variabilita makrozoobentosu: srovnání dvou minerálně odlišných pramenišť](https://is.muni.cz/th/106044/prif_m/).
+*Křoupalová V.* 2008. [](https://is.muni.cz/th/106044/prif_m/)[Spatial variability of benthic macroinvertebrates: comparison of two mineral different spring sites](https://is.muni.cz/th/lnqta/?lang=en).
 
 </div>
 </div>
