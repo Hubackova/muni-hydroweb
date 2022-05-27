@@ -18,7 +18,7 @@ Jsem absolventkou magisterského i postgraduálního studia oboru hydrobiologie 
  žijícím v tůních, a potom společenstvům bezobratlých ve zvodnělých sedimentech toků (hyporeál), se
  zaměřením na mikroskopické korýše.
 
-**Výzkumná témata:**
+**Výzkumná témata**
 
 * Ekologie mikroskopických korýšů, zvláště plazivek (Copepoda: Harpacticoida)
 * Ekologie společenstev vodních bezobratlých prameništních slatinišť na různých prostorových
@@ -34,7 +34,7 @@ Jsem absolventkou magisterského i postgraduálního studia oboru hydrobiologie 
  žijícím v tůních, a potom společenstvům bezobratlých ve zvodnělých sedimentech toků (hyporeál), se
  zaměřením na mikroskopické korýše.
 
-**Research Topics:**
+**Research Topics**
 
 * Ekologie mikroskopických korýšů, zvláště plazivek (Copepoda: Harpacticoida)
 * Ekologie společenstev vodních bezobratlých prameništních slatinišť na různých prostorových
