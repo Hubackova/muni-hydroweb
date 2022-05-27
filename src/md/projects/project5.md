@@ -91,13 +91,15 @@ clitellate (Annelida: Clitellata) assemblages. *Biologia* 69: 1179–1189. [PDF]
 
 *Sylvie Růžičková* 2016. [Vliv oteplených důlních vod na vybrané skupiny organismů v malém toku](https://is.muni.cz/th/okij3/).
 
-**Obhájené diplomové a bakalářské práce**
+**Obhájené diplomové práce**
 
-*Martina Bartošová* 2016. [Makrozoobentos pěnovcových potoků na Sokolovské výsypce](https://is.muni.cz/th/qo18e/?lang=cs). \[DP]
+*Martina Bartošová* 2016. [Makrozoobentos pěnovcových potoků na Sokolovské výsypce](https://is.muni.cz/th/qo18e/?lang=cs).
 
-*Martina Bartošová* 2014. [Vodní bezobratlí postindustriálních stanovišť - výsypky Sokolovské uhelné pánve](https://is.muni.cz/th/zfva5/?lang=cs). \[BP]
+*Veronika Konvičková* 2007. [Studium makrozoobentosu tůní Karvinska se zaměřením na stav a funkci společenstva vážek](https://is.muni.cz/th/p4qj3/?lang=cs).
 
-*Veronika Konvičková* 2007. [Studium makrozoobentosu tůní Karvinska se zaměřením na stav a funkci společenstva vážek](https://is.muni.cz/th/p4qj3/?lang=cs). \[DP]
+**Obhájené bakalářské práce**
+
+*Martina Bartošová* 2014. [Vodní bezobratlí postindustriálních stanovišť - výsypky Sokolovské uhelné pánve](https://is.muni.cz/th/zfva5/?lang=cs).
 
 </div>
 </div>
