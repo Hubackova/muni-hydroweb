@@ -15,7 +15,7 @@ image: images/staff_loskotova.jpg
 
 Je absolventkou magisterského studia oboru Zoologie a postgraduálního studia oboru Hydrobiologie na Masarykově univerzitě. Od roku 2017 působí jako odborná pracovnice na Ústavu botaniky a zoologie MUNI, PřF. Zaměřuje se na výzkum ekologie společenstev makrozoobentosu ve vysychavých tocích. Její taxonomickou specializací jsou larvy pošvatek (Plecoptera).
 
-**Výzkumná témata:**
+**Výzkumná témata**
 
 * Ekologie vysychavých toků, možnosti bioindikace vyschnutí
 * Taxonomické a funkční složení makrozoobentosu vysychavých toků
@@ -27,7 +27,7 @@ Je absolventkou magisterského studia oboru Zoologie a postgraduálního studia 
 
 Je absolventkou magisterského studia oboru Zoologie a postgraduálního studia oboru Hydrobiologie na Masarykově univerzitě. Od roku 2017 působí jako odborná pracovnice na Ústavu botaniky a zoologie MUNI, PřF. Zaměřuje se na výzkum ekologie společenstev makrozoobentosu ve vysychavých tocích. Její taxonomickou specializací jsou larvy pošvatek (Plecoptera).
 
-**Research topics:**
+**Research Topics**
 
 * Ekologie vysychavých toků, možnosti bioindikace vyschnutí
 * Taxonomické a funkční složení makrozoobentosu vysychavých toků
