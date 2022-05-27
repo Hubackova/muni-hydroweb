@@ -3,7 +3,7 @@ title: schenkova
 order: 2
 name: Doc. RNDr. Jana Schenková, Ph.D.
 position: DOCENTKA
-positionEn: DOCENTKA
+positionEn: ASSOCIATE PROFESSOR
 email: schenk@sci.muni.cz
 phone: 549496959
 room: D32/315
