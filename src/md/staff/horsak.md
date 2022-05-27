@@ -3,7 +3,7 @@ title: horsak
 order: 4
 name: prof. RNDr. Michal Horsák, Ph.D.
 position: PROFESOR
-positionEn: PROFESOR
+positionEn: PROFESSOR
 email: horsak@sci.muni.cz
 phone: 549494448
 room: D32/319
