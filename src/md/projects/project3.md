@@ -284,7 +284,7 @@ T.G.M. v.v.i.
 
 <div class="project-theses">
 
-**Defended Dissertation Thesis**
+**Defended Doctoral Thesis**
 
 *Barbora Loskotová* 2022. [Aquatic macroinvertebrate persistence in intermittent streams](https://is.muni.cz/th/if9fw/Loskotova_B_PhD_thesis_2022.pdf?lang=en;info=1).
 
