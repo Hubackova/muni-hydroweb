@@ -15,7 +15,7 @@ image: /images/phd_vyravsky.jpg
 ---
 <div class="cz">
 
-**Výzkumná témata:**
+**Výzkumná témata**
 
 * Ekologie lasturnatek prameništních slatinišť Západních Karpat
 * Distribuce lasturnatek pramenných biotopů na různých prostorových škálách
@@ -24,7 +24,7 @@ image: /images/phd_vyravsky.jpg
 
 <div class="en">
 
-**Research topics:**
+**Research Topics**
 
 * Ekologie lasturnatek prameništních slatinišť Západních Karpat
 * Distribuce lasturnatek pramenných biotopů na různých prostorových škálách
