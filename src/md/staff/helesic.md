@@ -3,7 +3,7 @@ title: helesic
 order: 3
 name: Doc. RNDr. Jan Helešic, Ph.D.
 position: DOCENT
-positionEn: DOCENT
+positionEn: ASSOCIATE PROFESSOR
 email: helesic@sci.muni.cz
 phone: 549494194
 room: D32/314
