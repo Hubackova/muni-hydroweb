@@ -90,25 +90,25 @@ prof. RNDr. Michal Horsák, Ph.D., **Mgr. Jan Sychra, Ph.D.**
 [Ecology of seas and oceanobiology - practice Bi8095c](https://is.muni.cz/predmet/sci/jaro2023/Bi8095c?lang=en)\
 **Mgr. Marie Zhai, Ph.D.**
 
-[Hydrobiological seminar Bi7806](https://is.muni.cz/predmet/sci/jaro2023/Bi7806?lang=en)\
+[Hydrobiological seminary Bi7806](https://is.muni.cz/predmet/sci/jaro2023/Bi7806?lang=en)\
 **doc. RNDr. Jana Schenková, Ph.D.**, **Mgr. Jindřiška Bojková, Ph.D.**
 
 [Hydrobiology (Limnobiology) Bi6360](https://is.muni.cz/predmet/sci/jaro2023/Bi6360?lang=en)\
  **Mgr. Jindřiška Bojková, Ph.D.**, **doc. RNDr. Jan Helešic,** **Ph.D.**
 
-[Vybrané kapitoly z ekologie stojatých vod Bi7683](https://is.muni.cz/predmet/sci/podzim2021/Bi7683)\
-prof. RNDr. Jaroslav Vrba CSc., **doc. RNDr. Jan Helešic, Ph.D.**, **Mgr. Jindřiška Bojková, Ph.D.** 
+[Selected capitols from ecology of stagnant water Bi7683](https://is.muni.cz/predmet/sci/podzim2021/Bi7683?lang=en)\
+prof. RNDr. Jaroslav Vrba CSc., **doc. RNDr. Jan Helešic, Ph.D.**, **Mgr. Jindřiška Bojková, Ph.D.** [](https://is.muni.cz/predmet/sci/jaro2022/Bi8750)
 
-[Vybrané kapitoly z krustaceologie Bi8750](https://is.muni.cz/predmet/sci/jaro2022/Bi8750)\
+[Selected issues in crustaceology Bi8750](https://is.muni.cz/predmet/sci/jaro2022/Bi8750?lang=en)\
 **Mgr. Marie Zhai, Ph.D.**, prof. RNDr. Adam Petrusek, Ph.D., prof. RNDr. Zdeněk Ďuriš, CSc., Mgr. Radka Symonová, Ph.D.
 
-[Vybrané kapitoly z říční ekologie Bi7684](https://is.muni.cz/predmet/sci/podzim2022/Bi7684)\
+[Selected topics of river ecology Bi7684](https://is.muni.cz/predmet/sci/podzim2022/Bi7684?lang=en)\
 **Mgr. Jindřiška Bojková, Ph.D.**, **Mgr. Marie Zhai, Ph.D.**, **doc. RNDr. Jan Helešic, Ph.D.**
 
-[Základní limnologické metody Bi6750](https://is.muni.cz/predmet/sci/jaro2023/Bi6750)\
+[Limnological methods Bi6750](https://is.muni.cz/predmet/sci/jaro2023/Bi6750?lang=en)\
 **RNDr. Petr Pařil, Ph.D.**, **Mgr. Jindřiška Bojková, Ph.D.**, Mgr. Barbora Hutňan Chattová, Ph.D., **Mgr. Jan Sychra, Ph.D.**, **Mgr. Marie Zhai, Ph.D.**
 
-[Znečišťování vod a ekologie technických zásahů Bi8040](https://is.muni.cz/predmet/sci/jaro2023/Bi8040)\
+[Water pollution and ecology of technical interventions Bi8040](https://is.muni.cz/predmet/sci/jaro2023/Bi8040?lang=en)\
 **RNDr. Petr Pařil, Ph.D.**, **doc. RNDr. Jan Helešic, Ph.D.**, **doc. RNDr. Jana Schenková, Ph.D.**
 
 - - -
