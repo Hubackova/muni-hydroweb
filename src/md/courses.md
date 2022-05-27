@@ -122,25 +122,25 @@ doc. Mgr. Tomáš Bartonička, Ph.D., **Mgr. Jan Sychra, Ph.D.**
 [Management of endangered ecosystems Bi7113](https://is.muni.cz/predmet/sci/podzim2022/Bi7113?lang=en)\
 **RNDr. Petr Pařil, Ph.D.**, **Mgr. Jan Sychra, Ph.D.**, doc. Mgr. Lubomír Tichý, Ph.D.
 
-[Ochrana živočišných druhů Bi7112](https://is.muni.cz/predmet/sci/podzim2022/Bi7112)\
+[Conservation of animal species Bi7112](https://is.muni.cz/predmet/sci/podzim2022/Bi7112?lang=en)\
 **RNDr. Petr Pařil, Ph.D.**, **Mgr. Jan Sychra, Ph.D.**
 
-[Speciální botanicko-zoologické cvičení v terénu Bi8160](https://is.muni.cz/predmet/sci/jaro2023/Bi8160)[](https://is.muni.cz/predmet/sci/podzim2022/Bi7112)\
+[Special field practice in zoology Bi8160](https://is.muni.cz/predmet/sci/jaro2023/Bi8160?lang=en)[](https://is.muni.cz/predmet/sci/podzim2022/Bi7112)\
 **Mgr. Jan Sychra, Ph.D.,** prof. RNDr. Michal Horsák, Ph.D., Mgr. Jan Roleček, Ph.D., Mgr. Daniel Dvořák, Mgr. Igor Malenovský, Ph.D.
 
-[Terénní cvičení z entomologie Bi0055](https://is.muni.cz/predmet/sci/jaro2023/Bi0055)\
-Mgr. Igor Malenovský, Ph.D., prof. RNDr. Michal Horsák, Ph.D., **Mgr. Jan Sychra, Ph.D.**, Mgr. Petr Kment, Ph.D.[](https://is.muni.cz/predmet/sci/jaro2020/Bi7111)
+[Field course in entomology Bi0055](https://is.muni.cz/predmet/sci/jaro2023/Bi0055?lang=en)\
+Mgr. Igor Malenovský, Ph.D., prof. RNDr. Michal Horsák, Ph.D., **Mgr. Jan Sychra, Ph.D.**, Mgr. Petr Kment, Ph.D
 
-[Terénní cvičení ze zoologie Bi2140](https://is.muni.cz/predmet/sci/jaro2023/Bi2140)\
+[Field practice in zoology Bi2140](https://is.muni.cz/predmet/sci/jaro2023/Bi2140?lang=en)\
 **doc. RNDr. Jana Schenková, Ph.D.**, **Mgr. Jan Sychra, Ph.D.**, prof. RNDr. Michal Horsák, Ph.D., doc. Mgr. Tomáš Bartonička, Ph.D., **Mgr. Jindřiška Bojková, Ph.D.**, Mgr. Adam Konečný, Ph.D., Mgr. Igor Malenovský, Ph.D., **RNDr. Petr Pařil, Ph.D.**, doc. Dipl. Biol. Jiří Schlaghamerský, Ph.D., RNDr. Andrea Špalek Tóthová, Ph.D.
 
-[Úvod do studia ekologické a evoluční biologie Bi1000](https://is.muni.cz/predmet/sci/podzim2022/Bi1000)\
+[Introduction to study of ecological and evolutionary biology Bi1000](https://is.muni.cz/predmet/sci/podzim2022/Bi1000?lang=en)\
 Mgr. Iveta Hodová, Ph.D., prof. RNDr. Milan Chytrý, Ph.D., prof. RNDr. Michal Horsák, Ph.D., doc. Mgr. Tomáš Bartonička, Ph.D., **Mgr. Jindřiška Bojková, Ph.D.**, prof. RNDr. Petr Bureš, Ph.D., prof. RNDr. Milan Gelnar, CSc., doc. Mgr. Michal Hájek, Ph.D., **doc. RNDr. Jan Helešic, Ph.D.**, Mgr. Adam Konečný, Ph.D., **RNDr. Petr Pařil, Ph.D.**, prof. Mgr. Stanislav Pekár, Ph.D.
 
-[Úvod do terénní zoologie bezobratlých Bi8761](https://is.muni.cz/predmet/sci/jaro2023/Bi8761)\
+[Introduction to Field Invertebrate Zoology Bi8761](https://is.muni.cz/predmet/sci/jaro2023/Bi8761?lang=en)\
 **doc. RNDr. Jana Schenková, Ph.D.,** prof. RNDr. Michal Horsák, Ph.D., **Mgr. Marie Zhai, Ph.D.**, doc. RNDr. Andrea Bardůnek Valigurová, Ph.D., Mgr. Igor Malenovský, Ph.D., **RNDr. Petr Pařil, Ph.D.**, prof. Mgr. Stanislav Pekár, Ph.D., Mgr. Eva Řehulková, Ph.D., Mgr. Mária Seifertová, Ph.D., doc. Dipl. Biol. Jiří Schlaghamerský, Ph.D., **Mgr. Jan Sychra, Ph.D.**
 
-[Zoologický seminář Bi6800](https://is.muni.cz/predmet/sci/podzim2022/Bi6800)\
+[Zoological seminar Bi6800](https://is.muni.cz/predmet/sci/podzim2022/Bi6800?lang=en)\
 prof. RNDr. Michal Horsák, Ph.D., **Mgr. Jan Sychra, Ph.D.**
 
 </div>
