@@ -13,11 +13,10 @@ image: /images/staff_straka.jpg
 ---
 <div class="cz">
 
-
 Magisterské a posléze i doktorské studium hydrobiologie absolvoval na Přírodovědecké Fakultě
  Masarykovy univerzity v Brně.
 
-**Výzkumná témata:**
+**Výzkumná témata**
 
 * Hydrobiologické průzkumy pro potřeby ochrany přírody
 * Monitoring antropogenních vlivů na oživení vod a výzkum ekosystémů tekoucích vod
@@ -29,11 +28,10 @@ Magisterské a posléze i doktorské studium hydrobiologie absolvoval na Příro
 
 <div class="en">
 
-
 Magisterské a posléze i doktorské studium hydrobiologie absolvoval na Přírodovědecké Fakultě
  Masarykovy univerzity v Brně.
 
-**Research topics:**
+**Research Topics**
 
 * Hydrobiologické průzkumy pro potřeby ochrany přírody
 * Monitoring antropogenních vlivů na oživení vod a výzkum ekosystémů tekoucích vod
