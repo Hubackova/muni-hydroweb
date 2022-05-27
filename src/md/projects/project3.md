@@ -178,7 +178,7 @@ bezobratlých osidlující vyschlé toky zjištěné odchytem do zemních pastí
 
 *Jitka Krajčová* 2009. [Migrace makrozoobentosu v intermitentním toku](https://is.muni.cz/th/plqq6/). \[DP]
 
-*Jana Zavadilová* 2009 [Životní strategie blešivce potočního (*Gammarus fossarum*) v podmínkách intermitentního toku](https://is.muni.cz/th/w9wdp/). \[DP]
+*Jana Zavadilová* 2009. [Životní strategie blešivce potočního (*Gammarus fossarum*) v podmínkách intermitentního toku](https://is.muni.cz/th/w9wdp/). \[DP]
 
 *Veronika Guziurová* 2009. [Sezónní dynamika makrozoobentosu intermitentního toku](https://is.muni.cz/th/lflfv/). \[DP]
 
@@ -186,7 +186,7 @@ bezobratlých osidlující vyschlé toky zjištěné odchytem do zemních pastí
 
 *Veronika Guziurová* 2007. [Makrozoobentos intermitentního toku-průběh rekolonizace po vyschnutí](https://is.muni.cz/th/o656l/). \[BP]
 
-*Jitka Krajčová* 2007 [Driftová aktivita makrozoobentosu intermitentního toku](https://is.muni.cz/th/mc94v/?lang=cs). \[BP]
+*Jitka Krajčová* 2007. [Driftová aktivita makrozoobentosu intermitentního toku](https://is.muni.cz/th/mc94v/?lang=cs). \[BP]
 
 </div>
 
@@ -306,21 +306,21 @@ T.G.M. v.v.i.
 
 *Jiří Habarta* 2013. [](https://is.muni.cz/th/foavd/)[The life cycle types of stoneflies (Plecoptera) in intermittent stream](https://is.muni.cz/th/foavd/?lang=en). \[BT]
 
-*Eva Hanáková* 2012. [Změny prostorové distribuce makro- a meiobentosu v dnových sedimentech vysychavých toků](https://is.muni.cz/th/nn3dy/). \[MT]
+*Eva Hanáková* 2012. [](https://is.muni.cz/th/nn3dy/)[Spatial distribution changes of macro- and meiobenthos in bed sediments of an intermittent stream.](https://is.muni.cz/th/nn3dy/?lang=en) \[MT]
 
-*Eva Hanáková* 2009. [Vertikální distribuce makrozoobentosu vysychavého toku](https://is.muni.cz/th/v5ev2/). \[BT]
+*Eva Hanáková* 2009. [](https://is.muni.cz/th/v5ev2/)[Vertical distribution of water macroinvertebrates in an intermittent stream](https://is.muni.cz/th/v5ev2/?lang=en). \[BT]
 
-*Jitka Krajčová* 2009. [Migrace makrozoobentosu v intermitentním toku](https://is.muni.cz/th/plqq6/). \[MT]
+*Jitka Krajčová* 2009. [](https://is.muni.cz/th/plqq6/)[Macrozoobenthos migration in an intermittent stream](https://is.muni.cz/th/plqq6/?lang=en). \[MT]
 
-*Jana Zavadilová* 2009 [Životní strategie blešivce potočního (*Gammarus fossarum*) v podmínkách intermitentního toku](https://is.muni.cz/th/w9wdp/). \[MT]
+*Jana Zavadilová* 2009. [](https://is.muni.cz/th/w9wdp/)[Life strategy of *Gammarus fossarum* in an intermittent stream](https://is.muni.cz/th/w9wdp/?lang=en). \[MT]
 
-*Veronika Guziurová* 2009. [Sezónní dynamika makrozoobentosu intermitentního toku](https://is.muni.cz/th/lflfv/). \[MT]
+*Veronika Guziurová* 2009. [](https://is.muni.cz/th/lflfv/)[Seasonal dynamics of macrozoobenthos of an intermittent stream](https://is.muni.cz/th/lflfv/?lang=en). \[MT]
 
-*Jana Zavadilová* 2007. [Změny habitatových preferencí druhu *Gammarus fossarum* v průběhu vysychání toku](https://is.muni.cz/th/ug0cz/). \[BT]
+*Jana Zavadilová* 2007. [](https://is.muni.cz/th/ug0cz/)[Changes in the habitat preferences of *Gammarus fossarum* during the drying up of the stream](https://is.muni.cz/th/ug0cz/?lang=en). \[BT]
 
-*Veronika Guziurová* 2007. [Makrozoobentos intermitentního toku-průběh rekolonizace po vyschnutí](https://is.muni.cz/th/o656l/). \[BT]
+*Veronika Guziurová* 2007. [](https://is.muni.cz/th/o656l/)[Macroinvertebrates of the intermittent stream - course of a recolonisation after drought](https://is.muni.cz/th/o656l/?lang=en). \[BT]
 
-*Jitka Krajčová* 2007 [Driftová aktivita makrozoobentosu intermitentního toku](https://is.muni.cz/th/mc94v/?lang=cs). \[BT]
+*Jitka Krajčová* 2007. [](https://is.muni.cz/th/mc94v/?lang=cs)[Drift activity of macroinvertebrates in intermittent stream](https://is.muni.cz/th/mc94v/?lang=en). \[BT]
 
 </div>
 </div>
