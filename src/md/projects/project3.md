@@ -174,7 +174,7 @@ T.G.M. v.v.i.
 *Terezie Rosová* 2018. [Společenstvo
 bezobratlých osidlující vyschlé toky zjištěné odchytem do zemních pastí](https://is.muni.cz/th/nwt6q/).
 
-*Jan Semerád* 2018 [Vodní toky jako koridory pro přesuny terestrických obratlovců](https://is.muni.cz/th/sja9w/).
+*Jan Semerád* 2018. [Vodní toky jako koridory pro přesuny terestrických obratlovců](https://is.muni.cz/th/sja9w/).
 
 *Alena Dostálová* 2016. [Změny struktury populace blešivce potočního (*Gammarus fossarum*) po vyschnutí toku](https://is.muni.cz/th/fwgb1/).
 
