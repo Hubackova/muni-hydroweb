@@ -2,8 +2,8 @@
 title: zahradkova
 order: 14
 name: Doc. RNDr. Světlana Zahrádková, Ph.D.
-position: VÝZKUMNÍK
-positionEn: VÝZKUMNÍK
+position: EXTERNÍ VÝZKUMNÍK
+positionEn: EXTERNAL RESEARCHER
 email: zahradkova@sci.muni.cz
 phone: 549498174
 room: D32/316
@@ -36,7 +36,7 @@ Je docentkou hydrobiologie na Ústavu botaniky a zoologie
  změnám v referenčních společenstvech toků souvisejícími se současnými
  klimatickými změnami. 
 
-**Výzkumná témata:**
+**Research Topics:**
 
 * Hodnocení ekologického stavu toků
 * Dlouhodobé změny akvatických biotopů
