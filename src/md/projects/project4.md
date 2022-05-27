@@ -259,25 +259,24 @@ makrozoobentosu.
 **Selected Publications**
 
 Bojková J., Seifert L., Petruželová J., Šorfová V.,
-Syrovátka V., Sroka P. &amp; Polášková V. 2018. Species
+Syrovátka V., Sroka P. & Polášková V. 2018: Species
 richness and composition of macroinvertebrate
 assemblages in the Bavarian Forest National Park:
-Preliminary results of the stream monitoring. Silva
-Gabreta, 24: 171–211. PDF
+Preliminary results of the stream monitoring. *Silva
+Gabreta* 24: 171–211. [PDF](http://www.npsumava.cz/gallery/38/11665-9_sg_24_bojkovaetal.pdf)
 
 </div>
 <div class="project-theses">
 
 **Defended Master Theses**
 
-*Fišarová K.* 2021. [Vývoj makrozoobentosu Hučiny (NP Šumava) pět let po revitalizaci](https://is.muni.cz/th/qp7p1/).
+*Fišarová K.* 2021. [](https://is.muni.cz/th/qp7p1/)[Structuring of macroinvertebrate assemblages of Hučina brook (Šumava NP) five years after the restoration](https://is.muni.cz/th/qp7p1/?lang=en).
 
-*de Donnová S*. 2020. [Odpověď makrozoobentosu na revitalizaci toků v NP Šumava](https://is.muni.cz/th/jiqom/).
+*de Donnová S*. 2020. [Response of benthic macroinvertebrates to stream restoration in the Šumava NP](https://is.muni.cz/th/jiqom/DP_de_Donnova.pdf?lang=en;info=1).
 
-*Štěpánková I*. 2020. [Pakomárovití (Diptera: Chironomidae) vltavských poříčních tůní na Šumavě](https://is.muni.cz/th/c0u0f/).
+*Štěpánková I*. 2020. [](https://is.muni.cz/th/c0u0f/)[Non-biting midges (Diptera: Chironomidae) of alluvial pools in Bohemian Forest](https://is.muni.cz/th/c0u0f/?lang=en).
 
-*Paterová S.* 2018. [Vývoj společenstev makrozoobentosu v revitalizovaném úseku říčky Hučiny (NP
-Šumava)](https://is.muni.cz/th/ucgqs/).
+*Paterová S.* 2018. [](https://is.muni.cz/th/ucgqs/)[Development of the macroinvertebrate assemblages in the restored section of the Hučina stream (Šumava NP)](https://is.muni.cz/th/ucgqs/?lang=en).
 
 **Defended Bachelor Theses**
 
