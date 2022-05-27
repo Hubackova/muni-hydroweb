@@ -3,7 +3,7 @@ title: loskotova
 order: 11
 name: Mgr. Bc. Barbora Loskotová, Ph.D.
 position: VÝZKUMNÍK
-positionEn: VÝZKUMNÍK
+positionEn: RESEARCHER
 email: bara.loskotova@mail.muni.cz
 phone: 549498559
 room: D32/313
