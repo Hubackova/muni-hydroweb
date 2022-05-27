@@ -15,7 +15,7 @@ image: /images/jana-petruželová.jpg
 ---
 <div class="cz">
 
-**Výzkumná témata:**
+**Výzkumná témata**
 
 * Diverzita a ekologie společenstev vodních bezobratlých v horských vodních ekosystémech
   (vodní toky, jezera, vrchoviště)
@@ -27,7 +27,7 @@ image: /images/jana-petruželová.jpg
 
 <div class="en">
 
-**Research topics:**
+**Research Topics**
 
 * Diverzita a ekologie společenstev vodních bezobratlých v horských vodních ekosystémech
   (vodní toky, jezera, vrchoviště)
