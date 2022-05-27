@@ -3,7 +3,7 @@ title: polasek
 order: 8
 name: Mgr. Marek Polášek, Ph.D.
 position: VÝZKUMNÍK
-positionEn: VÝZKUMNÍK
+positionEn: RESEARCHER
 email: m.polasek@mail.muni.cz
 phone: 549498174
 room: D32/316
