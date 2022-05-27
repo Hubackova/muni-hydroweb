@@ -13,13 +13,12 @@ image: /images/staff_horsak.jpg
 ---
 <div class="cz">
 
-
 Od roku 2004 pracuje na Ústavu botaniky a zoologie Masarykovy univerzity, kde přednáší fylogenezi
  a diverzitu bezobratlých, malakozoologii a s J. Rolečkem vývoj přírody ve čtvrtohorách. Jako stálý člen
  Biotýmu se rád věnuje výuce v terénu a pořádání terénních cvičení. Studoval obor Systematická
  zoologie a ekologie na Masarykově univerzitě.
 
-**Výzkumná témata:**
+**Výzkumná témata**
 
 * Ekologie kontinentálních měkkýšů mírného pásu Eurasie
 * Vývoj středoevropské přírody od posledního glaciálního maxima
@@ -34,13 +33,12 @@ Od roku 2004 pracuje na Ústavu botaniky a zoologie Masarykovy univerzity, kde p
 
 <div class="en">
 
-
 Od roku 2004 pracuje na Ústavu botaniky a zoologie Masarykovy univerzity, kde přednáší fylogenezi
  a diverzitu bezobratlých, malakozoologii a s J. Rolečkem vývoj přírody ve čtvrtohorách. Jako stálý člen
  Biotýmu se rád věnuje výuce v terénu a pořádání terénních cvičení. Studoval obor Systematická
  zoologie a ekologie na Masarykově univerzitě.
 
-**Research topics:**
+**Research Topics**
 
 * Ekologie kontinentálních měkkýšů mírného pásu Eurasie
 * Vývoj středoevropské přírody od posledního glaciálního maxima
