@@ -75,13 +75,13 @@ prof. RNDr. Michal Horsák, Ph.D., **Mgr. Jan Sychra, Ph.D.**
 
 <div class="en">
 
-[Bioindikace a hodnocení ekologického stavu povrchových vod Bi7007](https://is.muni.cz/predmet/sci/jaro2023/Bi7007)\
+[Bioindication and surface water ecological status assessment Bi7007](https://is.muni.cz/predmet/sci/jaro2023/Bi7007?lang=en)\
 **Mgr. Marek Polášek, Ph.D.**
 
-[Biologie vodních bezobratlých Bi7451](https://is.muni.cz/predmet/sci/jaro2023/Bi7451)\
+[Biology of aquatic invertebrates Bi7451](https://is.muni.cz/predmet/sci/jaro2023/Bi7451?lang=en)[](https://is.muni.cz/predmet/sci/jaro2023/Bi7451)\
 **Mgr. Jindřiška Bojková, Ph.D.**, **RNDr. Petr Pařil, Ph.D**
 
-[Determinace vodních bezobratlých - cvičení Bi8762](https://is.muni.cz/predmet/sci/jaro2023/Bi8762)[](https://is.muni.cz/predmet/sci/jaro2023/Bi8095)\
+[Identification of aquatic invertebrates - practice Bi8762](https://is.muni.cz/predmet/sci/jaro2023/Bi8762?lang=en)[](https://is.muni.cz/predmet/sci/jaro2023/Bi8095)\
 **doc. RNDr. Jana Schenková, Ph.D.**, **Mgr. Jindřiška Bojková, Ph.D.**, Mgr. Petr Kment, Ph.D., **RNDr. Petr Pařil, Ph.D.**, **Mgr. Michal Straka, Ph.D.**, **Mgr. Jan Sychra, Ph.D.**, **Mgr. Marie Zhai, Ph.D.**
 
 [Ekologie moří a oceánobiologie Bi8095](https://is.muni.cz/predmet/sci/jaro2023/Bi8095)\
