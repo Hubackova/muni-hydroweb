@@ -15,7 +15,7 @@ image: /images/phd_devanova.jpg
 ---
 <div class="cz">
 
-**Výzkumná témata:**
+**Výzkumná témata**
 
 * Časová dynamika společenstva vodních bezobratlých v polních mokřadech
 * Biotické interakce vybraných druhů velkých lupenonožců
@@ -26,7 +26,7 @@ image: /images/phd_devanova.jpg
 
 <div class="en">
 
-**Research topics:**
+**Research Topics**
 
 * Časová dynamika společenstva vodních bezobratlých v polních mokřadech
 * Biotické interakce vybraných druhů velkých lupenonožců
