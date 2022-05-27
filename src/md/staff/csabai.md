@@ -27,7 +27,7 @@ Je vedoucím oddělení hydrobiologie na Universitě v Pécsi (Maďarsko) a od r
 
 Je vedoucím oddělení hydrobiologie na Universitě v Pécsi (Maďarsko) a od roku 2019 působí jako externí specialista na Ústavu botaniky a zoologie. Zabývá se ekologií tekoucích a stojatých vod s důrazem na taxonomii bezobratlých. Ve výzkumu se zaměřuje na terénní pozorování a laboratorní modelování podmínek prostředí pro experimentální účely.
 
-**Research topics:**
+**Research Topics:**
 
 * Procesy letové disperze u vodních bezobratlých: příčiny a důsledky
 * Vnitrodruhové a mezidruhové interakce, vlastnosti druhů (species traits)
