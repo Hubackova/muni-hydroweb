@@ -13,7 +13,6 @@ image: /images/staff_bojkova.jpg
 ---
 <div class="cz">
 
-
 Je absolventkou magisterského studia oboru Systematická biologie a ekologie (2005) a postgraduálního studia oboru hydrobiologie (2009) na Masarykově univerzitě. Pracovala jako odborná pracovnice na Ústavu botaniky a zoologie MU (2007–2013), Entomologickém ústavu Biologického centra AV ČR v Českých Budějovicích (2009–2010) a Katedře biologie ekosystémů Jihočeské univerzity v Českých Budějovicích (2012–2016). Od roku 2010 je odbornou asistentkou na
 Ústavu botaniky a zoologie MU. Zabývá se ekologií společenstev makrozoobentosu a biologií vodního hmyzu, především řádů Ephemeroptera, Plecoptera a Trichoptera.
 
@@ -31,11 +30,10 @@ Je absolventkou magisterského studia oboru Systematická biologie a ekologie (2
 
 <div class="en">
 
-
 Je absolventkou magisterského studia oboru Systematická biologie a ekologie (2005) a postgraduálního studia oboru hydrobiologie (2009) na Masarykově univerzitě. Pracovala jako odborná pracovnice na Ústavu botaniky a zoologie MU (2007–2013), Entomologickém ústavu Biologického centra AV ČR v Českých Budějovicích (2009–2010) a Katedře biologie ekosystémů Jihočeské univerzity v Českých Budějovicích (2012–2016). Od roku 2010 je odbornou asistentkou na
 Ústavu botaniky a zoologie MU. Zabývá se ekologií společenstev makrozoobentosu a biologií vodního hmyzu, především řádů Ephemeroptera, Plecoptera a Trichoptera.
 
-**Research topics:**
+**Research Topics:**
 
 * Společenstva makrozoobentosu Západokarpatských prameništních slatinišť a faktory, které je
   ovlivňují
