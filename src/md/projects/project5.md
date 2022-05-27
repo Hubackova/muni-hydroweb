@@ -168,7 +168,7 @@ clitellate (Annelida: Clitellata) assemblages. *Biologia* 69: 1179–1189. [PDF]
 
 **Defended Doctoral Theses**
 
-*Sylvie Růžičková* 2016. [](https://is.muni.cz/th/okij3/)[Influence of heated mining water on selected groups of organisms in a stream](https://is.muni.cz/th/okij3/disertace_SR.pdf?lang=en;info=1)
+*Sylvie Růžičková* 2016. [](https://is.muni.cz/th/okij3/)[Influence of heated mining water on selected groups of organisms in a stream](https://is.muni.cz/th/okij3/disertace_SR.pdf?lang=en;info=1).
 
 **Defended Master Theses**
 
