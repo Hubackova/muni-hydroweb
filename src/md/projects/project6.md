@@ -145,11 +145,11 @@ Notostraca, Spinicaudata) na Znojemsku. *Thayensia (Znojmo)* 11: 89–106. [PDF]
 
 **Defended Bachelor Theses**
 
-*Černá A.* 2021. [Vodní ploštice a brouci v biotopech polních mokřadů](https://is.muni.cz/th/zqvfd/).
+*Černá A.* 2021. [](https://is.muni.cz/th/zqvfd/)[Aquatic bugs and beetles in habitats of field wetlands](https://is.muni.cz/th/zqvfd/?lang=en).
 
-*Menšíková K.* 2021. [Hnízdění vodouše rudonohého (Tringa totanus) v mokřadech zemědělské krajiny](https://is.muni.cz/th/i1z6j/).
+*Menšíková K.* 2021. [](https://is.muni.cz/th/i1z6j/)[Breeding of the common redshank (*Tringa totanus*) in wetlands in agriculture landscape](https://is.muni.cz/th/i1z6j/?lang=en).
 
-*Dubnová A.* 2020. [Genetická diverzita žábronožky letní (Branchipus schaefferi) v ČR](https://is.muni.cz/th/peabx/).
+*Dubnová A.* 2020. [](https://is.muni.cz/th/peabx/)[Genetic diversity of fairy shrimp *Branchipus schaefferi* in the Czech republic](https://is.muni.cz/th/peabx/?lang=en).
 
 *Devánová A.* 2017: [Biologie a ekologie velkých lupenonožců v polních rozlivech](https://is.muni.cz/th/izs30?).
 
