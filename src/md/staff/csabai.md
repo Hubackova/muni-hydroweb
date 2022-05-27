@@ -3,7 +3,7 @@ title: csabai
 order: 13
 name: Dr hab. Zoltán Szabolcs Csabai, Ph.D.
 position: VÝZKUMNÍK
-positionEn: VÝZKUMNÍK
+positionEn: RESEARCHER
 email: csabai@gamma.ttk.pte.hu
 phone: 549498563
 room: D32/321
