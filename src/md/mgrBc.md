@@ -68,23 +68,23 @@ title: mgrBc
 
 **Defended Dissertation Theses**
 
-[Aquatic macroinvertebrate persistence in intermittent streams](https://is.muni.cz/th/if9fw/). Mgr. Bc. Barbora Loskotová, Ph.D., 2022
+[Aquatic macroinvertebrate persistence in intermittent streams](https://is.muni.cz/th/if9fw/Loskotova_B_PhD_thesis_2022.pdf?lang=en;info=1). Mgr. Bc. Barbora Loskotová, Ph.D., 2022
 
-[Vliv vybraných faktorů na životní historii a fekunditu jepic (Ephemeroptera) studovaný pomocí experimentálních metod](https://is.muni.cz/th/ws8tx/). Mgr. Jan Šupina, Ph.D., 2022[](https://is.muni.cz/th/ws8tx/)
+[The effect of selected factors on life history and fecundity of mayflies (Ephemeroptera) studied by experimental methods](https://is.muni.cz/th/ws8tx/00_Supina_disertace_notfull_fin.pdf?lang=en;info=1). Mgr. Jan Šupina, Ph.D., 2022[](https://is.muni.cz/th/ws8tx/)
 
-[Studium západopalearktických druhů jepic čeledi Heptageniidae s důrazem na problematické taxony; jejich identifikace, biologie a ekologie](https://is.muni.cz/th/yp1zk/). Mgr. Marek Polášek, Ph.D., 2019
+[Research on Western Palaearctic representatives of the family Heptageniidae (Ephemeroptera) with emphasis on problematic taxa; their indentification, biology and ecology](https://is.muni.cz/th/yp1zk/?lang=en). Mgr. Marek Polášek, Ph.D., 2019
 
-[Nepůvodní hlaváčovité ryby (Gobiidae) v potravních řetězcích dolního toku Dyje](https://is.muni.cz/th/yvu61/). Mgr. Libor Mikl, Ph.D., 2018
+[Non-native gobies (Gobiidae) of the food chain in lower River Dyje](https://is.muni.cz/th/yvu61/DSP_Libor_Mikl.pdf?lang=en;info=1). Mgr. Libor Mikl, Ph.D., 2018
 
-[The influence of environmental variables and dispersal abilities on distribution of aquatic macroinvertebrate larvae in isolated spring fens](https://is.muni.cz/th/bxrpa/). Mgr. Vanda Šorfová, Ph.D., 2016[](https://is.muni.cz/th/bxrpa/)
+[The influence of environmental variables and dispersal abilities on distribution of aquatic macroinvertebrate larvae in isolated spring fens](https://is.muni.cz/th/bxrpa/?lang=en). Mgr. Vanda Šorfová, Ph.D., 2016[](https://is.muni.cz/th/bxrpa/)
 
-[Vliv oteplených důlních vod na vybrané skupiny organismů v malém toku](https://is.muni.cz/th/okij3/). Mgr. Sylvie Žáková, Ph.D., 2016
+[Influence of heated mining water on selected groups of organisms in a stream](https://is.muni.cz/th/okij3/disertace_SR.pdf?lang=en;info=1). Mgr. Sylvie Žáková, Ph.D., 2016
 
-[Životní strategie pijavic (Clitellata: Hirudinida) v podmínkách stojatých a tekoucích vod](https://is.muni.cz/th/zd8qi/). Mgr. Nela Kubová, Ph.D., 2015
+[Life strategy of leeches (Clitellata: Hirudinida) in stagnant and running waters](https://is.muni.cz/th/zd8qi/?lang=en). Mgr. Nela Kubová, Ph.D., 2015
 
-[Prostorová distribuce vodních bezobratlých krenálních stanovišť: variabilita a ekologické vztahy na malé škále](https://is.muni.cz/th/mgebp/). Mgr. Vendula Polášková, Ph.D., 2014
+[Spatial distribution of aquatic invertebrates of crenal habitats: variation and ecological relationships at a small scale](https://is.muni.cz/th/mgebp/?lang=en). Mgr. Vendula Polášková, Ph.D., 2014
 
-[Druhová skladba a ekologie dvoukřídlých (Diptera) na prameništních slatiništích, se zřetelem na vybrané taxonomické problémy čeledi koutulovití (Psychodidae)](https://is.muni.cz/th/w4lkc/). Mgr. Markéta Omelková, Ph.D., 2012
+[Species composition and ecology of the True Flies (Diptera) in the Western Carpathian spring fens in consideration of the taxonomy of selected higher taxa of Moth Flies (family Psychodidae)](https://is.muni.cz/th/w4lkc/?lang=en). Mgr. Markéta Omelková, Ph.D., 2012
 
 </div>
 
