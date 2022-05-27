@@ -153,7 +153,7 @@ Notostraca, Spinicaudata) na Znojemsku. *Thayensia (Znojmo)* 11: 89–106. [PDF]
 
 *Devánová A.* 2017: [](https://is.muni.cz/th/izs30?)[Biology and ecology of large branchiopods in field wetlands](https://is.muni.cz/th/izs30/?lang=en).
 
-*Gvozdjáková* D. 2017: [Planktonní společenstva korýšů v periodických vodách](https://is.muni.cz/th/aei4t?).
+*Gvozdjáková* D. 2017: [](https://is.muni.cz/th/aei4t?)[Plankton assemblages of crustaceans in temporal waters](https://is.muni.cz/th/aei4t/?lang=en).
 
 </div>
 </div>
