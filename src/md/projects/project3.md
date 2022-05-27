@@ -217,7 +217,7 @@ Since 2020 we have participated in the global [DRYvER](https://www.dryver.eu/) (
 
 <div class="project-publication">
 
-**Selected publications**
+**Selected Publications**
 
 Sánchez-Montoya M.M., Gómez R., Calvo J.F., Bartonička T., Datry T. & **Pařil** P. 2022: Ecological values of intermittent rivers for terrestrial vertebrate fauna. *Science of The Total Environment* 806:151308 [PDF](https://doi.org/10.1016/j.scitotenv.2021.151308)
 
@@ -284,11 +284,11 @@ T.G.M. v.v.i.
 
 <div class="project-theses">
 
-**Defended dissertation thesis**
+**Defended Dissertation Thesis**
 
 *Barbora Loskotová* 2022. [Aquatic macroinvertebrate persistence in intermittent streams](https://is.muni.cz/th/if9fw/Loskotova_B_PhD_thesis_2022.pdf?lang=en;info=1).
 
-**Defended master theses**
+**Defended Master Theses**
 
 *Alena Dostálová* 2018. [](https://is.muni.cz/th/lxojn/)[Impact of drying up of streams on population structure and fecundity of freshwater gammarid *Gammarus fossarum*](https://is.muni.cz/th/lxojn/?lang=en).
 
@@ -306,7 +306,7 @@ T.G.M. v.v.i.
 
 *Jana Zavadilová* 2009. [](https://is.muni.cz/th/w9wdp/)[Life strategy of *Gammarus fossarum* in an intermittent stream](https://is.muni.cz/th/w9wdp/?lang=en).
 
-**Defended bachelor theses**
+**Defended Bachelor Theses**
 
 *Terezie Rosová* 2018. [](https://is.muni.cz/th/nwt6q/)[The invertebrate assemblage of dry streambeds recorded by use of pitfal traps](https://is.muni.cz/th/nwt6q/?lang=en).
 
