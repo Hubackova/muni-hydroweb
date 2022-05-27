@@ -298,7 +298,7 @@ T.G.M. v.v.i.
 
 *Jiří Habarta* 2016. [](https://is.muni.cz/th/fp8i9/)[Potential use of stoneflies (Plecoptera) for the bioindication of intermittent streams](https://is.muni.cz/th/fp8i9/?lang=en).
 
-*Eva Hanáková* 2012. [](https://is.muni.cz/th/nn3dy/)[Spatial distribution changes of macro- and meiobenthos in bed sediments of an intermittent stream.](https://is.muni.cz/th/nn3dy/?lang=en)
+*Eva Hanáková* 2012. [](https://is.muni.cz/th/nn3dy/)[Spatial distribution changes of macro- and meiobenthos in bed sediments of an intermittent stream](https://is.muni.cz/th/nn3dy/?lang=en).
 
 *Veronika Guziurová* 2009. [](https://is.muni.cz/th/lflfv/)[Seasonal dynamics of macrozoobenthos of an intermittent stream](https://is.muni.cz/th/lflfv/?lang=en).
 
