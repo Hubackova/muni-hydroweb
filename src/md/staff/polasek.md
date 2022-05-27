@@ -13,12 +13,11 @@ image: /images/staff_polasek.jpg
 ---
 <div class="cz">
 
-
 Jsem absolventem magisterského studia (učitelská kombinace biologie + chemie) i následného
  postgraduálního studia (obor hydrobiologie) na Masarykově univerzitě. V současné době jsem
  zaměstnán jako odborný pracovník Ústavu botaniky a zoologie MU a také (na zkrácený úvazek) jako výzkumný pracovník na Výzkumném ústavu vodohospodářském T.G.M., v.v.i.
 
-**Výzkumná témata:**
+**Výzkumná témata**
 
 * Taxonomie a ekologie jepic (zejména čeledi Heptageniidae)
 * Vliv vysychání na taxonomické a funkční složení společenstev vodních bezobratlých
@@ -29,12 +28,11 @@ Jsem absolventem magisterského studia (učitelská kombinace biologie + chemie)
 
 <div class="en">
 
-
 Jsem absolventem magisterského studia (učitelská kombinace biologie + chemie) i následného
  postgraduálního studia (obor hydrobiologie) na Masarykově univerzitě. V současné době jsem
  zaměstnán jako odborný pracovník Ústavu botaniky a zoologie MU a také (na zkrácený úvazek) jako výzkumný pracovník na Výzkumném ústavu vodohospodářském T.G.M., v.v.i.
 
-**Research topics:**
+**Research Topics**
 
 * Taxonomie a ekologie jepic (zejména čeledi Heptageniidae)
 * Vliv vysychání na taxonomické a funkční složení společenstev vodních bezobratlých
