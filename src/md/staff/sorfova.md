@@ -13,13 +13,12 @@ image: /images/staff_sorfova.jpg
 ---
 <div class="cz">
 
-
 Je absolventkou postgraduálního studia oboru hydrobiologie na Masarykově univerzitě, v současnosti
  zaměstnaná jako odborná pracovnice na Ústavu botaniky a zoologie MU. Specializuje se na
  determinaci larev taxonomicky náročné skupiny pakomárovitých (Chironomidae), jedné
  z nejpočetnějších čeledí dvoukřídlého hmyzu. Zabývá se také statistickou analýzou biologických dat.
 
-**Výzkumná témata:**
+**Výzkumná témata**
 
 * Výzkum západokarpatských prameništních slatinišť; jejich ekologie a hlavní faktory, které
   ovlivňují distribuci vodních bezobratlých včetně biotických interakcí
@@ -33,13 +32,12 @@ Je absolventkou postgraduálního studia oboru hydrobiologie na Masarykově univ
 
 <div class="en">
 
-
 Je absolventkou postgraduálního studia oboru hydrobiologie na Masarykově univerzitě, v současnosti
  zaměstnaná jako odborná pracovnice na Ústavu botaniky a zoologie MU. Specializuje se na
  determinaci larev taxonomicky náročné skupiny pakomárovitých (Chironomidae), jedné
  z nejpočetnějších čeledí dvoukřídlého hmyzu. Zabývá se také statistickou analýzou biologických dat.
 
-**Research topics:**
+**Research Topics**
 
 * Výzkum západokarpatských prameništních slatinišť; jejich ekologie a hlavní faktory, které
   ovlivňují distribuci vodních bezobratlých včetně biotických interakcí
