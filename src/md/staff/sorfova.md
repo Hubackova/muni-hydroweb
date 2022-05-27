@@ -3,7 +3,7 @@ title: sorfova
 order: 9
 name: Mgr. Vanda Šorfová, Ph.D.
 position: VÝZKUMNÍK
-positionEn: VÝZKUMNÍK
+positionEn: RESEARCHER
 email: sorfova.vanda@gmail.com
 phone: 549498575
 room: D32/327
