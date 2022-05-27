@@ -17,7 +17,7 @@ Je docentkou hydrobiologie na Ústavu botaniky a zoologie
  Masarykovy univerzity, v současné době v důchodu. Její výzkum je zaměřen na
  makrozoobentos, především řád Ephemeroptera – jepice. Zabývá se vývojem metod hodnocení ekologického stavu toků, od saprobiologie po moderní multikriteriální hodnocení, a analýzou dlouhodobých změn taxocenóz vodního hmyzu ve vztahu ke změnám prostředí. V současnosti se věnuje fenoménu vysychání tekoucích vod a změnám v referenčních společenstvech toků souvisejícími se současnými klimatickými změnami. 
 
-**Výzkumná témata:**
+**Výzkumná témata**
 
 * Hodnocení ekologického stavu toků
 * Dlouhodobé změny akvatických biotopů
@@ -36,7 +36,7 @@ Je docentkou hydrobiologie na Ústavu botaniky a zoologie
  změnám v referenčních společenstvech toků souvisejícími se současnými
  klimatickými změnami. 
 
-**Research Topics:**
+**Research Topics**
 
 * Hodnocení ekologického stavu toků
 * Dlouhodobé změny akvatických biotopů
