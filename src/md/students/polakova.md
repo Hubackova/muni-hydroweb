@@ -15,7 +15,7 @@ image: /images/phd_polakova.jpg
 ---
 <div class="cz">
 
-**Výzkumná témata:**
+**Výzkumná témata**
 
 * Makrozoobentos post-industriálních stanovišť
 * Koexistence vodních bezobratlých na malé prostorové škále: vliv prostorové a abiotické heterogenity
@@ -25,7 +25,7 @@ image: /images/phd_polakova.jpg
 
 <div class="en">
 
-**Research topics:**
+**Research Topics**
 
 * Makrozoobentos post-industriálních stanovišť
 * Koexistence vodních bezobratlých na malé prostorové škále: vliv prostorové a abiotické heterogenity
