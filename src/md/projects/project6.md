@@ -81,9 +81,9 @@ Notostraca, Spinicaudata) na Znojemsku. *Thayensia (Znojmo)* 11: 89–106. [PDF]
 
 *Dubnová A.* 2020. [Genetická diverzita žábronožky letní (*Branchipus schaefferi*) v ČR](https://is.muni.cz/th/peabx/).
 
-*Devánová A.* 2017: [Biologie a ekologie velkých lupenonožců v polních rozlivech](https://is.muni.cz/th/izs30?).
+*Devánová A.* 2017. [Biologie a ekologie velkých lupenonožců v polních rozlivech](https://is.muni.cz/th/izs30?).
 
-*Gvozdjáková* D. 2017: [Planktonní společenstva korýšů v periodických vodách](https://is.muni.cz/th/aei4t?).
+*Gvozdjáková* D. 2017. [Planktonní společenstva korýšů v periodických vodách](https://is.muni.cz/th/aei4t?).
 
 </div>
 </div>
@@ -151,9 +151,9 @@ Notostraca, Spinicaudata) na Znojemsku. *Thayensia (Znojmo)* 11: 89–106. [PDF]
 
 *Dubnová A.* 2020. [](https://is.muni.cz/th/peabx/)[Genetic diversity of fairy shrimp *Branchipus schaefferi* in the Czech republic](https://is.muni.cz/th/peabx/?lang=en).
 
-*Devánová A.* 2017: [](https://is.muni.cz/th/izs30?)[Biology and ecology of large branchiopods in field wetlands](https://is.muni.cz/th/izs30/?lang=en).
+*Devánová A.* 2017. [](https://is.muni.cz/th/izs30?)[Biology and ecology of large branchiopods in field wetlands](https://is.muni.cz/th/izs30/?lang=en).
 
-*Gvozdjáková* D. 2017: [](https://is.muni.cz/th/aei4t?)[Plankton assemblages of crustaceans in temporal waters](https://is.muni.cz/th/aei4t/?lang=en).
+*Gvozdjáková* D. 2017. [](https://is.muni.cz/th/aei4t?)[Plankton assemblages of crustaceans in temporal waters](https://is.muni.cz/th/aei4t/?lang=en).
 
 </div>
 </div>
