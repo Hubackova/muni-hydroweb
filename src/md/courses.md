@@ -81,9 +81,6 @@ prof. RNDr. Michal Horsák, Ph.D., **Mgr. Jan Sychra, Ph.D.**
 [Biology of aquatic invertebrates Bi7451](https://is.muni.cz/predmet/sci/jaro2023/Bi7451?lang=en)[](https://is.muni.cz/predmet/sci/jaro2023/Bi7451)\
 **Mgr. Jindřiška Bojková, Ph.D.**, **RNDr. Petr Pařil, Ph.D**
 
-[Identification of aquatic invertebrates - practice Bi8762](https://is.muni.cz/predmet/sci/jaro2023/Bi8762?lang=en)[](https://is.muni.cz/predmet/sci/jaro2023/Bi8095)\
-**doc. RNDr. Jana Schenková, Ph.D.**, **Mgr. Jindřiška Bojková, Ph.D.**, Mgr. Petr Kment, Ph.D., **RNDr. Petr Pařil, Ph.D.**, **Mgr. Michal Straka, Ph.D.**, **Mgr. Jan Sychra, Ph.D.**, **Mgr. Marie Zhai, Ph.D.**
-
 [Ecology of seas and oceanobiology Bi8095](https://is.muni.cz/predmet/sci/jaro2023/Bi8095?lang=en)\
 **Mgr. Marie Zhai, Ph.D.**, **doc. RNDr. Jan Helešic**
 
@@ -96,6 +93,12 @@ prof. RNDr. Michal Horsák, Ph.D., **Mgr. Jan Sychra, Ph.D.**
 [Hydrobiology (Limnobiology) Bi6360](https://is.muni.cz/predmet/sci/jaro2023/Bi6360?lang=en)\
  **Mgr. Jindřiška Bojková, Ph.D.**, **doc. RNDr. Jan Helešic,** **Ph.D.**
 
+[Identification of aquatic invertebrates - practice Bi8762](https://is.muni.cz/predmet/sci/jaro2023/Bi8762?lang=en)[](https://is.muni.cz/predmet/sci/jaro2023/Bi8095)\
+**doc. RNDr. Jana Schenková, Ph.D.**, **Mgr. Jindřiška Bojková, Ph.D.**, Mgr. Petr Kment, Ph.D., **RNDr. Petr Pařil, Ph.D.**, **Mgr. Michal Straka, Ph.D.**, **Mgr. Jan Sychra, Ph.D.**, **Mgr. Marie Zhai, Ph.D.**
+
+[Limnological methods Bi6750](https://is.muni.cz/predmet/sci/jaro2023/Bi6750?lang=en)\
+**RNDr. Petr Pařil, Ph.D.**, **Mgr. Jindřiška Bojková, Ph.D.**, Mgr. Barbora Hutňan Chattová, Ph.D., **Mgr. Jan Sychra, Ph.D.**, **Mgr. Marie Zhai, Ph.D.**
+
 [Selected capitols from ecology of stagnant water Bi7683](https://is.muni.cz/predmet/sci/podzim2021/Bi7683?lang=en)\
 prof. RNDr. Jaroslav Vrba CSc., **doc. RNDr. Jan Helešic, Ph.D.**, **Mgr. Jindřiška Bojková, Ph.D.** [](https://is.muni.cz/predmet/sci/jaro2022/Bi8750)
 
@@ -105,28 +108,13 @@ prof. RNDr. Jaroslav Vrba CSc., **doc. RNDr. Jan Helešic, Ph.D.**, **Mgr. Jind�
 [Selected topics of river ecology Bi7684](https://is.muni.cz/predmet/sci/podzim2022/Bi7684?lang=en)\
 **Mgr. Jindřiška Bojková, Ph.D.**, **Mgr. Marie Zhai, Ph.D.**, **doc. RNDr. Jan Helešic, Ph.D.**
 
-[Limnological methods Bi6750](https://is.muni.cz/predmet/sci/jaro2023/Bi6750?lang=en)\
-**RNDr. Petr Pařil, Ph.D.**, **Mgr. Jindřiška Bojková, Ph.D.**, Mgr. Barbora Hutňan Chattová, Ph.D., **Mgr. Jan Sychra, Ph.D.**, **Mgr. Marie Zhai, Ph.D.**
-
 [Water pollution and ecology of technical interventions Bi8040](https://is.muni.cz/predmet/sci/jaro2023/Bi8040?lang=en)\
 **RNDr. Petr Pařil, Ph.D.**, **doc. RNDr. Jan Helešic, Ph.D.**, **doc. RNDr. Jana Schenková, Ph.D.**
 
 - - -
 
-[Invertebrate phylogeny and diversity - practical course Bi1030c](https://is.muni.cz/predmet/sci/podzim2022/Bi1030c?lang=en)\
-**doc. RNDr. Jana Schenková, Ph.D.**
-
-[Vertebrate phylogeny and diversity - practical course Bi2090c](https://is.muni.cz/predmet/sci/jaro2023/Bi2090c?lang=en)\
-doc. Mgr. Tomáš Bartonička, Ph.D., **Mgr. Jan Sychra, Ph.D.**
-
-[Management of endangered ecosystems Bi7113](https://is.muni.cz/predmet/sci/podzim2022/Bi7113?lang=en)\
-**RNDr. Petr Pařil, Ph.D.**, **Mgr. Jan Sychra, Ph.D.**, doc. Mgr. Lubomír Tichý, Ph.D.
-
 [Conservation of animal species Bi7112](https://is.muni.cz/predmet/sci/podzim2022/Bi7112?lang=en)\
 **RNDr. Petr Pařil, Ph.D.**, **Mgr. Jan Sychra, Ph.D.**
-
-[Special field practice in zoology Bi8160](https://is.muni.cz/predmet/sci/jaro2023/Bi8160?lang=en)[](https://is.muni.cz/predmet/sci/podzim2022/Bi7112)\
-**Mgr. Jan Sychra, Ph.D.,** prof. RNDr. Michal Horsák, Ph.D., Mgr. Jan Roleček, Ph.D., Mgr. Daniel Dvořák, Mgr. Igor Malenovský, Ph.D.
 
 [Field course in entomology Bi0055](https://is.muni.cz/predmet/sci/jaro2023/Bi0055?lang=en)\
 Mgr. Igor Malenovský, Ph.D., prof. RNDr. Michal Horsák, Ph.D., **Mgr. Jan Sychra, Ph.D.**, Mgr. Petr Kment, Ph.D
@@ -134,11 +122,23 @@ Mgr. Igor Malenovský, Ph.D., prof. RNDr. Michal Horsák, Ph.D., **Mgr. Jan Sych
 [Field practice in zoology Bi2140](https://is.muni.cz/predmet/sci/jaro2023/Bi2140?lang=en)\
 **doc. RNDr. Jana Schenková, Ph.D.**, **Mgr. Jan Sychra, Ph.D.**, prof. RNDr. Michal Horsák, Ph.D., doc. Mgr. Tomáš Bartonička, Ph.D., **Mgr. Jindřiška Bojková, Ph.D.**, Mgr. Adam Konečný, Ph.D., Mgr. Igor Malenovský, Ph.D., **RNDr. Petr Pařil, Ph.D.**, doc. Dipl. Biol. Jiří Schlaghamerský, Ph.D., RNDr. Andrea Špalek Tóthová, Ph.D.
 
+[Introduction to Field Invertebrate Zoology Bi8761](https://is.muni.cz/predmet/sci/jaro2023/Bi8761?lang=en)\
+**doc. RNDr. Jana Schenková, Ph.D.,** prof. RNDr. Michal Horsák, Ph.D., **Mgr. Marie Zhai, Ph.D.**, doc. RNDr. Andrea Bardůnek Valigurová, Ph.D., Mgr. Igor Malenovský, Ph.D., **RNDr. Petr Pařil, Ph.D.**, prof. Mgr. Stanislav Pekár, Ph.D., Mgr. Eva Řehulková, Ph.D., Mgr. Mária Seifertová, Ph.D., doc. Dipl. Biol. Jiří Schlaghamerský, Ph.D., **Mgr. Jan Sychra, Ph.D.**
+
 [Introduction to study of ecological and evolutionary biology Bi1000](https://is.muni.cz/predmet/sci/podzim2022/Bi1000?lang=en)\
 Mgr. Iveta Hodová, Ph.D., prof. RNDr. Milan Chytrý, Ph.D., prof. RNDr. Michal Horsák, Ph.D., doc. Mgr. Tomáš Bartonička, Ph.D., **Mgr. Jindřiška Bojková, Ph.D.**, prof. RNDr. Petr Bureš, Ph.D., prof. RNDr. Milan Gelnar, CSc., doc. Mgr. Michal Hájek, Ph.D., **doc. RNDr. Jan Helešic, Ph.D.**, Mgr. Adam Konečný, Ph.D., **RNDr. Petr Pařil, Ph.D.**, prof. Mgr. Stanislav Pekár, Ph.D.
 
-[Introduction to Field Invertebrate Zoology Bi8761](https://is.muni.cz/predmet/sci/jaro2023/Bi8761?lang=en)\
-**doc. RNDr. Jana Schenková, Ph.D.,** prof. RNDr. Michal Horsák, Ph.D., **Mgr. Marie Zhai, Ph.D.**, doc. RNDr. Andrea Bardůnek Valigurová, Ph.D., Mgr. Igor Malenovský, Ph.D., **RNDr. Petr Pařil, Ph.D.**, prof. Mgr. Stanislav Pekár, Ph.D., Mgr. Eva Řehulková, Ph.D., Mgr. Mária Seifertová, Ph.D., doc. Dipl. Biol. Jiří Schlaghamerský, Ph.D., **Mgr. Jan Sychra, Ph.D.**
+[Invertebrate phylogeny and diversity - practical course Bi1030c](https://is.muni.cz/predmet/sci/podzim2022/Bi1030c?lang=en)\
+**doc. RNDr. Jana Schenková, Ph.D.**
+
+[Management of endangered ecosystems Bi7113](https://is.muni.cz/predmet/sci/podzim2022/Bi7113?lang=en)\
+**RNDr. Petr Pařil, Ph.D.**, **Mgr. Jan Sychra, Ph.D.**, doc. Mgr. Lubomír Tichý, Ph.D.
+
+[Special field practice in zoology Bi8160](https://is.muni.cz/predmet/sci/jaro2023/Bi8160?lang=en)[](https://is.muni.cz/predmet/sci/podzim2022/Bi7112)\
+**Mgr. Jan Sychra, Ph.D.,** prof. RNDr. Michal Horsák, Ph.D., Mgr. Jan Roleček, Ph.D., Mgr. Daniel Dvořák, Mgr. Igor Malenovský, Ph.D.
+
+[Vertebrate phylogeny and diversity - practical course Bi2090c](https://is.muni.cz/predmet/sci/jaro2023/Bi2090c?lang=en)\
+doc. Mgr. Tomáš Bartonička, Ph.D., **Mgr. Jan Sychra, Ph.D.**
 
 [Zoological seminar Bi6800](https://is.muni.cz/predmet/sci/podzim2022/Bi6800?lang=en)\
 prof. RNDr. Michal Horsák, Ph.D., **Mgr. Jan Sychra, Ph.D.**
