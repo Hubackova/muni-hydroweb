@@ -280,18 +280,17 @@ Gabreta* 24: 171–211. [PDF](http://www.npsumava.cz/gallery/38/11665-9_sg_24_bo
 
 **Defended Bachelor Theses**
 
-*Dvořáková A.* 2021. [Vodní brouci a ploštice aluviálních tůní ve Vltavském luhu na Šumavě](https://is.muni.cz/th/uv1wq/).
+*Dvořáková A.* 2021. [](https://is.muni.cz/th/uv1wq/)[Aquatic beetles and water bugs in alluvial pools of the Vltava river in the Bohemian Forest](https://is.muni.cz/th/uv1wq/?lang=en).
 
-*Fišarová K.* 2019. [Kolonizace toků bentickými bezobratlými: procesy a dynamika](https://is.muni.cz/th/k8su9/).
+*Fišarová K.* 2019. [](https://is.muni.cz/th/k8su9/)[Colonisation of streams by benthic macroinvertebrates: processes and dynamic](https://is.muni.cz/th/k8su9/?lang=en).
 
-*Kozlová K.* 2019. [Vážky (Odonata) vrchovištních jezírek na Šumavě](https://is.muni.cz/th/mvhse/).
+*Kozlová K.* 2019. [](https://is.muni.cz/th/mvhse/)[Dragonflies (Odonata) of the raised bogs pools in the Bohemian Forest](https://is.muni.cz/th/mvhse/?lang=en).
 
-*Pěničková S*. 2019. [Diverzita chrostíků (Trichoptera) tekoucích vod Šumavy](https://is.muni.cz/th/xjrd7/).
+*Pěničková S*. 2019. [](https://is.muni.cz/th/xjrd7/)[Diversity of caddisflies (Trichoptera) in streams of the Šumava Mts.](https://is.muni.cz/th/xjrd7/?lang=en).
 
-*de Donnová S.* 2018. [Krátkodobá kolonizace revitalizovaných potoků makrozoobentosem: případová
-studie z Vltavského luhu (NP Šumava)](https://is.muni.cz/th/gro6o/).
+*de Donnová S.* 2018. [Short-term colonisation of restored brooks by benthic macroinvertebrates: the case study from the Vltavský Luh (NP Šumava)](https://is.muni.cz/th/gro6o/?lang=en)[](https://is.muni.cz/th/gro6o/).
 
-*Paterová S.* 2016. [Revitalizace malých vodních toků v České republice](https://is.muni.cz/th/znct7).
+*Paterová S.* 2016. [](https://is.muni.cz/th/znct7)[Restoration of small streams in the Czech Republic](https://is.muni.cz/th/znct7/?lang=en).
 
 </div>
 </div>
