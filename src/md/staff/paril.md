@@ -15,7 +15,7 @@ image: /images/staff_paril.jpg
 
 Po studiu na Masarykově univerzitě (MU) jsem pracoval jako hydrobiolog na Agentuře ochrany přírody a krajiny ČR (1992–1996) a České inspekci životního prostředí (1996–2002). Na MU jsem se vrátil v roce 2002 nejprve do EU projektu STAR a od roku 2004 jsem se zapojil do hydrobiologického týmu Ústavu botaniky a zoologie. V letech 2011-2016 jsem souběžně pracoval na Výzkumném ústavu vodohospodářském T.G.M., v.v.i. Od roku 2005 se zabývám ekologií vodních bezobratlých ve vysychavých tocích, což se promítlo do projektu \[BIOSUCHO](http://www.sucho.eu/) vytvořením metody retrospektivní indikace epizod vyschnutí toku a navržením interaktivní mapy rizika vysychání toků ČR.
 
-**Výzkumná témata:**
+**Výzkumná témata**
 
 * S pracovní skupinou pro vysychavé toky se zaměřujeme na změny společenstev vodních i
    suchozemských organizmů (bezobratlí, řasy a sinice, vyšší rostliny, obratlovci) způsobených jak
@@ -24,10 +24,10 @@ Po studiu na Masarykově univerzitě (MU) jsem pracoval jako hydrobiolog na Agen
 * Dále analyzuji paleozbytky larev pakomárů v jezerních sedimentech používané pro rekonstrukci
   historických změn podmínek v jezeře i jeho okolí, včetně změny klimatu (zejména teploty).
 * Pro studie recentních změn vysychavých toků tak i pro historické fylogeografické analýzy nám
-   jako modelový organizmus slouží různonohý korýš blešivec (rod _Gammarus_). V souvislosti se
-   změnou klimatu se také věnuji šíření expandujících vodních bezobratlých (např. pošvatka _Leuctra geniculata_).
+   jako modelový organizmus slouží různonohý korýš blešivec (rod *Gammarus*). V souvislosti se
+   změnou klimatu se také věnuji šíření expandujících vodních bezobratlých (např. pošvatka *Leuctra geniculata*).
 
-**Širší životopis a curriculum vitae** [zde](https://www.muni.cz/lide/70751-petr-paril/zivotopis)
+**Širší životopis** [zde](https://www.muni.cz/lide/70751-petr-paril/zivotopis)
 
 </div>
 
@@ -35,7 +35,7 @@ Po studiu na Masarykově univerzitě (MU) jsem pracoval jako hydrobiolog na Agen
 
 Po studiu na Masarykově univerzitě (MU) jsem pracoval jako hydrobiolog na Agentuře ochrany přírody a krajiny ČR (1992–1996) a České inspekci životního prostředí (1996–2002). Na MU jsem se vrátil v roce 2002 nejprve do EU projektu STAR a od roku 2004 jsem se zapojil do hydrobiologického týmu Ústavu botaniky a zoologie. V letech 2011-2016 jsem souběžně pracoval na Výzkumném ústavu vodohospodářském T.G.M., v.v.i. Od roku 2005 se zabývám ekologií vodních bezobratlých ve vysychavých tocích, což se promítlo do projektu \[BIOSUCHO](http://www.sucho.eu/) vytvořením metody retrospektivní indikace epizod vyschnutí toku a navržením interaktivní mapy rizika vysychání toků ČR.
 
-**Research topics:**
+**Research Topics**
 
 * S pracovní skupinou pro vysychavé toky se zaměřujeme na změny společenstev vodních i
    suchozemských organizmů (bezobratlí, řasy a sinice, vyšší rostliny, obratlovci) způsobených jak
@@ -44,9 +44,9 @@ Po studiu na Masarykově univerzitě (MU) jsem pracoval jako hydrobiolog na Agen
 * Dále analyzuji paleozbytky larev pakomárů v jezerních sedimentech používané pro rekonstrukci
   historických změn podmínek v jezeře i jeho okolí, včetně změny klimatu (zejména teploty).
 * Pro studie recentních změn vysychavých toků tak i pro historické fylogeografické analýzy nám
-   jako modelový organizmus slouží různonohý korýš blešivec (rod _Gammarus_). V souvislosti se
-   změnou klimatu se také věnuji šíření expandujících vodních bezobratlých (např. pošvatka _Leuctra geniculata_).
+   jako modelový organizmus slouží různonohý korýš blešivec (rod *Gammarus*). V souvislosti se
+   změnou klimatu se také věnuji šíření expandujících vodních bezobratlých (např. pošvatka *Leuctra geniculata*).
 
-**Wider CV and curriculum vitae** [here](https://www.muni.cz/lide/70751-petr-paril/zivotopis)
+**Curriculum vitae** [here](https://www.muni.cz/lide/70751-petr-paril/zivotopis)
 
 </div>
