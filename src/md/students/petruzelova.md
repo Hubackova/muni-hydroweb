@@ -29,10 +29,9 @@ image: /images/jana-petruželová.jpg
 
 **Research Topics**
 
-* Diverzita a ekologie společenstev vodních bezobratlých v horských vodních ekosystémech
-  (vodní toky, jezera, vrchoviště)
-* Zotavení společenstev vodních bezobratlých v šumavských jezerech z acidifikace
-* Sukcese a dynamika společenstev vodních bezobratlých v revitalizovaných tocích
-* Diverzita a ekologie chrostíků (Trichoptera)
+* Diversity and ecology of macroinvertebrate assemblages in montane aquatic ecosystems (stream, lakes, bogs)
+* Recovery of macroinvertebrate assemblages from acidification in the Bohemian forest lakes
+* Macroinvertebrate assemblages succession and dynamics in restored streams
+* Diversity and ecology of caddisflies (Trichoptera)
 
 </div>
