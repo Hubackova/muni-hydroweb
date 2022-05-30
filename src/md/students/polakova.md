@@ -3,8 +3,8 @@ title: polakova
 name: Mgr. Martina Poláková
 thesis: "Pakomárovití (Chironomidae) - maloškálová distribuce v extrémních
   podmínkách: srovnání přirozených a antropogenně ovlivněných stanovišť"
-thesisEn: "Pakomárovití (Chironomidae) - maloškálová distribuce v extrémních
-  podmínkách: srovnání přirozených a antropogenně ovlivněných stanovišť"
+thesisEn: "Chironomidae - small-scale distribution under extreme conditions: a
+  comparison of natural and anthropogenic sites"
 supervisor: doc. RNDr. Jana Schenková, Ph.D.
 email: polakova.23@email.cz
 phone: 549498559
