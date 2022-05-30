@@ -3,8 +3,8 @@ title: devanova
 name: Mgr. Alžběta Devánová
 thesis: Ekologické a historické determinanty výskytu velkých lupenonohých korýšů
   v Panonské oblasti
-thesisEn: Ekologické a historické determinanty výskytu velkých lupenonohých
-  korýšů v Panonské oblasti
+thesisEn: Ecological and historical determinants of large branchiopod
+  distribution in the Pannonian Region
 supervisor: prof. RNDr. Michal Horsák, Ph.D.
 email: 437390@mail.muni.cz
 phone: 549498559
