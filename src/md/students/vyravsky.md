@@ -3,8 +3,7 @@ title: vyravsky
 name: Mgr. David Výravský
 thesis: Životní strategie lasturnatek (Ostracoda) na prameništních slatiništích
   Západních Karpat
-thesisEn: Životní strategie lasturnatek (Ostracoda) na prameništních
-  slatiništích Západních Karpat
+thesisEn: Life strategies of spring fen ostracods
 supervisor: Mgr. Marie Zhai, Ph.D.
 email: vyrius@gmail.com
 phone: 549498559
@@ -26,7 +25,9 @@ image: /images/phd_vyravsky.jpg
 
 **Research Topics**
 
-* Ekologie lasturnatek prameništních slatinišť Západních Karpat
-* Distribuce lasturnatek pramenných biotopů na různých prostorových škálách
+* Ecology of ostracods in Western Carpathian spring fens
+* Distribution of ostracods in spring biotopes on various spatial scales
+
+
 
 </div>
