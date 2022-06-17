@@ -13,10 +13,10 @@ image: /images/staff_helesic.jpg
 ---
 <div class="cz">
 
-Absolvoval studium odborné biologie se zaměřením na ekologii a zoologii v roce 1977 na Přírodovědecké fakultě univerzity Jana Evangelisty Purkyně Brno (dřívější název MU). V době studia
+Absolvoval studium odborné biologie se zaměřením na ekologii a zoologii v roce 1977 na Přírodovědecké fakultě univerzity Jana Evangelisty Purkyně Brno (dřívější název MUNI). V době studia
 se věnoval ornitologii a chiropterologii. Do roku 1990 pracoval v resortním ústavu Ministerstva
-dopravy, kde se věnoval toxikologii, ochraně povrchových a podzemních vod a čistírenství. Je vedoucím pracovní skupiny Laboratoř biologie tekoucích vod a v letech 2007 – 2016 byl ředitelem
-Ústavu botaniky a zoologie PřF MU. Byl i národním reprezentantem v SIL - International Association
+dopravy, kde se věnoval toxikologii, ochraně povrchových a podzemních vod a čistírenství. Byl vedoucím pracovní skupiny Laboratoř biologie tekoucích vod a v letech 2007 – 2016 byl ředitelem
+Ústavu botaniky a zoologie PřF MUNI. Byl i národním reprezentantem v SIL - International Association
 of Theoretical and Applied Limnology (1992 – 2016) a v IAD - International Association of Danube
 Research, 1998 – 2016. V letech 2003 – 2006 byl předseda české limnologické společnosti a společně s prof. G. Bretschkem, dr. Marii Leichtfried (Biol. Station Lunz) a doc. S. Zahrádkovou uspořádal několik mezinárodních konferencí RIVER BOTTOM (1990, 1993, 1996).
 
