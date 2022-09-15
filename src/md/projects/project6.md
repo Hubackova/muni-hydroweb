@@ -75,6 +75,8 @@ Notostraca, Spinicaudata) na Znojemsku. *Thayensia (Znojmo)* 11: 89–106. [PDF]
 
 **Obhájené bakalářské práce**
 
+*P﻿liska D.* 2022.  [Společenstva zooplanktonu v nově budovaných mokřadech v zemědělské krajině jižní Moravy](https://is.muni.cz/th/myb3r/).
+
 *Černá A.* 2021. [Vodní ploštice a brouci v biotopech polních mokřadů](https://is.muni.cz/th/zqvfd/).
 
 *Menšíková K.* 2021. [Hnízdění vodouše rudonohého (*Tringa totanus*) v mokřadech zemědělské krajiny](https://is.muni.cz/th/i1z6j/).
@@ -144,6 +146,8 @@ Notostraca, Spinicaudata) na Znojemsku. *Thayensia (Znojmo)* 11: 89–106. [PDF]
 *Devánová A.* 2020. [](https://is.muni.cz/th/xjt62/)[Biology and ecology of selected species of large branchiopods (Crustacea: Branchiopoda) in field wetlands and breeding](https://is.muni.cz/th/xjt62/?lang=en).
 
 **Defended Bachelor Theses**
+
+*P﻿liska D.* 2022. [Zooplankton communities in newly built wetlands in agricultural landscape of southern Moravia](https://is.muni.cz/th/myb3r/?lang=en).
 
 *Černá A.* 2021. [](https://is.muni.cz/th/zqvfd/)[Aquatic bugs and beetles in habitats of field wetlands](https://is.muni.cz/th/zqvfd/?lang=en).
 
