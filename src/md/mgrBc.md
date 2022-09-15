@@ -35,27 +35,23 @@ title: mgrBc
 
 [Bc. Ondřej Jandáček](https://is.muni.cz/auth/osoba/460617)
 
+[B﻿c. Jiří Kopřiva](https://is.muni.cz/auth/osoba/499691)
+
+[B﻿c. Dominik Pliska](https://is.muni.cz/auth/osoba/499022)
+
+[B﻿c. Barbora Řehuřková](https://is.muni.cz/auth/osoba/499376)
+
 [Bc. Zuzana Ševčíková](https://is.muni.cz/auth/osoba/461008)
 
 **Bc. Studenti**
-
-[Jiří Kopřiva](https://is.muni.cz/auth/osoba/499691)
 
 [Matěj Kořínek](https://is.muni.cz/auth/osoba/499816)
 
 [Zuzana Kožnárková](https://is.muni.cz/auth/osoba/502395)
 
-[Zuzana Macháčková](https://is.muni.cz/auth/osoba/500090)
-
 [Albín Pařízek](https://is.muni.cz/auth/osoba/493658)
 
-[Adéla Pastuszková](https://is.muni.cz/auth/osoba/500045)
-
-[Dominik Pliska](https://is.muni.cz/auth/osoba/499022)
-
 [Veronika Riplová](https://is.muni.cz/auth/osoba/509381)
-
-[Barbora Řehůřková](https://is.muni.cz/auth/osoba/499376)
 
 [Dominika Šúrová](https://is.muni.cz/auth/osoba/509246)
 
@@ -96,27 +92,23 @@ title: mgrBc
 
 [Bc. Ondřej Jandáček](https://is.muni.cz/auth/osoba/460617)
 
+[B﻿c. Jiří Kopřiva](https://is.muni.cz/auth/osoba/499691)
+
+[B﻿c. Dominik Pliska](https://is.muni.cz/auth/osoba/499022)
+
+[B﻿c. Barbora Řehuřková](https://is.muni.cz/auth/osoba/499376)
+
 [Bc. Zuzana Ševčíková](https://is.muni.cz/auth/osoba/461008)
 
 **Bachelor Students**
-
-[Jiří Kopřiva](https://is.muni.cz/auth/osoba/499691)
 
 [Matěj Kořínek](https://is.muni.cz/auth/osoba/499816)
 
 [Zuzana Kožnárková](https://is.muni.cz/auth/osoba/502395)
 
-[Zuzana Macháčková](https://is.muni.cz/auth/osoba/500090)
-
 [Albín Pařízek](https://is.muni.cz/auth/osoba/493658)
 
-[Adéla Pastuszková](https://is.muni.cz/auth/osoba/500045)
-
-[Dominik Pliska](https://is.muni.cz/auth/osoba/499022)
-
 [Veronika Riplová](https://is.muni.cz/auth/osoba/509381)
-
-[Barbora Řehůřková](https://is.muni.cz/auth/osoba/499376)
 
 [Dominika Šúrová](https://is.muni.cz/auth/osoba/509246)
 
