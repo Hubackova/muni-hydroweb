@@ -28,9 +28,9 @@ image: /images/phd_devanova.jpg
 
 **Research Topics**
 
-* Časová dynamika společenstva vodních bezobratlých v polních mokřadech
-* Biotické interakce vybraných druhů velkých lupenonožců
-* Predikce výskytu velkých lupenonožců v severní části Panonské oblasti
-* Vliv historie land-use a klimatické změny na výskyt velkých lupenonohých korýšů
+* Temporal dynamics in aquatic invertebrates of ephemeral wetlands on arable land
+* Biotic interactions of selected large branchiopod species
+* Prediction of large branchiopod distribution in Pannonian Region
+* Impact of land-use and climate change on large branchiopod distribution
 
 </div>
