@@ -37,23 +37,35 @@ title: mgrBc
 
 [B﻿c. Jiří Kopřiva](https://is.muni.cz/auth/osoba/499691)
 
+[B﻿c. Albín Pařízek](https://is.muni.cz/auth/osoba/493658)
+
 [B﻿c. Dominik Pliska](https://is.muni.cz/auth/osoba/499022)
 
-[B﻿c. Barbora Řehuřková](https://is.muni.cz/auth/osoba/499376)
+[B﻿c. Barbora Řehůřková](https://is.muni.cz/auth/osoba/499376)
 
 [Bc. Zuzana Ševčíková](https://is.muni.cz/auth/osoba/461008)
 
 **Bc. Studenti**
 
+[P﻿avla Dordová](https://is.muni.cz/auth/osoba/509305)
+
+[V﻿iktorie Klobušická](https://is.muni.cz/auth/osoba/505491)
+
 [Matěj Kořínek](https://is.muni.cz/auth/osoba/499816)
 
 [Zuzana Kožnárková](https://is.muni.cz/auth/osoba/502395)
 
-[Albín Pařízek](https://is.muni.cz/auth/osoba/493658)
+[V﻿eronika Křížová](https://is.muni.cz/auth/osoba/520959)
+
+[M﻿atúš Porubský](https://is.muni.cz/auth/osoba/509294)
 
 [Veronika Riplová](https://is.muni.cz/auth/osoba/509381)
 
+[E﻿rika Skříšovská](https://is.muni.cz/auth/osoba/520972)
+
 [Dominika Šúrová](https://is.muni.cz/auth/osoba/509246)
+
+[S﻿arah Maya Židek](https://is.muni.cz/auth/osoba/509376)
 
 - - -
 
@@ -94,23 +106,35 @@ title: mgrBc
 
 [B﻿c. Jiří Kopřiva](https://is.muni.cz/auth/osoba/499691)
 
+[B﻿c. Albín Pařízek](https://is.muni.cz/auth/osoba/493658)
+
 [B﻿c. Dominik Pliska](https://is.muni.cz/auth/osoba/499022)
 
-[B﻿c. Barbora Řehuřková](https://is.muni.cz/auth/osoba/499376)
+[B﻿c. Barbora Řehůřková](https://is.muni.cz/auth/osoba/499376)
 
 [Bc. Zuzana Ševčíková](https://is.muni.cz/auth/osoba/461008)
 
 **Bachelor Students**
 
+[P﻿avla Dordová](https://is.muni.cz/auth/osoba/509305)
+
+[V﻿iktorie Klobušická](https://is.muni.cz/auth/osoba/505491)
+
 [Matěj Kořínek](https://is.muni.cz/auth/osoba/499816)
 
 [Zuzana Kožnárková](https://is.muni.cz/auth/osoba/502395)
 
-[Albín Pařízek](https://is.muni.cz/auth/osoba/493658)
+[V﻿eronika Křížová](https://is.muni.cz/auth/osoba/520959)
+
+[M﻿atúš Porubský](https://is.muni.cz/auth/osoba/509294)
 
 [Veronika Riplová](https://is.muni.cz/auth/osoba/509381)
 
+[E﻿rika Skříšovská](https://is.muni.cz/auth/osoba/520972)
+
 [Dominika Šúrová](https://is.muni.cz/auth/osoba/509246)
+
+[S﻿arah Maya Židek](https://is.muni.cz/auth/osoba/509376)
 
 - - -
 
