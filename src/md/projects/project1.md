@@ -1,7 +1,7 @@
 ---
 title: project1
 name: Vodní bezobratlí prameništních slatinišť Západních Karpat
-nameEn: Vodní bezobratlí prameništních slatinišť Západních Karpat
+nameEn: Aquatic invertebrates of the Western Carpathian spring fens
 captions: 2006 - na Obidové s doc. Opravilovou/ 2005 - na Hrubém Mechnáči/ 2007
   - cestou z Kalábové/ 2005 - Markéta v terénu/ 2007 - Marki a Veny/ 2010 -
   bahnologie na Korni/ 2010 - romantický Štiavnik/ 2011 - nové lokality budou
@@ -135,33 +135,27 @@ richness. *Canadian Journal of Fisheries and Aquatic Sciences* 70: 689–700. [P
 </div>
 
 <div class="en">
-Prameništní slatiniště jsou cenné mokřadní biotopy, které hostí specifickou faunu i flóru. Není jich
-mnoho a ta nynější jsou navíc ohrožena lidskou činností a změnami klimatu. Slatiniště Západních
-Karpat jsou řídce roztroušena na úbočí hor a kopců, kde na nich díky rozmanitosti geologického
-podloží pozorujeme unikátní gradient minerální bohatosti. Již 10 let zde intenzivně zkoumáme vliv
-podmínek prostředí, zejména onoho minerálně-trofického gradientu, na různé skupiny vodních
-bezobratlých. Podstatnou roli při formování společenstev hrají rovněž kolonizační procesy, to díky vzájemné izolovanosti a různému stáří jednotlivých slatiništních lokalit. Testujeme, do jaké míry se na
-utváření společenstev podepisuje způsob šíření druhů a jejich specializace na slatiništní stanoviště.
 
-V poslední době se zaměřujeme i na studium distribuce vodních bezobratlých v malém měřítku, na
-kterém vystupuje do popředí rozmanitost prostředí i vliv biotických vztahů. Slatiniště totiž mnohdy
-vykazují značnou prostorovou heterogenitu, jež umožňuje koexistenci mnoha druhů na jedné lokalitě, které tak mají možnost spolu interagovat. Abychom objasnili mechanizmy koexistence, zkoumáme ekologické niky jednotlivých druhů, jejich prostorovou, případně časovou segregaci a dokumentujeme konkrétní případy kompetice a predace mezi slatiništními druhy.
 
-**Grantové projekty**
+Spring fens are valuable wetland habitats accommodating specific fauna and flora. Besides the fact that they are presently rather rare, they are threatened by human activities and climate change. Western Carpathian spring fens are scattered across the foothills, where we can, due to the great variability of bedrock geology, explore the unique gradient of mineral richness. For the last 10 years, we have been intensively studying the influence of environmental variables, mainly the mineral-trophic gradient, on various groups of aquatic invertebrates. Due to isolation and different ages of individual spring fen sites, colonisation processes play a vital role in the community formation. We analyse to what extent is the community formation shaped by dispersal strategies of the particular taxa and their specialisation to spring fen habitats.
 
-Koexistence vodních bezobratlých na prameništních slatiništích: úloha abiotické heterogenity a
-biotických interakcí na regionální a lokální škále (The coexistence of aquatic invertebrates in spring
-fens: the role of abiotic heterogeneity and biotic interactions at regional and local scale), Grantová
-agentura České republiky, 16-03881S, 2016–2018
+Recently, we began to focus on small-scale distribution of aquatic invertebrates, which highlight the effect of habitat heterogeneity and biotic relationships. Spring fens are characterised by high spatial heterogeneity, which allows for coexistence of many species at one site and their consequent interactions. To clarify the mechanisms of coexistence, we investigate ecological niches of the individual species, their spatial or temporal segregation, and document particular cases of competition and predation among the spring fen taxa.
 
-Kroužkovci izolovaných mikro-mokřadů: od vody až po půdu (Annelids of isolated micro-wetlands:
-from water to soil), Grantová agentura České republiky, 15-15548S, 2015–2017
+ 
 
-Vliv faktorů prostředí a schopnosti šíření na skladbu taxocenóz vodních bezobratlých v izolovaných
-prameništních slatiništích (The role of species sorting and dispersal in structuring the aquatic
-invertebrate assemblages of isolated spring fens), Grantová agentura České republiky, P505/11/0779, 2011–2013
+**Grant projects**
 
-**Lidé zapojení do projektů**
+[Climatically promoted homogenization of aquatic invertebrates tested on three model lotic systems and historical data](https://www.muni.cz/en/research/projects/51247), The Czech Science Foundation, 20-17305S, 2020–2022
+
+[The coexistence of aquatic invertebrates in spring fens: the role of abiotic heterogeneity and biotic interactions at regional and local scale](https://www.muni.cz/en/research/projects/33031), The Czech Science Foundation, 16-03881S, 2016–2018
+
+[Annelids of isolated micro-wetlands: from water to soil](https://www.muni.cz/en/research/projects/30545), The Czech Science Foundation, 15-15548S, 2015–2017
+
+[The role of species sorting and dispersal in structuring the aquatic invertebrate assemblages of isolated spring fens](https://www.muni.cz/en/research/projects/13884), The Czech Science Foundation, P505/11/0779, 2011–2013
+
+ 
+
+**Team members**
 
 Michal Horsák, Marie Zhai, Jana Schenková, Jindřiška Bojková, Vít Syrovátka, Vendula Polášková,
 Vanda Šorfová, Dana Klímová Hřívová, David Výravský, Martina Bílková
@@ -209,15 +203,15 @@ richness. *Canadian Journal of Fisheries and Aquatic Sciences* 70: 689–700. [P
 
 **Defended Doctoral theses**
 
-*Rádková V.* 2016. [The influence of environmental variables and dispersal abilities on distribution of aquatic macroinvertebrate larvae in isolated spring fens](https://is.muni.cz/th/bxrpa/?lang=en).
+*Rádková V.* 2016. [The influence of environmental variables and dispersal abilities on distribution of aquatic macroinvertebrate larvae in isolated spring fens](https://is.muni.cz/th/bxrpa/?lang=en). (English)
 
-*Křoupalová V.* 2014. [](https://is.muni.cz/th/mgebp/)[Spatial distribution of aquatic invertebrates of crenal habitats: variation and ecological relationships at a small scale](https://is.muni.cz/th/mgebp/?lang=en).
+*Křoupalová V.* 2014. [](https://is.muni.cz/th/mgebp/)[Spatial distribution of aquatic invertebrates of crenal habitats: variation and ecological relationships at a small scale](https://is.muni.cz/th/mgebp/?lang=en). (Czech)
 
-*Omelková M.* 2012. [](https://is.muni.cz/th/w4lkc/)[Species composition and ecology of the True Flies (Diptera) in the Western Carpathian spring fens in consideration of the taxonomy of selected higher taxa of Moth Flies (family Psychodidae)](https://is.muni.cz/th/w4lkc/?lang=en).
+*Omelková M.* 2012. [](https://is.muni.cz/th/w4lkc/)[Species composition and ecology of the True Flies (Diptera) in the Western Carpathian spring fens in consideration of the taxonomy of selected higher taxa of Moth Flies (family Psychodidae)](https://is.muni.cz/th/w4lkc/?lang=en). (Czech)
 
-*Bojková J.* 2009. [](https://is.muni.cz/th/v033h/)[The variability of macroinvertebrates along the gradient of mineral richness in the Western Carpathian spring fans](https://is.muni.cz/th/v033h/?lang=en).
+*Bojková J.* 2009. [](https://is.muni.cz/th/v033h/)[The variability of macroinvertebrates along the gradient of mineral richness in the Western Carpathian spring fans](https://is.muni.cz/th/v033h/?lang=en). (Czech)
 
-**Defended Master theses**
+**Defended Master theses (Czech)**
 
 *Havlík T.* 2017. [](https://is.muni.cz/th/394417/prif_b/?lang=cs)[Effect of dispersal on structuring aquatic beetle (Coleoptera) assemblages in isolated spring fens](https://is.muni.cz/th/sd049/?lang=en).
 
