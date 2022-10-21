@@ -1,7 +1,7 @@
 ---
 title: project6
 name: Výzkum efemerních polních rozlivů a jejich bioty
-nameEn: Výzkum efemerních polních rozlivů a jejich bioty
+nameEn: Research of Ephemeral Wetlands on Arable Land and Their Biota
 captions: Lovící komando u Uherského Ostrohu/ Lov u Markthofu/ Lov u Uherského
   Ostrohu/ Bláto u Mistřína/ Měření na Bzeneckých loukách/ Lov u Hevlína/ Lovíme
   u Tvrdonic/ Lov listonohů u Petrova/Žábronožka panonská (Chirocephalus
@@ -41,11 +41,11 @@ sledování různých typu ohrožení a možné cesty efektivní ochrany a manag
 
 **Grantové projekty**
 
-comming soon...
+coming soon...
 
 **Lidé zapojení do projektů**
 
-Jan Sychra, Alžběta Devánová, Jindřiška Bojková, Michal Horsák
+Jan Sychra, Alžběta Devánová, Jindřiška Bojková, Michal Horsák, Dominik Pliska
 
 <div class="project-publication">
 
@@ -90,34 +90,17 @@ Notostraca, Spinicaudata) na Znojemsku. *Thayensia (Znojmo)* 11: 89–106. [PDF]
 </div>
 </div>
 <div class="en">
-Polní rozlivy jsou specifické biotopy efemérního charakteru, vznikající na zemědělských plochách
-obvykle v závislosti na srážkách. Roční období výskytu, délka trvání, rozloha nebo celkový charakter
-polních rozlivů jsou přitom často nepředvídatelné. Na toto prostředí jsou vázána zajímavá
-společenstva organismů, od mokřadních rostlin přes vodní bezobratlé a obojživelníky až po ptáky.
-Vlajkovými organismy těchto biotopů jsou vodní bezobratlí, zejména velcí lupenonozí korýši
-(žábronožky, listonozi, škeblovky), v polních rozlivech se lze však setkat i s celou řadou dalších
-zajímavých skupin (např. perloočky, lasturnatky, vodní brouci, ploštice, vážky, dvoukřídlí, vč.
-pakomárů ad.). O taxonomickém složení, ekologii, o životních strategiích umožňujících přežívání v
-tomto efemérním prostředí či o tom, jaké ekologické faktory ovlivňují složení a početnost
-společenstev vodních bezobratlých v polních mokřadech však víme jen velmi málo. Navíc jsou tyto
-biotopy hostící i četné ohrožené a vzácné druhy již od své podstaty velmi zranitelné a jejich ochrana v
-zemědělské krajině jen velmi těžko uchopitelná.
+Ephemeral wetlands are distinct habitats occurring on arable land, typically depending on precipitation. Yet the season of incidence, duration of existence, area or overall character of these unique biotopes are often unpredictable. Numerous interesting taxa of wetland plants, aquatic invertebrates, amphibians, and birds are associated with these remarkable ecosystems. Some of the flagship species include aquatic invertebrates like large branchiopods (Anostraca, Notostraca, Spinicaudata), but there are plenty more interesting taxa to be found in ephemeral wetlands (e.g., Cladocera, Ostracoda, Coleoptera, Heteroptera, Odonata and Diptera, including Chironomidae). Little is known about species composition, ecology and life strategies allowing survival in such unstable conditions, or about the ecological factors influencing the structure and abundance of aquatic invertebrates in these wetlands. Furthermore, they accommodate various threatened and rare species that are inherently vulnerable, whose protection on arable land remains precarious.
 
-Od roku 2014 jsme se začali těmto ohroženým biotopům a jejich pozoruhodným obyvatelům
-systematicky věnovat. Ve spolupráci s Českou společností ornitologickou či Botanickým ústavem AV
-ČR jsme začali mapovat polní rozlivy po celé jižní Moravě. Náš výzkum se zaměřuje na popis
-společenstev vodních bezobratlých těchto biotopů a důležitých ekologických faktorů, které ovlivňují
-jejich složení, kategorizaci typů polních rozlivů na základě významných společenstev organismů,
-biologii a ekologii významných druhů vodních bezobratlých, případně mokřadních ptáků, ale i na
-sledování různých typu ohrožení a možné cesty efektivní ochrany a managementu polních mokřadů.
+We have been studying these sensitive ecosystems and their inhabitants systematically since 2014. In cooperation with [Czech Society for Ornithology](https://www.birdlife.org/partners/czechia-czech-society-for-ornithology-cso/) and [Institute of Botany of the Czech Academy of Sciences](https://www.ibot.cas.cz/en/), we began to map ephemeral wetlands all over South Moravia. Our research addresses characterising assemblages of aquatic invertebrates inhabiting ephemeral wetlands, as well as on environmental factors shaping the species composition. We also focus on biology and ecology of notable invertebrate and wetland bird taxa, and on monitoring different threats and possible solutions to efficient protection and management of ephemeral wetlands on arable land.
 
-**Grantové projekty**
+**Grant Projects**
 
-comming soon...
+coming soon...
 
-**Lidé zapojení do projektů**
+**Team Members**
 
-Jan Sychra, Alžbeta Devánová
+Jan Sychra, Alžběta Devánová, Jindřiška Bojková, Michal Horsák, Dominik Pliska
 
 <div class="project-publication">
 
@@ -139,13 +122,13 @@ Notostraca, Spinicaudata) na Znojemsku. *Thayensia (Znojmo)* 11: 89–106. [PDF]
 
 <div class="project-theses">
 
-**Defended Master Theses**
+**Defended Master Theses (Czech)**
 
 *Gvozdjáková D.* 2021. [](https://is.muni.cz/th/jle5m/)[Ecology and biology of zooplankton in temporal waters of field wetlands](https://is.muni.cz/th/jle5m/?lang=en).
 
 *Devánová A.* 2020. [](https://is.muni.cz/th/xjt62/)[Biology and ecology of selected species of large branchiopods (Crustacea: Branchiopoda) in field wetlands and breeding](https://is.muni.cz/th/xjt62/?lang=en).
 
-**Defended Bachelor Theses**
+**Defended Bachelor Theses (Czech)**
 
 *P﻿liska D.* 2022. [Zooplankton communities in newly built wetlands in agricultural landscape of southern Moravia](https://is.muni.cz/th/myb3r/?lang=en).
 
