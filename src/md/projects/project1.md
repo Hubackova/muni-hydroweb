@@ -1,7 +1,7 @@
 ---
 title: project1
 name: Vodní bezobratlí prameništních slatinišť Západních Karpat
-nameEn: Aquatic invertebrates of the Western Carpathian spring fens
+nameEn: Aquatic Invertebrates of the Western Carpathian Spring Fens
 captions: 2006 - na Obidové s doc. Opravilovou/ 2005 - na Hrubém Mechnáči/ 2007
   - cestou z Kalábové/ 2005 - Markéta v terénu/ 2007 - Marki a Veny/ 2010 -
   bahnologie na Korni/ 2010 - romantický Štiavnik/ 2011 - nové lokality budou
@@ -136,12 +136,9 @@ richness. *Canadian Journal of Fisheries and Aquatic Sciences* 70: 689–700. [P
 
 <div class="en">
 
-
 Spring fens are valuable wetland habitats accommodating specific fauna and flora. Besides the fact that they are presently rather rare, they are threatened by human activities and climate change. Western Carpathian spring fens are scattered across the foothills, where we can, due to the great variability of bedrock geology, explore the unique gradient of mineral richness. For the last 10 years, we have been intensively studying the influence of environmental variables, mainly the mineral-trophic gradient, on various groups of aquatic invertebrates. Due to isolation and different ages of individual spring fen sites, colonisation processes play a vital role in the community formation. We analyse to what extent is the community formation shaped by dispersal strategies of the particular taxa and their specialisation to spring fen habitats.
 
 Recently, we began to focus on small-scale distribution of aquatic invertebrates, which highlight the effect of habitat heterogeneity and biotic relationships. Spring fens are characterised by high spatial heterogeneity, which allows for coexistence of many species at one site and their consequent interactions. To clarify the mechanisms of coexistence, we investigate ecological niches of the individual species, their spatial or temporal segregation, and document particular cases of competition and predation among the spring fen taxa.
-
- 
 
 **Grant projects**
 
@@ -152,8 +149,6 @@ Recently, we began to focus on small-scale distribution of aquatic invertebrates
 [Annelids of isolated micro-wetlands: from water to soil](https://www.muni.cz/en/research/projects/30545), The Czech Science Foundation, 15-15548S, 2015–2017
 
 [The role of species sorting and dispersal in structuring the aquatic invertebrate assemblages of isolated spring fens](https://www.muni.cz/en/research/projects/13884), The Czech Science Foundation, P505/11/0779, 2011–2013
-
- 
 
 **Team members**
 
