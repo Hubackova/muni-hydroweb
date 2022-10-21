@@ -2,8 +2,8 @@
 title: project4
 name: Silva Gabreta Monitoring – Přeshraniční monitoring biodiversity a vodního
   režimu
-nameEn: Silva Gabreta Monitoring – Přeshraniční monitoring biodiversity a
-  vodního režimu
+nameEn: Silva Gabreta Monitoring – Transboundary Monitoring of Biodiversity and
+  Water Regime
 captions: Kings and Queens of Böhmerwald/ jezírko na Blatenské slati/ Michal
   hází planktonkou/ Honza s pastí na brouky/ revitalizace na Hraniční slati/
   Černé jezero/ třídění vzorků na Čertově jezeře/ revitalizovaná Hučina/
@@ -21,13 +21,10 @@ captionsEn: Kings and Queens of Böhmerwald/ jezírko na Blatenské slati/ Micha
 
 V rámci Programu přeshraniční spolupráce České republiky a Bavorska se podílíme na projektu [Silva Gabreta Monitoring](http://www.silvagabreta.eu/index.html.cs) zaměřeném na Národní parky Šumava a Bavorský les, které byly oceněny certifikátem "[Transboundary Parks](https://www.europarc.org/nature/transboundary-cooperation/discover-our-transboundary-areas/bavarian-forest-sumava-national-parks/)". Cílem projektu je vytvoření funkční infrastruktury přeshraniční
 monitorovací sítě a historicky první společné provedení a vyhodnocení monitoringu biodiversity lesů,
-rašelinišť a vod v obou národních parcích za využití společných moderních metod. Získaná data budou
-významným podkladem pro další kroky směřující ke sbližování ochranářského managementu ve
-společně sdíleném prostoru česko-bavorské Šumavy. Nové poznatky budou zároveň využity pro
+rašelinišť a vod v obou národních parcích za využití společných moderních metod. Získaná data budou významným podkladem pro další kroky směřující ke sbližování ochranářského managementu ve společně sdíleném prostoru česko-bavorské Šumavy. Nové poznatky budou zároveň využity pro
 zodpovědnou správu tohoto území a cestovní ruch, neboť jak aktuální výzkumy ukazují, pro
 návštěvníky území je stále větší atrakcí divoká příroda v jádrové oblasti obou národních parků, na něž
-je tento projekt zaměřen prioritně. Projekt rovněž přinese řadu predikcí pro optimalizaci managementu
-přeshraničního regionu v době klimatické změny, jejíž důsledky již nyní zažíváme.
+je tento projekt zaměřen prioritně. Projekt rovněž přinese řadu predikcí pro optimalizaci managementu přeshraničního regionu v době klimatické změny, jejíž důsledky již nyní zažíváme.
 
 **Grantový projekt**
 
@@ -37,7 +34,7 @@ vodního režimu. Program přeshraniční spolupráce ČR a Svobodný stát Bavo
 
 **Lidé zapojení do projektů**
 
-Jindřiška Bojková, Vanda Šorfová, Jan Sychra, Vít Syrovátka, Jana Petruželová, Selma Dedonnová, Eva Hanáková
+Jindřiška Bojková, Vanda Šorfová, Jan Sychra, Vít Syrovátka, Jana Petruželová, Selma de Donnová, Eva Hanáková
 
 **Témata, kterými se na území NP Šumava a NP Bavorský les zabýváme**
 
@@ -158,35 +155,23 @@ studie z Vltavského luhu (NP Šumava)](https://is.muni.cz/th/gro6o/).
 </div>
 
 <div class="en">
-V rámci Programu přeshraniční spolupráce České republiky a Bavorska se podílíme na projektu Silva Gabreta Monitoring zaměřeném na Národní parky Šumava a Bavorský les, které byly oceněny certifikátem "Transboundary Parks". Cílem projektu je vytvoření funkční infrastruktury přeshraniční
-monitorovací sítě a historicky první společné provedení a vyhodnocení monitoringu biodiversity lesů,
-rašelinišť a vod v obou národních parcích za využití společných moderních metod. Získaná data budou
-významným podkladem pro další kroky směřující ke sbližování ochranářského managementu ve
-společně sdíleném prostoru česko-bavorské Šumavy. Nové poznatky budou zároveň využity pro
-zodpovědnou zprávu tohoto území a cestovní ruch, neboť jak aktuální výzkumy ukazují, pro
-návštěvníky území je stále větší atrakcí divoká příroda v jádrové oblasti obou národních parků, na něž
-je tento projekt zaměřen prioritně. Projekt rovněž přinese řadu predikcí pro optimalizaci managementu
-přeshraničního regionu v době klimatické změny, jejíž důsledky již nyní zažíváme.
+As a part of the Cross-border Cooperation Operational Programme Czech Republic - Free State of Bavaria, we participate in Silva Gabreta Monitoring focused on national parks Šumava and Bavarian Forest, which were awarded with the "Transboundary Parks" certificate. The aim of the project is to create a functional infrastructure of transboundary monitoring network, and to conduct and evaluate a historically first cooperative biodiversity monitoring of forests, mires and waters in both national parks using shared modern methods. The acquired data will provide an important foundation for the next steps towards a union in nature conservation and management in the shared space of the Czech-Bavarian Šumava. New findings will also be utilised for responsible administration of the parks and tourism, as current research shows that visitors are increasingly interested in the lush nature in the centre part of the parks, which is the primary focus of this project. It will also provide numerous predictions for management optimisation concerning the transboundary region in the era of climate change, which we have already begun to experience.
 
-**Grantový projekt**
+**Grant Project**
 
-Silva Gabreta Monitoring – Realisierung eines grenzübergreifenden Monitorings von Biodiversität
-und Wasserhaushalt Silva Gabreta Monitoring – Realizace přeshraničního monitoringu biodiversity a
-vodního režimu. Program přeshraniční spolupráce ČR a Svobodný stát Bavorsko Cíl EÚS 2014–2020.
+The Silva Gabreta Monitoring - Realisation of transboundary monitoring of biodiversity and water regime. Cross-border Cooperation Operational Programme Czech Republic - Free State of Bavaria EÚS 2014–2020.
 
-**Lidé zapojení do projektů**
+**Team Members**
 
-Jindřiška Bojková, Vanda Šorfová, Jan Sychra, Vít Syrovátka, Jana Petruželová a Eva Hanáková
+Jindřiška Bojková, Vanda Šorfová, Jan Sychra, Vít Syrovátka, Jana Petruželová, Selma de Donnová, Eva Hanáková
 
-**Témata, kterými se na území NP Šumava a NP Bavorský les zabýváme**
+**Topics of interest associated with Šumava NP and Bavarian Forest NP**
 
 - - -
 
-**1. Dlouhodobý monitoring zotavování šumavských jezer z acidifikace**
+**1. Long-term monitoring of lakes recovering from acidification**
 
-Ve spolupráci s [Biologickým centrem Akademie věd](https://www.hbu.cas.cz/) a [Jihočeskou univerzitou v Českých Budějovicích](https://www.jcu.cz/) se zabýváme sledováním vývoje prostředí a bentických a planktonních společenstev
-osmi jezer, která jsou v různém stupni zotavení z acidifikace. Dosud byla vyhodnocena data z období
-1999–2010 a studie dále pokračuje.
+In cooperation with the [Biology Centre CAS](https://www.hbu.cas.cz/en/homepage/) and the [University of South Bohemia in České Budějovice](https://www.jcu.cz/en/), we focus on development of the environment, and benthic and planktonic communities in eight lakes in different stages of recovery from acidification. Currently, data from the time period 1999–2010 have been evaluated, while the research still continues.
 
 <div class="project-publication">
 
@@ -212,15 +197,9 @@ acidification. *Silva Gabreta* 18: 123–283. [PDF](http://www.npsumava.cz/galle
 
 - - -
 
-**2. Monitoring vývoje revitalizovaných potoků ve Vltavském luhu**
+**2. Monitoring the development of restored streams in the Vltavský luh**
 
-Ve spolupráci se [Správou NP Šumava](http://www.npsumava.cz/cz/1005/sekce/o-organizaci/) a [Přírodovědeckou fakultou Jihočeské univerzity v Českých
-Budějovicích](https://kbe.prf.jcu.cz/) sledujeme kolonizaci a vývoj bentických společenstev ve třech potocích (Hučina,
-Jedlový a Žlebský potok), jejichž regulovaná koryta byla revitalizována (částečným) zasypáním a
-vybudováním nových koryt v původní trase. Zajímá nás nejen sukcese společenstev, ale také
-dynamika vývoje mesohabitatů v nových korytech a kontrast společenstev vůči regulovaným, ale do
-značné míry renaturalizovaným, korytům a okolním biotopům tekoucích vod. Monitoring probíhá od
-roku 2014 až do roku 2018.
+In cooperation with the [Šumava National Park](https://www.npsumava.cz/en/) and the [South Bohemian Faculty of Science in České Budějovice](https://kbe.prf.jcu.cz/en), we follow the colonisation and development of benthic assemblages in three previously channelised streams (Hučina, Jedlový a Žlebský brook), that were restored by re-creating their original watercourse, while the former channels were partially filled with soil. We are interested not only in the community succession, but also in the dynamics of mesohabitat development in restored channels, and the comparison between the restored and the regulated, but mostly renaturalised channels, and the surrounding freshwater habitats. The monitoring took place during the time period 2014–2018.
 
 <div class="project-publication">
 
@@ -243,16 +222,9 @@ J. 2017. Jak se žije v revitalizovaných potocích na
 
 - - -
 
-**3. Monitoring diversity bezobratlých rašelinišť a horských povodí**
+**3. Invertebrate biodiversity monitoring of mires and mountain watersheds**
 
-Základní monitoring vodního hmyzu a zooplanktonu ve vztahu k podmínkám prostředí se zaměřuje na
-porovnání přirozených, narušených a revitalizovaných rašelinišť na Šumavě a výzkum biodiversity
-vrchovištní jezírek a aluviálních tůní s důrazem na vzácné, ohrožené a specializované druhy, které
-
-vyžadují ochranu. Podrobný výzkum dvou horských povodí v jádrové oblasti Šumavy, horní část
-Große Ohe a Vydry, se věnuje problematice vlivu acidifikace a vlastností povodí (především ve
-vztahu ke struktuře lesních porostů) na biodiversitu
-makrozoobentosu.
+Primary monitoring of aquatic insect and zooplankton in relation to environmental factors focuses on the comparison between natural, disturbed, and restored mires in Šumava, while biodiversity research of raised bog and alluvial pools emphasises rare, threatened, and specialised species in need of conservation. Detailed study of two mountain watersheds in the central part of Šumava, upper Große Ohe and Vydra river, addresses the issues of acidification and watershed properties (mostly regarding forest character) influencing macroinvertebrate biodiversity.
 
 <div class="project-publication">
 
@@ -268,7 +240,7 @@ Gabreta* 24: 171–211. [PDF](http://www.npsumava.cz/gallery/38/11665-9_sg_24_bo
 </div>
 <div class="project-theses">
 
-**Defended Master Theses**
+**Defended Master Theses (Czech)**
 
 *Fišarová K.* 2021. [](https://is.muni.cz/th/qp7p1/)[Structuring of macroinvertebrate assemblages of Hučina brook (Šumava NP) five years after the restoration](https://is.muni.cz/th/qp7p1/?lang=en).
 
@@ -278,7 +250,7 @@ Gabreta* 24: 171–211. [PDF](http://www.npsumava.cz/gallery/38/11665-9_sg_24_bo
 
 *Paterová S.* 2018. [](https://is.muni.cz/th/ucgqs/)[Development of the macroinvertebrate assemblages in the restored section of the Hučina stream (Šumava NP)](https://is.muni.cz/th/ucgqs/?lang=en).
 
-**Defended Bachelor Theses**
+**Defended Bachelor Theses (Czech)**
 
 *Dvořáková A.* 2021. [](https://is.muni.cz/th/uv1wq/)[Aquatic beetles and water bugs in alluvial pools of the Vltava river in the Bohemian Forest](https://is.muni.cz/th/uv1wq/?lang=en).
 
