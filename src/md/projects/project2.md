@@ -1,7 +1,7 @@
 ---
 title: project2
 name: Dlouhodobé změny toků a jejich bioty v České republice
-nameEn: Dlouhodobé změny toků a jejich bioty v České republice
+nameEn: Long-term changes of streams and their biota in the Czech Republic
 captions: Bečva u Oseku 1955/ Vladimír Landa a Zelinka/ Tomáš Soldán/ Světlana
   Zahrádková/ Jindřiška Bojková/ Morava u Lhoty 1955/ Svratka u Doubravníku/
   Osoblaha u Janova 1956/ Mže Milíkov/ Ploučnice Žízníkov/ Olešenka Peklo/
@@ -32,9 +32,6 @@ skupin bioty na referenčních lokalitách.
 
 **Grantové projekty**
 
-[Klimaticky podmíněná homogenizace vodních bezobratlých testovaná na třech modelových
- systémech a historických datech](https://www.muni.cz/vyzkum/projekty/51247) (Climatically promoted homogenization of aquatic invertebrates tested on three model lotic systems and historical data), Grantová agentura České republiky, 20-17305S, 2020–2022
-
 [Monitoring dlouhodobých změn biologické diverzity tekoucích vod v období klimatické změny:
 návrh, realizace a implementace do veřejného informačního systému ARROW](http://www.riverchange.cz/) (Monitoring of
 long-term changes in biological diversity of running waters during climate change: design,
@@ -56,7 +53,7 @@ Bioindikace globálních a regionálních změn prostředí na základě popula�
 
 **Lidé zapojení do projektů**
 
-Jindřiška Bojková, Vanda Šorfová, Marek Polášek, Vendula Polášková, Petr Pařil, Světlana Zahrádková, Jan Helešic, Selma Dedonnová
+Jindřiška Bojková, Vanda Šorfová, Marek Polášek, Vendula Polášková, Petr Pařil, Světlana Zahrádková, Jan Helešic, Selma de Donnová
 
 <div class="project-publication">
 
@@ -82,47 +79,35 @@ Soldán T., Zahrádková S., Helešic J., Dušek L. & Landa V. 1998: Distributio
 </div>
 
 <div class="en">
-Sladkovodní biotopy byly v průběhu minulého století silně zasaženy různými antropickými vlivy,
-které výrazně ovlivnily současný ekologický stav toků a také výskyt mnoha druhů vodních organismů.
-Díky existenci unikátních historických dat můžeme studovat změny ve společenstvech vodního
-hmyzu - především jepic, pošvatek a chrostíků - v průběhu uplynulých sta let.
 
-Již od 90. let minulého století se zabýváme vyhodnocením změn taxonomické i funkční diverzity
-společenstev různých říčních biotopů. Studujeme, které vlastnosti druhů (species traits) jsou výhodné
-pro přežívání v suboptimálních podmínkách, a také plasticitu životních cyklů, přežívání a plodnost
-jedinců v různých podmínkách prostředí.
 
-Ve spolupráci s Výzkumným ústavem vodohospodářským T.G.M. v Brně se věnujeme problematice
-dlouhodobých změn ve struktuře makrozoobentosu na člověkem minimálně ovlivněných lokalitách
-(tzv. referenčních). Podílíme se také na vývoji veřejného webového portálu Riverchange sloužícího k
-vyhodnocení dlouhodobých změn vodního prostředí, včetně vlivu klimatických změn, a hlavních
-skupin bioty na referenčních lokalitách.
+During the last century, freshwater ecosystems have been severely impacted by various anthropogenic stresses that considerably affected ecological status of rivers and streams, as well as the occurrence of many aquatic species therein. Owing to the existence of unique historical data, we are able to study changes in aquatic insect assemblages, mainly mayflies, stoneflies and caddisflies, throughout the last hundred years.
 
-**Grantové projekty**
+ 
 
-Monitoring dlouhodobých změn biologické diverzity tekoucích vod v období klimatické změny:
-návrh, realizace a implementace do veřejného informačního systému ARROW (Monitoring of
-long-term changes in biological diversity of running waters during climate change: design,
-realisation and implementation into the public information system ARROW), Norway Grants,
-2015–2017
+Since the 1990s, we have been exploring and evaluating changes in taxonomic and functional diversity of assemblages in diverse riverine habitats. We study which species traits are beneficial for survival in suboptimal conditions, plasticity of life cycles, survival, and fecundity of individuals in different environmental conditions.
 
-Složení a struktura taxocenóz pošvatek (Plecoptera): změny diverzity, nároků a rozšíření jednotlivých
-druhů po 50 letech (Spatio-temporal patterns of Plecoptera taxocoenoses: changes in diversity,
-species requirements and distribution after 50 years), Grantová agentura České republiky,
-P505/10/P302, 2010–2012
+ 
 
-Ephemeroptera a Plecoptera: modelové skupiny pro vyhodnocení dlouhodobých environmentálních
-změn vodních biotopů (Ephemeroptera and Plecoptera: model groups to determine environmental
-long-term changes of aquatic biotopes), Grantová agentura České republiky, 206/06/1133,
-2006–2008
+In cooperation with T. G. M. Water Research Institute in Brno, we focus on long-term changes in the structure of macroinvertebrate assemblages in near-natural (reference) streams, that are almost unaffected by human pressures. Moreover, we participate in the development of public web portal [RIVERCHANGE](https://hydro.chmi.cz/riverchange/index.php?lng=en), which serves as an evaluation tool to assess long-term changes in aquatic environment, including the effect of climate change, and main taxonomic groups at reference sites.
 
-Bioindikace globálních a regionálních změn prostředí na základě populační dynamiky vodního hmyzu
-(Ephemeroptera, Plecoptera), Grantová agentura České republiky, 204/94/1474, 1994–1996.
+ 
 
-**Lidé zapojení do projektů**
+**Grant projects**
 
-Světlana Zahrádková, Jan Helešic, Jindřiška Bojková, Vanda Šorfová, Marek Polášek, Vendula
-Polášková, Petr Pařil
+[Monitoring of long-term changes in biological diversity of running waters during climate change: design, realisation and implementation into the public information system ARROW](http://www.riverchange.cz/en/index.php), Norway Grants, 2015–2017
+
+[Spatio-temporal patterns of Plecoptera taxocoenoses: changes in diversity, species requirements and distribution after 50 years](https://www.muni.cz/en/research/projects/10114), The Czech Science Foundation, P505/10/P302, 2010–2012
+
+Ephemeroptera and Plecoptera: model groups to determine environmental long-term changes of aquatic biotopes, The Czech Science Foundation, 206/06/1133, 2006–2008
+
+Bioindication of regional and global environmental changes on the basis of population dynamic of aquatic insect (Ephemeroptera, Plecoptera), The Czech Science Foundation, 204/94/1474, 1994–1996
+
+ 
+
+**Team members**
+
+Jindřiška Bojková, Vanda Šorfová, Marek Polášek, Vendula Polášková, Petr Pařil, Světlana Zahrádková, Jan Helešic, Selma de Donnová
 
 <div class="project-publication">
 
