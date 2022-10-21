@@ -76,8 +76,6 @@ Od roku 2020 se podílíme na celosvětovém projektu [DRYvER](https://www.dryve
 
 Petr Pařil, Marek Polášek, Michal Straka, Barbora Loskotová, Vendula Polášková, Eva Hanáková, Jan Šupina, David Výravský, Světlana Zahrádková, Zoltán Csabai
 
-
-
 <div class="project-publication">
 
 **Vybrané publikace**
@@ -211,9 +209,9 @@ The BIODROUGHT network of sampling sites on intermittent streams is currently in
 
 Since 2020 we have participated in the global [DRYvER](https://www.dryver.eu/) (Securing biodiversity, functional integrity and ecosystem services in DRYing rivER networks, 2020-2024) project within the Horizon 2020 program (action 869226) by investigating the hydrology, biotic groups, water management and  social perception for one of the most drought impacted Czech catchments of Velicka river.
 
-**Group leader:** Petr Pařil
+**Group Leader:** Petr Pařil
 
-**Team members**
+**Team Members**
 
 Marek Polášek, Michal Straka, Barbora Loskotová, Vendula Polášková, Eva Hanáková, Jan Šupina, David Výravský, Světlana Zahrádková, Zoltán Csabai
 
