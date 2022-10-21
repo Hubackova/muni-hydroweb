@@ -1,7 +1,7 @@
 ---
 title: project2
 name: Dlouhodobé změny toků a jejich bioty v České republice
-nameEn: Long-term changes of streams and their biota in the Czech Republic
+nameEn: Long-term Changes of Streams and Their Biota in the Czech Republic
 captions: Bečva u Oseku 1955/ Vladimír Landa a Zelinka/ Tomáš Soldán/ Světlana
   Zahrádková/ Jindřiška Bojková/ Morava u Lhoty 1955/ Svratka u Doubravníku/
   Osoblaha u Janova 1956/ Mže Milíkov/ Ploučnice Žízníkov/ Olešenka Peklo/
@@ -80,18 +80,11 @@ Soldán T., Zahrádková S., Helešic J., Dušek L. & Landa V. 1998: Distributio
 
 <div class="en">
 
-
 During the last century, freshwater ecosystems have been severely impacted by various anthropogenic stresses that considerably affected ecological status of rivers and streams, as well as the occurrence of many aquatic species therein. Owing to the existence of unique historical data, we are able to study changes in aquatic insect assemblages, mainly mayflies, stoneflies and caddisflies, throughout the last hundred years.
-
- 
 
 Since the 1990s, we have been exploring and evaluating changes in taxonomic and functional diversity of assemblages in diverse riverine habitats. We study which species traits are beneficial for survival in suboptimal conditions, plasticity of life cycles, survival, and fecundity of individuals in different environmental conditions.
 
- 
-
 In cooperation with T. G. M. Water Research Institute in Brno, we focus on long-term changes in the structure of macroinvertebrate assemblages in near-natural (reference) streams, that are almost unaffected by human pressures. Moreover, we participate in the development of public web portal [RIVERCHANGE](https://hydro.chmi.cz/riverchange/index.php?lng=en), which serves as an evaluation tool to assess long-term changes in aquatic environment, including the effect of climate change, and main taxonomic groups at reference sites.
-
- 
 
 **Grant projects**
 
@@ -102,8 +95,6 @@ In cooperation with T. G. M. Water Research Institute in Brno, we focus on long-
 Ephemeroptera and Plecoptera: model groups to determine environmental long-term changes of aquatic biotopes, The Czech Science Foundation, 206/06/1133, 2006–2008
 
 Bioindication of regional and global environmental changes on the basis of population dynamic of aquatic insect (Ephemeroptera, Plecoptera), The Czech Science Foundation, 204/94/1474, 1994–1996
-
- 
 
 **Team members**
 
