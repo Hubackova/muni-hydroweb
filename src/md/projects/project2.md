@@ -86,7 +86,7 @@ Since the 1990s, we have been exploring and evaluating changes in taxonomic and 
 
 In cooperation with T. G. M. Water Research Institute in Brno, we focus on long-term changes in the structure of macroinvertebrate assemblages in near-natural (reference) streams, that are almost unaffected by human pressures. Moreover, we participate in the development of public web portal [RIVERCHANGE](https://hydro.chmi.cz/riverchange/index.php?lng=en), which serves as an evaluation tool to assess long-term changes in aquatic environment, including the effect of climate change, and main taxonomic groups at reference sites.
 
-**Grant projects**
+**Grant Projects**
 
 [Monitoring of long-term changes in biological diversity of running waters during climate change: design, realisation and implementation into the public information system ARROW](http://www.riverchange.cz/en/index.php), Norway Grants, 2015–2017
 
@@ -96,7 +96,7 @@ Ephemeroptera and Plecoptera: model groups to determine environmental long-term 
 
 Bioindication of regional and global environmental changes on the basis of population dynamic of aquatic insect (Ephemeroptera, Plecoptera), The Czech Science Foundation, 204/94/1474, 1994–1996
 
-**Team members**
+**Team Members**
 
 Jindřiška Bojková, Vanda Šorfová, Marek Polášek, Vendula Polášková, Petr Pařil, Světlana Zahrádková, Jan Helešic, Selma de Donnová
 
