@@ -140,7 +140,7 @@ Spring fens are valuable wetland habitats accommodating specific fauna and flora
 
 Recently, we began to focus on small-scale distribution of aquatic invertebrates, which highlight the effect of habitat heterogeneity and biotic relationships. Spring fens are characterised by high spatial heterogeneity, which allows for coexistence of many species at one site and their consequent interactions. To clarify the mechanisms of coexistence, we investigate ecological niches of the individual species, their spatial or temporal segregation, and document particular cases of competition and predation among the spring fen taxa.
 
-**Grant projects**
+**Grant Projects**
 
 [Climatically promoted homogenization of aquatic invertebrates tested on three model lotic systems and historical data](https://www.muni.cz/en/research/projects/51247), The Czech Science Foundation, 20-17305S, 2020–2022
 
@@ -150,7 +150,7 @@ Recently, we began to focus on small-scale distribution of aquatic invertebrates
 
 [The role of species sorting and dispersal in structuring the aquatic invertebrate assemblages of isolated spring fens](https://www.muni.cz/en/research/projects/13884), The Czech Science Foundation, P505/11/0779, 2011–2013
 
-**Team members**
+**Team Members**
 
 Michal Horsák, Marie Zhai, Jana Schenková, Jindřiška Bojková, Vít Syrovátka, Vendula Polášková,
 Vanda Šorfová, Dana Klímová Hřívová, David Výravský, Martina Bílková
@@ -196,7 +196,7 @@ richness. *Canadian Journal of Fisheries and Aquatic Sciences* 70: 689–700. [P
 
 <div class="project-theses">
 
-**Defended Doctoral theses**
+**Defended Doctoral Theses**
 
 *Rádková V.* 2016. [The influence of environmental variables and dispersal abilities on distribution of aquatic macroinvertebrate larvae in isolated spring fens](https://is.muni.cz/th/bxrpa/?lang=en). (English)
 
@@ -206,7 +206,7 @@ richness. *Canadian Journal of Fisheries and Aquatic Sciences* 70: 689–700. [P
 
 *Bojková J.* 2009. [](https://is.muni.cz/th/v033h/)[The variability of macroinvertebrates along the gradient of mineral richness in the Western Carpathian spring fans](https://is.muni.cz/th/v033h/?lang=en). (Czech)
 
-**Defended Master theses (Czech)**
+**Defended Master Theses (Czech)**
 
 *Havlík T.* 2017. [](https://is.muni.cz/th/394417/prif_b/?lang=cs)[Effect of dispersal on structuring aquatic beetle (Coleoptera) assemblages in isolated spring fens](https://is.muni.cz/th/sd049/?lang=en).
 
