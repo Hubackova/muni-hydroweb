@@ -53,7 +53,7 @@ Bioindikace globálních a regionálních změn prostředí na základě popula�
 
 **Lidé zapojení do projektů**
 
-Jindřiška Bojková, Vanda Šorfová, Marek Polášek, Vendula Polášková, Petr Pařil, Světlana Zahrádková, Jan Helešic, Selma de Donnová
+Jindřiška Bojková, Vanda Šorfová, Marek Polášek, Vendula Polášková, Petr Pařil, Světlana Zahrádková, Selma de Donnová
 
 <div class="project-publication">
 
@@ -98,7 +98,7 @@ Bioindication of regional and global environmental changes on the basis of popul
 
 **Team Members**
 
-Jindřiška Bojková, Vanda Šorfová, Marek Polášek, Vendula Polášková, Petr Pařil, Světlana Zahrádková, Jan Helešic, Selma de Donnová
+Jindřiška Bojková, Vanda Šorfová, Marek Polášek, Vendula Polášková, Petr Pařil, Světlana Zahrádková, Selma de Donnová
 
 <div class="project-publication">
 
