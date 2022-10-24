@@ -159,7 +159,7 @@ As a part of the Cross-border Cooperation Operational Programme Czech Republic -
 
 **Grant Project**
 
-The Silva Gabreta Monitoring - Realisation of transboundary monitoring of biodiversity and water regime. Cross-border Cooperation Operational Programme Czech Republic - Free State of Bavaria EÚS 2014–2020.
+[The Silva Gabreta Monitoring](https://www.nationalpark-bayerischer-wald.bayern.de/english/research/projects/silva_gabreta.htm) - Realisation of transboundary monitoring of biodiversity and water regime. Cross-border Cooperation Operational Programme Czech Republic - Free State of Bavaria EÚS 2014–2020.
 
 **Team Members**
 
