@@ -122,13 +122,13 @@ Notostraca, Spinicaudata) na Znojemsku. *Thayensia (Znojmo)* 11: 89–106. [PDF]
 
 <div class="project-theses">
 
-**Defended Master Theses (Czech)**
+**Defended Master Theses (in Czech/Slovak)**
 
 *Gvozdjáková D.* 2021. [](https://is.muni.cz/th/jle5m/)[Ecology and biology of zooplankton in temporal waters of field wetlands](https://is.muni.cz/th/jle5m/?lang=en).
 
 *Devánová A.* 2020. [](https://is.muni.cz/th/xjt62/)[Biology and ecology of selected species of large branchiopods (Crustacea: Branchiopoda) in field wetlands and breeding](https://is.muni.cz/th/xjt62/?lang=en).
 
-**Defended Bachelor Theses (Czech)**
+**Defended Bachelor Theses (in Czech/Slovak)**
 
 *P﻿liska D.* 2022. [Zooplankton communities in newly built wetlands in agricultural landscape of southern Moravia](https://is.muni.cz/th/myb3r/?lang=en).
 
