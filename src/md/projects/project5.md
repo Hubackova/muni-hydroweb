@@ -130,15 +130,15 @@ clitellate (Annelida: Clitellata) assemblages. *Biologia* 69: 1179–1189. [PDF]
 
 **Defended Doctoral Thesis**
 
-*Sylvie Růžičková* 2016. [](https://is.muni.cz/th/okij3/)[Influence of heated mining water on selected groups of organisms in a stream](https://is.muni.cz/th/okij3/disertace_SR.pdf?lang=en;info=1). (Czech)
+*Sylvie Růžičková* 2016. [](https://is.muni.cz/th/okij3/)[Influence of heated mining water on selected groups of organisms in a stream](https://is.muni.cz/th/okij3/disertace_SR.pdf?lang=en;info=1). (in Czech)
 
-**Defended Master Theses (Czech)**
+**Defended Master Theses (in Czech)**
 
 *Martina Bartošová* 2016. [](https://is.muni.cz/th/qo18e/?lang=cs)[Macrozoobenthos of Brooks with Tufa Precipitation in Sokolov Spoil Bank](https://is.muni.cz/th/qo18e/?lang=en).
 
 *Veronika Konvičková* 2007. [](https://is.muni.cz/th/p4qj3/?lang=cs)[The study of macrozoobenthos in ponds at Karvina´s area with a view to situation and function of dragonfly community](https://is.muni.cz/th/p4qj3/?lang=en).[](https://is.muni.cz/th/p4qj3/?lang=cs)
 
-**Defended Bachelor Thesis (Czech)**
+**Defended Bachelor Thesis (in Czech)**
 
 *Martina Bartošová* 2014. [](https://is.muni.cz/th/zfva5/?lang=cs)[Aquatic invertebrates of postindustrial sites - spoil banks in the Sokolov Coal Basin](https://is.muni.cz/th/zfva5/?lang=en).
 
