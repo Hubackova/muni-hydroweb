@@ -198,15 +198,15 @@ richness. *Canadian Journal of Fisheries and Aquatic Sciences* 70: 689–700. [P
 
 **Defended Doctoral Theses**
 
-*Rádková V.* 2016. [The influence of environmental variables and dispersal abilities on distribution of aquatic macroinvertebrate larvae in isolated spring fens](https://is.muni.cz/th/bxrpa/?lang=en). (English)
+*Rádková V.* 2016. [The influence of environmental variables and dispersal abilities on distribution of aquatic macroinvertebrate larvae in isolated spring fens](https://is.muni.cz/th/bxrpa/?lang=en). (in English)
 
-*Křoupalová V.* 2014. [](https://is.muni.cz/th/mgebp/)[Spatial distribution of aquatic invertebrates of crenal habitats: variation and ecological relationships at a small scale](https://is.muni.cz/th/mgebp/?lang=en). (Czech)
+*Křoupalová V.* 2014. [](https://is.muni.cz/th/mgebp/)[Spatial distribution of aquatic invertebrates of crenal habitats: variation and ecological relationships at a small scale](https://is.muni.cz/th/mgebp/?lang=en). (in Czech)
 
-*Omelková M.* 2012. [](https://is.muni.cz/th/w4lkc/)[Species composition and ecology of the True Flies (Diptera) in the Western Carpathian spring fens in consideration of the taxonomy of selected higher taxa of Moth Flies (family Psychodidae)](https://is.muni.cz/th/w4lkc/?lang=en). (Czech)
+*Omelková M.* 2012. [](https://is.muni.cz/th/w4lkc/)[Species composition and ecology of the True Flies (Diptera) in the Western Carpathian spring fens in consideration of the taxonomy of selected higher taxa of Moth Flies (family Psychodidae)](https://is.muni.cz/th/w4lkc/?lang=en). (in Czech)
 
-*Bojková J.* 2009. [](https://is.muni.cz/th/v033h/)[The variability of macroinvertebrates along the gradient of mineral richness in the Western Carpathian spring fans](https://is.muni.cz/th/v033h/?lang=en). (Czech)
+*Bojková J.* 2009. [](https://is.muni.cz/th/v033h/)[The variability of macroinvertebrates along the gradient of mineral richness in the Western Carpathian spring fans](https://is.muni.cz/th/v033h/?lang=en). (in Czech)
 
-**Defended Master Theses (Czech)**
+**Defended Master Theses (in Czech)**
 
 *Havlík T.* 2017. [](https://is.muni.cz/th/394417/prif_b/?lang=cs)[Effect of dispersal on structuring aquatic beetle (Coleoptera) assemblages in isolated spring fens](https://is.muni.cz/th/sd049/?lang=en).
 
