@@ -77,7 +77,7 @@ Budějovicích](https://kbe.prf.jcu.cz/) sledujeme kolonizaci a vývoj bentický
 Jedlový a Žlebský potok), jejichž regulovaná koryta byla revitalizována (částečným) zasypáním a
 vybudováním nových koryt v původní trase. Zajímá nás nejen sukcese společenstev, ale také
 dynamika vývoje mesohabitatů v nových korytech a kontrast společenstev vůči regulovaným, ale do
-značné míry renaturalizovaným, korytům a okolním biotopům tekoucích vod. Monitoring probíhá od 2013.
+značné míry renaturalizovaným, korytům a okolním biotopům tekoucích vod. Monitoring probíhá od roku 2013.
 
 <div class="project-publication">
 
