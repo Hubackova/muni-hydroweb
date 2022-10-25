@@ -77,8 +77,7 @@ Budějovicích](https://kbe.prf.jcu.cz/) sledujeme kolonizaci a vývoj bentický
 Jedlový a Žlebský potok), jejichž regulovaná koryta byla revitalizována (částečným) zasypáním a
 vybudováním nových koryt v původní trase. Zajímá nás nejen sukcese společenstev, ale také
 dynamika vývoje mesohabitatů v nových korytech a kontrast společenstev vůči regulovaným, ale do
-značné míry renaturalizovaným, korytům a okolním biotopům tekoucích vod. Monitoring probíhal od
-roku 2014 až do roku 2018.
+značné míry renaturalizovaným, korytům a okolním biotopům tekoucích vod. Monitoring probíhá od 2013.
 
 <div class="project-publication">
 
@@ -165,7 +164,7 @@ As a part of the Cross-border Cooperation Operational Programme Czech Republic -
 
 Jindřiška Bojková, Vanda Šorfová, Jan Sychra, Vít Syrovátka, Jana Petruželová, Selma de Donnová, Eva Hanáková
 
-**Topics of interest associated with Šumava NP and Bavarian Forest NP**
+**Topics of interest studied in Šumava NP and Bavarian Forest NP**
 
 - - -
 
@@ -199,7 +198,7 @@ acidification. *Silva Gabreta* 18: 123–283. [PDF](http://www.npsumava.cz/galle
 
 **2. Monitoring the development of restored streams in the Vltavský luh**
 
-In cooperation with the [Šumava National Park](https://www.npsumava.cz/en/) and the [South Bohemian Faculty of Science in České Budějovice](https://kbe.prf.jcu.cz/en), we follow the colonisation and development of benthic assemblages in three previously channelised streams (Hučina, Jedlový a Žlebský brook), that were restored by re-creating their original watercourse, while the former channels were partially filled with soil. We are interested not only in the community succession, but also in the dynamics of mesohabitat development in restored channels, and the comparison between the restored and the regulated, but mostly renaturalised channels, and the surrounding freshwater habitats. The monitoring took place during the time period 2014–2018.
+In cooperation with the [Šumava National Park](https://www.npsumava.cz/en/) and the [South Bohemian Faculty of Science in České Budějovice](https://kbe.prf.jcu.cz/en), we follow the colonisation and development of benthic assemblages in three previously channelised streams (Hučina, Jedlový a Žlebský brook), that were restored by re-creating their original watercourse, while the former channels were partially filled with soil. We are interested not only in the community succession, but also in the dynamics of mesohabitat development in restored channels, and the comparison between the restored and the regulated, but mostly renaturalised channels, and the surrounding freshwater habitats. The monitoring was initiated in 2013.
 
 <div class="project-publication">
 
@@ -240,7 +239,7 @@ Gabreta* 24: 171–211. [PDF](http://www.npsumava.cz/gallery/38/11665-9_sg_24_bo
 </div>
 <div class="project-theses">
 
-**Defended Master Theses (Czech)**
+**Defended Master Theses (in Czech/Slovak)**
 
 *Fišarová K.* 2021. [](https://is.muni.cz/th/qp7p1/)[Structuring of macroinvertebrate assemblages of Hučina brook (Šumava NP) five years after the restoration](https://is.muni.cz/th/qp7p1/?lang=en).
 
@@ -250,7 +249,7 @@ Gabreta* 24: 171–211. [PDF](http://www.npsumava.cz/gallery/38/11665-9_sg_24_bo
 
 *Paterová S.* 2018. [](https://is.muni.cz/th/ucgqs/)[Development of the macroinvertebrate assemblages in the restored section of the Hučina stream (Šumava NP)](https://is.muni.cz/th/ucgqs/?lang=en).
 
-**Defended Bachelor Theses (Czech)**
+**Defended Bachelor Theses (in Czech/Slovak)**
 
 *Dvořáková A.* 2021. [](https://is.muni.cz/th/uv1wq/)[Aquatic beetles and water bugs in alluvial pools of the Vltava river in the Bohemian Forest](https://is.muni.cz/th/uv1wq/?lang=en).
 
