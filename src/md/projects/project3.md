@@ -286,9 +286,9 @@ T.G.M. v.v.i.
 
 **Defended Doctoral Thesis**
 
-*Barbora Loskotová* 2022. [Aquatic macroinvertebrate persistence in intermittent streams](https://is.muni.cz/th/if9fw/Loskotova_B_PhD_thesis_2022.pdf?lang=en;info=1). (English)
+*Barbora Loskotová* 2022. [Aquatic macroinvertebrate persistence in intermittent streams](https://is.muni.cz/th/if9fw/Loskotova_B_PhD_thesis_2022.pdf?lang=en;info=1). (in English)
 
-**Defended Master Theses (Czech)**
+**Defended Master Theses (in Czech)**
 
 *Alena Dostálová* 2018. [](https://is.muni.cz/th/lxojn/)[Impact of drying up of streams on population structure and fecundity of freshwater gammarid *Gammarus fossarum*](https://is.muni.cz/th/lxojn/?lang=en).
 
@@ -306,7 +306,7 @@ T.G.M. v.v.i.
 
 *Jana Zavadilová* 2009. [](https://is.muni.cz/th/w9wdp/)[Life strategy of *Gammarus fossarum* in an intermittent stream](https://is.muni.cz/th/w9wdp/?lang=en).
 
-**Defended Bachelor Theses (Czech)**
+**Defended Bachelor Theses (in Czech)**
 
 *Terezie Rosová* 2018. [](https://is.muni.cz/th/nwt6q/)[The invertebrate assemblage of dry streambeds recorded by use of pitfal traps](https://is.muni.cz/th/nwt6q/?lang=en).
 
