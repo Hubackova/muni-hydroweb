@@ -28,15 +28,12 @@ Magisterské a posléze i doktorské studium hydrobiologie absolvoval na Příro
 
 <div class="en">
 
-Magisterské a posléze i doktorské studium hydrobiologie absolvoval na Přírodovědecké Fakultě
- Masarykovy univerzity v Brně.
+Michal Straka graduated from the Faculty of Science at Masaryk University with a master's degree in systematic biology and ecology and later on obtained a doctoral degree in hydrobiology.
 
 **Research Topics**
 
-* Hydrobiologické průzkumy pro potřeby ochrany přírody
-* Monitoring antropogenních vlivů na oživení vod a výzkum ekosystémů tekoucích vod
-* Taxonomická specializace: nejoblíbenější skupinou vodních bezobratlých jsou vodní brouci
-      (Coleoptera), nevyhýbá se však ani vážkám (Odonata), plošticím (Heteroptera), měkkýšům
-      (Mollusca) a podobné havěti
+* Hydrobiological surveys conductive to nature conservation
+* Monitoring of anthropogenic influences on aquatic biota, lotic ecosystem research
+* Taxonomic specialisation: primarily water beetles (Coleoptera), apart from that also dragonflies (Odonata), water bugs (Heteroptera), Mollusca, etc.
 
 </div>
