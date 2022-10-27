@@ -29,16 +29,12 @@ Jsem absolventkou magisterského i postgraduálního studia oboru hydrobiologie 
 
 <div class="en">
 
-Jsem absolventkou magisterského i postgraduálního studia oboru hydrobiologie na Ústavu botaniky a
- zoologie Masarykovy univerzity. Během svého studia jsem se věnovala nejprve planktonním korýšům,
- žijícím v tůních, a potom společenstvům bezobratlých ve zvodnělých sedimentech toků (hyporeál), se
- zaměřením na mikroskopické korýše.
+Marie Zhai graduated with a master's and a postgraduate degree in hydrobiology at the Department of Botany and Zoology, Masaryk University. During her studies, she focused on planktonic crustaceans and later hyporheic assemblages, particularly on microcrustaceans.
 
 **Research Topics**
 
-* Ekologie mikroskopických korýšů, zvláště plazivek (Copepoda: Harpacticoida)
-* Ekologie společenstev vodních bezobratlých prameništních slatinišť na různých prostorových
-  škálách
-* Vliv biotických interakcí na společenstva vodních bezobratlých
+* Ecology of microscopic crustaceans, mainly Harpacticoida (Copepoda)
+* Ecology of aquatic invertebrate assemblages in spring fens at various spatial scales
+* Impact of biotic interactions on aquatic invertebrate assemblages
 
 </div>
