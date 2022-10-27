@@ -13,7 +13,7 @@ image: /images/staff_paril.jpg
 ---
 <div class="cz">
 
-Po studiu na Masarykově univerzitě (MU) jsem pracoval jako hydrobiolog na Agentuře ochrany přírody a krajiny ČR (1992–1996) a České inspekci životního prostředí (1996–2002). Na MU jsem se vrátil v roce 2002 nejprve do EU projektu STAR a od roku 2004 jsem se zapojil do hydrobiologického týmu Ústavu botaniky a zoologie. V letech 2011-2016 jsem souběžně pracoval na Výzkumném ústavu vodohospodářském T.G.M., v.v.i. Od roku 2005 se zabývám ekologií vodních bezobratlých ve vysychavých tocích, což se promítlo do projektu \[BIOSUCHO](http://www.sucho.eu/) vytvořením metody retrospektivní indikace epizod vyschnutí toku a navržením interaktivní mapy rizika vysychání toků ČR.
+Po studiu na Masarykově univerzitě (MU) jsem pracoval jako hydrobiolog na Agentuře ochrany přírody a krajiny ČR (1992–1996) a České inspekci životního prostředí (1996–2002). Na MU jsem se vrátil v roce 2002 nejprve do EU projektu STAR a od roku 2004 jsem se zapojil do hydrobiologického týmu Ústavu botaniky a zoologie. V letech 2011-2016 jsem souběžně pracoval na Výzkumném ústavu vodohospodářském T.G.M., v.v.i. Od roku 2005 se zabývám ekologií vodních bezobratlých ve vysychavých tocích, což se promítlo do projektu [BIOSUCHO](https://www.sucho.eu/) vytvořením metody retrospektivní indikace epizod vyschnutí toku a navržením interaktivní mapy rizika vysychání toků ČR.
 
 **Výzkumná témata**
 
@@ -33,7 +33,7 @@ Po studiu na Masarykově univerzitě (MU) jsem pracoval jako hydrobiolog na Agen
 
 <div class="en">
 
-After graduating from Masaryk University, Petr Pařil has been working at the Nature Conservation Agency of the Czech Republic (1992–1996) and at the Czech Environmental Inspectorate (1996–2002). In 2002, he returned to Masaryk University, at first to participate in the European project STAR, and then, in 2004 he joined the hydrobiology workgroup at the Department of Botany and Zoology. During 2011–2016, he also worked at the T.G.M. Water Research Institute. Since 2005, he has been focusing on ecology of aquatic invertebrates in drying streams, which brought about the project BIODROUGHT. In this project, a method of retrospective indication of episodes of drought was created, as well as an interactive map of drying streams of the Czech Republic.
+After graduating from Masaryk University, Petr Pařil has been working at the Nature Conservation Agency of the Czech Republic (1992–1996) and at the Czech Environmental Inspectorate (1996–2002). In 2002, he returned to Masaryk University, at first to participate in the European project STAR, and then, in 2004 he joined the hydrobiology workgroup at the Department of Botany and Zoology. During 2011–2016, he also worked at the T.G.M. Water Research Institute. Since 2005, he has been focusing on ecology of aquatic invertebrates in drying streams, which brought about the project [BIODROUGHT](https://biodrought.eu/). In this project, a method of retrospective indication of episodes of drought was created, as well as an interactive map of drying streams of the Czech Republic.
 
 **Research Topics**
 
