@@ -33,14 +33,14 @@ Po studiu na Masarykově univerzitě (MU) jsem pracoval jako hydrobiolog na Agen
 
 <div class="en">
 
-After graduating from Masaryk University, Petr Pařil has been working at the Nature Conservation Agency of the Czech Republic (1992–1996) and at the Czech Environmental Inspectorate (1996–2002). In 2002, he returned to Masaryk University, at first to participate in the European project STAR, and then, in 2004 he joined the hydrobiology workgroup at the Department of Botany and Zoology. During 2011–2016, he also worked at the T.G.M. Water Research Institute. Since 2005, he has been focusing on ecology of aquatic invertebrates in drying streams, which brought about the project [BIODROUGHT](https://biodrought.eu/). In this project, a method of retrospective indication of episodes of drought was created, as well as an interactive map of drying streams of the Czech Republic.
+After graduating from Masaryk University, Petr Pařil has been working at the Nature Conservation Agency of the Czech Republic (1992–1996) and at the Czech Environmental Inspectorate (1996–2002). In 2002, he returned to Masaryk University, at first to participate in the European project STAR, and then, in 2004 he joined the hydrobiology workgroup at the Department of Botany and Zoology. During 2011–2016, he also worked at the T.G.M. Water Research Institute. Since 2005, he has been focusing on ecology of aquatic invertebrates in intermittent (drying) streams, which brought about the project [BIODROUGHT](https://biodrought.eu/). In this project, a method of retrospective indication of episodes of drying was created, as well as an interactive map of intermittent streams of the Czech Republic.
 
 **Research Topics**
 
 * Changes in aquatic and terrestrial communities (invertebrates, algae and cyanobacteria, vascular plants, vertebrates) associated with stream drying caused directly by anthropogenic manipulation of hydrological regime or indirectly by climate change, using taxonomic and functional approaches and, in cooperation with international colleagues, addressing the issue on a larger geographical scale
 * Specialisation in aquatic oligochaetes (Annelida: Oligochaeta) and dipteran larvae (Diptera), including non-biting midges (Chironomidae)
 * Analysis of fossilised remnants of Chironomid larvae in lake sediments used for reconstruction of past environmental conditions of the area (including climate, mainly temperature)
-* The use of *Gammarus* sp. (Crustacea: Amphipoda) as a model organism for investigating recent changes related to drying streams, as well as historical phylogeographic analyses
+* The use of *Gammarus* sp. (Crustacea: Amphipoda) as a model organism for investigating recent changes related to intermittent streams, as well as historical phylogeographic analyses
 * Proliferation of expanding aquatic invertebrates in relation to climate change (e.g., *Leuctra geniculata*)
 
 **Curriculum vitae** [here](https://www.muni.cz/lide/70751-petr-paril/zivotopis)
