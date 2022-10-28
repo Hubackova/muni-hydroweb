@@ -25,12 +25,12 @@ Je absolventkou magisterského studia oboru Zoologie a postgraduálního studia 
 
 <div class="en">
 
-Barbora Loskotová is a graduate of Masaryk University, where she completed the master's programme zoology and postgraduate studies in hydrobiology. Since 2017, she has worked as a researcher at the Department of Botany and Zoology, Masaryk University. In her research, she focuses on the ecology of macrozoobenthos assemblages in drying streams. Her taxonomic specialisation is stonefly larvae (Plecoptera).
+Barbora Loskotová is a graduate of Masaryk University, where she completed the master's programme zoology and postgraduate studies in hydrobiology. Since 2017, she has worked as a researcher at the Department of Botany and Zoology, Masaryk University. In her research, she focuses on the ecology of aquatic invertebrates (namely macrozoobenthos) assemblages in intermittent (drying) streams. Her taxonomic specialisation is stonefly larvae (Plecoptera).
 
 **Research Topics**
 
-* Ecology of drying streams, bioindication methods for desiccation
-* Taxonomic and functional composition of macrozoobenthos in drying streams
-* Experimental research of impact of drought and other abiotic factors on macrozoobenthos resistance
+* Ecology of intermittent streams, bioindication methods for desiccation
+* Taxonomic and functional composition of aquatic invertebrates in intermittent streams
+* Experimental research of impact of d﻿rying and other abiotic factors on macrozoobenthos resistance
 
 </div>
