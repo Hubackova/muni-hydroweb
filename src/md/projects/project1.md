@@ -10,20 +10,20 @@ captions: 2006 - na Obidové s doc. Opravilovou/ 2005 - na Hrubém Mechnáči/ 2
   průzkum nových lokalit aneb zase budou boží/ 2011 - Víťa staví výletovku na
   Hutích/ 2012 - Omšenská Baba 1/ 2012 - Vricko/ 2012 - Omšenská Baba 2/ 2012 -
   Podhoranské rašelinisko/ 2012 - Hnilecká Jelšina/ 2013 - Víťa se raduje na
-  Liptovské tepličce/ 2014 - mikrodistribuce na Liptovské Tepličce/ 2016 -
+  Liptovské Tepličce/ 2014 - mikrodistribuce na Liptovské Tepličce/ 2016 -
   hledání pokladů na Hutích/ 2018 - bardzo fajny kolektiw sbírá vzorky na
   metabarcoding
-captionsEn: 2006 - na Obidové s doc. Opravilovou/ 2005 - na Hrubém Mechnáči/
-  2007 - cestou z Kalábové/ 2005 - Markéta v terénu/ 2007 - Marki a Veny/ 2010 -
-  bahnologie na Korni/ 2010 - romantický Štiavnik/ 2011 - nové lokality budou
-  boží!/ 2011 - Liptovská Teplička/ 2011 - parta na Liptovské Tepličce/ 2011 -
-  Pastierské 2/ Veny na Kochlearii/ 2012 - spanilá jízda za brouky/ 2012 -
-  průzkum nových lokalit aneb zase budou boží/ 2011 - Víťa staví výletovku na
-  Hutích/ 2012 - Omšenská Baba 1/ 2012 - Vricko/ 2012 - Omšenská Baba 2/ 2012 -
-  Podhoranské rašelinisko/ 2012 - Hnilecká Jelšina/ 2013 - Víťa se raduje na
-  Liptovské tepličce/ 2014 - mikrodistribuce na Liptovské Tepličce/ 2016 -
-  hledání pokladů na Hutích/ 2018 - bardzo fajny kolektiw sbírá vzorky na
-  metabarcoding
+captionsEn: 2006 - at Obidová with doc. Opravilová/ 2005 - at Hrubý Mechnáč/
+  2007 - on the way from Kalábová/ 2005 - Markéta in the field/ 2007 - Marki and
+  Veny/ 2010 - muddology at Korňa/ 2010 - romantic Štiavnik/ 2011 - new sites
+  gonna be gorgeous!/ 2011 - Liptovská Teplička/ 2011 - the gang at Liptovská
+  Teplička/ 2011 - Pastierské 2/ Veny at Cochlearia/ 2012 - breath-taking ride
+  for beetles/  2012 - new sites exploration aka they gonna be great again/ 2011
+  - Víťa is building an emergence net at Hutě/ 2012 - Omšenská Baba 1/ 2012 -
+  Vricko/ 2012 - Omšenská Baba 2/ 2012 - Podhoranské rašelinisko (peat bog)/
+  2012 - Hnilecká Jelšina/ 2013 - Víťa is joyful at Liptovská Teplička/ 2014 -
+  microdistribution at Liptovská Teplička/ 2016 -  treasure hunting at Hutě/
+  2018 - 'bardzo fajny kolektiw' is sampling for metabarcoding
 ---
 <div class="cz">
 Prameništní slatiniště jsou cenné mokřadní biotopy, které hostí specifickou faunu i flóru. Není jich
