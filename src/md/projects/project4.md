@@ -4,18 +4,18 @@ name: Silva Gabreta Monitoring – Přeshraniční monitoring biodiversity a vod
   režimu
 nameEn: Silva Gabreta Monitoring – Transboundary Monitoring of Biodiversity and
   Water Regime
-captions: Kings and Queens of Böhmerwald/ jezírko na Blatenské slati/ Michal
-  hází planktonkou/ Honza s pastí na brouky/ revitalizace na Hraniční slati/
-  Černé jezero/ třídění vzorků na Čertově jezeře/ revitalizovaná Hučina/
-  bagrování nového koryta Žlebského potoka/ na Roklanském potoce u Modravy/
-  Roklanský potok/ opravdový les/ Tmavý potok v mrtvém lese/ nekonečný les (NP
+captions: Kings and Queens of Böhmerwald/ Jezírko na Blatenské slati/ Michal
+  hází planktonkou/ Honza s pastí na brouky/ Revitalizace na Hraniční slati/
+  Černé jezero/ Třídění vzorků na Čertově jezeře/ Revitalizovaná Hučina/
+  Bagrování nového koryta Žlebského potoka/ Na Roklanském potoce u Modravy/
+  Roklanský potok/ Opravdový les/ Tmavý potok v mrtvém lese/ Nekonečný les (NP
   bavorský les a Rachelsee)
-captionsEn: Kings and Queens of Böhmerwald/ jezírko na Blatenské slati/ Michal
-  hází planktonkou/ Honza s pastí na brouky/ revitalizace na Hraniční slati/
-  Černé jezero/ třídění vzorků na Čertově jezeře/ revitalizovaná Hučina/
-  bagrování nového koryta Žlebského potoka/ na Roklanském potoce u Modravy/
-  Roklanský potok/ opravdový les/ Tmavý potok v mrtvém lese/ nekonečný les (NP
-  bavorský les a Rachelsee)
+captionsEn: Kings and Queens of Böhmerwald/ Small lake at Blatenská slať (fen)/
+  Michal is throwing a plankton net/ Honza with beetle trap/ Restorations at
+  Hraniční slať (fen)/ Černé jezero (Black Lake)/ Sample sorting at Čertovo
+  jezero (Devil's lake)/ Restored Hučina/ New channel excavation of Žlebský
+  stream/ At Roklanský stream near Modrava/ Roklanský stream/ True forest/ Tmavý
+  stream in dead forest/ Neverending forest (Bavarian Forest NP and Rachelsee)
 ---
 <div class="cz">
 
