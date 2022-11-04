@@ -7,11 +7,11 @@ captions: Bečva u Oseku 1955/ Vladimír Landa a Zelinka/ Tomáš Soldán/ Svět
   Osoblaha u Janova 1956/ Mže Milíkov/ Ploučnice Žízníkov/ Olešenka Peklo/
   Křinice Černá brána/ Kamenice v Zemské bráně/ Javoří potok Modrava/ Zdobnice
   Pěčín/ Stropnice u Bílovic na jaře 2010
-captionsEn: Bečva u Oseku 1955/ Vladimír Landa a Zelinka/ Tomáš Soldán/ Světlana
-  Zahrádková/ Jindřiška Bojková/ Morava u Lhoty 1955/ Svratka u Doubravníku/
-  Osoblaha u Janova 1956/ Mže Milíkov/ Ploučnice Žízníkov/ Olešenka Peklo/
-  Křinice Černá brána/ Kamenice v Zemské bráně/ Javoří potok Modrava/ Zdobnice
-  Pěčín/ Stropnice u Bílovic na jaře 2010
+captionsEn: Bečva near Osek 1955/ Vladimír Landa and Zelinka/ Tomáš Soldán/
+  Světlana Zahrádková/ Jindřiška Bojková/ Morava near Lhota 1955/ Svratka near
+  Doubravník/ Osoblaha near Janov 1956/ Mže Milíkov/ Ploučnice Žízníkov/
+  Olešenka Peklo/ Křinice Černá brána/ Kamenice at Zemská brána/ Javoří stream
+  Modrava/ Zdobnice Pěčín/ Stropnice near Bílovice in spring 2010
 ---
 <div class="cz">
 Sladkovodní biotopy byly v průběhu minulého století silně zasaženy různými antropickými vlivy,
