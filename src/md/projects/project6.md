@@ -9,13 +9,13 @@ captions: Lovící komando u Uherského Ostrohu/ Lov u Markthofu/ Lov u Uherské
   jarní (Lepidurus apus)/ Listonoh letní (Triops cancriformis)/ Žábronožka
   sněžní (Eubranchipus grubii) – samice/ Žábronožka letní (Branchipus
   schaefferi) – samice/ Škeblovka (Cyzicus sp.)/ Listonoh letní hloubí důlek/
-captionsEn: Lovící komando u Uherského Ostrohu/ Lov u Markthofu/ Lov u Uherského
-  Ostrohu/ Bláto u Mistřína/ Měření na Bzeneckých loukách/ Lov u Hevlína/ Lovíme
-  u Tvrdonic/ Lov listonohů u Petrova/Žábronožka panonská (Chirocephalus
-  carnuntanus)/ Škeblovka rovnohřbetá (Leptestheria dahalacensis)/ Listonoh
-  jarní (Lepidurus apus)/ Listonoh letní (Triops cancriformis)/ Žábronožka
-  sněžní (Eubranchipus grubii) – samice/ Žábronožka letní (Branchipus
-  schaefferi) – samice/ Škeblovka (Cyzicus sp.)/ Listonoh letní hloubí důlek/
+captionsEn: Sampling commando near Uherský Ostroh/ Sampling near Markthof/
+  Sampling near Uherský Ostroh/ Mud near Mistřín/ Measurements at Bzenecké louky
+  (meadows)/ Sampling near Hevlín/ We are sampling near Tvrdonice/ Tadpole
+  shrimps hunting near Petrov/ Chirocephalus carnuntanus/ Leptestheria
+  dahalacensis/ Lepidurus apus/ Triops cancriformis/ Eubranchipus grubii –
+  female/ Branchipus schaefferi – female/ Cyzicus sp./ Triops cancriformis is
+  digging a hole/
 ---
 <div class="cz">
 Polní rozlivy jsou specifické biotopy efemérního charakteru, vznikající na zemědělských plochách
