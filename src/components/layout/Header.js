@@ -1,7 +1,7 @@
 import React from "react";
 import styled from "styled-components";
 import { StaticQuery, graphql, Link } from "gatsby";
-
+import logo from "../../images/logo.png";
 import ecdyonurus from "../../images/ecdyonurus_head.jpg";
 import ImgSlider from "./ImgSlider";
 import czFlag from "../../images/cz-icon.png";
@@ -37,31 +37,29 @@ const HeaderComponent = ({ className }) => (
               <LeftSide>
                 <TitleWrapper>
                   <ImgCont>
-                    <img src={ecdyonurus} alt="logo" />
+                    <img src={ecdyonurus} alt="logo-ecdyonurus" />
                   </ImgCont>
                   <Muni>
-                    {url.includes("projects/project3") && (
-                      <>
-                        <IntContextConsumer>
-                          {({ changeToCz }) => (
-                            <Flag
-                              src={czFlag}
-                              name="cz"
-                              onClick={() => changeToCz()}
-                            />
-                          )}
-                        </IntContextConsumer>
-                        <IntContextConsumer>
-                          {({ changeToEn }) => (
-                            <Flag
-                              src={ukFlag}
-                              name="en"
-                              onClick={() => changeToEn()}
-                            />
-                          )}
-                        </IntContextConsumer>
-                      </>
-                    )}
+                    <div>
+                      <IntContextConsumer>
+                        {({ changeToCz }) => (
+                          <Flag
+                            src={czFlag}
+                            name="cz"
+                            onClick={() => changeToCz()}
+                          />
+                        )}
+                      </IntContextConsumer>
+                      <IntContextConsumer>
+                        {({ changeToEn }) => (
+                          <Flag
+                            src={ukFlag}
+                            name="en"
+                            onClick={() => changeToEn()}
+                          />
+                        )}
+                      </IntContextConsumer>
+                    </div>
                     <Link to="/" style={{ textDecoration: "none" }}>
                       <Main>
                         {int === "en"
@@ -77,6 +75,9 @@ const HeaderComponent = ({ className }) => (
                       </SubMain>
                     )}
                   </Muni>
+                  <ImgCont>
+                    <img src={logo} alt="logo" />
+                  </ImgCont>
                 </TitleWrapper>
               </LeftSide>
               <RightSide>
@@ -114,6 +115,7 @@ const TitleWrapper = styled.div`
   flex: 1;
   justify-content: center;
   align-items: center;
+  padding: 0 10px;
 `;
 
 const RightSide = styled.div`
@@ -124,7 +126,11 @@ const RightSide = styled.div`
 `;
 
 const Muni = styled.div`
-  padding: 0.3em;
+  padding: 0.3em 32px;
+
+  @media (max-width: 500px) {
+    padding: 0 10px;
+  }
 `;
 
 const ImgCont = styled.div`
@@ -133,7 +139,7 @@ const ImgCont = styled.div`
   }
   @media (max-width: 600px) {
     img {
-      max-width: 100px;
+      max-width: 80px;
     }
   }
 `;
@@ -142,10 +148,11 @@ const Main = styled.div`
   font-size: 2em;
   @media (max-width: 1000px) {
     line-height: 1.2em;
+    font-size: 1.5em;
   }
   @media (max-width: 500px) {
     line-height: 1.2em;
-    font-size: 1.5em;
+    font-size: 1em;
   }
   font-weight: bold;
   color: ${(props) => props.theme.white};
@@ -164,7 +171,10 @@ const SubMain = styled.div`
 
 const Flag = styled.img`
   height: 48px;
-  margin: 2px;
+  margin: 0 2px;
   align-self: flex-end;
   cursor: pointer;
+  @media (max-width: 600px) {
+    height: 26px;
+  }
 `;

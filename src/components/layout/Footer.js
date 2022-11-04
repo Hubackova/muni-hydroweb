@@ -9,11 +9,11 @@ const footerCz = {
   botzool: "Ústav botaniky a zoologie ",
   isPart: "je součástí ",
   faculty: "Přírodovědecké fakulty",
-  university: " Masarykovy Univerzity",
+  university: " Masarykovy univerzity",
   postalAddressHeading: "Poštovní adresa ",
   physicalAddressHeading: "Adresa pracoviště ",
   postalAddress: "Kotlářská 267/2, 611 37, Brno, Česká republika",
-  physicalAddress1: "Univerzitní kampus Bohunice, budova A32,",
+  physicalAddress1: "Univerzitní kampus Bohunice, budova D32,",
   physicalAddress2: "Kamenice 753/5, 625 00, Brno, Česká republika",
   links: "Odkazy",
 };
@@ -26,7 +26,7 @@ const footerEn = {
   postalAddressHeading: "Postal address: ",
   physicalAddressHeading: "Workplace address: ",
   postalAddress: "Kotlářská 267/2, 611 37, Brno, Czech Republic",
-  physicalAddress1: "University Campus Bohunice, building A32,",
+  physicalAddress1: "University Campus Bohunice, building D32,",
   physicalAddress2: "Kamenice 753/5, 625 00, Brno, Czech Republic",
   links: "Links",
 };
@@ -39,10 +39,32 @@ const FooterContent = () => (
         <Container>
           <FooterSection background="rgba(150,150,150, 0.9)">
             <FooterHeader>MUNI</FooterHeader>
-            <A href="http://botzool.sci.muni.cz">{footer.botzool}</A>
+            <A
+              href={
+                int === "cz"
+                  ? "http://botzool.sci.muni.cz"
+                  : "https://botzool.sci.muni.cz/en"
+              }
+            >
+              {footer.botzool}
+            </A>
             {footer.isPart}{" "}
-            <A href="http://www.sci.muni.cz/">{footer.faculty}</A>
-            <A href="https://www.muni.cz/">{footer.university}</A>
+            <A
+              href={
+                int === "cz"
+                  ? "http://www.sci.muni.cz/"
+                  : "https://www.sci.muni.cz/en"
+              }
+            >
+              {footer.faculty}
+            </A>
+            <A
+              href={
+                int === "cz" ? "https://www.muni.cz/" : "https://www.muni.cz/en"
+              }
+            >
+              {footer.university}
+            </A>
           </FooterSection>
           <FooterSection background="rgba(150,150,150, 0.8)">
             <FooterHeader>{footer.postalAddressHeading}</FooterHeader>
