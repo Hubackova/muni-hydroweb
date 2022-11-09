@@ -20,18 +20,10 @@ const blueTheme = {
 const windowGlobal = typeof window !== "undefined" && window;
 
 const Layout = ({ children }) => {
-  const isIndex =
-    windowGlobal &&
-    windowGlobal.location &&
-    windowGlobal.location.pathname === "/"
-      ? true
-      : false;
-  const isWide =
-    windowGlobal &&
-    windowGlobal.location &&
-    windowGlobal.location.pathname.includes("project")
-      ? true
-      : false;
+  const isIndex = windowGlobal?.location?.pathname === "/" ? true : false;
+  const isWide = windowGlobal?.location?.pathname.includes("project")
+    ? true
+    : false;
   return (
     <ThemeProvider theme={blueTheme}>
       <Container>
@@ -41,7 +33,7 @@ const Layout = ({ children }) => {
             <HeaderComponent />
           </HeaderPanel>
 
-          <Main isWide={isWide} isIndex={isIndex}>
+          <Main isWide={isWide || isIndex} isIndex={isIndex}>
             {children}
           </Main>
 

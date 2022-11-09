@@ -108,6 +108,9 @@ const LeftSide = styled.div`
   @media (max-width: 600px) {
     flex-wrap: wrap;
   }
+  @media (max-width: 1500px) {
+    flex: 3;
+  }
 `;
 
 const TitleWrapper = styled.div`
@@ -120,8 +123,9 @@ const TitleWrapper = styled.div`
 
 const RightSide = styled.div`
   flex: 1;
-  @media (max-width: 1400px) {
-    width: 100%;
+  align-self: center;
+  @media (max-width: 1500px) {
+    flex: 2;
   }
 `;
 
@@ -136,9 +140,7 @@ const Muni = styled.div`
 const ImgCont = styled.div`
   img {
     max-width: 150px;
-  }
-  @media (max-width: 600px) {
-    img {
+    @media (max-width: 600px) {
       max-width: 80px;
     }
   }

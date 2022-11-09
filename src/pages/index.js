@@ -5,24 +5,39 @@ import { graphql } from "gatsby";
 import { IntContextConsumer } from "../components/Context";
 import Layout from "../components/layout";
 import SEO from "../components/SEO";
+import Actualities from "../components/Actualities";
 import "font-awesome/css/font-awesome.min.css";
 
 const Homepage = ({ data }) => {
+  console.log(data);
   return (
-  <Layout>
-    <SEO />
-    <Container>
-    <IntContextConsumer>
+    <Layout>
+      <SEO />
+
+      <IntContextConsumer>
         {({ int }) => (
-          <>
-          <h1>{int === "en" ? data.markdownRemark.frontmatter.nameEn : data.markdownRemark.frontmatter.nameCz }</h1>
-          <div className={int}><div dangerouslySetInnerHTML={{ __html: data.markdownRemark.html }} /></div>
-          </>
+          <Home>
+            <Text>
+              <h1>
+                {int === "en"
+                  ? data.markdownRemark.frontmatter.nameEn
+                  : data.markdownRemark.frontmatter.nameCz}
+              </h1>
+              <div className={int}>
+                <div
+                  dangerouslySetInnerHTML={{ __html: data.markdownRemark.html }}
+                />
+              </div>
+            </Text>
+            <ActualitiesWrapper>
+              <Actualities imgs={data.allImageSharp.edges} />
+            </ActualitiesWrapper>
+          </Home>
         )}
       </IntContextConsumer>
-    </Container>
-  </Layout>
-)};
+    </Layout>
+  );
+};
 export default Homepage;
 
 export const query = graphql`
@@ -33,13 +48,65 @@ export const query = graphql`
         name
       }
     }
+
+    allImageSharp(filter: { fluid: { src: { regex: "/small-news_/" } } }) {
+      edges {
+        node {
+          id
+          fluid(maxWidth: 250) {
+            ...GatsbyImageSharpFluid_noBase64
+          }
+        }
+      }
+    }
+
+    allMarkdownRemark(
+      filter: { fields: { slug: { regex: "/actualities/" } } }
+      sort: { fields: [frontmatter___order], order: ASC }
+    ) {
+      totalCount
+      edges {
+        node {
+          id
+          frontmatter {
+            title
+          }
+          fields {
+            slug
+          }
+        }
+      }
+    }
   }
 `;
 
-const Container = styled.div`
-  width: 90%;
-  margin: 0 auto;
+const Home = styled.div`
+  display: flex;
+`;
+
+const Text = styled.div`
+  flex: 2;
+
   p {
+    padding-left: 2em;
+    padding-right: 2em;
     text-align: justify;
+    max-width: 1160px;
+    margin-left: auto;
+  }
+
+  @media (max-width: 1200px) {
+    max-width: 960px;
+  }
+
+  @media (max-width: 1500px) {
+    flex: 3;
+  }
+`;
+
+const ActualitiesWrapper = styled.div`
+  flex: 1;
+  @media (max-width: 1500px) {
+    flex: 2;
   }
 `;

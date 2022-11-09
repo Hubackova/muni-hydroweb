@@ -54,6 +54,14 @@ collections:
       - { label: "Image labels En", name: "captionsEn", widget: "string" }
       - { label: "Body", name: "body", widget: "markdown" }
 
+  - name: "news"
+    label: "News"
+    folder: "src/md/actualities"
+    create: true
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Body", name: "body", widget: "markdown" }
+
   - name: pages
     label: Pages
     files:
