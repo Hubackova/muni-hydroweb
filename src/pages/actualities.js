@@ -71,12 +71,19 @@ const Actuality = styled.div`
   display: flex;
   gap: 20px;
   flex-direction: row;
-  padding: 3em;
+  padding-bottom: 2em;
 
   > div:first-of-type {
-    max-width: 300px;
-    width: 300px;
+    max-width: 250px;
+    width: 250px;
     flex-shrink: 0;
+  }
+
+  p:first-of-type {
+    color: ${(props) => props.theme.lightblue};
+    margin: 0;
+    margin-bottom: 20px;
+    border-bottom: 0.08em solid rgb(229, 229, 229);
   }
 
   @media (max-width: 768px) {

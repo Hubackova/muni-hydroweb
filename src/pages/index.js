@@ -82,6 +82,10 @@ export const query = graphql`
 
 const Home = styled.div`
   display: flex;
+
+  @media (max-width: 768px) {
+    flex-direction: column;
+  }
 `;
 
 const Text = styled.div`

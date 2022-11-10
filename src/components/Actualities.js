@@ -46,6 +46,10 @@ const RightPanel = styled.div`
   flex-direction: column;
   gap: 20px;
   align-items: center;
+
+  @media (max-width: 768px) {
+    border-left: none;
+  }
 `;
 
 const GridWrapper = styled.div`
@@ -58,6 +62,18 @@ const GridWrapper = styled.div`
     grid-template-rows: repeat(2, minmax(200px, 200px));
   }
   @media (max-width: 960px) {
+    grid-template-columns: repeat(1, minmax(200px, 200px));
+    grid-template-rows: repeat(4, minmax(200px, 200px));
+  }
+  @media (max-width: 768px) {
+    grid-template-columns: repeat(2, minmax(160px, 160px));
+    grid-template-rows: repeat(2, minmax(160px, 160px));
+  }
+  @media (max-width: 576px) {
+    grid-template-columns: repeat(2, minmax(160px, 160px));
+    grid-template-rows: repeat(2, minmax(160px, 160px));
+  }
+  @media (max-width: 400px) {
     grid-template-columns: repeat(1, minmax(200px, 200px));
     grid-template-rows: repeat(4, minmax(200px, 200px));
   }
