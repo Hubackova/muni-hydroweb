@@ -31,13 +31,13 @@ title: mgrBc
 
 [Bc. Alexandra Černá](https://is.muni.cz/auth/osoba/437080)
 
-[Bc. Alžběta Dubnová](https://is.muni.cz/auth/osoba/473714)
-
 [Bc. Ondřej Jandáček](https://is.muni.cz/auth/osoba/460617)
 
 [B﻿c. Jiří Kopřiva](https://is.muni.cz/auth/osoba/499691)
 
 [B﻿c. Albín Pařízek](https://is.muni.cz/auth/osoba/493658)
+
+[B﻿c. Klára Piknerová](https://is.muni.cz/auth/osoba/500175)
 
 [B﻿c. Dominik Pliska](https://is.muni.cz/auth/osoba/499022)
 
@@ -100,13 +100,13 @@ title: mgrBc
 
 [Bc. Alexandra Černá](https://is.muni.cz/auth/osoba/437080)
 
-[Bc. Alžběta Dubnová](https://is.muni.cz/auth/osoba/473714)
-
 [Bc. Ondřej Jandáček](https://is.muni.cz/auth/osoba/460617)
 
 [B﻿c. Jiří Kopřiva](https://is.muni.cz/auth/osoba/499691)
 
 [B﻿c. Albín Pařízek](https://is.muni.cz/auth/osoba/493658)
+
+[B﻿c. Klára Piknerová](https://is.muni.cz/auth/osoba/500175)
 
 [B﻿c. Dominik Pliska](https://is.muni.cz/auth/osoba/499022)
 
