@@ -4,10 +4,16 @@ import { Link, StaticQuery, graphql } from "gatsby";
 import styled from "styled-components";
 import { IntContextConsumer } from "./Context";
 
-const Actualities = ({ imgs }) => {
-  const reverserd = imgs.sort((a, b) =>
-    a.node.fluid.src < b.node.fluid.src ? 1 : -1
-  );
+const Actualities = ({ imgs, int }) => {
+  const reverserd = imgs
+    .sort((a, b) => (a.node.fluid.src < b.node.fluid.src ? 1 : -1))
+    .slice(0, 4)
+    .map((i) =>
+      int === "en"
+        ? `en-${i.node.frontmatter.title}`
+        : `${i.node.frontmatter.title}`
+    );
+
   return (
     <IntContextConsumer>
       {({ int }) => {

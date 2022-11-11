@@ -12,23 +12,28 @@ const Actualities = ({ data }) => {
   return (
     <Layout>
       <IntContextConsumer>
-        {({ int }) =>
-          reverserd.map(({ node }) => {
-            const img = data.allImageSharp.edges.find((img) =>
-              img.node.fluid.src.includes(`${node.frontmatter.title}`)
-            );
+        {({ int }) => (
+          <>
+            <Title>
+              {int === "en" ? "Highlights Archive" : "Archiv zajímavostí"}
+            </Title>
+            {reverserd.map(({ node }) => {
+              const img = data.allImageSharp.edges.find((img) =>
+                img.node.fixed.src.includes(`${node.frontmatter.title}`)
+              );
 
-            return (
-              <Actuality key={node.id} class={int}>
-                {img ? <Img fluid={img.node.fluid} /> : <div />}
-                <div
-                  className={`project-body ${int}`}
-                  dangerouslySetInnerHTML={{ __html: node.html }}
-                />
-              </Actuality>
-            );
-          })
-        }
+              return (
+                <Actuality key={node.id} class={int}>
+                  {img ? <Img fixed={img.node.fixed} /> : <div />}
+                  <div
+                    className={`project-body ${int}`}
+                    dangerouslySetInnerHTML={{ __html: node.html }}
+                  />
+                </Actuality>
+              );
+            })}
+          </>
+        )}
       </IntContextConsumer>
     </Layout>
   );
@@ -40,8 +45,8 @@ export const query = graphql`
       edges {
         node {
           id
-          fluid {
-            ...GatsbyImageSharpFluid_noBase64
+          fixed(width: 150) {
+            ...GatsbyImageSharpFixed
           }
         }
       }
@@ -72,11 +77,11 @@ const Actuality = styled.div`
   gap: 20px;
   flex-direction: row;
   padding-bottom: 2em;
+  font-size: 16px;
 
   > div:first-of-type {
-    max-width: 250px;
-    width: 250px;
-    flex-shrink: 0;
+    min-width: 150px;
+    width: 150px;
   }
 
   p:first-of-type {
@@ -89,4 +94,8 @@ const Actuality = styled.div`
   @media (max-width: 768px) {
     flex-direction: column;
   }
+`;
+const Title = styled.h3`
+  border-bottom: 1px solid grey;
+  font-weight: 400;
 `;

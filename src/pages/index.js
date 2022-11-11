@@ -30,7 +30,7 @@ const Homepage = ({ data }) => {
               </div>
             </Text>
             <ActualitiesWrapper>
-              <Actualities imgs={data.allImageSharp.edges} />
+              <Actualities imgs={data.allImageSharp.edges} int={int} />
             </ActualitiesWrapper>
           </Home>
         )}
