@@ -18,7 +18,7 @@ Všechna takto nashromážděná data jsou veřejně dostupná na stránkách [p
 
 <div class="en">
 
-**Zapojte se do mapování vysychavých toků napříč kontinenty!**
+**Get involved in a worldwide monitoring of intermittent streams!**
 
 Máte chytrý telefon a rádi trávíte čas v přírodě? Pak můžete i vy pomoci v pochopení celosvětového fungování vysychavých říčních sítí!
 Stačí si nainstalovat **aplikaci DRYRivERS** (dostupná v [Google Play](https://play.google.com/store/apps/details?id=com.dryrivers) či [App Stor](https://apps.apple.com/us/app/dryrivers/id1593273058)e) a používat ji kdekoli a kdykoli
