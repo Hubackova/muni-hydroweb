@@ -1,6 +1,5 @@
 import React from "react";
-import PropTypes from "prop-types";
-import { Link, StaticQuery, graphql } from "gatsby";
+import { Link } from "gatsby";
 import styled from "styled-components";
 import { IntContextConsumer } from "./Context";
 
@@ -8,12 +7,12 @@ const Actualities = ({ imgs, int }) => {
   const reverserd = imgs
     .sort((a, b) => (a.node.fluid.src < b.node.fluid.src ? 1 : -1))
     .slice(0, 4)
-    .map((i) =>
+    .filter((i) =>
       int === "en"
-        ? `en-${i.node.frontmatter.title}`
-        : `${i.node.frontmatter.title}`
+        ? i.node.fluid.src.includes("en-small-news")
+        : !i.node.fluid.src.includes("en-small-news")
     );
-
+  console.log(imgs, reverserd);
   return (
     <IntContextConsumer>
       {({ int }) => {
@@ -25,7 +24,7 @@ const Actualities = ({ imgs, int }) => {
                   <ResourceBox
                     to={"/actualities"}
                     key={index}
-                    img={img.node.fluid.src}
+                    img={img.node?.fluid.src}
                     target="_blanc"
                   />
                 );
