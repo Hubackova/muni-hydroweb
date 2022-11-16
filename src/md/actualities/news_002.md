@@ -18,7 +18,7 @@ Všechna takto nashromážděná data jsou veřejně dostupná na stránkách [p
 
 <div class="en">
 
-**Get involved in a worldwide monitoring of intermittent streams!**
+**Get involved in worldwide monitoring of intermittent streams!**
 
 Every smartphone user who enjoys nature and the outdoors can contribute by reporting wet and dry conditions in streams and rivers all around the world using the **DRYRivERS app** (available on [Google Play](https://play.google.com/store/apps/details?id=com.dryrivers) and [App Store](https://apps.apple.com/us/app/dryrivers/id1593273058)). The app will read the GPS of your smart phone, all you need to do is add the in-channel conditions i.e., whether the channel contains **flowing water**, disconnected **remnant pools** or is **dry**; and take a photo of the site.
 
