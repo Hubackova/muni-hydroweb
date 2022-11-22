@@ -82,6 +82,8 @@ Petr Pařil, Marek Polášek, Michal Straka, Barbora Loskotová, Vendula Poláš
 
 Sánchez-Montoya M.M., Gómez R., Calvo J.F., Bartonička T., Datry T. & **Pařil** P. 2022: Ecological values of intermittent rivers for terrestrial vertebrate fauna. *Science of The Total Environment* 806:151308. [PDF](https://doi.org/10.1016/j.scitotenv.2021.151308)
 
+Schenková J., Horsák M., **Polášek** M. & **Pařil** P. 2022: Dry phase duration and periodicity alter clitellate communities in central European intermittent streams. *Hydrobiologia* 849: 3245-3258. [PDF](https://link.springer.com/content/pdf/10.1007/s10750-022-04933-6.pdf)
+
 Stubbington R., ... **Pařil** P., ... **Polášek** M., ... & Datry T. 2022: Disentangling responses to natural stressor and human impact gradients in river ecosystems across Europe. *Journal of Applied Ecology* 59: 537-548. [PDF](https://doi.org/10.1111/1365-2664.14072)
 
 Crabot J., **Polášek** M., Launay B., **Pařil** P. & Datry T. 2021: Drying in newly intermittent rivers leads to higher variability of invertebrate communities. *Freshwater Biology* 66: 730-744. [PDF](https://onlinelibrary.wiley.com/doi/full/10.1111/fwb.13673)
@@ -220,6 +222,8 @@ Marek Polášek, Michal Straka, Barbora Loskotová, Vendula Polášková, Eva Ha
 **Selected Publications**
 
 Sánchez-Montoya M.M., Gómez R., Calvo J.F., Bartonička T., Datry T. & **Pařil** P. 2022: Ecological values of intermittent rivers for terrestrial vertebrate fauna. *Science of The Total Environment* 806:151308. [PDF](https://doi.org/10.1016/j.scitotenv.2021.151308)
+
+Schenková J., Horsák M., **Polášek** M. & **Pařil** P. 2022: Dry phase duration and periodicity alter clitellate communities in central European intermittent streams. *Hydrobiologia* 849: 3245-3258. [PDF](https://link.springer.com/content/pdf/10.1007/s10750-022-04933-6.pdf)
 
 Stubbington R., ... **Pařil** P., ... **Polášek** M., ... & Datry T. 2022: Disentangling responses to natural stressor and human impact gradients in river ecosystems across Europe. *Journal of Applied Ecology* 59: 537-548. [PDF](https://doi.org/10.1111/1365-2664.14072)
 
