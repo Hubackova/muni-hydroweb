@@ -48,12 +48,12 @@ Jana Schenková, Jan Helešic, Martina Poláková, Vendula Polášková, Michal 
 
 **Vybrané publikace**
 
-Poláková M., Straka M., Polášek M. & Němejcová D. 2022: Unexplored freshwater communities in post-mining ponds: effect of different restoration approaches. *Restoration Ecology*: e13679. [PDF](https://doi.org/10.1111/rec.13679)
+Poláková M., Straka M., Polášek M. & Němejcová D. 2022: Unexplored freshwater communities in post-mining ponds: effect of different restoration approaches. *Restoration Ecology* 30: e13679. [PDF](https://doi.org/10.1111/rec.13679)
 
 Chmelová E., Kolar V., Jan J., Carreira B.M., Landeira-Dabarca A., Otáhalová Š., Poláková M., Vebrová L., Borovec J., Boukal D.S. & Tropek R. 2021: Valuable Secondary Habitats or Hazardous Ecological Traps? Environmental Risk Assessment of Minor and Trace Elements in Fly Ash Deposits across the Czech Republic. *Sustainability* 13: 10385. [PDF](https://doi.org/10.3390/su131810385)
 
 Bartošová M., Schenková J., Polášková V., Bojková J., Šorfová V. & Horsák M. 2019: Macroinvertebrate assemblages of the post-mining calcareous stream
- habitats: Are they similar to those inhabiting the natural calcareous springs. *Ecological Engineering* 136: 38-45. [PDF](https://doi.org/10.1016/j.ecoleng.2019.05.023)
+ habitats: Are they similar to those inhabiting the natural calcareous springs. *Ecological Engineering* 136: 38–45. [PDF](https://doi.org/10.1016/j.ecoleng.2019.05.023)
 
 Polášková V., Schenková J., Bartošová M., Rádková V. & Horsák M. 2017: Post-mining calcareous seepages as surrogate habitats for aquatic macroinvertebrate biota of vanishing calcareous spring fens. *Ecological
 Engineering* 109: 119–132. [PDF](https://doi.org/10.1016/j.ecoleng.2017.08.023)
@@ -107,12 +107,12 @@ Jana Schenková, Jan Helešic, Martina Poláková, Vendula Polášková, Michal 
 
 **Selected Publications**
 
-Poláková M., Straka M., Polášek M. & Němejcová D. 2022: Unexplored freshwater communities in post-mining ponds: effect of different restoration approaches. *Restoration Ecology*: e13679. [PDF](https://doi.org/10.1111/rec.13679)
+Poláková M., Straka M., Polášek M. & Němejcová D. 2022: Unexplored freshwater communities in post-mining ponds: effect of different restoration approaches. *Restoration Ecology* 30: e13679. [PDF](https://doi.org/10.1111/rec.13679)
 
 Chmelová E., Kolar V., Jan J., Carreira B.M., Landeira-Dabarca A., Otáhalová Š., Poláková M., Vebrová L., Borovec J., Boukal D.S. & Tropek R. 2021: Valuable Secondary Habitats or Hazardous Ecological Traps? Environmental Risk Assessment of Minor and Trace Elements in Fly Ash Deposits across the Czech Republic. *Sustainability* 13: 10385. [PDF](https://doi.org/10.3390/su131810385)
 
 Bartošová M., Schenková J., Polášková V., Bojková J., Šorfová V. & Horsák M. 2019: Macroinvertebrate assemblages of the post-mining calcareous stream
- habitats: Are they similar to those inhabiting the natural calcareous springs. *Ecological Engineering* 136: 38-45. [PDF](https://doi.org/10.1016/j.ecoleng.2019.05.023)
+ habitats: Are they similar to those inhabiting the natural calcareous springs. *Ecological Engineering* 136: 38–45. [PDF](https://doi.org/10.1016/j.ecoleng.2019.05.023)
 
 Polášková V., Schenková J., Bartošová M., Rádková V. & Horsák M. 2017: Post-mining calcareous seepages as surrogate habitats for aquatic macroinvertebrate biota of vanishing calcareous spring fens. *Ecological
 Engineering* 109: 119–132. [PDF](https://doi.org/10.1016/j.ecoleng.2017.08.023)
