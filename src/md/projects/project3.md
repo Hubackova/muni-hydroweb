@@ -80,30 +80,30 @@ Petr Pařil, Marek Polášek, Michal Straka, Barbora Loskotová, Vendula Poláš
 
 **Vybrané publikace**
 
-Sánchez-Montoya M.M., Gómez R., Calvo J.F., Bartonička T., Datry T. & **Pařil** P. 2022: Ecological values of intermittent rivers for terrestrial vertebrate fauna. *Science of The Total Environment* 806:151308. [PDF](https://doi.org/10.1016/j.scitotenv.2021.151308)
+Sánchez-Montoya M.M., Gómez R., Calvo J.F., Bartonička T., Datry T. & **Pařil** P. 2022: Ecological values of intermittent rivers for terrestrial vertebrate fauna. *Science of The Total Environment* 806: 151308. [PDF](https://doi.org/10.1016/j.scitotenv.2021.151308)
 
-Schenková J., Horsák M., **Polášek** M. & **Pařil** P. 2022: Dry phase duration and periodicity alter clitellate communities in central European intermittent streams. *Hydrobiologia* 849: 3245-3258. [PDF](https://link.springer.com/content/pdf/10.1007/s10750-022-04933-6.pdf)
+Schenková J., Horsák M., **Polášek** M. & **Pařil** P. 2022: Dry phase duration and periodicity alter clitellate communities in central European intermittent streams. *Hydrobiologia* 849: 3245–3258. [PDF](https://link.springer.com/content/pdf/10.1007/s10750-022-04933-6.pdf)
 
-Stubbington R., ... **Pařil** P., ... **Polášek** M., ... & Datry T. 2022: Disentangling responses to natural stressor and human impact gradients in river ecosystems across Europe. *Journal of Applied Ecology* 59: 537-548. [PDF](https://doi.org/10.1111/1365-2664.14072)
+Stubbington R., ... **Pařil** P., ... **Polášek** M., ... & Datry T. 2022: Disentangling responses to natural stressor and human impact gradients in river ecosystems across Europe. *Journal of Applied Ecology* 59: 537–548. [PDF](https://doi.org/10.1111/1365-2664.14072)
 
-Crabot J., **Polášek** M., Launay B., **Pařil** P. & Datry T. 2021: Drying in newly intermittent rivers leads to higher variability of invertebrate communities. *Freshwater Biology* 66: 730-744. [PDF](https://onlinelibrary.wiley.com/doi/full/10.1111/fwb.13673)
+Crabot J., **Polášek** M., Launay B., **Pařil** P. & Datry T. 2021: Drying in newly intermittent rivers leads to higher variability of invertebrate communities. *Freshwater Biology* 66: 730–744. [PDF](https://onlinelibrary.wiley.com/doi/full/10.1111/fwb.13673)
 
 Datry T., ... **Loskotová** B., ... **Pařil** P., ... **Polášek** M., ... 2021: Securing Biodiversity, Functional Integrity, and Ecosystem Services in Drying River Networks (DRYvER). *Research Ideas and Outcomes* 7: e77750. [PDF](https://doi.org/10.3897/rio.7.e77750)\
 \
-**Loskotová** B., **Straka** M., **Polášek** M., Dostálová A. & **Pařil** P. 2021: Macroinvertebrate seedbank survival in pristine and nutrient-enriched intermittent streams and its contribution to flow phase communities. *Hydrobiologia* 848: 1911-1923. [PDF](https://link.springer.com/article/10.1007/s10750-021-04566-1)
+**Loskotová** B., **Straka** M., **Polášek** M., Dostálová A. & **Pařil** P. 2021: Macroinvertebrate seedbank survival in pristine and nutrient-enriched intermittent streams and its contribution to flow phase communities. *Hydrobiologia* 848: 1911–1923. [PDF](https://link.springer.com/article/10.1007/s10750-021-04566-1)
 
 **Straka** M., **Polášek** M., Csabai Z., Zweidick O., Graf W., Meyer E.I., Mišíková Elexová E., Lešťáková M. & **Pařil** P. 2021: Stream drying bioindication in Central Europe: A Biodrought Index accuracy assessment. *Ecological Indicators* 130: 108045. [PDF](https://doi.org/10.1016/j.ecolind.2021.108045)
 
-Sarremejane R., ...  **Pařil** P., **Polášek** M., ... & Bonada N. 2020: DISPERSE, a trait database to assess the dispersal potential of European aquatic macroinvertebrates. *Scientific data* 7: 1-9. [PDF](https://www.nature.com/articles/s41597-020-00732-7)
+Sarremejane R., ...  **Pařil** P., **Polášek** M., ... & Bonada N. 2020: DISPERSE, a trait database to assess the dispersal potential of European aquatic macroinvertebrates. *Scientific data* 7: 1–9. [PDF](https://www.nature.com/articles/s41597-020-00732-7)
 
-**Loskotová** B., **Straka** M. & **Pařil** P. 2019: Sediment characteristics influence benthic macroinvertebrate vertical migrations and survival under experimental water loss conditions. *Fundamental and Applied Limnology* 193: 39-49. [PDF](https://www.schweizerbart.de/papers/fal/detail/193/91614/Sediment_characteristics_influence_benthic_macroin?af=crossref)
+**Loskotová** B., **Straka** M. & **Pařil** P. 2019: Sediment characteristics influence benthic macroinvertebrate vertical migrations and survival under experimental water loss conditions. *Fundamental and Applied Limnology* 193: 39–49. [PDF](https://www.schweizerbart.de/papers/fal/detail/193/91614/Sediment_characteristics_influence_benthic_macroin?af=crossref)
 
 **Pařil** P., Leigh C., **Polášek** M., Sarremejane R., Řezníčková P., Dostálová A. &
 Stubbington R. 2019: Short-term streambed drying events alter amphipod
 population structure in a central European stream. *Fundamental and Applied
-Limnology 193: 51-64*. [PDF](http://docserver.ingentaconnect.com/deliver/fasttrack/schweiz/18639135/fal_000_0_0000_0000_paril_1164_prepub_1547215377239.pdf?expires=1555189280&id=id22479149&checksum=030B2F8413E12D89FA0B835BCFC7715A)
+Limnology* 193: 51–64. [PDF](http://docserver.ingentaconnect.com/deliver/fasttrack/schweiz/18639135/fal_000_0_0000_0000_paril_1164_prepub_1547215377239.pdf?expires=1555189280&id=id22479149&checksum=030B2F8413E12D89FA0B835BCFC7715A)
 
-**Pařil** P., **Polášek** M., **Loskotová** B., **Straka** M., Crabot J. & Datry T. 2019: An unexpected source of invertebrate community recovery in intermittent streams from a humid continental climate. *Freshwater Biology* 64: 1971-1983. [PDF](https://onlinelibrary.wiley.com/doi/epdf/10.1111/fwb.13386)
+**Pařil** P., **Polášek** M., **Loskotová** B., **Straka** M., Crabot J. & Datry T. 2019: An unexpected source of invertebrate community recovery in intermittent streams from a humid continental climate. *Freshwater Biology* 64: 1971–1983. [PDF](https://onlinelibrary.wiley.com/doi/epdf/10.1111/fwb.13386)
 
 Shumilova O., …. **Pařil** P. …. 2019: Simulating rewetting events in intermittent
 rivers and ephemeral streams: a global analysis of leached nutrients and
@@ -113,19 +113,19 @@ organic matter. *Global Change Biology* 25: 1591–1611. [PDF](https://onlinelib
 
 Datry T. … **Pařil** P., **Polášek** M., … 2018: A global
 analysis of terrestrial plant litter dynamics in non-perennial waterways. *Nature
-Geoscience* 5: 497-503. [PDF](http://irep.ntu.ac.uk/id/eprint/34001/1/11489_Stubbington.pdf)
+Geoscience* 5: 497–503. [PDF](http://irep.ntu.ac.uk/id/eprint/34001/1/11489_Stubbington.pdf)
 
 Stubbington R., Chadd R., Cid N., Csabai Z.,
 Miliša M., Morais M., Munné A., **Pařil**
 P. Pešić V., Tziortzisj I., Verdonschot R. C. & Datry T. 2018:
 Biomonitoring of intermittent rivers and ephemeral streams in Europe: Current
 practice and priorities to enhance ecological status assessments. *Science of
-the total environment* 618: 1096-1113. [PDF](https://reader.elsevier.com/reader/sd/pii/S0048969717324865?token=ECA1F7E507035C2B093F4D7F1BB83CC67F464FF023BF0439AAFBA3293F6553FB021C5C6FE91EC729EC7EC82736748ED0)
+the total environment* 618: 1096–1113. [PDF](https://reader.elsevier.com/reader/sd/pii/S0048969717324865?token=ECA1F7E507035C2B093F4D7F1BB83CC67F464FF023BF0439AAFBA3293F6553FB021C5C6FE91EC729EC7EC82736748ED0)
 
 Datry T., Singer G., Sauquet E., Capdevilla D.
 J., Von Schiller D., Subbington R., ... **Pařil** P. … & Alves M. H. 2017:
 Science and management of intermittent rivers and ephemeral streams (SMIRES).
-*Research Ideas and Outcomes* 3: 1-23. [PDF](https://hal.archives-ouvertes.fr/hal-01871041/document)
+*Research Ideas and Outcomes* 3: 1–23. [PDF](https://hal.archives-ouvertes.fr/hal-01871041/document)
 
 **Pařil** P., Syrovátka V.,
 **Zahrádková** S., **Straka** M., **Polášek** M., Němejcová D., Opatřilová
@@ -136,7 +136,7 @@ certifikovaná Ministerstvem životního prostředí dne 21.12. 2015 pod čísle
 
 **Zahrádková** S., Hájek O., Treml P., **Pařil** P., **Straka** M., Němejcová D., **Polášek**
 M. & Ondráček P. 2015: Hodnocení rizika vysychání drobných vodních toků
-v České republice. *Vodohospodářské technicko-ekonomické informace* 57: 4-16. [HTML](https://www.vtei.cz/2015/12/hodnoceni-rizika-vysychani-drobnych-vodnich-toku-v-ceske-republice/)
+v České republice. *Vodohospodářské technicko-ekonomické informace* 57: 4–16. [HTML](https://www.vtei.cz/2015/12/hodnoceni-rizika-vysychani-drobnych-vodnich-toku-v-ceske-republice/)
 
 **Pařil** P., **Polášek** M. & **Straka** M.
 2014: Souprava pro odběr sedimentu z vyschlého dna (Užitný vzor č. 27576).
@@ -221,30 +221,30 @@ Marek Polášek, Michal Straka, Barbora Loskotová, Vendula Polášková, Eva Ha
 
 **Selected Publications**
 
-Sánchez-Montoya M.M., Gómez R., Calvo J.F., Bartonička T., Datry T. & **Pařil** P. 2022: Ecological values of intermittent rivers for terrestrial vertebrate fauna. *Science of The Total Environment* 806:151308. [PDF](https://doi.org/10.1016/j.scitotenv.2021.151308)
+Sánchez-Montoya M.M., Gómez R., Calvo J.F., Bartonička T., Datry T. & **Pařil** P. 2022: Ecological values of intermittent rivers for terrestrial vertebrate fauna. *Science of The Total Environment* 806: 151308. [PDF](https://doi.org/10.1016/j.scitotenv.2021.151308)
 
-Schenková J., Horsák M., **Polášek** M. & **Pařil** P. 2022: Dry phase duration and periodicity alter clitellate communities in central European intermittent streams. *Hydrobiologia* 849: 3245-3258. [PDF](https://link.springer.com/content/pdf/10.1007/s10750-022-04933-6.pdf)
+Schenková J., Horsák M., **Polášek** M. & **Pařil** P. 2022: Dry phase duration and periodicity alter clitellate communities in central European intermittent streams. *Hydrobiologia* 849: 3245–3258. [PDF](https://link.springer.com/content/pdf/10.1007/s10750-022-04933-6.pdf)
 
-Stubbington R., ... **Pařil** P., ... **Polášek** M., ... & Datry T. 2022: Disentangling responses to natural stressor and human impact gradients in river ecosystems across Europe. *Journal of Applied Ecology* 59: 537-548. [PDF](https://doi.org/10.1111/1365-2664.14072)
+Stubbington R., ... **Pařil** P., ... **Polášek** M., ... & Datry T. 2022: Disentangling responses to natural stressor and human impact gradients in river ecosystems across Europe. *Journal of Applied Ecology* 59: 537–548. [PDF](https://doi.org/10.1111/1365-2664.14072)
 
-Crabot J., **Polášek** M., Launay B., **Pařil** P. & Datry T. 2021: Drying in newly intermittent rivers leads to higher variability of invertebrate communities. *Freshwater Biology* 66: 730-744. [PDF](https://onlinelibrary.wiley.com/doi/full/10.1111/fwb.13673)
+Crabot J., **Polášek** M., Launay B., **Pařil** P. & Datry T. 2021: Drying in newly intermittent rivers leads to higher variability of invertebrate communities. *Freshwater Biology* 66: 730–744. [PDF](https://onlinelibrary.wiley.com/doi/full/10.1111/fwb.13673)
 
 Datry T., ... **Loskotová** B., ... **Pařil** P., ... **Polášek** M., ... 2021: Securing Biodiversity, Functional Integrity, and Ecosystem Services in Drying River Networks (DRYvER). *Research Ideas and Outcomes* 7: e77750. [PDF](https://doi.org/10.3897/rio.7.e77750)\
 \
-**Loskotová** B., **Straka** M., **Polášek** M., Dostálová A. & **Pařil** P. 2021: Macroinvertebrate seedbank survival in pristine and nutrient-enriched intermittent streams and its contribution to flow phase communities. *Hydrobiologia* 848: 1911-1923. [PDF](https://link.springer.com/article/10.1007/s10750-021-04566-1)
+**Loskotová** B., **Straka** M., **Polášek** M., Dostálová A. & **Pařil** P. 2021: Macroinvertebrate seedbank survival in pristine and nutrient-enriched intermittent streams and its contribution to flow phase communities. *Hydrobiologia* 848: 1911–1923. [PDF](https://link.springer.com/article/10.1007/s10750-021-04566-1)
 
 **Straka** M., **Polášek** M., Csabai Z., Zweidick O., Graf W., Meyer E.I., Mišíková Elexová E., Lešťáková M. & **Pařil** P. 2021: Stream drying bioindication in Central Europe: A Biodrought Index accuracy assessment. *Ecological Indicators* 130: 108045. [PDF](https://doi.org/10.1016/j.ecolind.2021.108045)
 
-Sarremejane R., ...  **Pařil** P., **Polášek** M., ... & Bonada N. 2020: DISPERSE, a trait database to assess the dispersal potential of European aquatic macroinvertebrates. *Scientific data* 7: 1-9. [PDF](https://www.nature.com/articles/s41597-020-00732-7)
+Sarremejane R., ...  **Pařil** P., **Polášek** M., ... & Bonada N. 2020: DISPERSE, a trait database to assess the dispersal potential of European aquatic macroinvertebrates. *Scientific data* 7: 1–9. [PDF](https://www.nature.com/articles/s41597-020-00732-7)
 
-**Loskotová** B., **Straka** M. & **Pařil** P. 2019: Sediment characteristics influence benthic macroinvertebrate vertical migrations and survival under experimental water loss conditions. *Fundamental and Applied Limnology* 193: 39-49. [PDF](https://www.schweizerbart.de/papers/fal/detail/193/91614/Sediment_characteristics_influence_benthic_macroin?af=crossref)
+**Loskotová** B., **Straka** M. & **Pařil** P. 2019: Sediment characteristics influence benthic macroinvertebrate vertical migrations and survival under experimental water loss conditions. *Fundamental and Applied Limnology* 193: 39–49. [PDF](https://www.schweizerbart.de/papers/fal/detail/193/91614/Sediment_characteristics_influence_benthic_macroin?af=crossref)
 
 **Pařil** P., Leigh C., **Polášek** M., Sarremejane R., Řezníčková P., Dostálová A. &
 Stubbington R. 2019: Short-term streambed drying events alter amphipod
 population structure in a central European stream. *Fundamental and Applied
-Limnology 193: 51-64*. [PDF](http://docserver.ingentaconnect.com/deliver/fasttrack/schweiz/18639135/fal_000_0_0000_0000_paril_1164_prepub_1547215377239.pdf?expires=1555189280&id=id22479149&checksum=030B2F8413E12D89FA0B835BCFC7715A)
+Limnology* 193: 51–64. [PDF](http://docserver.ingentaconnect.com/deliver/fasttrack/schweiz/18639135/fal_000_0_0000_0000_paril_1164_prepub_1547215377239.pdf?expires=1555189280&id=id22479149&checksum=030B2F8413E12D89FA0B835BCFC7715A)
 
-**Pařil** P., **Polášek** M., **Loskotová** B., **Straka** M., Crabot J. & Datry T. 2019: An unexpected source of invertebrate community recovery in intermittent streams from a humid continental climate. *Freshwater Biology* 64: 1971-1983. [PDF](https://onlinelibrary.wiley.com/doi/epdf/10.1111/fwb.13386)
+**Pařil** P., **Polášek** M., **Loskotová** B., **Straka** M., Crabot J. & Datry T. 2019: An unexpected source of invertebrate community recovery in intermittent streams from a humid continental climate. *Freshwater Biology* 64: 1971–1983. [PDF](https://onlinelibrary.wiley.com/doi/epdf/10.1111/fwb.13386)
 
 Shumilova O., …. **Pařil** P. …. 2019: Simulating rewetting events in intermittent
 rivers and ephemeral streams: a global analysis of leached nutrients and
@@ -254,19 +254,19 @@ organic matter. *Global Change Biology* 25: 1591–1611. [PDF](https://onlinelib
 
 Datry T. … **Pařil** P., **Polášek** M., … 2018: A global
 analysis of terrestrial plant litter dynamics in non-perennial waterways. *Nature
-Geoscience* 5: 497-503. [PDF](http://irep.ntu.ac.uk/id/eprint/34001/1/11489_Stubbington.pdf)
+Geoscience* 5: 497–503. [PDF](http://irep.ntu.ac.uk/id/eprint/34001/1/11489_Stubbington.pdf)
 
 Stubbington R., Chadd R., Cid N., Csabai Z.,
 Miliša M., Morais M., Munné A., **Pařil**
 P. Pešić V., Tziortzisj I., Verdonschot R. C. & Datry T. 2018:
 Biomonitoring of intermittent rivers and ephemeral streams in Europe: Current
 practice and priorities to enhance ecological status assessments. *Science of
-the total environment* 618: 1096-1113. [PDF](https://reader.elsevier.com/reader/sd/pii/S0048969717324865?token=ECA1F7E507035C2B093F4D7F1BB83CC67F464FF023BF0439AAFBA3293F6553FB021C5C6FE91EC729EC7EC82736748ED0)
+the total environment* 618: 1096–1113. [PDF](https://reader.elsevier.com/reader/sd/pii/S0048969717324865?token=ECA1F7E507035C2B093F4D7F1BB83CC67F464FF023BF0439AAFBA3293F6553FB021C5C6FE91EC729EC7EC82736748ED0)
 
 Datry T., Singer G., Sauquet E., Capdevilla D.
 J., Von Schiller D., Subbington R., ... **Pařil** P. … & Alves M. H. 2017:
 Science and management of intermittent rivers and ephemeral streams (SMIRES).
-*Research Ideas and Outcomes* 3: 1-23. [PDF](https://hal.archives-ouvertes.fr/hal-01871041/document)
+*Research Ideas and Outcomes* 3: 1–23. [PDF](https://hal.archives-ouvertes.fr/hal-01871041/document)
 
 **Pařil** P., Syrovátka V.,
 **Zahrádková** S., **Straka** M., **Polášek** M., Němejcová D., Opatřilová
@@ -277,7 +277,7 @@ certifikovaná Ministerstvem životního prostředí dne 21.12. 2015 pod čísle
 
 **Zahrádková** S., Hájek O., Treml P., **Pařil** P., **Straka** M., Němejcová D., **Polášek**
 M. & Ondráček P. 2015: Hodnocení rizika vysychání drobných vodních toků
-v České republice. *Vodohospodářské technicko-ekonomické informace* 57: 4-16. [HTML](https://www.vtei.cz/2015/12/hodnoceni-rizika-vysychani-drobnych-vodnich-toku-v-ceske-republice/)
+v České republice. *Vodohospodářské technicko-ekonomické informace* 57: 4–16. [HTML](https://www.vtei.cz/2015/12/hodnoceni-rizika-vysychani-drobnych-vodnich-toku-v-ceske-republice/)
 
 **Pařil** P., **Polášek** M. & **Straka** M.
 2014: Souprava pro odběr sedimentu z vyschlého dna (Užitný vzor č. 27576).
