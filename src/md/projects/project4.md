@@ -83,6 +83,8 @@ značné míry renaturalizovaným, korytům a okolním biotopům tekoucích vod.
 
 **Vybrané publikace**
 
+de Donnová S., Petruželová J., Kintrová K., Šorfová V., Polášková V., Straka M., Vrba J. & Bojková J. 2022: Rapid macroinvertebrate colonisation in restored channelised streams contiguous with natural stream reaches. *Hydrobiologia* 849: 4135–4152. [PDF](https://link.springer.com/content/pdf/10.1007/s10750-022-04928-3.pdf)
+
 Bojková J., Čížková H., Kučerová A., Rádková V.,
 Soldán T., Svidenský T. & Vrba J. 2015: Monitoring of
 the restored streams in the Vltavský Luh, Šumava
@@ -203,6 +205,8 @@ In cooperation with the [Šumava National Park](https://www.npsumava.cz/en/) and
 <div class="project-publication">
 
 **Selected Publications**
+
+de Donnová S., Petruželová J., Kintrová K., Šorfová V., Polášková V., Straka M., Vrba J. & Bojková J. 2022: Rapid macroinvertebrate colonisation in restored channelised streams contiguous with natural stream reaches. *Hydrobiologia* 849: 4135–4152. [PDF](https://link.springer.com/content/pdf/10.1007/s10750-022-04928-3.pdf)
 
 Bojková J., Čížková H., Kučerová A., Rádková V.,
 Soldán T., Svidenský T. & Vrba J. 2015: Monitoring of
