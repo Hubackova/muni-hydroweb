@@ -59,8 +59,6 @@ Jindřiška Bojková, Vanda Šorfová, Marek Polášek, Vendula Polášková, Pe
 
 **Vybrané publikace**
 
-Šupina J., Bojková J. & Boukal D.S. 2022: Environmental stressors alter multiple determinants of individual reproductive output in the acid-tolerant mayfly *Leptophlebia vespertina*. *Ecological Entomology* 47: 488–500. [PDF](https://resjournals.onlinelibrary.wiley.com/doi/epdf/10.1111/een.13133)
-
 Šupina J., Bojková J. & Boukal D.S. 2020: Warming erodes individual-level variability in life history responses to predation risk in larvae of the mayfly *Cloeon dipterum*. *Freshwater Biology* 65: 2211–2223. [PDF](https://doi.org/10.1111/fwb.13619)
 
 Zedková B., Rádková V., Bojková J., Soldán T. & Zahrádková S. 2015: Mayflies (Ephemeroptera) as indicators of environmental changes in the past five decades: a case study from the Morava and Odra River Basins (Czech Republic). *Aquatic Conservation: Marine and Freshwater Ecosystems* 25: 622–638. [PDF](https://doi.org/10.1002/aqc.2529)
@@ -105,8 +103,6 @@ Jindřiška Bojková, Vanda Šorfová, Marek Polášek, Vendula Polášková, Pe
 <div class="project-publication">
 
 **Selected Publications**
-
-Šupina J., Bojková J. & Boukal D.S. 2022: Environmental stressors alter multiple determinants of individual reproductive output in the acid-tolerant mayfly *Leptophlebia vespertina*. *Ecological Entomology* 47: 488–500. [PDF](https://resjournals.onlinelibrary.wiley.com/doi/epdf/10.1111/een.13133)
 
 Šupina J., Bojková J. & Boukal D.S. 2020: Warming erodes individual-level variability in life history responses to predation risk in larvae of the mayfly *Cloeon dipterum*. *Freshwater Biology* 65: 2211–2223. [PDF](https://doi.org/10.1111/fwb.13619)
 
