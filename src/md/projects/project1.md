@@ -64,7 +64,7 @@ Vanda Šorfová, Dana Klímová Hřívová, David Výravský, Martina Bílková
 
 **Vybrané publikace**
 
-Šorfová V., Poláková M., Bojková J., Polášková V., Schenková J., Horsák M. 2022: Environmental heterogeneity, dispersal mode and habitat specialisation modify within‐site beta diversity of spring macroinvertebrates. *International Review of Hydrobiology*, 1–9. [PDF](https://doi.org/10.1002/iroh.202102112)
+Šorfová V., Poláková M., Bojková J., Polášková V., Schenková J., Horsák M. 2022: Environmental heterogeneity, dispersal mode and habitat specialisation modify within‐site beta diversity of spring macroinvertebrates. *International Review of Hydrobiology* 107: 145–153. [PDF](https://onlinelibrary.wiley.com/doi/epdf/10.1002/iroh.202102112)
 
 Syrovátka V., Zhai M., Bojková J., Šorfová V. & Horsák M. 2020: Native *Gammarus fossarum* affects species composition of macroinvertebrate communities: evidence from laboratory, field enclosures, and natural habitat. *Aquatic Ecology* 54: 505–518. [PDF](https://link.springer.com/content/pdf/10.1007/s10452-020-09756-y.pdf)
 
@@ -159,7 +159,7 @@ Vanda Šorfová, Dana Klímová Hřívová, David Výravský, Martina Bílková
 
 **Selected Publications**
 
-Šorfová V., Poláková M., Bojková J., Polášková V., Schenková J., Horsák M. 2022: Environmental heterogeneity, dispersal mode and habitat specialisation modify within‐site beta diversity of spring macroinvertebrates. *International Review of Hydrobiology*, 1–9. [PDF](https://doi.org/10.1002/iroh.202102112)
+Šorfová V., Poláková M., Bojková J., Polášková V., Schenková J., Horsák M. 2022: Environmental heterogeneity, dispersal mode and habitat specialisation modify within‐site beta diversity of spring macroinvertebrates. *International Review of Hydrobiology* 107: 145–153. [PDF](https://onlinelibrary.wiley.com/doi/epdf/10.1002/iroh.202102112)
 
 Syrovátka V., Zhai M., Bojková J., Šorfová V. & Horsák M. 2020: Native *Gammarus fossarum* affects species composition of macroinvertebrate communities: evidence from laboratory, field enclosures, and natural habitat. *Aquatic Ecology* 54: 505–518. [PDF](https://link.springer.com/content/pdf/10.1007/s10452-020-09756-y.pdf)
 
