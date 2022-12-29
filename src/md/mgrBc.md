@@ -7,6 +7,8 @@ title: mgrBc
 
 **Obhájené disertační práce**
 
+[F﻿reshwater communities in post-mining habitats](https://is.muni.cz/th/ors1p/?lang=cs;info=1). Mgr. Martina Poláková, Ph.D., 2022
+
 [Aquatic macroinvertebrate persistence in intermittent streams](https://is.muni.cz/th/if9fw/). Mgr. Bc. Barbora Loskotová, Ph.D., 2022
 
 [Vliv vybraných faktorů na životní historii a fekunditu jepic (Ephemeroptera) studovaný pomocí experimentálních metod](https://is.muni.cz/th/ws8tx/). Mgr. Jan Šupina, Ph.D., 2022[](https://is.muni.cz/th/ws8tx/)
@@ -75,6 +77,8 @@ title: mgrBc
 <div class="project-publication">
 
 **Defended Doctoral Theses**
+
+[F﻿reshwater communities in post-mining habitats](https://is.muni.cz/th/ors1p/?lang=en;info=1). Mgr. Martina Poláková, Ph.D., 2022 (in English)
 
 [Aquatic macroinvertebrate persistence in intermittent streams](https://is.muni.cz/th/if9fw/Loskotova_B_PhD_thesis_2022.pdf?lang=en;info=1). Mgr. Bc. Barbora Loskotová, Ph.D., 2022 (in English)
 
