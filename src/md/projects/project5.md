@@ -71,6 +71,8 @@ clitellate (Annelida: Clitellata) assemblages. *Biologia* 69: 1179–1189. [PDF]
 
 **Obhájené disertační práce**
 
+*M﻿artina Poláková* 2022. [Freshwater communities in post-mining habitats](https://is.muni.cz/th/ors1p/?lang=cs;info=1).
+
 *Sylvie Růžičková* 2016. [Vliv oteplených důlních vod na vybrané skupiny organismů v malém toku](https://is.muni.cz/th/okij3/).
 
 **Obhájené diplomové práce**
@@ -128,7 +130,9 @@ clitellate (Annelida: Clitellata) assemblages. *Biologia* 69: 1179–1189. [PDF]
 
 <div class="project-theses">
 
-**Defended Doctoral Thesis**
+**Defended Doctoral Theses**
+
+*M﻿artina Poláková* 2022. [Freshwater communities in post-mining habitats](https://is.muni.cz/th/ors1p/?lang=en;info=1). (in English)
 
 *Sylvie Růžičková* 2016. [](https://is.muni.cz/th/okij3/)[Influence of heated mining water on selected groups of organisms in a stream](https://is.muni.cz/th/okij3/disertace_SR.pdf?lang=en;info=1). (in Czech)
 
