@@ -80,6 +80,8 @@ Petr Pařil, Marek Polášek, Michal Straka, Barbora Loskotová, Vendula Poláš
 
 **Vybrané publikace**
 
+**Loskotová** B., **Straka** M., Pernecker B., Dostálová A., **Csabai** Z., **Polášek** M. & **Pařil** P. 2023: Combined effect of stream drying and nutrient enrichment on macroinvertebrate community: experimental study from artificial stream mesocosms. *Aquatic Sciences* 85: 23. [PDF](https://rdcu.be/c1nNw)
+
 Sánchez-Montoya M.M., Gómez R., Calvo J.F., Bartonička T., Datry T. & **Pařil** P. 2022: Ecological values of intermittent rivers for terrestrial vertebrate fauna. *Science of The Total Environment* 806: 151308. [PDF](https://doi.org/10.1016/j.scitotenv.2021.151308)
 
 Schenková J., Horsák M., **Polášek** M. & **Pařil** P. 2022: Dry phase duration and periodicity alter clitellate communities in central European intermittent streams. *Hydrobiologia* 849: 3245–3258. [PDF](https://link.springer.com/content/pdf/10.1007/s10750-022-04933-6.pdf)
@@ -220,6 +222,8 @@ Marek Polášek, Michal Straka, Barbora Loskotová, Vendula Polášková, Eva Ha
 <div class="project-publication">
 
 **Selected Publications**
+
+**Loskotová** B., **Straka** M., Pernecker B., Dostálová A., **Csabai** Z., **Polášek** M. & **Pařil** P. 2023: Combined effect of stream drying and nutrient enrichment on macroinvertebrate community: experimental study from artificial stream mesocosms. *Aquatic Sciences* 85: 23. [PDF](https://rdcu.be/c1nNw)
 
 Sánchez-Montoya M.M., Gómez R., Calvo J.F., Bartonička T., Datry T. & **Pařil** P. 2022: Ecological values of intermittent rivers for terrestrial vertebrate fauna. *Science of The Total Environment* 806: 151308. [PDF](https://doi.org/10.1016/j.scitotenv.2021.151308)
 
