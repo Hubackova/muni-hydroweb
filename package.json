@@ -27,7 +27,7 @@
     "gatsby-remark-images": "^6.11.1",
     "gatsby-remark-relative-images-v2": "^0.1.5",
     "gatsby-source-filesystem": "^4.11.1",
-    "gatsby-transformer-remark": "^5.11.1",
+    "gatsby-transformer-remark": "^5.25.1",
     "gatsby-transformer-sharp": "^4.11.0",
     "netlify-cms": "^2.5.0",
     "react": "^16.8.6",
