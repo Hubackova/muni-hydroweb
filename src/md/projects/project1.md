@@ -113,7 +113,7 @@ richness. *Canadian Journal of Fisheries and Aquatic Sciences* 70: 689–700. [P
 
 **Obhájené diplomové práce**
 
-*Š﻿evčíková Z.* 2023.* [Vliv biotických a abiotických proměnných na mikrodistribuci společenstva lasturnatek (Ostracoda)](https://is.muni.cz/th/g0yl0/).*
+*Š﻿evčíková Z.* 2023. [Vliv biotických a abiotických proměnných na mikrodistribuci společenstva lasturnatek (Ostracoda)](https://is.muni.cz/th/g0yl0/)
 
 *Havlík T.* 2017. [Vliv disperze na strukturu společenstev vodních brouků (Coleoptera) izolovaných slatinišť](https://is.muni.cz/th/394417/prif_b/?lang=cs).
 
