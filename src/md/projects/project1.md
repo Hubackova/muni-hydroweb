@@ -113,6 +113,8 @@ richness. *Canadian Journal of Fisheries and Aquatic Sciences* 70: 689–700. [P
 
 **Obhájené diplomové práce**
 
+*Š﻿evčíková Z.* 2023.* [Vliv biotických a abiotických proměnných na mikrodistribuci společenstva lasturnatek (Ostracoda)](https://is.muni.cz/th/g0yl0/).*
+
 *Havlík T.* 2017. [Vliv disperze na strukturu společenstev vodních brouků (Coleoptera) izolovaných slatinišť](https://is.muni.cz/th/394417/prif_b/?lang=cs).
 
 *Výravský D.* 2016. [Mikrodistribuce lasturnatek (Ostracoda) na heterogenním prameništním slatiništi](https://is.muni.cz/th/376313/prif_b/).
@@ -206,7 +208,9 @@ richness. *Canadian Journal of Fisheries and Aquatic Sciences* 70: 689–700. [P
 
 *Bojková J.* 2009. [](https://is.muni.cz/th/v033h/)[The variability of macroinvertebrates along the gradient of mineral richness in the Western Carpathian spring fans](https://is.muni.cz/th/v033h/?lang=en). (in Czech)
 
-**Defended Master Theses (in Czech)**
+**Defended Master Theses (in Czech/Slovak)**
+
+*Š﻿evčíková Z.* 2023. [The influence of biotic and abiotic variables on microdistribution of an ostracod assemblage](https://is.muni.cz/th/g0yl0/?lang=en).
 
 *Havlík T.* 2017. [](https://is.muni.cz/th/394417/prif_b/?lang=cs)[Effect of dispersal on structuring aquatic beetle (Coleoptera) assemblages in isolated spring fens](https://is.muni.cz/th/sd049/?lang=en).
 
