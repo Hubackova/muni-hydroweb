@@ -43,9 +43,7 @@ title: mgrBc
 
 [B﻿c. Dominik Pliska](https://is.muni.cz/auth/osoba/499022)
 
-[B﻿c. Barbora Řehůřková](https://is.muni.cz/auth/osoba/499376)
-
-[Bc. Zuzana Ševčíková](https://is.muni.cz/auth/osoba/461008)
+[B﻿c. Barbora Řehůřkov](https://is.muni.cz/auth/osoba/499376)
 
 **Bc. Studenti**
 
@@ -115,8 +113,6 @@ title: mgrBc
 [B﻿c. Dominik Pliska](https://is.muni.cz/auth/osoba/499022)
 
 [B﻿c. Barbora Řehůřková](https://is.muni.cz/auth/osoba/499376)
-
-[Bc. Zuzana Ševčíková](https://is.muni.cz/auth/osoba/461008)
 
 **Bachelor Students**
 
