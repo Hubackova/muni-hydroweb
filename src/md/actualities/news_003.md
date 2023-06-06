@@ -15,7 +15,7 @@ Investor/Program: Grantová agentura ČR (GA23-05268S); doba řešení: 3/2023�
 
 Investor/Program: Technologická agentura ČR, Prostředí pro život (SS06010189); doba řešení: 4/2023–3/2026
 
-Řešitel: Ústav botaniky a zoologie, PřF, MU, Mgr. Jindřiška Bojková, Ph.D.; spoluřešitel: Ústav biologie obratlovců AV ČR, v. v. i., Mgr. Michal Janáč, Ph.D.
+Řešitel: Ústav botaniky a zoologie, PřF, MU, Mgr. Jindřiška Bojková, Ph.D.; spoluřešitel: Ústav biologie obratlovců AVČR, Mgr. Michal Janáč, Ph.D.
 
 **[Hodnocení ekologického stavu vysychavých toků podle biologických složek](https://www.sci.muni.cz/vyzkum/resene-projekty/70390)**
 
@@ -33,18 +33,18 @@ Investor/Program: Technologická agentura ČR, Prostředí pro život (SS0601025
 
 Investor/Programme: Czech Science Foundation (GA23-05268S); Project period: 3/2023–12/2025
 
-Investigator: Department of Botany and Zoology, Sci, MU, prof. RNDr. Michal Horsák, Ph.D.; Co-investigator: University of South Bohemia České Budějovice, doc. Ing. MgA. David S. Boukal, Ph.D.
+Investigator: Department of Botany and Zoology, Sci MU, prof. RNDr. Michal Horsák, Ph.D.; Co-investigator: University of South Bohemia České Budějovice, doc. Ing. MgA. David S. Boukal, Ph.D.
 
 **[Biodiversity analysis and proposition of management of newly built small water reservoirs and pools in South Moravian Region](https://www.sci.muni.cz/en/research/current-projects/70389)**
 
 Investor/Programme: Technology Agency of CR, Environment for Life (SS06010189); Project period: 4/2023–3/2026
 
-Investigator: Department of Botany and Zoology, Sci, MU, Mgr. Jindřiška Bojková, Ph.D.; Co-investigator: Institute of Vertebrate Biology of the ASCR, v. v. i., Mgr. Michal Janáč, Ph.D.
+Investigator: Department of Botany and Zoology, Sci MU, Mgr. Jindřiška Bojková, Ph.D.; Co-investigator: Institute of Vertebrate Biology of the ASCR, Mgr. Michal Janáč, Ph.D.
 
 **[Ecological status assessment of intermittent streams based on biological quality elements](https://www.sci.muni.cz/en/research/current-projects/70390)**
 
 Investor/Programme: Technology Agency of CR, Environment for Life (SS06010258); Project period: 4/2023–3/2026
 
-Investigator: T. G. Masaryk Water Research Institute, v. v. i., Mgr. Michal Straka, Ph.D.; Co-investigator: Department of Botany and Zoology, Sci, MU, Mgr. Marek Polášek, Ph.D.
+Investigator: T. G. Masaryk Water Research Institute, Mgr. Michal Straka, Ph.D.; Co-investigator: Department of Botany and Zoology, Sci MU, Mgr. Marek Polášek, Ph.D.
 
 </div>
