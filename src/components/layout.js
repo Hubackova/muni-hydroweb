@@ -20,10 +20,12 @@ const blueTheme = {
 const windowGlobal = typeof window !== "undefined" && window;
 
 const Layout = ({ children }) => {
+  if (!windowGlobal) return null;
   const isIndex = windowGlobal?.location?.pathname === "/" ? true : false;
   const isWide = windowGlobal?.location?.pathname.includes("project")
     ? true
     : false;
+
   return (
     <ThemeProvider theme={blueTheme}>
       <Container>
