@@ -80,16 +80,15 @@ export const query = graphql`
 `;
 
 const Home = styled.div`
-  display: flex;
+  display: grid;
+  grid-template-columns: 1fr;
 
-  @media (max-width: 768px) {
-    flex-direction: column;
+  @media (min-width: 768px) {
+    grid-template-columns: 2fr 1fr;
   }
 `;
 
 const Text = styled.div`
-  flex: 2;
-
   p {
     padding-left: 2em;
     padding-right: 2em;
@@ -99,6 +98,4 @@ const Text = styled.div`
   }
 `;
 
-const ActualitiesWrapper = styled.div`
-  flex: 1;
-`;
+const ActualitiesWrapper = styled.div``;

@@ -37,7 +37,7 @@ const HeaderComponent = ({ className }) => (
               <LeftSide>
                 <ImgLogo src={ecdyonurus} alt="logo-ecdyonurus" />
 
-                <div>
+                <TitleWrapper>
                   <div>
                     <IntContextConsumer>
                       {({ changeToCz }) => (
@@ -72,7 +72,7 @@ const HeaderComponent = ({ className }) => (
                         : "Ústav botaniky a zoologie | Přírodovědecká fakulta | Masarykova univerzita"}
                     </SubMain>
                   )}
-                </div>
+                </TitleWrapper>
 
                 <ImgLogo src={logo} alt="logo" />
               </LeftSide>
@@ -90,12 +90,15 @@ const HeaderComponent = ({ className }) => (
 export default HeaderComponent;
 
 const Header = styled.div`
-  display: flex;
+  display: grid;
+  grid-template-columns: 1fr;
+  @media (min-width: 1480px) {
+    grid-template-columns: 2fr 1fr;
+  }
 `;
 
 const RightSide = styled.div`
   display: none;
-  flex: 1;
   align-self: center;
 
   @media (min-width: 1480px) {
@@ -105,9 +108,13 @@ const RightSide = styled.div`
 
 const LeftSide = styled.div`
   display: flex;
-  flex: 2;
   justify-content: center;
   align-items: center;
+  width: 100%;
+`;
+
+const TitleWrapper = styled.div`
+  margin: 0 10px;
 `;
 
 const ImgLogo = styled.img`
