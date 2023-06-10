@@ -9,6 +9,7 @@ const Actualities = ({ data }) => {
   const reverserd = data.allMarkdownRemark.edges.sort((a, b) =>
     a.node.frontmatter.title < b.node.frontmatter.title ? 1 : -1
   );
+
   return (
     <Layout>
       <IntContextConsumer>
@@ -23,12 +24,16 @@ const Actualities = ({ data }) => {
               );
 
               return (
-                <Actuality key={node.id} class={int}>
+                <Actuality key={node.id}>
                   {img ? <Img fixed={img.node.fixed} /> : <div />}
-                  <div
-                    className={`project-body ${int}`}
-                    dangerouslySetInnerHTML={{ __html: node.html }}
-                  />
+                  {node.html ? (
+                    <div
+                      className={`project-body ${int}`}
+                      dangerouslySetInnerHTML={{ __html: node.html }}
+                    />
+                  ) : (
+                    <div />
+                  )}
                 </Actuality>
               );
             })}
@@ -73,16 +78,11 @@ export const query = graphql`
 export default Actualities;
 
 const Actuality = styled.div`
-  display: flex;
+  display: grid;
+  grid-template-columns: 1fr;
   gap: 20px;
-  flex-direction: row;
   padding-bottom: 2em;
   font-size: 16px;
-
-  > div:first-of-type {
-    min-width: 150px;
-    width: 150px;
-  }
 
   p:first-of-type {
     color: ${(props) => props.theme.lightblue};
@@ -91,10 +91,11 @@ const Actuality = styled.div`
     border-bottom: 0.08em solid rgb(229, 229, 229);
   }
 
-  @media (max-width: 768px) {
-    flex-direction: column;
+  @media (min-width: 768px) {
+    grid-template-columns: 150px 1fr;
   }
 `;
+
 const Title = styled.h3`
   border-bottom: 1px solid grey;
   font-weight: 400;

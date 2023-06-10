@@ -5,14 +5,14 @@ import { IntContextConsumer } from "./Context";
 
 const Actualities = ({ imgs, int }) => {
   const reverserd = imgs
-    .sort((a, b) => (a.node.fluid.src < b.node.fluid.src ? 1 : -1))
-    .slice(0, 4)
     .filter((i) =>
       int === "en"
-        ? i.node.fluid.src.includes("en-small-news")
-        : !i.node.fluid.src.includes("en-small-news")
-    );
-  console.log(imgs, reverserd);
+        ? i.node.fluid.src.includes("en-small-news_")
+        : !i.node.fluid.src.includes("en-small-news_")
+    )
+    .sort((a, b) => (a.node.fluid.src < b.node.fluid.src ? 1 : -1))
+    .slice(0, 4);
+
   return (
     <IntContextConsumer>
       {({ int }) => {

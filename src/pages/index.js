@@ -9,7 +9,6 @@ import Actualities from "../components/Actualities";
 import "font-awesome/css/font-awesome.min.css";
 
 const Homepage = ({ data }) => {
-  console.log(data);
   return (
     <Layout>
       <SEO />
