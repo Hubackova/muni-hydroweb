@@ -35,50 +35,46 @@ const HeaderComponent = ({ className }) => (
           {({ int }) => (
             <Header className={className}>
               <LeftSide>
-                <TitleWrapper>
-                  <ImgCont>
-                    <img src={ecdyonurus} alt="logo-ecdyonurus" />
-                  </ImgCont>
-                  <Muni>
-                    <div>
-                      <IntContextConsumer>
-                        {({ changeToCz }) => (
-                          <Flag
-                            src={czFlag}
-                            name="cz"
-                            onClick={() => changeToCz()}
-                          />
-                        )}
-                      </IntContextConsumer>
-                      <IntContextConsumer>
-                        {({ changeToEn }) => (
-                          <Flag
-                            src={ukFlag}
-                            name="en"
-                            onClick={() => changeToEn()}
-                          />
-                        )}
-                      </IntContextConsumer>
-                    </div>
-                    <Link to="/" style={{ textDecoration: "none" }}>
-                      <Main>
-                        {int === "en"
-                          ? "Hydrobiology working group"
-                          : "Pracovní skupina hydrobiologie"}
-                      </Main>
-                    </Link>
-                    {!className && (
-                      <SubMain>
-                        {int === "en"
-                          ? "Department of Botany and Zoology | Faculty of Science | Masaryk University"
-                          : "Ústav botaniky a zoologie | Přírodovědecká fakulta | Masarykova univerzita"}
-                      </SubMain>
-                    )}
-                  </Muni>
-                  <ImgCont>
-                    <img src={logo} alt="logo" />
-                  </ImgCont>
-                </TitleWrapper>
+                <ImgLogo src={ecdyonurus} alt="logo-ecdyonurus" />
+
+                <div>
+                  <div>
+                    <IntContextConsumer>
+                      {({ changeToCz }) => (
+                        <Flag
+                          src={czFlag}
+                          name="cz"
+                          onClick={() => changeToCz()}
+                        />
+                      )}
+                    </IntContextConsumer>
+                    <IntContextConsumer>
+                      {({ changeToEn }) => (
+                        <Flag
+                          src={ukFlag}
+                          name="en"
+                          onClick={() => changeToEn()}
+                        />
+                      )}
+                    </IntContextConsumer>
+                  </div>
+                  <Link to="/" style={{ textDecoration: "none" }}>
+                    <Main>
+                      {int === "en"
+                        ? "Hydrobiology working group"
+                        : "Pracovní skupina hydrobiologie"}
+                    </Main>
+                  </Link>
+                  {!className && (
+                    <SubMain>
+                      {int === "en"
+                        ? "Department of Botany and Zoology | Faculty of Science | Masaryk University"
+                        : "Ústav botaniky a zoologie | Přírodovědecká fakulta | Masarykova univerzita"}
+                    </SubMain>
+                  )}
+                </div>
+
+                <ImgLogo src={logo} alt="logo" />
               </LeftSide>
               <RightSide>
                 <ImgSlider imgs={imgs} />
@@ -95,64 +91,40 @@ export default HeaderComponent;
 
 const Header = styled.div`
   display: flex;
-  flex-wrap: wrap;
-  @media (max-width: 1200px) {
-    flex-direction: column;
+`;
+
+const RightSide = styled.div`
+  display: none;
+  flex: 1;
+  align-self: center;
+
+  @media (min-width: 1480px) {
+    display: block;
   }
 `;
 
 const LeftSide = styled.div`
+  display: flex;
   flex: 2;
-  flex-flow: column;
-  display: flex;
-  @media (max-width: 600px) {
-    flex-wrap: wrap;
-  }
-  @media (max-width: 1500px) {
-    flex: 3;
-  }
-`;
-
-const TitleWrapper = styled.div`
-  display: flex;
-  flex: 1;
   justify-content: center;
   align-items: center;
-  padding: 0 10px;
 `;
 
-const RightSide = styled.div`
-  flex: 1;
-  align-self: center;
-  @media (max-width: 1500px) {
-    flex: 2;
-  }
-`;
-
-const Muni = styled.div`
-  padding: 0.3em 32px;
-
-  @media (max-width: 500px) {
-    padding: 0 10px;
-  }
-`;
-
-const ImgCont = styled.div`
-  img {
-    max-width: 150px;
-    @media (max-width: 600px) {
-      max-width: 80px;
-    }
+const ImgLogo = styled.img`
+  max-width: 150px;
+  margin: 30px 10px;
+  @media (max-width: 576px) {
+    max-width: 60px;
   }
 `;
 
 const Main = styled.div`
   font-size: 2em;
-  @media (max-width: 1000px) {
+  @media (max-width: 1024px) {
     line-height: 1.2em;
     font-size: 1.5em;
   }
-  @media (max-width: 500px) {
+  @media (max-width: 576px) {
     line-height: 1.2em;
     font-size: 1em;
   }
@@ -166,7 +138,7 @@ const SubMain = styled.div`
   color: ${(props) => props.theme.white};
   padding-bottom: 0.5em;
   margin-top: 0.7em;
-  @media (max-width: 600px) {
+  @media (max-width: 576px) {
     display: none;
   }
 `;
@@ -176,7 +148,7 @@ const Flag = styled.img`
   margin: 0 2px;
   align-self: flex-end;
   cursor: pointer;
-  @media (max-width: 600px) {
+  @media (max-width: 576px) {
     height: 26px;
   }
 `;

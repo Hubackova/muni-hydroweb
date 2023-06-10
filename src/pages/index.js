@@ -97,19 +97,8 @@ const Text = styled.div`
     max-width: 1160px;
     margin-left: auto;
   }
-
-  @media (max-width: 1200px) {
-    max-width: 960px;
-  }
-
-  @media (max-width: 1500px) {
-    flex: 3;
-  }
 `;
 
 const ActualitiesWrapper = styled.div`
   flex: 1;
-  @media (max-width: 1500px) {
-    flex: 2;
-  }
 `;
