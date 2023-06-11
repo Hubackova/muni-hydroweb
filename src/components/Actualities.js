@@ -10,8 +10,8 @@ const Actualities = ({ imgs, int }) => {
         ? i.node.fluid.src.includes("en-small-news_")
         : !i.node.fluid.src.includes("en-small-news_")
     )
-    .sort((a, b) => (a.node.fluid.src < b.node.fluid.src ? 1 : -1))
-    .slice(0, 4);
+    .slice(0, 4)
+    .reverse();
 
   return (
     <IntContextConsumer>
