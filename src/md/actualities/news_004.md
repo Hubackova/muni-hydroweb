@@ -15,4 +15,12 @@ B﻿ližší info ke vzniku propagačního videa [ZDE](https://www.sci.muni.cz/c
 
 <div class="en">
 
+**Will Petr be the new "OMNISCIENT"? You can decide too!**
+
+Our colleague, hydrobiologist Petr Pařil, is representing Faculty of Science, Masaryk University (SCI MUNI) in a popularisation contest aiming at the introduction of Czech scientists, universities and other educational institutions to the citizens.
+
+You can see his competing video (in Czech only) introducing his research on intermittent streams and vote for him [HERE](https://www.nocvedcu.cz/vseved/petr-paril) until 15th October 2023.
+
+<!--EndFragment-->
+
 </div>
