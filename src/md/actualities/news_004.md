@@ -21,6 +21,4 @@ Our colleague, hydrobiologist Petr Pařil, is representing Faculty of Science, M
 
 You can see his competing video (in Czech only) introducing his research on intermittent streams and vote for him [HERE](https://www.nocvedcu.cz/vseved/petr-paril) until 15th October 2023.
 
-<!--EndFragment-->
-
 </div>
