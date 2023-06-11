@@ -62,6 +62,8 @@ const GridWrapper = styled.div`
   grid-template-columns: repeat(2, minmax(250px, 10vw));
   grid-template-rows: repeat(2, minmax(250px, 10vw));
   grid-gap: 20px;
+  grid-auto-flow: column;
+
   @media (max-width: 1700px) {
     grid-template-columns: repeat(2, minmax(200px, 200px));
     grid-template-rows: repeat(2, minmax(200px, 200px));
