@@ -41,7 +41,7 @@ sledování různých typu ohrožení a možné cesty efektivní ochrany a manag
 
 **Grantové projekty**
 
-coming soon...
+[Analýza biodiverzity a návrh managementu nově budovaných malých vodních nádrží a tůní v Jihomoravském kraji](https://www.sci.muni.cz/vyzkum/resene-projekty/70389), Technologická agentura České republiky, SS06010189, 2023–2026
 
 **Lidé zapojení do projektů**
 
@@ -96,7 +96,7 @@ We have been studying these sensitive ecosystems and their inhabitants systemati
 
 **Grant Projects**
 
-coming soon...
+[Biodiversity analysis and proposition of management of newly built small water reservoirs and pools in South Moravian Region](https://www.sci.muni.cz/en/research/current-projects/70389), Technology Agency of Czech Republic, SS06010189, 2023–2026
 
 **Team Members**
 
