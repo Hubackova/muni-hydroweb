@@ -3,6 +3,21 @@ import { Link } from "gatsby";
 import styled from "styled-components";
 import { IntContextConsumer } from "./Context";
 
+const compareByLastSixStrings = (a, b) => {
+  const stringA = a.node.fluid.src.slice(-8);
+  const stringB = b.node.fluid.src.slice(-8);
+
+  if (stringA > stringB) {
+    return -1;
+  }
+
+  if (stringA < stringB) {
+    return 1;
+  }
+
+  return 0;
+};
+
 const Actualities = ({ imgs, int }) => {
   const reverserd = imgs
     .filter((i) =>
@@ -10,8 +25,8 @@ const Actualities = ({ imgs, int }) => {
         ? i.node.fluid.src.includes("en-small-news_")
         : !i.node.fluid.src.includes("en-small-news_")
     )
-    .slice(0, 4)
-    .reverse();
+    .slice(-4)
+    .sort(compareByLastSixStrings);
 
   return (
     <IntContextConsumer>
@@ -62,7 +77,6 @@ const GridWrapper = styled.div`
   grid-template-columns: repeat(2, minmax(250px, 10vw));
   grid-template-rows: repeat(2, minmax(250px, 10vw));
   grid-gap: 20px;
-  grid-auto-flow: column;
 
   @media (max-width: 1700px) {
     grid-template-columns: repeat(2, minmax(200px, 200px));
