@@ -9,7 +9,7 @@ title: news_003
 
 Investor/Program: Grantová agentura ČR (GA23-05268S); doba řešení: 3/2023–12/2025
 
-Řešitel: Ústav botaniky a zoologie, PřF, MU, prof. RNDr. Michal Horsák, Ph.D.; spoluřešitel: Jihočeská univerzita v Českých Budějovicích, doc. Ing. MgA. David S. Boukal, Ph.D.
+Řešitel: Ústav botaniky a zoologie, PřF, MU, prof. RNDr. Michal Horsák, Ph.D.; spoluřešitel: Jihočeská univerzita v Českých Budějovicích, doc. Ing. MgA. David Boukal, Ph.D.
 
 **[Analýza biodiverzity a návrh managementu nově budovaných malých vodních nádrží a tůní v Jihomoravském kraji](https://www.sci.muni.cz/vyzkum/resene-projekty/70389)**
 
@@ -33,7 +33,7 @@ Investor/Program: Technologická agentura ČR, Prostředí pro život (SS0601025
 
 Investor/Programme: Czech Science Foundation (GA23-05268S); Project period: 3/2023–12/2025
 
-Investigator: Department of Botany and Zoology, Sci MU, prof. RNDr. Michal Horsák, Ph.D.; Co-investigator: University of South Bohemia České Budějovice, doc. Ing. MgA. David S. Boukal, Ph.D.
+Investigator: Department of Botany and Zoology, Sci MU, prof. RNDr. Michal Horsák, Ph.D.; Co-investigator: University of South Bohemia České Budějovice, doc. Ing. MgA. David Boukal, Ph.D.
 
 **[Biodiversity analysis and proposition of management of newly built small water reservoirs and pools in South Moravian Region](https://www.sci.muni.cz/en/research/current-projects/70389)**
 
