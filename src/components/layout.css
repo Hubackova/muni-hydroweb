@@ -74,9 +74,9 @@ h5 {
   margin-top: 5px;
 }
 
-.project-body > p {
+.project-body p {
   text-align: justify;
-  margin-bottom: 8px;
+  margin-block: 0.4rem;
 }
 
 .gallery-img {
