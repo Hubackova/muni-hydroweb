@@ -11,7 +11,7 @@ body,
 }
 
 body {
-  font-family: 'Source Sans Pro', sans-serif;
+  font-family: "Source Sans Pro", sans-serif;
   font-size: calc(15px + 0.25vw);
   letter-spacing: -0.25px;
   line-height: calc(1.5em + 0.2vw);
@@ -76,6 +76,7 @@ h5 {
 
 .project-body > p {
   text-align: justify;
+  margin-bottom: 8px;
 }
 
 .gallery-img {
@@ -83,10 +84,10 @@ h5 {
   padding: 0.2rem 0;
 }
 
-.en .cz{
+.en .cz {
   display: none;
 }
 
-.cz .en{
+.cz .en {
   display: none;
 }
