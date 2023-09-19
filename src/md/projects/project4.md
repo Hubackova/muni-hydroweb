@@ -139,6 +139,8 @@ Gabreta* 24: 171–211. [PDF](http://www.npsumava.cz/gallery/38/11665-9_sg_24_bo
 
 **Obhájené bakalářské práce**
 
+*D﻿ordová P.* 2023. [Vodní bezobratlí revitalizovaných řašelinišť na Šumavě](https://is.muni.cz/th/w5t2h/).
+
 *Dvořáková A.* 2021. [Vodní brouci a ploštice aluviálních tůní ve Vltavském luhu na Šumavě](https://is.muni.cz/th/uv1wq/). 
 
 *Fišarová K.* 2019. [Kolonizace toků bentickými bezobratlými: procesy a dynamika](https://is.muni.cz/th/k8su9/).
@@ -254,6 +256,8 @@ Gabreta* 24: 171–211. [PDF](http://www.npsumava.cz/gallery/38/11665-9_sg_24_bo
 *Paterová S.* 2018. [](https://is.muni.cz/th/ucgqs/)[Development of the macroinvertebrate assemblages in the restored section of the Hučina stream (Šumava NP)](https://is.muni.cz/th/ucgqs/?lang=en).
 
 **Defended Bachelor Theses (in Czech/Slovak)**
+
+*D﻿ordová P.* 2023. [Aquatic invertebrates of restored mires in the Bohemian Forest](https://is.muni.cz/th/w5t2h/?lang=en).
 
 *Dvořáková A.* 2021. [](https://is.muni.cz/th/uv1wq/)[Aquatic beetles and water bugs in alluvial pools of the Vltava river in the Bohemian Forest](https://is.muni.cz/th/uv1wq/?lang=en).
 
