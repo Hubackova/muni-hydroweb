@@ -1,7 +1,7 @@
 ---
 title: helesic
 order: 3
-name: Doc. RNDr. Jan Helešic, Ph.D.
+name: doc. RNDr. Jan Helešic, Ph.D.
 position: DOCENT
 positionEn: ASSOCIATE PROFESSOR
 email: helesic@sci.muni.cz
