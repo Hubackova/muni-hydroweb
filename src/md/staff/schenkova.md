@@ -1,7 +1,7 @@
 ---
 title: schenkova
 order: 2
-name: Doc. RNDr. Jana Schenková, Ph.D.
+name: doc. RNDr. Jana Schenková, Ph.D.
 position: DOCENTKA
 positionEn: ASSOCIATE PROFESSOR
 email: schenk@sci.muni.cz
