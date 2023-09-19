@@ -33,9 +33,15 @@ title: mgrBc
 
 [Bc. Alexandra Černá](https://is.muni.cz/auth/osoba/437080)
 
-[Bc. Ondřej Jandáček](https://is.muni.cz/auth/osoba/460617)
+[B﻿c. Pavla Dordová](https://is.muni.cz/auth/osoba/509305)
+
+[B﻿c. Viktorie Klobušická](https://is.muni.cz/auth/osoba/505491)
 
 [B﻿c. Jiří Kopřiva](https://is.muni.cz/auth/osoba/499691)
+
+[B﻿c. Matěj Kořínek](https://is.muni.cz/auth/osoba/499816)
+
+[B﻿c. Zuzana Kožnárková](https://is.muni.cz/auth/osoba/502395)
 
 [B﻿c. Albín Pařízek](https://is.muni.cz/auth/osoba/493658)
 
@@ -43,29 +49,21 @@ title: mgrBc
 
 [B﻿c. Dominik Pliska](https://is.muni.cz/auth/osoba/499022)
 
-[B﻿c. Barbora Řehůřkov](https://is.muni.cz/auth/osoba/499376)
+[B﻿c. Barbora Řehuřková](https://is.muni.cz/auth/osoba/499376)
 
-**Bc. Studenti**
+[B﻿c. Dominika Šúrová](https://is.muni.cz/auth/osoba/509246)
 
-[P﻿avla Dordová](https://is.muni.cz/auth/osoba/509305)
+[B﻿c. Sarah Maya Židek](https://is.muni.cz/auth/osoba/509376)
 
-[V﻿iktorie Klobušická](https://is.muni.cz/auth/osoba/505491)
-
-[Matěj Kořínek](https://is.muni.cz/auth/osoba/499816)
-
-[Zuzana Kožnárková](https://is.muni.cz/auth/osoba/502395)
+**Bc. Student**
 
 [V﻿eronika Křížová](https://is.muni.cz/auth/osoba/520959)
 
+[V﻿eronika Mederly](https://is.muni.cz/auth/osoba/521167)
+
 [M﻿atúš Porubský](https://is.muni.cz/auth/osoba/509294)
 
-[Veronika Riplová](https://is.muni.cz/auth/osoba/509381)
-
 [E﻿rika Skříšovská](https://is.muni.cz/auth/osoba/520972)
-
-[Dominika Šúrová](https://is.muni.cz/auth/osoba/509246)
-
-[S﻿arah Maya Židek](https://is.muni.cz/auth/osoba/509376)
 
 - - -
 
@@ -102,9 +100,15 @@ title: mgrBc
 
 [Bc. Alexandra Černá](https://is.muni.cz/auth/osoba/437080)
 
-[Bc. Ondřej Jandáček](https://is.muni.cz/auth/osoba/460617)
+[B﻿c. Pavla Dordová](https://is.muni.cz/auth/osoba/509305)
+
+[B﻿c. Viktorie Klobušická](https://is.muni.cz/auth/osoba/505491)
 
 [B﻿c. Jiří Kopřiva](https://is.muni.cz/auth/osoba/499691)
+
+[B﻿c. Matěj Kořínek](https://is.muni.cz/auth/osoba/499816)
+
+[B﻿c. Zuzana Kožnárková](https://is.muni.cz/auth/osoba/502395)
 
 [B﻿c. Albín Pařízek](https://is.muni.cz/auth/osoba/493658)
 
@@ -114,27 +118,19 @@ title: mgrBc
 
 [B﻿c. Barbora Řehůřková](https://is.muni.cz/auth/osoba/499376)
 
-**Bachelor Students**
+[B﻿c. Dominika Šúrová](https://is.muni.cz/auth/osoba/509246)
 
-[P﻿avla Dordová](https://is.muni.cz/auth/osoba/509305)
+[B﻿c. Sarah Maya Židek](https://is.muni.cz/auth/osoba/509376)
 
-[V﻿iktorie Klobušická](https://is.muni.cz/auth/osoba/505491)
-
-[Matěj Kořínek](https://is.muni.cz/auth/osoba/499816)
-
-[Zuzana Kožnárková](https://is.muni.cz/auth/osoba/502395)
+**Bachelor Student**
 
 [V﻿eronika Křížová](https://is.muni.cz/auth/osoba/520959)
 
+[V﻿eronika Mederly](https://is.muni.cz/auth/osoba/521167)
+
 [M﻿atúš Porubský](https://is.muni.cz/auth/osoba/509294)
 
-[Veronika Riplová](https://is.muni.cz/auth/osoba/509381)
-
 [E﻿rika Skříšovská](https://is.muni.cz/auth/osoba/520972)
-
-[Dominika Šúrová](https://is.muni.cz/auth/osoba/509246)
-
-[S﻿arah Maya Židek](https://is.muni.cz/auth/osoba/509376)
 
 - - -
 
