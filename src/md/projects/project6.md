@@ -75,6 +75,10 @@ Notostraca, Spinicaudata) na Znojemsku. *Thayensia (Znojmo)* 11: 89–106. [PDF]
 
 **Obhájené bakalářské práce**
 
+*K﻿ořínek M.* 2023. [Pakomárovití v zemědělské krajině: Biodiverzita přirozených a revitalizovaných malých vodních těles](https://is.muni.cz/th/ui6eg/?lang=cs).
+
+*K﻿ožnárková Z.* 2023. [Obojživelnící nově budovaných mokřadů v zemědělské krajině](https://is.muni.cz/th/fsz1x/).
+
 *P﻿liska D.* 2022.  [Společenstva zooplanktonu v nově budovaných mokřadech v zemědělské krajině jižní Moravy](https://is.muni.cz/th/myb3r/).
 
 *Černá A.* 2021. [Vodní ploštice a brouci v biotopech polních mokřadů](https://is.muni.cz/th/zqvfd/).
@@ -129,6 +133,10 @@ Notostraca, Spinicaudata) na Znojemsku. *Thayensia (Znojmo)* 11: 89–106. [PDF]
 *Devánová A.* 2020. [](https://is.muni.cz/th/xjt62/)[Biology and ecology of selected species of large branchiopods (Crustacea: Branchiopoda) in field wetlands and breeding](https://is.muni.cz/th/xjt62/?lang=en).
 
 **Defended Bachelor Theses (in Czech/Slovak)**
+
+*K﻿ořínek M.* 2023. [Chironomidae in agricultural landscapes: Biodiversity of natural and revitalized small water bodies](https://is.muni.cz/th/ui6eg/?lang=en).
+
+*K﻿ožnárková Z.* 2023. [Amphibians of newly created wetlands in the agricultural landscape](https://is.muni.cz/th/fsz1x/?lang=en).
 
 *P﻿liska D.* 2022. [Zooplankton communities in newly built wetlands in agricultural landscape of southern Moravia](https://is.muni.cz/th/myb3r/?lang=en).
 
