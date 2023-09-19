@@ -1,9 +1,9 @@
 ---
 title: paril
 order: 5
-name: RNDr. Petr Pařil, Ph.D.
-position: LEKTOR
-positionEn: LECTURER
+name: doc. RNDr. Petr Pařil, Ph.D.
+position: DOCENT
+positionEn: ASSOCIATE PROFESSOR
 email: paril@sci.muni.cz
 phone: 549498563
 room: D32/321
