@@ -4,7 +4,7 @@ order: 14
 name: Doc. RNDr. Světlana Zahrádková, Ph.D.
 position: EXTERNÍ VÝZKUMNÍK
 positionEn: EXTERNAL RESEARCHER
-email: zahradkova@sci.muni.cz
+email: zahr@centrum.cz
 phone: 549498174
 room: D32/316
 is: https://www.muni.cz/lide/2277-svetlana-zahradkova
