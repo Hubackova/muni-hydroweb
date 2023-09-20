@@ -1,6 +1,6 @@
 ---
 title: horsak
-order: 4
+order: 5
 name: prof. RNDr. Michal Horsák, Ph.D.
 position: PROFESOR
 positionEn: PROFESSOR
