@@ -1,6 +1,6 @@
 ---
 title: helesic
-order: 3
+order: 4
 name: doc. RNDr. Jan Helešic, Ph.D.
 position: DOCENT
 positionEn: ASSOCIATE PROFESSOR
