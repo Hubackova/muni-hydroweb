@@ -1,6 +1,6 @@
 ---
 title: schenkova
-order: 2
+order: 3
 name: doc. RNDr. Jana Schenková, Ph.D.
 position: DOCENTKA
 positionEn: ASSOCIATE PROFESSOR
