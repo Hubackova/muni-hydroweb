@@ -1,6 +1,6 @@
 ---
 title: paril
-order: 5
+order: 2
 name: doc. RNDr. Petr Pařil, Ph.D.
 position: DOCENT
 positionEn: ASSOCIATE PROFESSOR
