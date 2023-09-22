@@ -1,6 +1,6 @@
 ---
 title: loskotova
-order: 11
+order: 9
 name: Mgr. Bc. Barbora Loskotová, Ph.D.
 position: VÝZKUMNÍK
 positionEn: RESEARCHER
