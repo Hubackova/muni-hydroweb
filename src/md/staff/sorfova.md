@@ -1,6 +1,6 @@
 ---
 title: sorfova
-order: 20
+order: 11
 name: Mgr. Vanda Šorfová, Ph.D.
 position: VÝZKUMNÍK
 positionEn: RESEARCHER
