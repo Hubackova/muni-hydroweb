@@ -55,7 +55,13 @@ title: mgrBc
 
 [B﻿c. Sarah Maya Židek](https://is.muni.cz/auth/osoba/509376)
 
-**Bc. Student**
+**Bc. Studenti**
+
+[E﻿liška Čechovská](https://is.muni.cz/auth/osoba/521617)
+
+[D﻿avid Dominik](https://is.muni.cz/auth/osoba/521500)
+
+[T﻿ereza Kinscherová](https://is.muni.cz/auth/osoba/521219)[](https://is.muni.cz/auth/osoba/520959)
 
 [V﻿eronika Křížová](https://is.muni.cz/auth/osoba/520959)
 
@@ -122,7 +128,13 @@ title: mgrBc
 
 [B﻿c. Sarah Maya Židek](https://is.muni.cz/auth/osoba/509376)
 
-**Bachelor Student**
+**Bachelor Students**
+
+[E﻿liška Čechovská](https://is.muni.cz/auth/osoba/521617)
+
+[D﻿avid Dominik](https://is.muni.cz/auth/osoba/521500)
+
+[T﻿ereza Kinscherová](https://is.muni.cz/auth/osoba/521219)
 
 [V﻿eronika Křížová](https://is.muni.cz/auth/osoba/520959)
 
