@@ -13,16 +13,16 @@ image: images/staff_zakova.jpg
 ---
 <div class="cz">
 
-Jsem absolventkou postgraduálního studia oboru hydrobiologie na Přírodovědecké fakultě Masarykovy univerzity. Během studia jsem se zabývala vlivem teplotního a chemického znečištění na vybrané skupiny makrozoobenthosu.
+Je absolventkou postgraduálního studia oboru hydrobiologie na Přírodovědecké fakultě Masarykovy univerzity. Během studia se zabývala vlivem teplotního a chemického znečištění na vybrané skupiny makrozoobenthosu.
 
-V současné době pracuji na Ústavu botaniky a zoologie jako technik. Také pracuji jako lektor hydrobiologickych programů pro organizaci Junák - český skaut. Dále se učastním  různých monitoringu vodních bezobratlých.
+V současné době pracuje na Ústavu botaniky a zoologie jako technik. Také pracuje jako lektor hydrobiologickych programů pro organizaci Junák - český skaut. Dále se učastní různých monitoringů vodních bezobratlých.
 
 </div>
 
 <div class="en">
 
-Jsem absolventkou postgraduálního studia oboru hydrobiologie na Přírodovědecké fakultě Masarykovy univerzity. Během studia jsem se zabývala vlivem teplotního a chemického znečištění na vybrané skupiny makrozoobenthosu.
+Sylvie Žáková is a graduate of the doctoral study programme hydrobiology at Faculty of Science, Masaryk University. During her studies, she investigated the impact of thermal and chemical pollution on selected macroinvertebrate taxa groups.
 
-V současné době pracuji na Ústavu botaniky a zoologie jako technik. Také pracuji jako lektor hydrobiologickych programů pro organizaci Junák - český skaut. Dále se učastním  různých monitoringu vodních bezobratlých.
+Currently, she works as a laboratory technician at the Department of Botany and Zoology and as a lecturer of hydrobiology programmes for the educational NGO Junak – Czech Scouting. Further, she performs various aquatic invertebrate monitoring projects.
 
 </div>
