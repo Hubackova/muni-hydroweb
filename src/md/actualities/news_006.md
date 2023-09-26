@@ -3,7 +3,7 @@ title: news_006
 ---
 <div class="cz">
 
-**Nature: Obnova biodiversity evropských řek se zastavila**
+**Nature: Obnova biodiverzity evropských řek se zastavila**
 
  Čtyři členové naší pracovní skupiny hydrobiologie se podíleli na publikaci v časopise NATURE, která analyzovala vývoj biodiverzity evropských řek během posledních 50 let. Studie prokázala zotavování biodiverzity zejména díky zkvalitnění čištění odpadních vod v 90. letech minulého století, nicméně po roce 2010 se proces zotavování téměř zastavil především v důsledku přetrvávajícího negativního vlivu lidské činnosti na sladkovodní ekosystémy.
 
