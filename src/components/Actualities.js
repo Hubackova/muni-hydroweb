@@ -25,9 +25,9 @@ const Actualities = ({ imgs, int }) => {
         ? i.node.fluid.src.includes("en-small-news_")
         : !i.node.fluid.src.includes("en-small-news_")
     )
-    .slice(-4)
-    .sort(compareByLastSixStrings);
-
+    .sort(compareByLastSixStrings)
+    .slice(0, 4);
+  console.log(reverserd.map((i) => i.node.fluid.src));
   return (
     <IntContextConsumer>
       {({ int }) => {
