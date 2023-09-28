@@ -27,7 +27,7 @@ const Actualities = ({ imgs, int }) => {
     )
     .slice(-4)
     .sort(compareByLastSixStrings);
-
+  console.log(reverserd.map((img) => img.node.fluid.src));
   return (
     <IntContextConsumer>
       {({ int }) => {
