@@ -19,14 +19,12 @@ Je absolventkou magisterského studia oboru Systematika a ekologie bezcévných 
 
 * B﻿ioindikace pomocí fytoplanktonu a fytobentosu
 * H﻿ospodaření s dešťovými vodami: zaměření na minimalizaci zdravotních rizik
-* S﻿ystém a fylogeneze stélkatých organismů (sinice, řasy, houby): zaměření na sinice vodních květů a jejich omezení (např. brněnská přehrada) + aktivizace studentů při výuce tohoto zdánlivě hrozného tématu
+* S﻿ystém a fylogeneze stélkatých organismů (sinice, řasy, houby): zaměření na sinice vodních květů a jejich omezení (např. Brněnská přehrada) + aktivizace studentů při výuce tohoto zdánlivě hrozného tématu
 * Využití sinic a řas v potravinářství: zaměření na omega nenasycené mastné kyseliny
 
 </div>
 
 <div class="en">
-
-
 
 Lenka Šejnohová is a graduate of master's programme Systematics and ecology of lower plants (2003) at the Department of Botany, Charles University, and postgraduate programme Hydrobiology (2008) at Masaryk University. She worked as a researcher at the Institute of Botany of the Czech Academy of Sciences in Brno, focusing on management of cyanobacterial water blooms in the Brno Reservoir, biomonitoring utilising phytobenthos and science popularisation (2003-2012). Later on, at the Institute of Microbiology of the Czech Academy of Sciences (2012-2014) in Třeboň, she explored utilisation of cyanobacteria in food production and biotechnologies. After her maternity leave with two children (2014-2019), she taught future teachers at the University of Hradec Králové (2019-2022), including supervising master’s theses. Since 2018, she works with an NGO Centre Veronica in Hostětín in the ‘’water’’ section. In 2023, she has returned to her Alma Mater, Masaryk University, into the Hydrobiology working group with a vision to work on mitigation of health risks associated with rainwater management. She became invested in this topic after her own house well ran out of drinking water.
 
