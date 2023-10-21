@@ -17,7 +17,7 @@ Souhrnný článek komentující studii pak [ZDE](https://www.nature.com/article
 
 <div class="en">
 
-**Nature: The recovery of European freshwater biodiveristy has come to a halt**
+**Nature: The recovery of European freshwater biodiversity has come to a halt**
 
 Four members of our hydrobiology working group have been involved in NATURE journal publication, which analyses temporal trends in the biodiversity of European freshwaters over the last 50 years. The study has proved an overall increase in biodiversity, mainly due to the improvements in wastewater treatments in the 1990s. However, since 2010 the recovery process has almost stopped, primarily as a consequence of ongoing anthropogenic pressure on freshwater ecosystems.
 
