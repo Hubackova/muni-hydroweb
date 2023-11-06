@@ -5,8 +5,8 @@ name: Mgr. Michal Straka, Ph.D.
 position: VÝZKUMNÍK
 positionEn: RESEARCHER
 email: michal.straka@centrum.cz
-phone: 549498563
-room: D32/321
+phone: 549498564
+room: D32/322
 is: https://www.muni.cz/lide/22364-michal-straka
 rg: "https://www.researchgate.net/profile/Michal_Straka2 "
 image: /images/staff_straka.jpg
