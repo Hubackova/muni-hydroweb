@@ -5,8 +5,8 @@ name: Mgr. Vendula Polášková, Ph.D. *
 position: VÝZKUMNÍK
 positionEn: RESEARCHER
 email: vendula.polaskova@email.cz
-phone: 549498577
-room: D32/327
+phone: 549498174
+room: D32/316
 is: https://www.muni.cz/lide/106044-vendula-polaskova
 rg: https://www.researchgate.net/profile/Vendula_Polaskova
 image: /images/staff_polaskova.jpg
