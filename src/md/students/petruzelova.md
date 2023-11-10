@@ -7,7 +7,7 @@ thesisEn: Anthropogenic impacts on the montane aquatic ecosystems in the Šumava
   and Bavarian Forest NP
 supervisor: Mgr. Jindřiška Bojková, Ph.D.
 email: jana.petruzelova@mail.muni.cz
-phone: 549498577
+phone: 549498580
 room: D32/327
 is: https://www.muni.cz/lide/393851-jana-petruzelova
 rg: https://www.researchgate.net/profile/Jana_Petruzelova
