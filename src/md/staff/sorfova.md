@@ -5,7 +5,7 @@ name: Mgr. Vanda Šorfová, Ph.D.
 position: VÝZKUMNÍK
 positionEn: RESEARCHER
 email: sorfova.vanda@gmail.com
-phone: 549498575
+phone: 549498580
 room: D32/327
 is: https://www.muni.cz/lide/222709-vanda-sorfova
 rg: "https://www.researchgate.net/profile/Vanda_Sorfova "
