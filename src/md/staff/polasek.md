@@ -5,7 +5,7 @@ name: Mgr. Marek Polášek, Ph.D.
 position: VÝZKUMNÍK
 positionEn: RESEARCHER
 email: m.polasek@mail.muni.cz
-phone: 549498174
+phone: 549496370
 room: D32/316
 is: https://www.muni.cz/lide/136750-marek-polasek
 rg: "https://www.researchgate.net/profile/Marek_Polasek2 "
