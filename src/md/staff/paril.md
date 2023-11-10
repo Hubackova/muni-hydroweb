@@ -5,7 +5,7 @@ name: doc. RNDr. Petr Pařil, Ph.D.
 position: DOCENT
 positionEn: ASSOCIATE PROFESSOR
 email: paril@sci.muni.cz
-phone: 549494194
+phone: 549498563
 room: D32/314
 is: https://www.muni.cz/lide/70751-petr-paril
 rg: "https://www.researchgate.net/profile/Petr_Paril "
