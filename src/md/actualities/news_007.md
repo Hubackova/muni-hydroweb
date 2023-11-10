@@ -9,8 +9,6 @@ Naše hydrobiologická skupina pro výzkum vysychavých toků se pod vedením M
 
 **V﻿íce se o projektu můžete dozvědět zde v [ČLÁNKU](https://www.sci.muni.cz/clanky/ta-cr-ocenil-vyzkum-vlivu-technickeho-zasnezovani-na-prirodu) nebo soutěžním [VIDEU](https://www.youtube.com/watch?v=F9BW1HptS-w&t=76s).**
 
-**Nyní jej navíc můžete podpořit svým hlasem [ZDE](https://vedaneniscifi.tacr.cz/) v soutěži o celkového vítěze ročníku Ceny TAČR 2023!**
-
 Projekt hodnotil vliv zasněžování jak na vodní, tak na suchozemské ekosystémy. Stěžejním výstupem bylo vytvoření Metodického pokynu pro vyhodnocování vlivu výroby technického sněhu a jeho používání na biologické složky životního prostředí ve zvláště chráněných územích.
 
 </div>
