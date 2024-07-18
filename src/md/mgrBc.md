@@ -31,23 +31,19 @@ title: mgrBc
 
 **Mgr. Studenti**
 
-[Bc. Alexandra Černá](https://is.muni.cz/auth/osoba/437080)
+[B﻿c. Eliška Čechovská](https://is.muni.cz/auth/osoba/521617)
 
 [B﻿c. Pavla Dordová](https://is.muni.cz/auth/osoba/509305)
 
-[B﻿c. Viktorie Klobušická](https://is.muni.cz/auth/osoba/505491)
+[B﻿c. Tereza Kinscherová](https://is.muni.cz/auth/osoba/521219)
 
-[B﻿c. Jiří Kopřiva](https://is.muni.cz/auth/osoba/499691)
+[B﻿c. Viktorie Klobušická](https://is.muni.cz/auth/osoba/505491)
 
 [B﻿c. Matěj Kořínek](https://is.muni.cz/auth/osoba/499816)
 
 [B﻿c. Zuzana Kožnárková](https://is.muni.cz/auth/osoba/502395)
 
-[B﻿c. Albín Pařízek](https://is.muni.cz/auth/osoba/493658)
-
 [B﻿c. Klára Piknerová](https://is.muni.cz/auth/osoba/500175)
-
-[B﻿c. Dominik Pliska](https://is.muni.cz/auth/osoba/499022)
 
 [B﻿c. Barbora Řehuřková](https://is.muni.cz/auth/osoba/499376)
 
@@ -57,17 +53,11 @@ title: mgrBc
 
 **Bc. Studenti**
 
-[E﻿liška Čechovská](https://is.muni.cz/auth/osoba/521617)
-
-[D﻿avid Dominik](https://is.muni.cz/auth/osoba/521500)
-
-[T﻿ereza Kinscherová](https://is.muni.cz/auth/osoba/521219)[](https://is.muni.cz/auth/osoba/520959)
+[D﻿avid Dominik](https://is.muni.cz/auth/osoba/521500)[](https://is.muni.cz/auth/osoba/520959)
 
 [V﻿eronika Křížová](https://is.muni.cz/auth/osoba/520959)
 
 [V﻿eronika Mederly](https://is.muni.cz/auth/osoba/521167)
-
-[M﻿atúš Porubský](https://is.muni.cz/auth/osoba/509294)
 
 [E﻿rika Skříšovská](https://is.muni.cz/auth/osoba/520972)
 
@@ -102,25 +92,21 @@ title: mgrBc
 
 </div>
 
-**Master Students**
+**Master Students**[](https://is.muni.cz/auth/osoba/437080)
 
-[Bc. Alexandra Černá](https://is.muni.cz/auth/osoba/437080)
+[B﻿c. Eliška Čechovská](https://is.muni.cz/auth/osoba/521617)
 
 [B﻿c. Pavla Dordová](https://is.muni.cz/auth/osoba/509305)
 
-[B﻿c. Viktorie Klobušická](https://is.muni.cz/auth/osoba/505491)
+[B﻿c. Tereza Kinscherová](https://is.muni.cz/auth/osoba/521219)
 
-[B﻿c. Jiří Kopřiva](https://is.muni.cz/auth/osoba/499691)
+[B﻿c. Viktorie Klobušická](https://is.muni.cz/auth/osoba/505491)
 
 [B﻿c. Matěj Kořínek](https://is.muni.cz/auth/osoba/499816)
 
 [B﻿c. Zuzana Kožnárková](https://is.muni.cz/auth/osoba/502395)
 
-[B﻿c. Albín Pařízek](https://is.muni.cz/auth/osoba/493658)
-
 [B﻿c. Klára Piknerová](https://is.muni.cz/auth/osoba/500175)
-
-[B﻿c. Dominik Pliska](https://is.muni.cz/auth/osoba/499022)
 
 [B﻿c. Barbora Řehůřková](https://is.muni.cz/auth/osoba/499376)
 
@@ -130,17 +116,11 @@ title: mgrBc
 
 **Bachelor Students**
 
-[E﻿liška Čechovská](https://is.muni.cz/auth/osoba/521617)
-
 [D﻿avid Dominik](https://is.muni.cz/auth/osoba/521500)
-
-[T﻿ereza Kinscherová](https://is.muni.cz/auth/osoba/521219)
 
 [V﻿eronika Křížová](https://is.muni.cz/auth/osoba/520959)
 
 [V﻿eronika Mederly](https://is.muni.cz/auth/osoba/521167)
-
-[M﻿atúš Porubský](https://is.muni.cz/auth/osoba/509294)
 
 [E﻿rika Skříšovská](https://is.muni.cz/auth/osoba/520972)
 
