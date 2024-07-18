@@ -77,11 +77,15 @@ clitellate (Annelida: Clitellata) assemblages. *Biologia* 69: 1179–1189. [PDF]
 
 **Obhájené diplomové práce**
 
+*A﻿lbín Pařízek* 2024. [Vývoj společenstva vodních bezobratlých v extrémních podmínkách výsypky v Sokolovské pánvi](https://is.muni.cz/th/thfs6/?lang=cs).
+
 *Martina Bartošová* 2016. [Makrozoobentos pěnovcových potoků na Sokolovské výsypce](https://is.muni.cz/th/qo18e/?lang=cs).
 
 *Veronika Konvičková* 2007. [Studium makrozoobentosu tůní Karvinska se zaměřením na stav a funkci společenstva vážek](https://is.muni.cz/th/p4qj3/?lang=cs).
 
 **Obhájené bakalářské práce**
+
+*A﻿lbín Pařízek* 2022. [Sukcese na výsypkách po těžbě hnědého uhlí se zaměřením na vodní biotopy](https://is.muni.cz/th/drycw/?lang=cs).
 
 *Martina Bartošová* 2014. [Vodní bezobratlí postindustriálních stanovišť - výsypky Sokolovské uhelné pánve](https://is.muni.cz/th/zfva5/?lang=cs).
 
@@ -138,11 +142,15 @@ clitellate (Annelida: Clitellata) assemblages. *Biologia* 69: 1179–1189. [PDF]
 
 **Defended Master Theses (in Czech)**
 
+*A﻿lbín Pařízek* 2024. [Development of the macroinvertebrate community under extreme conditions on the spoil heap in the Sokolov Coal Basin](https://is.muni.cz/th/thfs6/?lang=en).
+
 *Martina Bartošová* 2016. [](https://is.muni.cz/th/qo18e/?lang=cs)[Macrozoobenthos of Brooks with Tufa Precipitation in Sokolov Spoil Bank](https://is.muni.cz/th/qo18e/?lang=en).
 
 *Veronika Konvičková* 2007. [](https://is.muni.cz/th/p4qj3/?lang=cs)[The study of macrozoobenthos in ponds at Karvina´s area with a view to situation and function of dragonfly community](https://is.muni.cz/th/p4qj3/?lang=en).[](https://is.muni.cz/th/p4qj3/?lang=cs)
 
 **Defended Bachelor Thesis (in Czech)**
+
+*A﻿lbín Pařízek* 2022. [Succession on post-mining sites with focus on aquatic habitats](https://is.muni.cz/th/drycw/?lang=en).
 
 *Martina Bartošová* 2014. [](https://is.muni.cz/th/zfva5/?lang=cs)[Aquatic invertebrates of postindustrial sites - spoil banks in the Sokolov Coal Basin](https://is.muni.cz/th/zfva5/?lang=en).
 
