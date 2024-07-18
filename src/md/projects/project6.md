@@ -69,6 +69,10 @@ Notostraca, Spinicaudata) na Znojemsku. *Thayensia (Znojmo)* 11: 89–106. [PDF]
 
 **Obhájené diplomové práce**
 
+*P﻿liska D.* 2024. [Význam nově budovaných tůní na jižní Moravě pro společenstva zooplanktonu a vliv rybí predace](https://is.muni.cz/th/vypsc/?lang=cs).
+
+*Č﻿erná A.* 2024. [Vodní bezobratlí vysychavých polních mokřadů: skrytá diverzita zemědělské krajiny](https://is.muni.cz/th/nqat0/Vodni_bezobratli_vysychavych_polnich_mokradu_skryta_diverzita_zemedelske_krajiny.pdf?lang=cs;info=1).
+
 *Gvozdjáková D.* 2021. [Ekologie a biologie zooplanktonu ve vysychavých vodách polních rozlivů](https://is.muni.cz/th/jle5m/).
 
 *Devánová A.* 2020. [Biologie a ekologie vybraných druhů velkých lupenonožců (Crustacea: Branchiopoda) v podmínkách polních mokřadů a chovu](https://is.muni.cz/th/xjt62/).
@@ -127,6 +131,10 @@ Notostraca, Spinicaudata) na Znojemsku. *Thayensia (Znojmo)* 11: 89–106. [PDF]
 <div class="project-theses">
 
 **Defended Master Theses (in Czech/Slovak)**
+
+*P﻿liska D.* 2024. [The im*portance of newly built pools in South Moravia for zooplankton communities and the effect of fish predation*](https://is.muni.cz/th/vypsc/?lang=en)*.*
+
+*Č﻿erná A.* 2024. [Aquatic macroinvertebrates in temporal field wetlands: overlooked diversity in agricultural landscape](https://is.muni.cz/th/nqat0/?lang=en).
 
 *Gvozdjáková D.* 2021. [](https://is.muni.cz/th/jle5m/)[Ecology and biology of zooplankton in temporal waters of field wetlands](https://is.muni.cz/th/jle5m/?lang=en).
 
