@@ -1,7 +1,7 @@
 ---
 title: polaskova
 order: 12
-name: Mgr. Vendula Polášková, Ph.D. *
+name: Mgr. Vendula Polášková, Ph.D.
 position: VÝZKUMNÍK
 positionEn: RESEARCHER
 email: vendula.polaskova@email.cz
