@@ -50,6 +50,8 @@ osmi jezer, která jsou v různém stupni zotavení z acidifikace. Dosud byla vy
 
 **Vybrané publikace**
 
+Petruželová J., Bojková J., Sychra J., de Donnová S., Vrba J., Polášková V., Seifert L., Šorfová V. & Kopáček J. 2023: Accelerated recovery of lake macroinvertebrates in the third decade since the reversal of acidification. *Science of The Total Environment* 892: 164553. [PDF](https://www.sciencedirect.com/science/article/abs/pii/S0048969723031741?via%3Dihub)
+
 Petruželová J., Bojková J., Sychra J., Šorfová V., Polášková V. & Vrba J. 2022: Complex effects of acidification, habitat properties and fish stock on littoral macroinvertebrate assemblages in montane standing waters. *Journal of Limnology* 81: 2053. [PDF](https://doi.org/10.4081/jlimnol.2022.2053)
 
 Šupina J., Bojková J. & Boukal D.S. 2022: Environmental stressors alter multiple determinants of individual reproductive output in the acid-tolerant mayfly *Leptophlebia vespertina*. *Ecological Entomology* 47: 488–500. [PDF](https://doi.org/10.1111/een.13133)
@@ -179,6 +181,8 @@ In cooperation with the [Biology Centre CAS](https://www.hbu.cas.cz/en/homepage/
 <div class="project-publication">
 
 **Selected Publications**
+
+Petruželová J., Bojková J., Sychra J., de Donnová S., Vrba J., Polášková V., Seifert L., Šorfová V. & Kopáček J. 2023: Accelerated recovery of lake macroinvertebrates in the third decade since the reversal of acidification. *Science of The Total Environment* 892: 164553. [PDF](https://www.sciencedirect.com/science/article/abs/pii/S0048969723031741?via%3Dihub)
 
 Petruželová J., Bojková J., Sychra J., Šorfová V., Polášková V. & Vrba J. 2022: Complex effects of acidification, habitat properties and fish stock on littoral macroinvertebrate assemblages in montane standing waters. *Journal of Limnology* 81: 2053. [PDF](https://doi.org/10.4081/jlimnol.2022.2053)
 
