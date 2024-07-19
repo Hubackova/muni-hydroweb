@@ -48,6 +48,10 @@ Jana Schenková, Jan Helešic, Martina Poláková, Vendula Polášková, Michal 
 
 **Vybrané publikace**
 
+Carreira B.M., Kolář V., Chmelová E., Jan J., Adašević J., Landeira-Dabarca A., Vebrová L., Poláková M., Horká P., Otáhalová Š., Musilová Z., Borovec J., Tropek R. & Boukal D.S. 2023: Bioaccumulation of chemical elements at post-industrial freshwater sites varies predictably between habitats, elements and taxa: A power law approach. *Science of The Total Environment* 901: 65794. [PDF](https://www.sciencedirect.com/science/article/pii/S0048969723044170?via%3Dihub)
+
+Kolar V., Chmelová E., Bílková M., Borovec J., Carreira B., Černý M., Ditrich T., Horka P., Hrivniak Ľ, Hrubý F., Jan J., Landeira-Dabarca A., Skácelová O., Musilová Z., Otahalova S., Poláková M., Polášková V., Sacherová V., Špaček J. & Tropek R. 2023: Muddying the unexplored post-industrial waters: Biodiversity and conservation potential of freshwater habitats in fly ash sedimentation lagoons. *Science of The Total Environment* 900: 165803. [PDF](https://www.sciencedirect.com/science/article/abs/pii/S0048969723044261?via%3Dihub)
+
 Poláková M., Straka M., Polášek M. & Němejcová D. 2022: Unexplored freshwater communities in post-mining ponds: effect of different restoration approaches. *Restoration Ecology* 30: e13679. [PDF](https://doi.org/10.1111/rec.13679)
 
 Chmelová E., Kolar V., Jan J., Carreira B.M., Landeira-Dabarca A., Otáhalová Š., Poláková M., Vebrová L., Borovec J., Boukal D.S. & Tropek R. 2021: Valuable Secondary Habitats or Hazardous Ecological Traps? Environmental Risk Assessment of Minor and Trace Elements in Fly Ash Deposits across the Czech Republic. *Sustainability* 13: 10385. [PDF](https://doi.org/10.3390/su131810385)
@@ -112,6 +116,10 @@ Jana Schenková, Jan Helešic, Martina Poláková, Vendula Polášková, Michal 
 <div class="project-publication">
 
 **Selected Publications**
+
+Carreira B.M., Kolář V., Chmelová E., Jan J., Adašević J., Landeira-Dabarca A., Vebrová L., Poláková M., Horká P., Otáhalová Š., Musilová Z., Borovec J., Tropek R. & Boukal D.S. 2023: Bioaccumulation of chemical elements at post-industrial freshwater sites varies predictably between habitats, elements and taxa: A power law approach. *Science of The Total Environment* 901: 65794. [PDF](https://www.sciencedirect.com/science/article/pii/S0048969723044170?via%3Dihub)
+
+Kolar V., Chmelová E., Bílková M., Borovec J., Carreira B., Černý M., Ditrich T., Horka P., Hrivniak Ľ, Hrubý F., Jan J., Landeira-Dabarca A., Skácelová O., Musilová Z., Otahalova S., Poláková M., Polášková V., Sacherová V., Špaček J. & Tropek R. 2023: Muddying the unexplored post-industrial waters: Biodiversity and conservation potential of freshwater habitats in fly ash sedimentation lagoons. *Science of The Total Environment* 900: 165803. [PDF](https://www.sciencedirect.com/science/article/abs/pii/S0048969723044261?via%3Dihub)
 
 Poláková M., Straka M., Polášek M. & Němejcová D. 2022: Unexplored freshwater communities in post-mining ponds: effect of different restoration approaches. *Restoration Ecology* 30: e13679. [PDF](https://doi.org/10.1111/rec.13679)
 
