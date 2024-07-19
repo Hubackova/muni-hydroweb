@@ -51,6 +51,8 @@ Jan Sychra, Alžběta Devánová, Jindřiška Bojková, Michal Horsák, Dominik 
 
 **Vybrané publikace**
 
+D﻿evánová A., Sychra J., Výravský D., Šorf M., Bojková J. & Horsák M. 2023: Short and dynamic: succession of invertebrate communities over a hydroperiod in ephemeral wetlands on arable land. *Inland Waters* 13: 247–258. [PDF](https://www.tandfonline.com/doi/full/10.1080/20442041.2023.2169022)
+
 Devánová A., Sychra J., Bojková J. & Horsák M. 2022: Adult *Triops cancriformis* (Pancrustacea: Notostraca) mediates the hatching rate of its resting eggs. *Hydrobiologia* 849: 1923–1929. [PDF](https://doi.org/10.1007/s10750-022-04841-9)
 
 Němec R. & Sychra J. 2017: Polní mokřady. *In: Čížková H., Vlasáková L. & Květ J.
@@ -113,6 +115,8 @@ Jan Sychra, Alžběta Devánová, Jindřiška Bojková, Michal Horsák, Dominik 
 <div class="project-publication">
 
 **Selected Publications**
+
+D﻿evánová A., Sychra J., Výravský D., Šorf M., Bojková J. & Horsák M. 2023: Short and dynamic: succession of invertebrate communities over a hydroperiod in ephemeral wetlands on arable land. *Inland Waters* 13: 247–258. [PDF](https://www.tandfonline.com/doi/full/10.1080/20442041.2023.2169022)
 
 Devánová A., Sychra J., Bojková J. & Horsák M. 2022: Adult *Triops cancriformis* (Pancrustacea: Notostraca) mediates the hatching rate of its resting eggs. *Hydrobiologia* 849: 1923–1929. [PDF](https://doi.org/10.1007/s10750-022-04841-9)
 
