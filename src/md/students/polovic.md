@@ -7,7 +7,7 @@ thesis: Vlastní rezistence a resilience u různých biotických skupin jako ná
 thesisEn: Drying resistance and resilience traits of different biotic groups as
   a tool to analyse and predict the influence of shifts in hydrology dynamics on
   metacommunities in intermittent rivers
-supervisor: RNDr. Petr Pařil, Ph.D.
+supervisor: Doc. RNDr. Petr Pařil, Ph.D.
 email: luka.polovic@gmail.com
 phone: 549498559
 room: D32/313
