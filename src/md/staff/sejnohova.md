@@ -21,6 +21,7 @@ Je absolventkou magisterského studia oboru Systematika a ekologie bezcévných 
 * H﻿ospodaření s dešťovými vodami: zaměření na minimalizaci zdravotních rizik
 * S﻿ystém a fylogeneze stélkatých organismů (sinice, řasy, houby): zaměření na sinice vodních květů a jejich omezení (např. Brněnská přehrada) + aktivizace studentů při výuce tohoto zdánlivě hrozného tématu
 * Využití sinic a řas v potravinářství: zaměření na omega nenasycené mastné kyseliny
+* Bakalářské/diplomové práce zaměřené na didaktické zpracování témat výše vyjmenovaných
 
 </div>
 
