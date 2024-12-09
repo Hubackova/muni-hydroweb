@@ -41,6 +41,8 @@ title: mgrBc
 
 [B﻿c. Matěj Kořínek](https://is.muni.cz/auth/osoba/499816)
 
+[B﻿c. Markéta Kozlovská](https://is.muni.cz/auth/osoba/521817)
+
 [B﻿c. Zuzana Kožnárková](https://is.muni.cz/auth/osoba/502395)
 
 [B﻿c. Klára Piknerová](https://is.muni.cz/auth/osoba/500175)
@@ -53,13 +55,23 @@ title: mgrBc
 
 **Bc. Studenti**
 
-[D﻿avid Dominik](https://is.muni.cz/auth/osoba/521500)[](https://is.muni.cz/auth/osoba/520959)
+[A﻿déla Černá](https://is.muni.cz/auth/osoba/533523)
+
+[E﻿ma Košacká](https://is.muni.cz/auth/osoba/533889)[](https://is.muni.cz/auth/osoba/520959)
 
 [V﻿eronika Křížová](https://is.muni.cz/auth/osoba/520959)
 
 [V﻿eronika Mederly](https://is.muni.cz/auth/osoba/521167)
 
+[J﻿an Pilát](https://is.muni.cz/auth/osoba/533746)
+
+[D﻿aniel Ružanski](https://is.muni.cz/auth/osoba/533907)
+
+[R﻿adka Sedláčková](https://is.muni.cz/auth/osoba/534231)
+
 [E﻿rika Skříšovská](https://is.muni.cz/auth/osoba/520972)
+
+[K﻿lára Snitková](https://is.muni.cz/auth/osoba/534179)
 
 - - -
 
@@ -104,6 +116,8 @@ title: mgrBc
 
 [B﻿c. Matěj Kořínek](https://is.muni.cz/auth/osoba/499816)
 
+[B﻿c. Markéta Kozlovská](https://is.muni.cz/auth/osoba/521817)
+
 [B﻿c. Zuzana Kožnárková](https://is.muni.cz/auth/osoba/502395)
 
 [B﻿c. Klára Piknerová](https://is.muni.cz/auth/osoba/500175)
@@ -116,13 +130,23 @@ title: mgrBc
 
 **Bachelor Students**
 
-[D﻿avid Dominik](https://is.muni.cz/auth/osoba/521500)
+[A﻿déla Černá](https://is.muni.cz/auth/osoba/533523)
+
+[E﻿ma Košacká](https://is.muni.cz/auth/osoba/533889)
 
 [V﻿eronika Křížová](https://is.muni.cz/auth/osoba/520959)
 
 [V﻿eronika Mederly](https://is.muni.cz/auth/osoba/521167)
 
+[J﻿an Pilát](https://is.muni.cz/auth/osoba/533746)
+
+[D﻿aniel Ružanski](https://is.muni.cz/auth/osoba/533907)
+
+[R﻿adka Sedláčková](https://is.muni.cz/auth/osoba/534231)
+
 [E﻿rika Skříšovská](https://is.muni.cz/auth/osoba/520972)
+
+[K﻿lára Snitková](https://is.muni.cz/auth/osoba/534179)
 
 - - -
 
